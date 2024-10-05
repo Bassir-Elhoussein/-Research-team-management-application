@@ -1,0 +1,2153 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Designer Pack\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-17 13:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:129
+msgid ""
+"* Kindly copy the above shortcode and paste it inside any page or post or "
+"inside any section."
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:70
+msgid "-- Choose Shortcode --"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:98
+#: includes/widgets/class-bdp-latest-post.php:96
+msgid "All"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:45
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:175
+#: includes/admin/shortcode-support/shortcode-fields.php:620
+#: includes/admin/shortcode-support/shortcode-fields.php:1136
+#: includes/admin/shortcode-support/shortcode-fields.php:1553
+#: includes/admin/shortcode-support/shortcode-fields.php:1932
+#: includes/admin/shortcode-support/shortcode-fields.php:2322
+#: includes/admin/shortcode-support/shortcode-fields.php:2868
+msgid "Ascending"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:552
+#: includes/admin/shortcode-support/shortcode-fields.php:1069
+#: includes/admin/shortcode-support/shortcode-fields.php:2813
+msgid "Autoplay"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:562
+#: includes/admin/shortcode-support/shortcode-fields.php:1079
+msgid "Autoplay Interval"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:806
+#: includes/admin/shortcode-support/shortcode-fields.php:1321
+msgid "Autoplay Pause on Hover"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:812
+#: includes/admin/shortcode-support/shortcode-fields.php:1327
+msgid "Autoplay pause on hover."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2819
+msgid "Autoplay ticker."
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post.php:27
+msgid "BDP - Latest Post Widget"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:28
+msgid "BDP - Post Scrolling Widget"
+msgstr ""
+
+#. Name of the plugin
+#: blog-designer-pack.php:141 includes/admin/class-bdp-admin.php:44
+#: includes/admin/class-bdp-admin.php:44
+msgid "Blog Designer Pack"
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:33
+msgid "Blog Designer Pack  - Shortcode Builder"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:84
+msgid "Blog Designer Pack Pro"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2794
+msgid "Bold"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2796
+msgid "Bold Italic"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:93
+#: includes/widgets/class-bdp-latest-post.php:91
+msgid "Category"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:61
+msgid "Category Grid Shortcode"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:62
+msgid "Category Slider Shortcode"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:55
+#: includes/admin/all-shortcode-page.php:56
+#: includes/admin/all-shortcode-page.php:57
+#: includes/admin/all-shortcode-page.php:58
+#: includes/admin/all-shortcode-page.php:61
+#: includes/admin/all-shortcode-page.php:62
+msgid "Check Demo"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:30
+#: includes/admin/shortcode-support/shortcode-fields.php:416
+#: includes/admin/shortcode-support/shortcode-fields.php:919
+#: includes/admin/shortcode-support/shortcode-fields.php:1422
+#: includes/admin/shortcode-support/shortcode-fields.php:1800
+#: includes/admin/shortcode-support/shortcode-fields.php:2170
+msgid "Choose design."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2191
+msgid "Choose display effect."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:43
+#: includes/admin/shortcode-support/shortcode-fields.php:2184
+msgid "Choose number of column to be displayed."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:357
+#: includes/admin/shortcode-support/shortcode-fields.php:1741
+#: includes/admin/shortcode-support/shortcode-fields.php:2111
+#: includes/admin/shortcode-support/shortcode-fields.php:2513
+#: includes/admin/shortcode-support/shortcode-fields.php:2703
+msgid "Choose pagination type."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:229
+#: includes/admin/shortcode-support/shortcode-fields.php:658
+#: includes/admin/shortcode-support/shortcode-fields.php:1173
+#: includes/admin/shortcode-support/shortcode-fields.php:1606
+#: includes/admin/shortcode-support/shortcode-fields.php:1983
+#: includes/admin/shortcode-support/shortcode-fields.php:2385
+#: includes/admin/shortcode-support/shortcode-fields.php:2575
+#: includes/admin/shortcode-support/shortcode-fields.php:2905
+msgid "Choose post link behaviour."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:136
+#: includes/admin/shortcode-support/shortcode-fields.php:509
+#: includes/admin/shortcode-support/shortcode-fields.php:1013
+#: includes/admin/shortcode-support/shortcode-fields.php:1515
+#: includes/admin/shortcode-support/shortcode-fields.php:1893
+#: includes/admin/shortcode-support/shortcode-fields.php:2284
+msgid "Choose WordPress registered image size. e.g"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:243
+#: includes/admin/shortcode-support/shortcode-fields.php:672
+#: includes/admin/shortcode-support/shortcode-fields.php:1187
+#: includes/admin/shortcode-support/shortcode-fields.php:1620
+#: includes/admin/shortcode-support/shortcode-fields.php:1997
+#: includes/admin/shortcode-support/shortcode-fields.php:2399
+#: includes/admin/shortcode-support/shortcode-fields.php:2589
+msgid "Choose your created style from style manager."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:107
+#: includes/admin/shortcode-support/shortcode-fields.php:480
+#: includes/admin/shortcode-support/shortcode-fields.php:984
+#: includes/admin/shortcode-support/shortcode-fields.php:1486
+#: includes/admin/shortcode-support/shortcode-fields.php:1864
+#: includes/admin/shortcode-support/shortcode-fields.php:2255
+msgid "Content Word Limit"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:151
+#: includes/widgets/class-bdp-latest-post.php:145
+msgid "Content words limit"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:153
+#: includes/widgets/class-bdp-latest-post.php:147
+msgid "Content words limit will only work if Display Short Content checked"
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:128
+msgid "Copy or Paste Shortcode"
+msgstr ""
+
+#: includes/admin/class-bdp-admin.php:151
+#, php-format
+msgid ""
+"Create Category Grid or Category Slider with Blog Designer Pack Pro. <a "
+"href=\"%s\">Take a look</a>"
+msgstr ""
+
+#: includes/admin/class-bdp-admin.php:152
+#, php-format
+msgid ""
+"Create Post Timeline layout with Blog Designer Pack Pro. <a href=\"%s\">"
+"Upgrade now</a>"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:248
+#: includes/admin/shortcode-support/shortcode-fields.php:677
+#: includes/admin/shortcode-support/shortcode-fields.php:1192
+#: includes/admin/shortcode-support/shortcode-fields.php:1632
+#: includes/admin/shortcode-support/shortcode-fields.php:2002
+#: includes/admin/shortcode-support/shortcode-fields.php:2404
+#: includes/admin/shortcode-support/shortcode-fields.php:2594
+#: includes/admin/shortcode-support/shortcode-fields.php:2909
+msgid "CSS Class"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:174
+#: includes/admin/shortcode-support/shortcode-fields.php:619
+#: includes/admin/shortcode-support/shortcode-fields.php:1135
+#: includes/admin/shortcode-support/shortcode-fields.php:1552
+#: includes/admin/shortcode-support/shortcode-fields.php:1931
+#: includes/admin/shortcode-support/shortcode-fields.php:2321
+#: includes/admin/shortcode-support/shortcode-fields.php:2867
+msgid "Descending"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:27
+#: includes/admin/shortcode-support/shortcode-fields.php:413
+#: includes/admin/shortcode-support/shortcode-fields.php:916
+#: includes/admin/shortcode-support/shortcode-fields.php:1419
+#: includes/admin/shortcode-support/shortcode-fields.php:1797
+#: includes/admin/shortcode-support/shortcode-fields.php:2167
+msgid "Design"
+msgstr ""
+
+#: includes/bdp-functions.php:203 includes/bdp-functions.php:217
+#: includes/bdp-functions.php:231 includes/bdp-functions.php:245
+#: includes/bdp-functions.php:259 includes/bdp-functions.php:272
+msgid "Design 1"
+msgstr ""
+
+#: includes/bdp-functions.php:204 includes/bdp-functions.php:218
+#: includes/bdp-functions.php:232 includes/bdp-functions.php:246
+#: includes/bdp-functions.php:273
+msgid "Design 2"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Display blog posts on your website with 6 blog layouts (2 designs for each "
+"blog layout) plus 1 Ticker and 2 Widgets"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:303
+#: includes/admin/shortcode-support/shortcode-fields.php:732
+#: includes/admin/shortcode-support/shortcode-fields.php:1247
+#: includes/admin/shortcode-support/shortcode-fields.php:1687
+#: includes/admin/shortcode-support/shortcode-fields.php:2057
+#: includes/admin/shortcode-support/shortcode-fields.php:2459
+#: includes/admin/shortcode-support/shortcode-fields.php:2649
+#: includes/admin/shortcode-support/shortcode-fields.php:2969
+msgid "Display Child Category"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2188
+msgid "Display Effect"
+msgstr ""
+
+#: includes/admin/class-bdp-admin.php:153
+#, php-format
+msgid ""
+"Display Featured Post or Trending Post with Blog Designer Pack Pro. <a "
+"href=\"%s\">Upgrade now</a>"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:27
+msgid "Display Latest WP Post in a sidebar with vertical slider."
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post.php:26
+msgid "Display Latest WP Post in a sidebar."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:200
+#: includes/admin/shortcode-support/shortcode-fields.php:1577
+#: includes/admin/shortcode-support/shortcode-fields.php:1955
+#: includes/admin/shortcode-support/shortcode-fields.php:2346
+msgid "Display Pagination."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:63
+#: includes/admin/shortcode-support/shortcode-fields.php:436
+#: includes/admin/shortcode-support/shortcode-fields.php:939
+#: includes/admin/shortcode-support/shortcode-fields.php:1442
+#: includes/admin/shortcode-support/shortcode-fields.php:1820
+#: includes/admin/shortcode-support/shortcode-fields.php:2211
+msgid "Display post author."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:93
+#: includes/admin/shortcode-support/shortcode-fields.php:466
+#: includes/admin/shortcode-support/shortcode-fields.php:969
+#: includes/admin/shortcode-support/shortcode-fields.php:1472
+#: includes/admin/shortcode-support/shortcode-fields.php:1850
+#: includes/admin/shortcode-support/shortcode-fields.php:2241
+msgid "Display post category."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:83
+#: includes/admin/shortcode-support/shortcode-fields.php:456
+#: includes/admin/shortcode-support/shortcode-fields.php:959
+#: includes/admin/shortcode-support/shortcode-fields.php:1462
+#: includes/admin/shortcode-support/shortcode-fields.php:1840
+#: includes/admin/shortcode-support/shortcode-fields.php:2231
+msgid "Display post comment count."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:103
+#: includes/admin/shortcode-support/shortcode-fields.php:476
+#: includes/admin/shortcode-support/shortcode-fields.php:980
+#: includes/admin/shortcode-support/shortcode-fields.php:1482
+#: includes/admin/shortcode-support/shortcode-fields.php:1860
+#: includes/admin/shortcode-support/shortcode-fields.php:2251
+msgid "Display post content."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:53
+#: includes/admin/shortcode-support/shortcode-fields.php:426
+#: includes/admin/shortcode-support/shortcode-fields.php:929
+#: includes/admin/shortcode-support/shortcode-fields.php:1432
+#: includes/admin/shortcode-support/shortcode-fields.php:1810
+#: includes/admin/shortcode-support/shortcode-fields.php:2201
+msgid "Display post date."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:73
+#: includes/admin/shortcode-support/shortcode-fields.php:446
+#: includes/admin/shortcode-support/shortcode-fields.php:949
+#: includes/admin/shortcode-support/shortcode-fields.php:1452
+#: includes/admin/shortcode-support/shortcode-fields.php:1830
+#: includes/admin/shortcode-support/shortcode-fields.php:2221
+msgid "Display post tags."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:859
+msgid "Display slider thumbnail."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:181
+#: includes/admin/shortcode-support/shortcode-fields.php:626
+#: includes/admin/shortcode-support/shortcode-fields.php:1142
+#: includes/admin/shortcode-support/shortcode-fields.php:1559
+#: includes/admin/shortcode-support/shortcode-fields.php:1938
+#: includes/admin/shortcode-support/shortcode-fields.php:2328
+#: includes/admin/shortcode-support/shortcode-fields.php:2875
+msgid "Display Specific Category"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:320
+#: includes/admin/shortcode-support/shortcode-fields.php:749
+#: includes/admin/shortcode-support/shortcode-fields.php:1264
+#: includes/admin/shortcode-support/shortcode-fields.php:1704
+#: includes/admin/shortcode-support/shortcode-fields.php:2074
+#: includes/admin/shortcode-support/shortcode-fields.php:2476
+#: includes/admin/shortcode-support/shortcode-fields.php:2666
+msgid "Display Specific Post"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2986
+msgid "Display Specific Posts"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:298
+#: includes/admin/shortcode-support/shortcode-fields.php:727
+#: includes/admin/shortcode-support/shortcode-fields.php:1242
+#: includes/admin/shortcode-support/shortcode-fields.php:1682
+#: includes/admin/shortcode-support/shortcode-fields.php:2052
+#: includes/admin/shortcode-support/shortcode-fields.php:2454
+#: includes/admin/shortcode-support/shortcode-fields.php:2644
+#: includes/admin/shortcode-support/shortcode-fields.php:2950
+msgid "Display sticky posts."
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:159
+msgid "Display Thumbnail in left side"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:280
+#: includes/admin/shortcode-support/shortcode-fields.php:709
+#: includes/admin/shortcode-support/shortcode-fields.php:1224
+#: includes/admin/shortcode-support/shortcode-fields.php:1664
+#: includes/admin/shortcode-support/shortcode-fields.php:2034
+#: includes/admin/shortcode-support/shortcode-fields.php:2436
+#: includes/admin/shortcode-support/shortcode-fields.php:2626
+#: includes/admin/shortcode-support/shortcode-fields.php:2932
+msgid "Display Type"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:390
+#: includes/admin/shortcode-support/shortcode-fields.php:780
+#: includes/admin/shortcode-support/shortcode-fields.php:1295
+#: includes/admin/shortcode-support/shortcode-fields.php:1774
+#: includes/admin/shortcode-support/shortcode-fields.php:2144
+#: includes/admin/shortcode-support/shortcode-fields.php:2546
+#: includes/admin/shortcode-support/shortcode-fields.php:2736
+#: includes/admin/shortcode-support/shortcode-fields.php:3003
+msgid ""
+"e.g if you pass 5 then it will skip first five post. Note: Do not use limit=-"
+"1 and pagination=true with this."
+msgstr ""
+
+#: includes/bdp-functions.php:287
+msgid "Effect 1"
+msgstr ""
+
+#: includes/bdp-functions.php:288
+msgid "Effect 2"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:827
+#: includes/admin/shortcode-support/shortcode-fields.php:1353
+msgid "Enable slider auto height."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:558
+#: includes/admin/shortcode-support/shortcode-fields.php:1075
+msgid "Enable slider autoplay."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:1342
+msgid "Enable slider center mode."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:893
+#: includes/admin/shortcode-support/shortcode-fields.php:1396
+msgid "Enable slider lazyload behaviour."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:527
+#: includes/admin/shortcode-support/shortcode-fields.php:1044
+msgid "Enable slider loop."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:236
+#: includes/admin/shortcode-support/shortcode-fields.php:665
+#: includes/admin/shortcode-support/shortcode-fields.php:1180
+#: includes/admin/shortcode-support/shortcode-fields.php:1613
+#: includes/admin/shortcode-support/shortcode-fields.php:1990
+#: includes/admin/shortcode-support/shortcode-fields.php:2392
+#: includes/admin/shortcode-support/shortcode-fields.php:2582
+msgid "Enable social sharing."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:882
+#: includes/admin/shortcode-support/shortcode-fields.php:1385
+msgid "Enable url hash listner of slider."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:251
+#: includes/admin/shortcode-support/shortcode-fields.php:680
+#: includes/admin/shortcode-support/shortcode-fields.php:1195
+#: includes/admin/shortcode-support/shortcode-fields.php:1635
+#: includes/admin/shortcode-support/shortcode-fields.php:2005
+#: includes/admin/shortcode-support/shortcode-fields.php:2407
+#: includes/admin/shortcode-support/shortcode-fields.php:2597
+#: includes/admin/shortcode-support/shortcode-fields.php:2912
+msgid "Enter an extra CSS class for design customization."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:337
+#: includes/admin/shortcode-support/shortcode-fields.php:766
+#: includes/admin/shortcode-support/shortcode-fields.php:1281
+#: includes/admin/shortcode-support/shortcode-fields.php:1721
+#: includes/admin/shortcode-support/shortcode-fields.php:2091
+#: includes/admin/shortcode-support/shortcode-fields.php:2493
+#: includes/admin/shortcode-support/shortcode-fields.php:2683
+#: includes/admin/shortcode-support/shortcode-fields.php:2957
+msgid "Enter author id to display posts of particular author."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:344
+#: includes/admin/shortcode-support/shortcode-fields.php:773
+#: includes/admin/shortcode-support/shortcode-fields.php:1288
+#: includes/admin/shortcode-support/shortcode-fields.php:1728
+#: includes/admin/shortcode-support/shortcode-fields.php:2098
+#: includes/admin/shortcode-support/shortcode-fields.php:2500
+#: includes/admin/shortcode-support/shortcode-fields.php:2690
+#: includes/admin/shortcode-support/shortcode-fields.php:2964
+msgid ""
+"Enter author id to hide post of particular author. Works only if `Include "
+"Author` field is empty."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:565
+#: includes/admin/shortcode-support/shortcode-fields.php:1082
+msgid "Enter autoplay interval."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:184
+#: includes/admin/shortcode-support/shortcode-fields.php:629
+#: includes/admin/shortcode-support/shortcode-fields.php:1145
+#: includes/admin/shortcode-support/shortcode-fields.php:1562
+#: includes/admin/shortcode-support/shortcode-fields.php:1941
+#: includes/admin/shortcode-support/shortcode-fields.php:2331
+#: includes/admin/shortcode-support/shortcode-fields.php:2878
+msgid ""
+"Enter category id OR slug to display categories wise. To find the category "
+"id please refer <a href=\"https://docs.infornweb.com/assets/images/post-"
+"category-id.png\" target=\"_blank\">screenshot</a>."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:110
+#: includes/admin/shortcode-support/shortcode-fields.php:483
+#: includes/admin/shortcode-support/shortcode-fields.php:987
+#: includes/admin/shortcode-support/shortcode-fields.php:1489
+#: includes/admin/shortcode-support/shortcode-fields.php:1867
+#: includes/admin/shortcode-support/shortcode-fields.php:2258
+msgid "Enter content word limit."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:330
+#: includes/admin/shortcode-support/shortcode-fields.php:759
+#: includes/admin/shortcode-support/shortcode-fields.php:1274
+#: includes/admin/shortcode-support/shortcode-fields.php:1714
+#: includes/admin/shortcode-support/shortcode-fields.php:2084
+#: includes/admin/shortcode-support/shortcode-fields.php:2486
+#: includes/admin/shortcode-support/shortcode-fields.php:2676
+#: includes/admin/shortcode-support/shortcode-fields.php:2996
+msgid "Enter id of the post which you do not want to display."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:323
+#: includes/admin/shortcode-support/shortcode-fields.php:752
+#: includes/admin/shortcode-support/shortcode-fields.php:1267
+#: includes/admin/shortcode-support/shortcode-fields.php:1707
+#: includes/admin/shortcode-support/shortcode-fields.php:2077
+#: includes/admin/shortcode-support/shortcode-fields.php:2479
+#: includes/admin/shortcode-support/shortcode-fields.php:2669
+#: includes/admin/shortcode-support/shortcode-fields.php:2989
+msgid "Enter id of the post which you want to display."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2353
+msgid "Enter load more text."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:1034
+msgid "Enter number of slides to scroll at a time."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:1027
+msgid "Enter number of slides to show."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:867
+msgid "Enter number of thumbnails. The ideal value should be 7."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2846
+msgid "Enter number to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:1627
+msgid "Enter post image or box height. Leave empty for default."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:215
+#: includes/admin/shortcode-support/shortcode-fields.php:644
+#: includes/admin/shortcode-support/shortcode-fields.php:1159
+#: includes/admin/shortcode-support/shortcode-fields.php:1592
+#: includes/admin/shortcode-support/shortcode-fields.php:1969
+#: includes/admin/shortcode-support/shortcode-fields.php:2371
+#: includes/admin/shortcode-support/shortcode-fields.php:2561
+msgid "Enter read more text."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:260
+#: includes/admin/shortcode-support/shortcode-fields.php:689
+#: includes/admin/shortcode-support/shortcode-fields.php:1204
+#: includes/admin/shortcode-support/shortcode-fields.php:1644
+#: includes/admin/shortcode-support/shortcode-fields.php:2014
+#: includes/admin/shortcode-support/shortcode-fields.php:2416
+#: includes/admin/shortcode-support/shortcode-fields.php:2606
+#: includes/admin/shortcode-support/shortcode-fields.php:2920
+msgid ""
+"Enter registered post type name. You can find it on plugin setting page."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:276
+#: includes/admin/shortcode-support/shortcode-fields.php:705
+#: includes/admin/shortcode-support/shortcode-fields.php:1220
+#: includes/admin/shortcode-support/shortcode-fields.php:1660
+#: includes/admin/shortcode-support/shortcode-fields.php:2030
+#: includes/admin/shortcode-support/shortcode-fields.php:2432
+#: includes/admin/shortcode-support/shortcode-fields.php:2622
+msgid ""
+"Enter registered tag taxonomy name. You can find it on plugin setting page. "
+"This is just to display post tags."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:268
+#: includes/admin/shortcode-support/shortcode-fields.php:697
+#: includes/admin/shortcode-support/shortcode-fields.php:1212
+#: includes/admin/shortcode-support/shortcode-fields.php:1652
+#: includes/admin/shortcode-support/shortcode-fields.php:2022
+#: includes/admin/shortcode-support/shortcode-fields.php:2424
+#: includes/admin/shortcode-support/shortcode-fields.php:2614
+#: includes/admin/shortcode-support/shortcode-fields.php:2928
+msgid "Enter registered taxonomy name. You can find it on plugin setting page."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:834
+#: includes/admin/shortcode-support/shortcode-fields.php:1360
+msgid "Enter slide number to start from that."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:577
+#: includes/admin/shortcode-support/shortcode-fields.php:1093
+msgid "Enter slider speed."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:848
+#: includes/admin/shortcode-support/shortcode-fields.php:1374
+msgid ""
+"Enter slider stage padding. A partial slide will be visible at both the end."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:153
+#: includes/admin/shortcode-support/shortcode-fields.php:598
+#: includes/admin/shortcode-support/shortcode-fields.php:1114
+#: includes/admin/shortcode-support/shortcode-fields.php:1531
+#: includes/admin/shortcode-support/shortcode-fields.php:1910
+#: includes/admin/shortcode-support/shortcode-fields.php:2300
+msgid "Enter total number of post to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:341
+#: includes/admin/shortcode-support/shortcode-fields.php:770
+#: includes/admin/shortcode-support/shortcode-fields.php:1285
+#: includes/admin/shortcode-support/shortcode-fields.php:1725
+#: includes/admin/shortcode-support/shortcode-fields.php:2095
+#: includes/admin/shortcode-support/shortcode-fields.php:2497
+#: includes/admin/shortcode-support/shortcode-fields.php:2687
+#: includes/admin/shortcode-support/shortcode-fields.php:2961
+msgid "Exclude author"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:313
+#: includes/admin/shortcode-support/shortcode-fields.php:742
+#: includes/admin/shortcode-support/shortcode-fields.php:1257
+#: includes/admin/shortcode-support/shortcode-fields.php:1697
+#: includes/admin/shortcode-support/shortcode-fields.php:2067
+#: includes/admin/shortcode-support/shortcode-fields.php:2469
+#: includes/admin/shortcode-support/shortcode-fields.php:2659
+#: includes/admin/shortcode-support/shortcode-fields.php:2979
+msgid "Exclude Category"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:390
+#: includes/admin/shortcode-support/shortcode-fields.php:780
+#: includes/admin/shortcode-support/shortcode-fields.php:1295
+#: includes/admin/shortcode-support/shortcode-fields.php:1774
+#: includes/admin/shortcode-support/shortcode-fields.php:2144
+#: includes/admin/shortcode-support/shortcode-fields.php:2546
+#: includes/admin/shortcode-support/shortcode-fields.php:2736
+#: includes/admin/shortcode-support/shortcode-fields.php:3003
+msgid "Exclude number of posts from starting."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:327
+#: includes/admin/shortcode-support/shortcode-fields.php:756
+#: includes/admin/shortcode-support/shortcode-fields.php:1271
+#: includes/admin/shortcode-support/shortcode-fields.php:1711
+#: includes/admin/shortcode-support/shortcode-fields.php:2081
+#: includes/admin/shortcode-support/shortcode-fields.php:2483
+#: includes/admin/shortcode-support/shortcode-fields.php:2673
+#: includes/admin/shortcode-support/shortcode-fields.php:2993
+msgid "Exclude Post"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:316
+#: includes/admin/shortcode-support/shortcode-fields.php:745
+#: includes/admin/shortcode-support/shortcode-fields.php:1260
+#: includes/admin/shortcode-support/shortcode-fields.php:1700
+#: includes/admin/shortcode-support/shortcode-fields.php:2070
+#: includes/admin/shortcode-support/shortcode-fields.php:2472
+#: includes/admin/shortcode-support/shortcode-fields.php:2662
+#: includes/admin/shortcode-support/shortcode-fields.php:2982
+msgid "Exclude post category. Works only if `Category` field is empty."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2807
+msgid "Fade Ticker Effect"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:51
+#: includes/admin/shortcode-support/shortcode-fields.php:61
+#: includes/admin/shortcode-support/shortcode-fields.php:71
+#: includes/admin/shortcode-support/shortcode-fields.php:81
+#: includes/admin/shortcode-support/shortcode-fields.php:91
+#: includes/admin/shortcode-support/shortcode-fields.php:101
+#: includes/admin/shortcode-support/shortcode-fields.php:122
+#: includes/admin/shortcode-support/shortcode-fields.php:194
+#: includes/admin/shortcode-support/shortcode-fields.php:295
+#: includes/admin/shortcode-support/shortcode-fields.php:307
+#: includes/admin/shortcode-support/shortcode-fields.php:424
+#: includes/admin/shortcode-support/shortcode-fields.php:434
+#: includes/admin/shortcode-support/shortcode-fields.php:444
+#: includes/admin/shortcode-support/shortcode-fields.php:454
+#: includes/admin/shortcode-support/shortcode-fields.php:464
+#: includes/admin/shortcode-support/shortcode-fields.php:474
+#: includes/admin/shortcode-support/shortcode-fields.php:495
+#: includes/admin/shortcode-support/shortcode-fields.php:525
+#: includes/admin/shortcode-support/shortcode-fields.php:535
+#: includes/admin/shortcode-support/shortcode-fields.php:546
+#: includes/admin/shortcode-support/shortcode-fields.php:556
+#: includes/admin/shortcode-support/shortcode-fields.php:724
+#: includes/admin/shortcode-support/shortcode-fields.php:736
+#: includes/admin/shortcode-support/shortcode-fields.php:810
+#: includes/admin/shortcode-support/shortcode-fields.php:824
+#: includes/admin/shortcode-support/shortcode-fields.php:856
+#: includes/admin/shortcode-support/shortcode-fields.php:879
+#: includes/admin/shortcode-support/shortcode-fields.php:890
+#: includes/admin/shortcode-support/shortcode-fields.php:927
+#: includes/admin/shortcode-support/shortcode-fields.php:937
+#: includes/admin/shortcode-support/shortcode-fields.php:947
+#: includes/admin/shortcode-support/shortcode-fields.php:957
+#: includes/admin/shortcode-support/shortcode-fields.php:967
+#: includes/admin/shortcode-support/shortcode-fields.php:977
+#: includes/admin/shortcode-support/shortcode-fields.php:999
+#: includes/admin/shortcode-support/shortcode-fields.php:1042
+#: includes/admin/shortcode-support/shortcode-fields.php:1052
+#: includes/admin/shortcode-support/shortcode-fields.php:1063
+#: includes/admin/shortcode-support/shortcode-fields.php:1073
+#: includes/admin/shortcode-support/shortcode-fields.php:1239
+#: includes/admin/shortcode-support/shortcode-fields.php:1251
+#: includes/admin/shortcode-support/shortcode-fields.php:1325
+#: includes/admin/shortcode-support/shortcode-fields.php:1339
+#: includes/admin/shortcode-support/shortcode-fields.php:1350
+#: includes/admin/shortcode-support/shortcode-fields.php:1382
+#: includes/admin/shortcode-support/shortcode-fields.php:1393
+#: includes/admin/shortcode-support/shortcode-fields.php:1430
+#: includes/admin/shortcode-support/shortcode-fields.php:1440
+#: includes/admin/shortcode-support/shortcode-fields.php:1450
+#: includes/admin/shortcode-support/shortcode-fields.php:1460
+#: includes/admin/shortcode-support/shortcode-fields.php:1470
+#: includes/admin/shortcode-support/shortcode-fields.php:1480
+#: includes/admin/shortcode-support/shortcode-fields.php:1501
+#: includes/admin/shortcode-support/shortcode-fields.php:1571
+#: includes/admin/shortcode-support/shortcode-fields.php:1679
+#: includes/admin/shortcode-support/shortcode-fields.php:1691
+#: includes/admin/shortcode-support/shortcode-fields.php:1808
+#: includes/admin/shortcode-support/shortcode-fields.php:1818
+#: includes/admin/shortcode-support/shortcode-fields.php:1828
+#: includes/admin/shortcode-support/shortcode-fields.php:1838
+#: includes/admin/shortcode-support/shortcode-fields.php:1848
+#: includes/admin/shortcode-support/shortcode-fields.php:1858
+#: includes/admin/shortcode-support/shortcode-fields.php:1879
+#: includes/admin/shortcode-support/shortcode-fields.php:1949
+#: includes/admin/shortcode-support/shortcode-fields.php:2049
+#: includes/admin/shortcode-support/shortcode-fields.php:2061
+#: includes/admin/shortcode-support/shortcode-fields.php:2199
+#: includes/admin/shortcode-support/shortcode-fields.php:2209
+#: includes/admin/shortcode-support/shortcode-fields.php:2219
+#: includes/admin/shortcode-support/shortcode-fields.php:2229
+#: includes/admin/shortcode-support/shortcode-fields.php:2239
+#: includes/admin/shortcode-support/shortcode-fields.php:2249
+#: includes/admin/shortcode-support/shortcode-fields.php:2270
+#: includes/admin/shortcode-support/shortcode-fields.php:2339
+#: includes/admin/shortcode-support/shortcode-fields.php:2451
+#: includes/admin/shortcode-support/shortcode-fields.php:2463
+#: includes/admin/shortcode-support/shortcode-fields.php:2641
+#: includes/admin/shortcode-support/shortcode-fields.php:2653
+#: includes/admin/shortcode-support/shortcode-fields.php:2817
+#: includes/admin/shortcode-support/shortcode-fields.php:2893
+#: includes/admin/shortcode-support/shortcode-fields.php:2947
+#: includes/admin/shortcode-support/shortcode-fields.php:2973
+msgid "False"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:284
+#: includes/admin/shortcode-support/shortcode-fields.php:713
+#: includes/admin/shortcode-support/shortcode-fields.php:1228
+#: includes/admin/shortcode-support/shortcode-fields.php:1668
+#: includes/admin/shortcode-support/shortcode-fields.php:2038
+#: includes/admin/shortcode-support/shortcode-fields.php:2440
+#: includes/admin/shortcode-support/shortcode-fields.php:2630
+#: includes/admin/shortcode-support/shortcode-fields.php:2936
+msgid "Featured"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:57
+msgid "Featured Post Functionality"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2782
+msgid "Font Color"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2790
+msgid "Font Style"
+msgstr ""
+
+#: includes/admin/getting-started.php:225
+msgid "Free and Premium Layouts"
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:124
+msgid "Full Preview Mode"
+msgstr ""
+
+#: includes/bdp-functions.php:304
+#: includes/admin/shortcode-generator/shortcode-generator.php:76
+msgid "General"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:23
+#: includes/admin/shortcode-support/shortcode-fields.php:409
+#: includes/admin/shortcode-support/shortcode-fields.php:912
+#: includes/admin/shortcode-support/shortcode-fields.php:1415
+#: includes/admin/shortcode-support/shortcode-fields.php:1793
+#: includes/admin/shortcode-support/shortcode-fields.php:2163
+#: includes/admin/shortcode-support/shortcode-fields.php:2757
+msgid "General Parameters"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:34
+#: includes/admin/shortcode-support/shortcode-fields.php:2174
+msgid "Grid"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:37
+#: includes/admin/shortcode-support/shortcode-fields.php:2177
+msgid "Grid 1"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:38
+#: includes/admin/shortcode-support/shortcode-fields.php:2178
+msgid "Grid 2"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:39
+#: includes/admin/shortcode-support/shortcode-fields.php:2179
+msgid "Grid 3"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:40
+#: includes/admin/shortcode-support/shortcode-fields.php:2180
+msgid "Grid 4"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:41
+#: includes/admin/shortcode-support/shortcode-fields.php:2181
+msgid "Grid 5"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:170
+#: includes/admin/shortcode-support/shortcode-fields.php:1624
+msgid "Height"
+msgstr ""
+
+#: includes/admin/class-bdp-admin.php:148
+#, php-format
+msgid ""
+"Hey! Blog Designer Pack Pro supports Custom Post type and Custom taxonomy. "
+"<a href=\"%s\">Upgrade now</a> to create a any layout for Custom Post type."
+msgstr ""
+
+#: includes/admin/class-bdp-admin.php:147
+#, php-format
+msgid ""
+"Hey! Do you know Blog Designer Pack Pro have 90+ premium layouts? <a "
+"href=\"%s\">Click here</a> to take a look."
+msgstr ""
+
+#: includes/admin/class-bdp-admin.php:149
+#, php-format
+msgid ""
+"Hey! Do you want more layouts for Post Slider and Post Carousel? <a "
+"href=\"%s\">Upgrade now</a>"
+msgstr ""
+
+#: includes/admin/class-bdp-admin.php:146
+#, php-format
+msgid ""
+"Hey! It looks like that you are using Blog Designer Pack for a while. Would "
+"you like to a look at the Pro version? <a href=\"%s\">Click here</a> for the "
+"amazing features."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2806
+msgid "Horizontal Ticker Effect"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://premium.infornweb.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://premium.infornweb.com/news-blog-designer-pack-pro/"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:309
+#: includes/admin/shortcode-support/shortcode-fields.php:738
+#: includes/admin/shortcode-support/shortcode-fields.php:1253
+#: includes/admin/shortcode-support/shortcode-fields.php:1693
+#: includes/admin/shortcode-support/shortcode-fields.php:2063
+#: includes/admin/shortcode-support/shortcode-fields.php:2465
+#: includes/admin/shortcode-support/shortcode-fields.php:2655
+#: includes/admin/shortcode-support/shortcode-fields.php:2975
+msgid ""
+"If you are using parent category then whether to display child category or "
+"not."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:132
+#: includes/admin/shortcode-support/shortcode-fields.php:505
+#: includes/admin/shortcode-support/shortcode-fields.php:1009
+#: includes/admin/shortcode-support/shortcode-fields.php:1511
+#: includes/admin/shortcode-support/shortcode-fields.php:1889
+#: includes/admin/shortcode-support/shortcode-fields.php:2280
+msgid "Image Size"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:334
+#: includes/admin/shortcode-support/shortcode-fields.php:763
+#: includes/admin/shortcode-support/shortcode-fields.php:1278
+#: includes/admin/shortcode-support/shortcode-fields.php:1718
+#: includes/admin/shortcode-support/shortcode-fields.php:2088
+#: includes/admin/shortcode-support/shortcode-fields.php:2490
+#: includes/admin/shortcode-support/shortcode-fields.php:2680
+#: includes/admin/shortcode-support/shortcode-fields.php:2954
+msgid "Include author"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:355
+#: includes/admin/shortcode-support/shortcode-fields.php:1739
+#: includes/admin/shortcode-support/shortcode-fields.php:2109
+#: includes/admin/shortcode-support/shortcode-fields.php:2511
+#: includes/admin/shortcode-support/shortcode-fields.php:2701
+msgid "Infinite Scroll"
+msgstr ""
+
+#. Author of the plugin
+msgid "InfornWeb"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2795
+msgid "Italic"
+msgstr ""
+
+#: includes/shortcodes/bdp-post-ticker.php:18
+#: includes/admin/shortcode-support/shortcode-fields.php:2763
+msgid "Latest Post"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:199
+#: includes/widgets/class-bdp-latest-post.php:32
+#: includes/widgets/class-bdp-latest-post.php:169
+msgid "Latest Posts"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:33
+msgid "Latest Posts Scrolling"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:886
+#: includes/admin/shortcode-support/shortcode-fields.php:1389
+msgid "Lazyload"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:354
+#: includes/admin/shortcode-support/shortcode-fields.php:1738
+#: includes/admin/shortcode-support/shortcode-fields.php:2108
+#: includes/admin/shortcode-support/shortcode-fields.php:2510
+#: includes/admin/shortcode-support/shortcode-fields.php:2700
+msgid "Load More"
+msgstr ""
+
+#: includes/admin/class-bdp-admin.php:150
+#, php-format
+msgid ""
+"Load More or Infinite Scrolling pagination can be a good feature for your "
+"blog page with Blog Designer Pack. <a href=\"%s\">Take a look</a>"
+msgstr ""
+
+#: includes/shortcodes/bdp-post-masonry.php:54
+#: includes/admin/shortcode-support/shortcode-fields.php:2352
+msgid "Load More Posts"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2350
+msgid "Load More Text"
+msgstr ""
+
+#: includes/shortcodes/bdp-post-masonry.php:146
+msgid "Loading"
+msgstr ""
+
+#: includes/admin/getting-started.php:112
+msgid "Looking to customize your existing blog page?"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:521
+#: includes/admin/shortcode-support/shortcode-fields.php:1038
+msgid "Loop"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:227
+#: includes/admin/shortcode-support/shortcode-fields.php:656
+#: includes/admin/shortcode-support/shortcode-fields.php:1171
+#: includes/admin/shortcode-support/shortcode-fields.php:1604
+#: includes/admin/shortcode-support/shortcode-fields.php:1981
+#: includes/admin/shortcode-support/shortcode-fields.php:2383
+#: includes/admin/shortcode-support/shortcode-fields.php:2573
+#: includes/admin/shortcode-support/shortcode-fields.php:2903
+msgid "New Tab"
+msgstr ""
+
+#: includes/bdp-functions.php:180
+msgid "Next"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:352
+#: includes/admin/shortcode-support/shortcode-fields.php:1736
+#: includes/admin/shortcode-support/shortcode-fields.php:2106
+#: includes/admin/shortcode-support/shortcode-fields.php:2508
+#: includes/admin/shortcode-support/shortcode-fields.php:2698
+msgid "Next - Prev"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:353
+#: includes/admin/shortcode-support/shortcode-fields.php:1737
+#: includes/admin/shortcode-support/shortcode-fields.php:2107
+#: includes/admin/shortcode-support/shortcode-fields.php:2509
+#: includes/admin/shortcode-support/shortcode-fields.php:2699
+msgid "Next - Prev Ajax"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:376
+#: includes/admin/shortcode-support/shortcode-fields.php:795
+#: includes/admin/shortcode-support/shortcode-fields.php:1310
+#: includes/admin/shortcode-support/shortcode-fields.php:1760
+#: includes/admin/shortcode-support/shortcode-fields.php:2130
+#: includes/admin/shortcode-support/shortcode-fields.php:2532
+#: includes/admin/shortcode-support/shortcode-fields.php:2722
+msgid "Next Button Text"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:126
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:135
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:145
+#: includes/widgets/class-bdp-latest-post.php:118
+#: includes/widgets/class-bdp-latest-post.php:127
+#: includes/widgets/class-bdp-latest-post.php:137
+msgid "No"
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-preview.php:76
+msgid "No more post to display."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2793
+msgid "Normal"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:287
+#: includes/admin/shortcode-support/shortcode-fields.php:716
+#: includes/admin/shortcode-support/shortcode-fields.php:1231
+#: includes/admin/shortcode-support/shortcode-fields.php:1671
+#: includes/admin/shortcode-support/shortcode-fields.php:2041
+#: includes/admin/shortcode-support/shortcode-fields.php:2443
+#: includes/admin/shortcode-support/shortcode-fields.php:2633
+#: includes/admin/shortcode-support/shortcode-fields.php:2939
+msgid ""
+"Note: Be sure you have added valid post type name and post type is enabled "
+"from plugin setting."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:260
+#: includes/admin/shortcode-support/shortcode-fields.php:689
+#: includes/admin/shortcode-support/shortcode-fields.php:1204
+#: includes/admin/shortcode-support/shortcode-fields.php:1644
+#: includes/admin/shortcode-support/shortcode-fields.php:2014
+#: includes/admin/shortcode-support/shortcode-fields.php:2416
+#: includes/admin/shortcode-support/shortcode-fields.php:2606
+#: includes/admin/shortcode-support/shortcode-fields.php:2920
+msgid ""
+"Note: Be sure you have added valid post type name otherwise no result will "
+"be displayed."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:276
+#: includes/admin/shortcode-support/shortcode-fields.php:705
+#: includes/admin/shortcode-support/shortcode-fields.php:1220
+#: includes/admin/shortcode-support/shortcode-fields.php:1660
+#: includes/admin/shortcode-support/shortcode-fields.php:2030
+#: includes/admin/shortcode-support/shortcode-fields.php:2432
+#: includes/admin/shortcode-support/shortcode-fields.php:2622
+msgid ""
+"Note: Be sure you have added valid tag taxonomy name otherwise no result "
+"will be displayed. \n"
+"\n"
+"Leave it empty for default."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:268
+#: includes/admin/shortcode-support/shortcode-fields.php:697
+#: includes/admin/shortcode-support/shortcode-fields.php:1212
+#: includes/admin/shortcode-support/shortcode-fields.php:1652
+#: includes/admin/shortcode-support/shortcode-fields.php:2022
+#: includes/admin/shortcode-support/shortcode-fields.php:2424
+#: includes/admin/shortcode-support/shortcode-fields.php:2614
+#: includes/admin/shortcode-support/shortcode-fields.php:2928
+msgid ""
+"Note: Be sure you have added valid taxonomy name otherwise no result will be "
+"displayed."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2912
+msgid ""
+"Note: Extra class added as parent so using extra class you customize your "
+"design."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:251
+#: includes/admin/shortcode-support/shortcode-fields.php:680
+#: includes/admin/shortcode-support/shortcode-fields.php:1195
+#: includes/admin/shortcode-support/shortcode-fields.php:1635
+#: includes/admin/shortcode-support/shortcode-fields.php:2005
+#: includes/admin/shortcode-support/shortcode-fields.php:2407
+#: includes/admin/shortcode-support/shortcode-fields.php:2597
+msgid ""
+"Note: Extra class will be added at top most parent so using extra class you "
+"customize your design."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:867
+msgid ""
+"Note: Number of thumbnails will adjust according to responsive layout mode."
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:142
+msgid ""
+"Note: Preview will be displayed according to responsive layout mode. Live "
+"preview may display differently when added to your page based on inheritance "
+"from some styles."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:298
+#: includes/admin/shortcode-support/shortcode-fields.php:727
+#: includes/admin/shortcode-support/shortcode-fields.php:1242
+#: includes/admin/shortcode-support/shortcode-fields.php:1682
+#: includes/admin/shortcode-support/shortcode-fields.php:2052
+#: includes/admin/shortcode-support/shortcode-fields.php:2454
+#: includes/admin/shortcode-support/shortcode-fields.php:2644
+#: includes/admin/shortcode-support/shortcode-fields.php:2950
+msgid ""
+"Note: Slicky post only be displayed at front side. In preview mode sticky "
+"post will not be displayed."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:236
+#: includes/admin/shortcode-support/shortcode-fields.php:665
+#: includes/admin/shortcode-support/shortcode-fields.php:1180
+#: includes/admin/shortcode-support/shortcode-fields.php:1613
+#: includes/admin/shortcode-support/shortcode-fields.php:1990
+#: includes/admin/shortcode-support/shortcode-fields.php:2392
+#: includes/admin/shortcode-support/shortcode-fields.php:2582
+msgid ""
+"Note: Social sharing must be enabled from plugin settings and must not be "
+"disabled from individual post."
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:118
+#: includes/widgets/class-bdp-latest-post.php:110
+msgid "Note: This parameter will not work when Number of Items is set to -1."
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:109
+#: includes/widgets/class-bdp-latest-post.php:85
+msgid "Number of Items"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:863
+msgid "Number of Thumbnails"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:351
+#: includes/admin/shortcode-support/shortcode-fields.php:1735
+#: includes/admin/shortcode-support/shortcode-fields.php:2105
+#: includes/admin/shortcode-support/shortcode-fields.php:2507
+#: includes/admin/shortcode-support/shortcode-fields.php:2697
+msgid "Numeric"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:165
+#: includes/widgets/class-bdp-latest-post.php:153
+msgid "Open Link in a New Tab"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2850
+msgid "Order By"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:190
+#: includes/admin/shortcode-support/shortcode-fields.php:1567
+#: includes/admin/shortcode-support/shortcode-fields.php:1945
+#: includes/admin/shortcode-support/shortcode-fields.php:2335
+msgid "Pagination"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:379
+#: includes/admin/shortcode-support/shortcode-fields.php:1763
+#: includes/admin/shortcode-support/shortcode-fields.php:2133
+#: includes/admin/shortcode-support/shortcode-fields.php:2535
+#: includes/admin/shortcode-support/shortcode-fields.php:2725
+msgid "Pagination next button text."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:368
+#: includes/admin/shortcode-support/shortcode-fields.php:1752
+#: includes/admin/shortcode-support/shortcode-fields.php:2122
+#: includes/admin/shortcode-support/shortcode-fields.php:2524
+#: includes/admin/shortcode-support/shortcode-fields.php:2714
+msgid "Pagination previous button text."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:348
+#: includes/admin/shortcode-support/shortcode-fields.php:1732
+#: includes/admin/shortcode-support/shortcode-fields.php:2102
+#: includes/admin/shortcode-support/shortcode-fields.php:2504
+#: includes/admin/shortcode-support/shortcode-fields.php:2694
+msgid "Pagination Type"
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:121
+msgid "Paste below shortcode to any page or post to get output as preview."
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:176
+msgid "Pause"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:162
+#: includes/admin/shortcode-support/shortcode-fields.php:607
+#: includes/admin/shortcode-support/shortcode-fields.php:1123
+#: includes/admin/shortcode-support/shortcode-fields.php:1540
+#: includes/admin/shortcode-support/shortcode-fields.php:1919
+#: includes/admin/shortcode-support/shortcode-fields.php:2309
+#: includes/admin/shortcode-support/shortcode-fields.php:2855
+msgid "Post Author"
+msgstr ""
+
+#: includes/bdp-functions.php:308
+msgid "Post Carousel"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:52
+msgid "Post Carousel Shortcode"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:160
+#: includes/admin/shortcode-support/shortcode-fields.php:605
+#: includes/admin/shortcode-support/shortcode-fields.php:1121
+#: includes/admin/shortcode-support/shortcode-fields.php:1538
+#: includes/admin/shortcode-support/shortcode-fields.php:1917
+#: includes/admin/shortcode-support/shortcode-fields.php:2307
+#: includes/admin/shortcode-support/shortcode-fields.php:2853
+msgid "Post Date"
+msgstr ""
+
+#: includes/bdp-functions.php:306
+msgid "Post Grid"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:48
+msgid "Post Grid Shortcode"
+msgstr ""
+
+#: includes/bdp-functions.php:309
+msgid "Post GridBox"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:53
+msgid "Post gridbox Shortcode"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:56
+msgid "Post gridbox Slider Shortcode"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:161
+#: includes/admin/shortcode-support/shortcode-fields.php:606
+#: includes/admin/shortcode-support/shortcode-fields.php:1122
+#: includes/admin/shortcode-support/shortcode-fields.php:1539
+#: includes/admin/shortcode-support/shortcode-fields.php:1918
+#: includes/admin/shortcode-support/shortcode-fields.php:2308
+#: includes/admin/shortcode-support/shortcode-fields.php:2854
+msgid "Post ID"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:223
+#: includes/admin/shortcode-support/shortcode-fields.php:652
+#: includes/admin/shortcode-support/shortcode-fields.php:1167
+#: includes/admin/shortcode-support/shortcode-fields.php:1600
+#: includes/admin/shortcode-support/shortcode-fields.php:1977
+#: includes/admin/shortcode-support/shortcode-fields.php:2379
+#: includes/admin/shortcode-support/shortcode-fields.php:2569
+#: includes/admin/shortcode-support/shortcode-fields.php:2899
+msgid "Post Link Target"
+msgstr ""
+
+#: includes/bdp-functions.php:310
+msgid "Post List"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:49
+msgid "Post List Shortcode"
+msgstr ""
+
+#: includes/bdp-functions.php:311
+msgid "Post Masonry"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:50
+msgid "Post Masonry Shortcode"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:164
+#: includes/admin/shortcode-support/shortcode-fields.php:609
+#: includes/admin/shortcode-support/shortcode-fields.php:1125
+#: includes/admin/shortcode-support/shortcode-fields.php:1542
+#: includes/admin/shortcode-support/shortcode-fields.php:1921
+#: includes/admin/shortcode-support/shortcode-fields.php:2311
+#: includes/admin/shortcode-support/shortcode-fields.php:2857
+msgid "Post Modified Date"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:171
+#: includes/admin/shortcode-support/shortcode-fields.php:616
+#: includes/admin/shortcode-support/shortcode-fields.php:1132
+#: includes/admin/shortcode-support/shortcode-fields.php:1549
+#: includes/admin/shortcode-support/shortcode-fields.php:1928
+#: includes/admin/shortcode-support/shortcode-fields.php:2318
+#: includes/admin/shortcode-support/shortcode-fields.php:2864
+msgid "Post Order"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:157
+#: includes/admin/shortcode-support/shortcode-fields.php:602
+#: includes/admin/shortcode-support/shortcode-fields.php:1118
+#: includes/admin/shortcode-support/shortcode-fields.php:1535
+#: includes/admin/shortcode-support/shortcode-fields.php:1914
+#: includes/admin/shortcode-support/shortcode-fields.php:2304
+msgid "Post Order By"
+msgstr ""
+
+#: includes/bdp-functions.php:307
+msgid "Post Slider"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:51
+msgid "Post Slider Shortcode"
+msgstr ""
+
+#: includes/bdp-functions.php:312
+msgid "Post Ticker"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:54
+msgid "Post Ticker Shortcode"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:55
+msgid "Post Timeline Shortcode"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:163
+#: includes/admin/shortcode-support/shortcode-fields.php:608
+#: includes/admin/shortcode-support/shortcode-fields.php:1124
+#: includes/admin/shortcode-support/shortcode-fields.php:1541
+#: includes/admin/shortcode-support/shortcode-fields.php:1920
+#: includes/admin/shortcode-support/shortcode-fields.php:2310
+#: includes/admin/shortcode-support/shortcode-fields.php:2856
+msgid "Post Title"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:256
+#: includes/admin/shortcode-support/shortcode-fields.php:685
+#: includes/admin/shortcode-support/shortcode-fields.php:1200
+#: includes/admin/shortcode-support/shortcode-fields.php:1640
+#: includes/admin/shortcode-support/shortcode-fields.php:2010
+#: includes/admin/shortcode-support/shortcode-fields.php:2412
+#: includes/admin/shortcode-support/shortcode-fields.php:2602
+#: includes/admin/shortcode-support/shortcode-fields.php:2916
+msgid "Post type"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:207
+#: includes/admin/shortcode-support/shortcode-fields.php:636
+#: includes/admin/shortcode-support/shortcode-fields.php:1151
+#: includes/admin/shortcode-support/shortcode-fields.php:1584
+#: includes/admin/shortcode-support/shortcode-fields.php:1961
+#: includes/admin/shortcode-support/shortcode-fields.php:2363
+#: includes/admin/shortcode-support/shortcode-fields.php:2553
+#: includes/admin/shortcode-support/shortcode-fields.php:2884
+msgid "Premium Parameters"
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:132
+msgid ""
+"Preview will be displayed according to responsive layout mode. You can check "
+"with `Full Preview` mode for better visualization."
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:132
+msgid "Preview Window"
+msgstr ""
+
+#: includes/bdp-functions.php:179
+msgid "Previous"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:365
+#: includes/admin/shortcode-support/shortcode-fields.php:784
+#: includes/admin/shortcode-support/shortcode-fields.php:1299
+#: includes/admin/shortcode-support/shortcode-fields.php:1749
+#: includes/admin/shortcode-support/shortcode-fields.php:2119
+#: includes/admin/shortcode-support/shortcode-fields.php:2521
+#: includes/admin/shortcode-support/shortcode-fields.php:2711
+msgid "Previous Button Text"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:117
+#: includes/widgets/class-bdp-latest-post.php:109
+msgid ""
+"Query `offset` parameter to exclude number of post. Leave empty for default."
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:115
+#: includes/widgets/class-bdp-latest-post.php:107
+#: includes/admin/shortcode-support/shortcode-fields.php:387
+#: includes/admin/shortcode-support/shortcode-fields.php:777
+#: includes/admin/shortcode-support/shortcode-fields.php:1292
+#: includes/admin/shortcode-support/shortcode-fields.php:1771
+#: includes/admin/shortcode-support/shortcode-fields.php:2141
+#: includes/admin/shortcode-support/shortcode-fields.php:2543
+#: includes/admin/shortcode-support/shortcode-fields.php:2733
+#: includes/admin/shortcode-support/shortcode-fields.php:3000
+msgid "Query Offset"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:144
+#: includes/admin/shortcode-support/shortcode-fields.php:589
+#: includes/admin/shortcode-support/shortcode-fields.php:1105
+#: includes/admin/shortcode-support/shortcode-fields.php:1522
+#: includes/admin/shortcode-support/shortcode-fields.php:1901
+#: includes/admin/shortcode-support/shortcode-fields.php:2291
+#: includes/admin/shortcode-support/shortcode-fields.php:2837
+msgid "Query Parameters"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:165
+#: includes/admin/shortcode-support/shortcode-fields.php:610
+#: includes/admin/shortcode-support/shortcode-fields.php:1126
+#: includes/admin/shortcode-support/shortcode-fields.php:1543
+#: includes/admin/shortcode-support/shortcode-fields.php:1922
+#: includes/admin/shortcode-support/shortcode-fields.php:2312
+#: includes/admin/shortcode-support/shortcode-fields.php:2858
+msgid "Random"
+msgstr ""
+
+#: templates/carousel/design-1.php:59 templates/carousel/design-2.php:59
+#: templates/grid/design-1.php:73 templates/grid/design-2.php:73
+#: templates/grid-box/design-1.php:60 templates/list/design-1.php:61
+#: templates/list/design-2.php:62 templates/masonry/design-1.php:73
+#: templates/masonry/design-2.php:74 templates/slider/design-1.php:50
+#: templates/slider/design-2.php:53
+#: includes/admin/shortcode-support/shortcode-fields.php:214
+#: includes/admin/shortcode-support/shortcode-fields.php:643
+#: includes/admin/shortcode-support/shortcode-fields.php:1158
+#: includes/admin/shortcode-support/shortcode-fields.php:1591
+#: includes/admin/shortcode-support/shortcode-fields.php:1968
+#: includes/admin/shortcode-support/shortcode-fields.php:2370
+#: includes/admin/shortcode-support/shortcode-fields.php:2560
+msgid "Read More"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:212
+#: includes/admin/shortcode-support/shortcode-fields.php:641
+#: includes/admin/shortcode-support/shortcode-fields.php:1156
+#: includes/admin/shortcode-support/shortcode-fields.php:1589
+#: includes/admin/shortcode-support/shortcode-fields.php:1966
+#: includes/admin/shortcode-support/shortcode-fields.php:2368
+#: includes/admin/shortcode-support/shortcode-fields.php:2558
+msgid "Read More Text"
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:123
+msgid "Regenerate Shortcode"
+msgstr ""
+
+#: includes/bdp-ajax-functions.php:77
+#: includes/shortcodes/bdp-post-gridbox.php:117
+#: includes/shortcodes/bdp-post-list.php:114
+#: includes/shortcodes/bdp-post-masonry.php:126
+#: includes/shortcodes/bdp-post.php:122
+#: includes/shortcodes/bdp-recent-post-carousel.php:136
+#: includes/shortcodes/bdp-recent-post-slider.php:134
+msgid "Replies"
+msgstr ""
+
+#: includes/bdp-ajax-functions.php:77
+#: includes/shortcodes/bdp-post-gridbox.php:117
+#: includes/shortcodes/bdp-post-list.php:114
+#: includes/shortcodes/bdp-post-masonry.php:126
+#: includes/shortcodes/bdp-post.php:122
+#: includes/shortcodes/bdp-recent-post-carousel.php:136
+#: includes/shortcodes/bdp-recent-post-slider.php:134
+msgid "Reply"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:226
+#: includes/admin/shortcode-support/shortcode-fields.php:655
+#: includes/admin/shortcode-support/shortcode-fields.php:1170
+#: includes/admin/shortcode-support/shortcode-fields.php:1603
+#: includes/admin/shortcode-support/shortcode-fields.php:1980
+#: includes/admin/shortcode-support/shortcode-fields.php:2382
+#: includes/admin/shortcode-support/shortcode-fields.php:2572
+#: includes/admin/shortcode-support/shortcode-fields.php:2902
+msgid "Same Tab"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:287
+#: includes/admin/shortcode-support/shortcode-fields.php:716
+#: includes/admin/shortcode-support/shortcode-fields.php:1231
+#: includes/admin/shortcode-support/shortcode-fields.php:1671
+#: includes/admin/shortcode-support/shortcode-fields.php:2041
+#: includes/admin/shortcode-support/shortcode-fields.php:2443
+#: includes/admin/shortcode-support/shortcode-fields.php:2633
+#: includes/admin/shortcode-support/shortcode-fields.php:2939
+msgid "Select display type of post. Is it Featured or Trending?"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:167
+#: includes/admin/shortcode-support/shortcode-fields.php:612
+#: includes/admin/shortcode-support/shortcode-fields.php:1128
+#: includes/admin/shortcode-support/shortcode-fields.php:1545
+#: includes/admin/shortcode-support/shortcode-fields.php:1924
+#: includes/admin/shortcode-support/shortcode-fields.php:2314
+#: includes/admin/shortcode-support/shortcode-fields.php:2860
+msgid "Select order type."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:177
+#: includes/admin/shortcode-support/shortcode-fields.php:622
+#: includes/admin/shortcode-support/shortcode-fields.php:1138
+#: includes/admin/shortcode-support/shortcode-fields.php:1555
+#: includes/admin/shortcode-support/shortcode-fields.php:1934
+#: includes/admin/shortcode-support/shortcode-fields.php:2324
+#: includes/admin/shortcode-support/shortcode-fields.php:2870
+msgid "Select sorting order."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:283
+#: includes/admin/shortcode-support/shortcode-fields.php:712
+#: includes/admin/shortcode-support/shortcode-fields.php:1227
+#: includes/admin/shortcode-support/shortcode-fields.php:1667
+#: includes/admin/shortcode-support/shortcode-fields.php:2037
+#: includes/admin/shortcode-support/shortcode-fields.php:2439
+#: includes/admin/shortcode-support/shortcode-fields.php:2629
+#: includes/admin/shortcode-support/shortcode-fields.php:2935
+msgid "Select Type"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2798
+msgid "Set font style of the post."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2809
+msgid "Set the ticker effect. e.g. Vertical, Horizontal, Fade."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2778
+msgid "Set ticker heading font color."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2785
+msgid "Set ticker text font color."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2771
+msgid "Set ticker theme color."
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:121
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/class-bdp-admin.php:47
+msgid "Shortcode Builder"
+msgstr ""
+
+#: includes/admin/class-bdp-admin.php:47
+msgid "Shortcode Builder - Blog Designer Pack"
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:107
+msgid "Shortcode Parameters"
+msgstr ""
+
+#: includes/admin/class-bdp-admin.php:53
+#: includes/admin/shortcode-generator/shortcode-preview.php:46
+msgid "Shortcode Preview"
+msgstr ""
+
+#: includes/admin/class-bdp-admin.php:53
+msgid "Shortcode Preview - Blog Designer Pack"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:37
+msgid "Shortcodes - Blog Designer Pack"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:531
+#: includes/admin/shortcode-support/shortcode-fields.php:1048
+#: includes/admin/shortcode-support/shortcode-fields.php:2889
+msgid "Show Arrows"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:57
+#: includes/admin/shortcode-support/shortcode-fields.php:430
+#: includes/admin/shortcode-support/shortcode-fields.php:933
+#: includes/admin/shortcode-support/shortcode-fields.php:1436
+#: includes/admin/shortcode-support/shortcode-fields.php:1814
+#: includes/admin/shortcode-support/shortcode-fields.php:2205
+msgid "Show Author"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:132
+#: includes/widgets/class-bdp-latest-post.php:124
+#: includes/admin/shortcode-support/shortcode-fields.php:87
+#: includes/admin/shortcode-support/shortcode-fields.php:460
+#: includes/admin/shortcode-support/shortcode-fields.php:963
+#: includes/admin/shortcode-support/shortcode-fields.php:1466
+#: includes/admin/shortcode-support/shortcode-fields.php:1844
+#: includes/admin/shortcode-support/shortcode-fields.php:2235
+msgid "Show Category"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:77
+#: includes/admin/shortcode-support/shortcode-fields.php:450
+#: includes/admin/shortcode-support/shortcode-fields.php:953
+#: includes/admin/shortcode-support/shortcode-fields.php:1456
+#: includes/admin/shortcode-support/shortcode-fields.php:1834
+#: includes/admin/shortcode-support/shortcode-fields.php:2225
+msgid "Show Comments"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:97
+#: includes/admin/shortcode-support/shortcode-fields.php:470
+#: includes/admin/shortcode-support/shortcode-fields.php:973
+#: includes/admin/shortcode-support/shortcode-fields.php:1476
+#: includes/admin/shortcode-support/shortcode-fields.php:1854
+#: includes/admin/shortcode-support/shortcode-fields.php:2245
+msgid "Show Content"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:123
+#: includes/widgets/class-bdp-latest-post.php:115
+msgid "Show Date"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:542
+#: includes/admin/shortcode-support/shortcode-fields.php:1059
+msgid "Show Dots"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:548
+#: includes/admin/shortcode-support/shortcode-fields.php:1065
+msgid "Show pagination dots."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:47
+#: includes/admin/shortcode-support/shortcode-fields.php:420
+#: includes/admin/shortcode-support/shortcode-fields.php:923
+#: includes/admin/shortcode-support/shortcode-fields.php:1426
+#: includes/admin/shortcode-support/shortcode-fields.php:1804
+#: includes/admin/shortcode-support/shortcode-fields.php:2195
+msgid "Show Post Date"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:537
+#: includes/admin/shortcode-support/shortcode-fields.php:1054
+#: includes/admin/shortcode-support/shortcode-fields.php:2895
+msgid "Show prev - next arrows."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:118
+#: includes/admin/shortcode-support/shortcode-fields.php:491
+#: includes/admin/shortcode-support/shortcode-fields.php:995
+#: includes/admin/shortcode-support/shortcode-fields.php:1497
+#: includes/admin/shortcode-support/shortcode-fields.php:1875
+#: includes/admin/shortcode-support/shortcode-fields.php:2266
+msgid "Show Read More"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:124
+#: includes/admin/shortcode-support/shortcode-fields.php:497
+#: includes/admin/shortcode-support/shortcode-fields.php:1001
+#: includes/admin/shortcode-support/shortcode-fields.php:1503
+#: includes/admin/shortcode-support/shortcode-fields.php:1881
+#: includes/admin/shortcode-support/shortcode-fields.php:2272
+msgid "Show read more."
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:142
+#: includes/widgets/class-bdp-latest-post.php:134
+msgid "Show Short Content"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:291
+#: includes/admin/shortcode-support/shortcode-fields.php:720
+#: includes/admin/shortcode-support/shortcode-fields.php:1235
+#: includes/admin/shortcode-support/shortcode-fields.php:1675
+#: includes/admin/shortcode-support/shortcode-fields.php:2045
+#: includes/admin/shortcode-support/shortcode-fields.php:2447
+#: includes/admin/shortcode-support/shortcode-fields.php:2637
+#: includes/admin/shortcode-support/shortcode-fields.php:2943
+msgid "Show Sticky Posts"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:67
+#: includes/admin/shortcode-support/shortcode-fields.php:440
+#: includes/admin/shortcode-support/shortcode-fields.php:943
+#: includes/admin/shortcode-support/shortcode-fields.php:1446
+#: includes/admin/shortcode-support/shortcode-fields.php:1824
+#: includes/admin/shortcode-support/shortcode-fields.php:2215
+msgid "Show Tags"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:852
+msgid "Show Thumbnail"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:838
+#: includes/admin/shortcode-support/shortcode-fields.php:1364
+msgid "Slide Margin"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:841
+#: includes/admin/shortcode-support/shortcode-fields.php:1367
+msgid "Slide margin."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:820
+#: includes/admin/shortcode-support/shortcode-fields.php:1346
+msgid "Slider Auto Height"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:1335
+msgid "Slider Center Mode"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:798
+#: includes/admin/shortcode-support/shortcode-fields.php:1313
+msgid "Slider next button text."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:517
+#: includes/admin/shortcode-support/shortcode-fields.php:1020
+msgid "Slider Parameters"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:787
+#: includes/admin/shortcode-support/shortcode-fields.php:1302
+msgid "Slider previous button text."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:845
+#: includes/admin/shortcode-support/shortcode-fields.php:1371
+msgid "Slider Stage Padding"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:831
+#: includes/admin/shortcode-support/shortcode-fields.php:1357
+msgid "Slider Start Position"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:1024
+msgid "Slides Column"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:1031
+msgid "Slides to Scroll"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:233
+#: includes/admin/shortcode-support/shortcode-fields.php:662
+#: includes/admin/shortcode-support/shortcode-fields.php:1177
+#: includes/admin/shortcode-support/shortcode-fields.php:1610
+#: includes/admin/shortcode-support/shortcode-fields.php:1987
+#: includes/admin/shortcode-support/shortcode-fields.php:2389
+#: includes/admin/shortcode-support/shortcode-fields.php:2579
+msgid "Social Sharing"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:60
+msgid "Social Sharing Functionality"
+msgstr ""
+
+#: includes/class-bdp-script.php:116
+msgid "Sorry, No more post to display."
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:55
+msgid "Sorry, No shortcode template found."
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:42
+#: includes/admin/shortcode-generator/shortcode-generator.php:136
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: includes/class-bdp-script.php:49
+msgid ""
+"Sorry, Something happened wrong. Kindly please be sure that you have choosen "
+"relevant shortcode from the dropdown."
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-preview.php:37
+msgid "Sorry, you are not allowed to access this page."
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-preview.php:68
+msgid "Sorry, You can not visit the link in preview mode."
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:182
+#: includes/admin/shortcode-support/shortcode-fields.php:574
+#: includes/admin/shortcode-support/shortcode-fields.php:1090
+#: includes/admin/shortcode-support/shortcode-fields.php:2823
+msgid "Speed"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2826
+msgid "Speed of the ticker."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:240
+#: includes/admin/shortcode-support/shortcode-fields.php:669
+#: includes/admin/shortcode-support/shortcode-fields.php:1184
+#: includes/admin/shortcode-support/shortcode-fields.php:1617
+#: includes/admin/shortcode-support/shortcode-fields.php:1994
+#: includes/admin/shortcode-support/shortcode-fields.php:2396
+#: includes/admin/shortcode-support/shortcode-fields.php:2586
+msgid "Style Manager"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:272
+#: includes/admin/shortcode-support/shortcode-fields.php:701
+#: includes/admin/shortcode-support/shortcode-fields.php:1216
+#: includes/admin/shortcode-support/shortcode-fields.php:1656
+#: includes/admin/shortcode-support/shortcode-fields.php:2026
+#: includes/admin/shortcode-support/shortcode-fields.php:2428
+#: includes/admin/shortcode-support/shortcode-fields.php:2618
+msgid "Tag Taxonomy"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:264
+#: includes/admin/shortcode-support/shortcode-fields.php:693
+#: includes/admin/shortcode-support/shortcode-fields.php:1208
+#: includes/admin/shortcode-support/shortcode-fields.php:1648
+#: includes/admin/shortcode-support/shortcode-fields.php:2018
+#: includes/admin/shortcode-support/shortcode-fields.php:2420
+#: includes/admin/shortcode-support/shortcode-fields.php:2610
+#: includes/admin/shortcode-support/shortcode-fields.php:2924
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:102
+msgid ""
+"The shortcode builder allows you to preview plugin shortcode. You can choose "
+"your desired shortcode from the dropdown and check various parameters from "
+"left panel. \n"
+"\n"
+"You can paste shortcode to below and press Generate button to preview so "
+"each and every time you do not have to choose each parameters!!!"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2768
+msgid "Theme Color"
+msgstr ""
+
+#: includes/bdp-functions.php:84
+msgid "There is no excerpt because this is a protected post."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2802
+msgid "Ticker Effect"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2775
+msgid "Ticker Heading Color"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2761
+msgid "Ticker Title"
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:87
+#: includes/widgets/class-bdp-latest-post.php:79
+msgid "Title"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2764
+msgid "Title for the ticker."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:149
+#: includes/admin/shortcode-support/shortcode-fields.php:593
+#: includes/admin/shortcode-support/shortcode-fields.php:1109
+#: includes/admin/shortcode-support/shortcode-fields.php:1526
+#: includes/admin/shortcode-support/shortcode-fields.php:1905
+#: includes/admin/shortcode-support/shortcode-fields.php:2295
+msgid "Total Number of Post"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2841
+msgid "Total Ticker Items Limit"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:285
+#: includes/admin/shortcode-support/shortcode-fields.php:714
+#: includes/admin/shortcode-support/shortcode-fields.php:1229
+#: includes/admin/shortcode-support/shortcode-fields.php:1669
+#: includes/admin/shortcode-support/shortcode-fields.php:2039
+#: includes/admin/shortcode-support/shortcode-fields.php:2441
+#: includes/admin/shortcode-support/shortcode-fields.php:2631
+#: includes/admin/shortcode-support/shortcode-fields.php:2937
+msgid "Trending"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:58
+msgid "Trending Post Functionality"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:50
+#: includes/admin/shortcode-support/shortcode-fields.php:60
+#: includes/admin/shortcode-support/shortcode-fields.php:70
+#: includes/admin/shortcode-support/shortcode-fields.php:80
+#: includes/admin/shortcode-support/shortcode-fields.php:90
+#: includes/admin/shortcode-support/shortcode-fields.php:100
+#: includes/admin/shortcode-support/shortcode-fields.php:121
+#: includes/admin/shortcode-support/shortcode-fields.php:193
+#: includes/admin/shortcode-support/shortcode-fields.php:294
+#: includes/admin/shortcode-support/shortcode-fields.php:306
+#: includes/admin/shortcode-support/shortcode-fields.php:423
+#: includes/admin/shortcode-support/shortcode-fields.php:433
+#: includes/admin/shortcode-support/shortcode-fields.php:443
+#: includes/admin/shortcode-support/shortcode-fields.php:453
+#: includes/admin/shortcode-support/shortcode-fields.php:463
+#: includes/admin/shortcode-support/shortcode-fields.php:473
+#: includes/admin/shortcode-support/shortcode-fields.php:494
+#: includes/admin/shortcode-support/shortcode-fields.php:524
+#: includes/admin/shortcode-support/shortcode-fields.php:534
+#: includes/admin/shortcode-support/shortcode-fields.php:545
+#: includes/admin/shortcode-support/shortcode-fields.php:555
+#: includes/admin/shortcode-support/shortcode-fields.php:723
+#: includes/admin/shortcode-support/shortcode-fields.php:735
+#: includes/admin/shortcode-support/shortcode-fields.php:809
+#: includes/admin/shortcode-support/shortcode-fields.php:823
+#: includes/admin/shortcode-support/shortcode-fields.php:855
+#: includes/admin/shortcode-support/shortcode-fields.php:878
+#: includes/admin/shortcode-support/shortcode-fields.php:889
+#: includes/admin/shortcode-support/shortcode-fields.php:926
+#: includes/admin/shortcode-support/shortcode-fields.php:936
+#: includes/admin/shortcode-support/shortcode-fields.php:946
+#: includes/admin/shortcode-support/shortcode-fields.php:956
+#: includes/admin/shortcode-support/shortcode-fields.php:966
+#: includes/admin/shortcode-support/shortcode-fields.php:976
+#: includes/admin/shortcode-support/shortcode-fields.php:998
+#: includes/admin/shortcode-support/shortcode-fields.php:1041
+#: includes/admin/shortcode-support/shortcode-fields.php:1051
+#: includes/admin/shortcode-support/shortcode-fields.php:1062
+#: includes/admin/shortcode-support/shortcode-fields.php:1072
+#: includes/admin/shortcode-support/shortcode-fields.php:1238
+#: includes/admin/shortcode-support/shortcode-fields.php:1250
+#: includes/admin/shortcode-support/shortcode-fields.php:1324
+#: includes/admin/shortcode-support/shortcode-fields.php:1338
+#: includes/admin/shortcode-support/shortcode-fields.php:1349
+#: includes/admin/shortcode-support/shortcode-fields.php:1381
+#: includes/admin/shortcode-support/shortcode-fields.php:1392
+#: includes/admin/shortcode-support/shortcode-fields.php:1429
+#: includes/admin/shortcode-support/shortcode-fields.php:1439
+#: includes/admin/shortcode-support/shortcode-fields.php:1449
+#: includes/admin/shortcode-support/shortcode-fields.php:1459
+#: includes/admin/shortcode-support/shortcode-fields.php:1469
+#: includes/admin/shortcode-support/shortcode-fields.php:1479
+#: includes/admin/shortcode-support/shortcode-fields.php:1500
+#: includes/admin/shortcode-support/shortcode-fields.php:1570
+#: includes/admin/shortcode-support/shortcode-fields.php:1678
+#: includes/admin/shortcode-support/shortcode-fields.php:1690
+#: includes/admin/shortcode-support/shortcode-fields.php:1807
+#: includes/admin/shortcode-support/shortcode-fields.php:1817
+#: includes/admin/shortcode-support/shortcode-fields.php:1827
+#: includes/admin/shortcode-support/shortcode-fields.php:1837
+#: includes/admin/shortcode-support/shortcode-fields.php:1847
+#: includes/admin/shortcode-support/shortcode-fields.php:1857
+#: includes/admin/shortcode-support/shortcode-fields.php:1878
+#: includes/admin/shortcode-support/shortcode-fields.php:1948
+#: includes/admin/shortcode-support/shortcode-fields.php:2048
+#: includes/admin/shortcode-support/shortcode-fields.php:2060
+#: includes/admin/shortcode-support/shortcode-fields.php:2198
+#: includes/admin/shortcode-support/shortcode-fields.php:2208
+#: includes/admin/shortcode-support/shortcode-fields.php:2218
+#: includes/admin/shortcode-support/shortcode-fields.php:2228
+#: includes/admin/shortcode-support/shortcode-fields.php:2238
+#: includes/admin/shortcode-support/shortcode-fields.php:2248
+#: includes/admin/shortcode-support/shortcode-fields.php:2269
+#: includes/admin/shortcode-support/shortcode-fields.php:2338
+#: includes/admin/shortcode-support/shortcode-fields.php:2450
+#: includes/admin/shortcode-support/shortcode-fields.php:2462
+#: includes/admin/shortcode-support/shortcode-fields.php:2640
+#: includes/admin/shortcode-support/shortcode-fields.php:2652
+#: includes/admin/shortcode-support/shortcode-fields.php:2816
+#: includes/admin/shortcode-support/shortcode-fields.php:2892
+#: includes/admin/shortcode-support/shortcode-fields.php:2946
+#: includes/admin/shortcode-support/shortcode-fields.php:2972
+msgid "True"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:875
+#: includes/admin/shortcode-support/shortcode-fields.php:1378
+msgid "URL Hash Listner"
+msgstr ""
+
+#: includes/admin/getting-started.php:182
+msgid "Usage of Blog Designer Pack"
+msgstr ""
+
+#: includes/admin/class-bdp-admin.php:154
+#, php-format
+msgid ""
+"Use social sharing feature for Post with Blog Designer Pack Pro. <a "
+"href=\"%s\">Upgrade now</a>"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:2805
+msgid "Verticle Ticker Effect"
+msgstr ""
+
+#: includes/admin/all-shortcode-page.php:59
+msgid "Works with any Custom Post type."
+msgstr ""
+
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:125
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:134
+#: includes/widgets/class-bdp-latest-post-scrolling-widget.php:144
+#: includes/widgets/class-bdp-latest-post.php:117
+#: includes/widgets/class-bdp-latest-post.php:126
+#: includes/widgets/class-bdp-latest-post.php:136
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:184
+#: includes/admin/shortcode-support/shortcode-fields.php:316
+#: includes/admin/shortcode-support/shortcode-fields.php:629
+#: includes/admin/shortcode-support/shortcode-fields.php:1145
+#: includes/admin/shortcode-support/shortcode-fields.php:1562
+#: includes/admin/shortcode-support/shortcode-fields.php:1941
+#: includes/admin/shortcode-support/shortcode-fields.php:2331
+#: includes/admin/shortcode-support/shortcode-fields.php:2878
+msgid ""
+"You can pass multiple ids or slug with comma seperated. You can find id at "
+"relevant category listing page."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:323
+msgid ""
+"You can pass multiple ids or slug with comma seperated. You can find id at "
+"relevant post listing page."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:745
+#: includes/admin/shortcode-support/shortcode-fields.php:1260
+#: includes/admin/shortcode-support/shortcode-fields.php:1700
+#: includes/admin/shortcode-support/shortcode-fields.php:2070
+#: includes/admin/shortcode-support/shortcode-fields.php:2472
+#: includes/admin/shortcode-support/shortcode-fields.php:2662
+#: includes/admin/shortcode-support/shortcode-fields.php:2982
+msgid ""
+"You can pass multiple ids with comma seperated. You can find id at relevant "
+"category listing page."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:330
+#: includes/admin/shortcode-support/shortcode-fields.php:752
+#: includes/admin/shortcode-support/shortcode-fields.php:759
+#: includes/admin/shortcode-support/shortcode-fields.php:1267
+#: includes/admin/shortcode-support/shortcode-fields.php:1274
+#: includes/admin/shortcode-support/shortcode-fields.php:1707
+#: includes/admin/shortcode-support/shortcode-fields.php:1714
+#: includes/admin/shortcode-support/shortcode-fields.php:2077
+#: includes/admin/shortcode-support/shortcode-fields.php:2084
+#: includes/admin/shortcode-support/shortcode-fields.php:2479
+#: includes/admin/shortcode-support/shortcode-fields.php:2486
+#: includes/admin/shortcode-support/shortcode-fields.php:2669
+#: includes/admin/shortcode-support/shortcode-fields.php:2676
+#: includes/admin/shortcode-support/shortcode-fields.php:2989
+#: includes/admin/shortcode-support/shortcode-fields.php:2996
+msgid ""
+"You can pass multiple ids with comma seperated. You can find id at relevant "
+"post listing page."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:344
+#: includes/admin/shortcode-support/shortcode-fields.php:773
+#: includes/admin/shortcode-support/shortcode-fields.php:1288
+#: includes/admin/shortcode-support/shortcode-fields.php:1728
+#: includes/admin/shortcode-support/shortcode-fields.php:2098
+#: includes/admin/shortcode-support/shortcode-fields.php:2500
+#: includes/admin/shortcode-support/shortcode-fields.php:2690
+#: includes/admin/shortcode-support/shortcode-fields.php:2964
+msgid ""
+"You can pass multiple ids with comma seperated. You can find id at relevant "
+"users listing page."
+msgstr ""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:337
+#: includes/admin/shortcode-support/shortcode-fields.php:766
+#: includes/admin/shortcode-support/shortcode-fields.php:1281
+#: includes/admin/shortcode-support/shortcode-fields.php:1721
+#: includes/admin/shortcode-support/shortcode-fields.php:2091
+#: includes/admin/shortcode-support/shortcode-fields.php:2493
+#: includes/admin/shortcode-support/shortcode-fields.php:2683
+#: includes/admin/shortcode-support/shortcode-fields.php:2957
+msgid ""
+"You can pass multiple ids with comma seperated. You can find id at users "
+"listing page."
+msgstr ""

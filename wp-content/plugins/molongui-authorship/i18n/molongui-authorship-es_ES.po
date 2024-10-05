@@ -1,0 +1,4935 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Molongui Authorship\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-21 22:12+0200\n"
+"PO-Revision-Date: 2020-10-21 22:40+0200\n"
+"Last-Translator: Molongui\n"
+"Language-Team: Amitzy <molongui@amitzy.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: molongui-authorship.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/views/guest/html-avatar-metabox.php:23
+msgid "Avatar Display Disabled"
+msgstr "Opción de mostrar el avatar del autor desactivada"
+
+#: admin/views/guest/html-avatar-metabox.php:25
+msgid "Avatar display is disabled"
+msgstr "La opción de mostrar el avatar del autor está desactivada"
+
+#: admin/views/guest/html-avatar-metabox.php:25
+#, php-format
+msgid ""
+"You can enable author avatars at the WordPress %sCustomizer%s. There you can "
+"select whether to display custom local images, gravatars or acronyms."
+msgstr ""
+"Puedes activar la opción de mostrar el avatar del autor en el "
+"%sPersonalizador%s de WordPress. Allí puedes seleccionar mostrar la imagen "
+"subida, el Gravatar asociado o el acrónimo."
+
+#: admin/views/guest/html-avatar-metabox.php:27
+msgid "Open Customizer"
+msgstr "Abrir Personalizador"
+
+#: admin/views/guest/html-avatar-metabox.php:32
+msgid "Local Avatar Disabled"
+msgstr "Avatar Local Deshabilitado"
+
+#: admin/views/guest/html-avatar-metabox.php:38
+#: admin/views/guest/html-avatar-metabox.php:42
+#: admin/views/guest/html-avatar-metabox.php:46
+msgid "Local Avatar feature is disabled"
+msgstr ""
+"La opción de subir una imagen como avatar de un autor está deshabilitada"
+
+#: admin/views/guest/html-avatar-metabox.php:38
+#: admin/views/guest/html-avatar-metabox.php:57
+msgid ""
+"As configured, author avatar will be taken from Gravatar using author's "
+"email address and if none associated, a default image will be shown."
+msgstr ""
+"Por configuración, como avatar de autor se tomará la imagen configurada en "
+"Gravatar, la cual está asociada a su dirección de correo electrónico. Si no "
+"tiene ninguna configurada, se mostrará una imagen por defecto."
+
+#: admin/views/guest/html-avatar-metabox.php:42
+#: admin/views/guest/html-avatar-metabox.php:61
+msgid ""
+"As configured, author acronym will be displayed as author profile image."
+msgstr ""
+"Por configuración, como avatar de autor se tomará el acrónimo del nombre del "
+"autor. Por ejemplo, si el autor se llama Juan García, se mostrará \"JG\"."
+
+#: admin/views/guest/html-avatar-metabox.php:46
+msgid ""
+"And as there is no fallback configured, no image will be shown as author "
+"avatar."
+msgstr "Si no se configura ninguna alternativa, no se mostrará imagen alguna."
+
+#: admin/views/guest/html-avatar-metabox.php:69
+#, php-format
+msgid ""
+"If you want to upload a custom image for this guest author, enable local "
+"avatars for both, users and guests, on the plugin settings page (click %shere"
+"%s)."
+msgstr ""
+"Si quieres tener la opción de poder subir una imagen como foto de perfil "
+"para este autor invitado, habilita la opción de \"Avatares Locales\" en la "
+"página de configuración del plugin (haz clic %saquí%s)."
+
+#: admin/views/guest/html-avatar-metabox.php:71
+msgid "Settings Page"
+msgstr "Configuración"
+
+#: admin/views/guest/html-box-metabox.php:23
+#: admin/views/post/html-box-metabox.php:22 config/customizer.php:683
+#: config/customizer.php:1879 config/customizer.php:2859 config/options.php:619
+msgid "Display"
+msgstr "Visualización"
+
+#: admin/views/guest/html-box-metabox.php:25
+msgid ""
+"Choose whether to display the author box for this author regardless of other "
+"post or plugin settings"
+msgstr ""
+"Mostrar la caja de este autor independientemente de otras configuraciones"
+
+#: admin/views/guest/html-box-metabox.php:26
+#: admin/views/guest/html-social-metabox.php:23
+#: admin/views/user/html-plugin-fields.php:68
+#, php-format
+msgid ""
+"Disabled options are only available in the %sPremium version%s of the plugin."
+msgstr "Esta opción está disponible sólo en la %sversión Premium%s del plugin."
+
+#: admin/views/guest/html-box-metabox.php:29
+#: admin/views/post/html-box-metabox.php:26
+#: admin/views/post/html-box-metabox.php:37
+#: admin/views/user/html-plugin-fields.php:107 config/customizer.php:3888
+#: includes/class-guest.php:519 includes/class-post.php:1907
+msgid "Default"
+msgstr "Por defecto"
+
+#: admin/views/guest/html-box-metabox.php:30
+#: admin/views/post/html-box-metabox.php:27
+#: admin/views/user/html-plugin-fields.php:108 config/customizer.php:1889
+#: config/customizer.php:2869 config/customizer.php:3842
+#: includes/class-guest.php:360 includes/class-guest.php:520
+#: includes/class-post.php:1816 includes/class-post.php:1908
+#: includes/class-user.php:225 includes/class-user.php:245
+msgid "Show"
+msgstr "Mostrar"
+
+#: admin/views/guest/html-box-metabox.php:31
+#: admin/views/post/html-box-metabox.php:28
+#: admin/views/user/html-plugin-fields.php:109 config/customizer.php:1895
+#: config/customizer.php:2875 config/customizer.php:3848
+#: includes/class-guest.php:360 includes/class-guest.php:521
+#: includes/class-post.php:1816 includes/class-post.php:1909
+#: includes/class-user.php:231 includes/class-user.php:243
+msgid "Hide"
+msgstr "Ocultar"
+
+#: admin/views/guest/html-box-metabox.php:38
+#, fuzzy
+msgid "Meta Line"
+msgstr "Metadata"
+
+#: admin/views/guest/html-box-metabox.php:44
+msgid ""
+"Display e-mail in the author meta line, which is displayed below author name."
+msgstr ""
+"Mostrar la dirección de correo electrónico en la línea de detalle que se "
+"muestra debajo del nombre del autor."
+
+#: admin/views/guest/html-box-metabox.php:52
+msgid ""
+"Display phone in the author meta line, which is displayed below author name."
+msgstr ""
+"Mostrar el teléfono en la línea de detalle que se muestra debajo del nombre "
+"del autor."
+
+#: admin/views/guest/html-box-metabox.php:59
+msgid "Social Icons"
+msgstr "Iconos de redes sociales"
+
+#: admin/views/guest/html-box-metabox.php:65
+msgid "Display website as an icon with social icons."
+msgstr "Mostrar la página web como icono junto con las redes sociales."
+
+#: admin/views/guest/html-box-metabox.php:73
+msgid "Display e-mail as an icon with social icons."
+msgstr ""
+"Mostrar la dirección de correo electrónico como icono junto con las redes "
+"sociales."
+
+#: admin/views/guest/html-box-metabox.php:81
+msgid "Display phone as an icon with social icons."
+msgstr "Mostrar el teléfono como icono junto con las redes sociales."
+
+#: admin/views/guest/html-convert-metabox.php:20
+msgid "Convert to User"
+msgstr "Convertir a Usuario"
+
+#: admin/views/guest/html-convert-metabox.php:22
+msgid ""
+"Convert this guest author to a registered WP user with just 1-click. Current "
+"guest will be removed and a new user created. Posts authorship will be kept."
+msgstr ""
+"Convertir este autor invitado a usuario registrado de WordPress con un sólo "
+"clic. La autoría de las entradas y páginas se mantendrá."
+
+#: admin/views/guest/html-convert-metabox.php:24
+#: admin/views/user/html-profile-tools.php:30
+msgid "Convert"
+msgstr "Convertir"
+
+#: admin/views/guest/html-convert-metabox.php:26
+#: admin/views/guest/html-short-bio-metabox.php:25
+#, php-format
+msgid "This option is only available in the %sPRO version%s of the plugin."
+msgstr ""
+"Esta opción está disponible solamente en la %sversión PRO%s del plugin."
+
+#: admin/views/guest/html-profile-metabox.php:30
+msgid "First Name"
+msgstr "Nombre"
+
+#: admin/views/guest/html-profile-metabox.php:31
+msgid "Author's name"
+msgstr "Nombre del autor"
+
+#: admin/views/guest/html-profile-metabox.php:38
+msgid "Last Name"
+msgstr "Apellidos"
+
+#: admin/views/guest/html-profile-metabox.php:39
+msgid "Author's last name"
+msgstr "Apellidos del autor"
+
+#: admin/views/guest/html-profile-metabox.php:46
+msgid "Display Name"
+msgstr "Nombre a mostrar"
+
+#: admin/views/guest/html-profile-metabox.php:47
+msgid ""
+"This is a phrase that refers to the author's name. Most of the time, it is "
+"the name of the author, but you can write in whatever you wish. This will be "
+"shown as author name."
+msgstr ""
+"Hace referencia al nombre del autor. En la mayoría de casos, coincide con el "
+"nombre del autor, pero puede ser cualquier otro texto. Se mostrará como "
+"nombre del autor."
+
+#: admin/views/guest/html-profile-metabox.php:54
+msgid "E-mail"
+msgstr "E-mail"
+
+#: admin/views/guest/html-profile-metabox.php:55
+msgid ""
+"Author's e-mail address. Used to retrieve author's Gravatar if it exists and "
+"no local avatar is uploaded. This field is not displayed in the front-end "
+"unless configured so. See 'Author box settings' on this same page."
+msgstr ""
+"Utilizada para cargar el Gravatar, si existe. Este campo no se muestra "
+"públicamente en ningún sitio a menos que se marque la casilla de abajo."
+
+#: admin/views/guest/html-profile-metabox.php:62 config/customizer.php:3214
+#: includes/helpers/options.php:257
+#: public/views/parts/html-author-box-meta.php:76
+msgid "Website"
+msgstr "Web"
+
+#: admin/views/guest/html-profile-metabox.php:63
+msgid ""
+"URL to the author's website, blog or profile page. Leave blank to prevent "
+"this field to be displayed in the front-end."
+msgstr ""
+"Enlace a una página web externa de la que el autor es propietario o tiene "
+"relación. Dejar este campo en blanco para evitar que se muestre en la parte "
+"pública de la web."
+
+#: admin/views/guest/html-profile-metabox.php:69
+#: admin/views/user/html-plugin-fields.php:38 includes/class-guest.php:302
+msgid "Phone"
+msgstr "Teléfono"
+
+#: admin/views/guest/html-profile-metabox.php:70
+msgid ""
+"Author's telephone number. This field is not displayed in the front-end "
+"unless configured so. See 'Author box settings' on this same page."
+msgstr ""
+"Este campo no se muestra públicamente en ningún sitio a menos que se marque "
+"la casilla de abajo."
+
+#: admin/views/guest/html-profile-metabox.php:83
+msgid "Job Title"
+msgstr "Cargo"
+
+#: admin/views/guest/html-profile-metabox.php:84
+msgid ""
+"Name used to describe what the author does for a business or another "
+"enterprise. It will be displayed in the author box, just below the author "
+"name. Leave blank to prevent this field to be displayed in the front-end."
+msgstr ""
+"Cargo que desempeña el autor a nivel profesional. Dejar en blanco si no se "
+"desea mostrar este campo."
+
+#: admin/views/guest/html-profile-metabox.php:91
+#: admin/views/user/html-plugin-fields.php:48
+msgid "Company"
+msgstr "Empresa"
+
+#: admin/views/guest/html-profile-metabox.php:92
+msgid ""
+"The name of the company the author works for. It will be displayed in the "
+"author box, just below the author name. Leave blank to prevent this field to "
+"be displayed in the front-end."
+msgstr ""
+"Nombre de la empresa para la que trabaja el autor. Dejar en blanco si no se "
+"desea mostrar este campo."
+
+#: admin/views/guest/html-profile-metabox.php:99
+msgid "Company URL"
+msgstr "URL Empresa"
+
+#: admin/views/guest/html-profile-metabox.php:100
+msgid "URL the company name will link to. Leave blank to disable link feature."
+msgstr ""
+"Dirección web a la que enlazar el nombre de la empresa. Dejar en blanco para "
+"desactivar el enlace."
+
+#: admin/views/guest/html-short-bio-metabox.php:21
+msgid ""
+"Provide a short description that can be displayed on the author box instead "
+"of the full author biography. On author archive pages full bio is displayed, "
+"if your theme supports it."
+msgstr ""
+
+#: admin/views/guest/html-social-metabox.php:22
+msgid ""
+"Only filled in social profile links will be displayed on the frontend as "
+"icons. If you are missing some networks you would like to configure, enable "
+"them at the plugin settings page: Molongui > Authorship Settings > Author "
+"Box tab > Social Networks section."
+msgstr ""
+
+#: admin/views/guest/html-social-metabox.php:32
+#: admin/views/user/html-plugin-fields.php:77
+#, fuzzy, php-format
+msgid "%s  Premium feature"
+msgstr "Opción premium"
+
+#: admin/views/options/html-box-preview.php:45
+msgid ""
+"How the author box is displayed in your site's frontend could differ "
+"slightly from what is shown here."
+msgstr ""
+"Esta pre-visualización puede ser algo diferente de lo que se muestre en la "
+"web."
+
+#: admin/views/post/html-author-metabox.php:28
+msgid ""
+"You can quick-add a new guest author now. Later on you will be able to fully "
+"edit all profile info through Guest Authors menu item."
+msgstr ""
+
+#: admin/views/post/html-author-metabox.php:34
+#, fuzzy
+msgid "Quick Add New Guest"
+msgstr "Añadir nuevo autor invitado"
+
+#: admin/views/post/html-author-metabox.php:35
+msgid ""
+"Now you can quick-add a guest author providing just a display name. You'll "
+"be able to add other profile data later on."
+msgstr ""
+
+#: admin/views/post/html-author-metabox.php:37
+#, fuzzy
+msgid "Type display name here..."
+msgstr "El estilo de texto utilizado en el título."
+
+#: admin/views/post/html-author-metabox.php:40
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: admin/views/post/html-author-metabox.php:41
+msgid "Add"
+msgstr "Añadir"
+
+#: admin/views/post/html-box-metabox.php:23
+msgid "Whether to show the author box on this post"
+msgstr "¿Mostrar la caja de autor en este post?"
+
+#: admin/views/post/html-box-metabox.php:33 config/customizer.php:224
+#: config/customizer.php:1044
+msgid "Position"
+msgstr "Posición"
+
+#: admin/views/post/html-box-metabox.php:34
+msgid "Where in the post to show the author box?"
+msgstr "¿Dónde mostrar la caja de autor?"
+
+#: admin/views/post/html-box-metabox.php:38
+msgid "Above"
+msgstr "Arriba"
+
+#: admin/views/post/html-box-metabox.php:39
+msgid "Below"
+msgstr "Abajo"
+
+#: admin/views/post/html-box-metabox.php:40
+msgid "Both"
+msgstr "Ambas"
+
+#: admin/views/user/html-avatar-field.php:47
+msgid "Remove"
+msgstr "Borrar"
+
+#: admin/views/user/html-avatar-field.php:48
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/views/user/html-avatar-field.php:72
+msgid "Change Image"
+msgstr "Cambiar imagen actual"
+
+#: admin/views/user/html-avatar-field.php:72
+msgid "Upload Image"
+msgstr "Subir una imagen nueva"
+
+#: admin/views/user/html-avatar-field.php:83
+#, fuzzy
+msgid ""
+"You do not have permission to upload a custom profile picture. Please, "
+"contact the administrator of this site."
+msgstr ""
+"No tienes los permisos suficientes para subir un fichero. Por favor contacta "
+"con el administrador de tu página web."
+
+#: admin/views/user/html-gravatar-field.php:29
+#, php-format
+msgid "<a href=\"%s\">You can change your profile picture on Gravatar</a>."
+msgstr ""
+
+#: admin/views/user/html-gravatar-field.php:30
+msgid "https://en.gravatar.com/"
+msgstr "https://en.gravatar.com/"
+
+#: admin/views/user/html-plugin-fields.php:20
+msgid "Molongui Authorship"
+msgstr "Molongui Authorship"
+
+#: admin/views/user/html-plugin-fields.php:31
+msgid "Professional Info"
+msgstr "Información profesional"
+
+#: admin/views/user/html-plugin-fields.php:32
+#, php-format
+msgid ""
+"Information below will be displayed on the author box and other relevant "
+"sections (i.e. authors list) below the user's name. %sPhone number won't be "
+"displayed unless configured%s using the %sdisplay settings%s. Any blank "
+"field will not be displayed either."
+msgstr ""
+
+#: admin/views/user/html-plugin-fields.php:43
+msgid "Job title"
+msgstr "Cargo"
+
+#: admin/views/user/html-plugin-fields.php:53
+msgid "Company website"
+msgstr "Enlace a la web de la empresa"
+
+#: admin/views/user/html-plugin-fields.php:54
+msgid "https://www.example.com/"
+msgstr "https://www.ejemplo.com/"
+
+#: admin/views/user/html-plugin-fields.php:66
+msgid "Social Profiles"
+msgstr "Perfiles en redes sociales"
+
+#: admin/views/user/html-plugin-fields.php:67
+#, php-format
+msgid ""
+"The Molongui Authorship plugin allows you to add %smore than %s different "
+"social network profiles%s, so if you don't see here the ones you want to "
+"add, just go to the %splugin settings page%s and check those you need to "
+"edit. %sSocial profiles will be displayed as icons on the author box and "
+"other relevant sections. Any blank profile will not be displayed."
+msgstr ""
+
+#: admin/views/user/html-plugin-fields.php:96
+msgid "Author Box Settings"
+msgstr "Configuración de la caja de autor"
+
+#: admin/views/user/html-plugin-fields.php:97
+#, php-format
+msgid ""
+"On the %splugin settings page%s you can configure all the display settings "
+"that affects how the author box is displayed by default. Nonetheless, below "
+"you have some settings that override that global configuration for this user."
+msgstr ""
+
+#: admin/views/user/html-plugin-fields.php:103
+msgid "Disable author box"
+msgstr "Deshabilitar la caja de autor"
+
+#: admin/views/user/html-plugin-fields.php:113
+msgid "Premium"
+msgstr "Premium"
+
+#: admin/views/user/html-plugin-fields.php:114
+#, php-format
+msgid ""
+"Disabled options are available only in the %spremium version%s of the plugin."
+msgstr "Esta opción está disponible sólo en la %sversión premium%s del plugin."
+
+#: admin/views/user/html-plugin-fields.php:122
+msgid "Display e-mail"
+msgstr "Mostar e-mail"
+
+#: admin/views/user/html-plugin-fields.php:123
+msgid ""
+"Check this box to display the user's e-mail publicly in the author meta "
+"line, which is displayed below the author name."
+msgstr ""
+
+#: admin/views/user/html-plugin-fields.php:128
+msgid "Display phone"
+msgstr "Mostar teléfono"
+
+#: admin/views/user/html-plugin-fields.php:129
+msgid ""
+"Check this box to display the user's phone publicly in the author meta line, "
+"which is displayed below the author name."
+msgstr ""
+
+#: admin/views/user/html-plugin-fields.php:134
+msgid "Show website icon"
+msgstr "Mostrar icono de web"
+
+#: admin/views/user/html-plugin-fields.php:135
+msgid "Check this box to display a website icon with other social icons."
+msgstr ""
+
+#: admin/views/user/html-plugin-fields.php:140
+msgid "Show e-mail icon"
+msgstr "Mostrar icono de e-mail"
+
+#: admin/views/user/html-plugin-fields.php:141
+msgid "Check this box to display an e-mail icon with other social icons."
+msgstr ""
+
+#: admin/views/user/html-plugin-fields.php:146
+msgid "Show phone icon"
+msgstr "Mostrar icono de teléfono"
+
+#: admin/views/user/html-plugin-fields.php:147
+msgid "Check this box to display a phone icon with other social icons."
+msgstr ""
+
+#: admin/views/user/html-profile-bio.php:22
+#, fuzzy
+msgid "Biographical Info"
+msgstr "Tamaño de letra de la biografía"
+
+#: admin/views/user/html-profile-bio.php:27
+msgid "Full Bio"
+msgstr ""
+
+#: admin/views/user/html-profile-bio.php:30
+msgid ""
+"Biographical information to be shown publicly on several places on your site."
+msgstr ""
+
+#: admin/views/user/html-profile-bio.php:36
+#, fuzzy
+msgid "Short Bio"
+msgstr "Shortcodes"
+
+#: admin/views/user/html-profile-bio.php:39
+msgid ""
+"Concise biographical paragraph you can display on author boxes instead of "
+"full bio to keep them slim."
+msgstr ""
+
+#: admin/views/user/html-profile-bio.php:40
+#, fuzzy
+msgid "PRO only"
+msgstr "Sólo Premium"
+
+#: admin/views/user/html-profile-bio.php:40
+#, php-format
+msgid "%sUpgrade%s to Premium to unlock this feature."
+msgstr ""
+
+#: admin/views/user/html-profile-picture.php:25
+#: admin/views/user/html-profile-picture.php:46
+msgid "Local Avatar"
+msgstr ""
+
+#: admin/views/user/html-profile-picture.php:25
+#: admin/views/user/html-profile-picture.php:46
+#, fuzzy
+msgid "Profile Picture"
+msgstr "Imagen de perfil"
+
+#: admin/views/user/html-profile-picture.php:28
+msgid ""
+"Want to use a custom local image instead of Gravatar's? Profile picture is "
+"displayed in the author box, comments and other relevant sections. WordPress "
+"uses Gravatar service to display user's profile picture which is based on "
+"the email address. If you do not have a Gravatar account then your profile "
+"picture will be replaced with a default image placeholder which is called "
+"'Mystery Man'. Molongui Authorship allows you to use any photo you upload "
+"here as your avatar. If none is uploaded, your Gravatar avatar or Default "
+"Avatar will be displayed."
+msgstr ""
+
+#: admin/views/user/html-profile-picture.php:37 config/customizer.php:1942
+#: config/customizer.php:1989
+#, fuzzy
+msgid "Gravatar"
+msgstr "Avatar"
+
+#: admin/views/user/html-profile-tools.php:20
+#, fuzzy
+msgid "Author Tools"
+msgstr "Autores"
+
+#: admin/views/user/html-profile-tools.php:21
+#, php-format
+msgid ""
+"Does this user need an account on your site? Does it need access to your "
+"Dashboard? Convert it to a guest author with just 1-click. It will be "
+"removed and a new guest author created. Posts authorship will be kept. "
+"%sUpgrade to PRO%s to unlock this feature."
+msgstr ""
+
+#: admin/views/user/html-profile-tools.php:28
+msgid "Convert to Guest"
+msgstr ""
+
+#: config/customizer.php:19
+msgid "Molongui Author Box"
+msgstr "Molongui Author Box"
+
+#: config/customizer.php:20
+msgid "Customize visual settings to your like."
+msgstr ""
+
+#: config/customizer.php:32
+msgid "Pre-defined appearance schemes"
+msgstr ""
+
+#: config/customizer.php:60
+msgid "Pre-defined schemes"
+msgstr ""
+
+#: config/customizer.php:61
+msgid ""
+"Choose the pre-defined appearance scheme you would like to use. Once loaded, "
+"you can customize any setting you need."
+msgstr ""
+
+#: config/customizer.php:69
+msgid "Scheme 1"
+msgstr ""
+
+#: config/customizer.php:75
+msgid "Scheme 2"
+msgstr ""
+
+#: config/customizer.php:81
+msgid "Scheme 3"
+msgstr ""
+
+#: config/customizer.php:99 includes/class-guest.php:299
+msgid "Box"
+msgstr "Caja"
+
+#: config/customizer.php:100
+msgid ""
+"Customize to your likings the author box that will be displayed on your "
+"posts by selecting which layout to use, the position where to display it, "
+"and many more color, size and styling options. Make it fit the best with "
+"your site. You can preview Premium settings. Upgrade to Premium to unlock "
+"them all :)"
+msgstr ""
+
+#: config/customizer.php:175 config/options.php:864
+msgid "Layout"
+msgstr "Disposición"
+
+#: config/customizer.php:176
+msgid ""
+"The template used to render the author box. The first two displays the "
+"author profile or the related posts in the same space while the third one "
+"shows related entries below author profile."
+msgstr ""
+
+#: config/customizer.php:185
+msgid "Slim"
+msgstr ""
+
+#: config/customizer.php:191
+msgid "Tabbed"
+msgstr "Pestañas"
+
+#: config/customizer.php:197
+msgid "Stacked"
+msgstr ""
+
+#: config/customizer.php:225
+#, fuzzy
+msgid ""
+"Whether to show the author box above the post content, below or on both "
+"places."
+msgstr ""
+"Dónde mostrar la caja del autor respecto al contenido de la entrada: arriba "
+"del todo o debajo del todo."
+
+#: config/customizer.php:234
+msgid "Above content"
+msgstr "Sobre el contenido"
+
+#: config/customizer.php:240
+msgid "Below content"
+msgstr "Debajo del contenido"
+
+#: config/customizer.php:246
+msgid "Above and below content"
+msgstr "Antes y después del contenido"
+
+#: config/customizer.php:273
+msgid "Order"
+msgstr "Criterio de ordenación"
+
+#: config/customizer.php:274
+msgid ""
+"Author box is added to post content in the configured position. Nonetheless, "
+"other plugins may also add their stuff, making the author box appear above/"
+"below it. Reduce the number below until the box goes up there where you like "
+"or increase it to make it go down."
+msgstr ""
+
+#: config/customizer.php:308
+msgid "Margin"
+msgstr "Margen"
+
+#: config/customizer.php:309
+#, fuzzy
+msgid "Space in pixels to add above and below the author box."
+msgstr "Espacio que añadir encima y debajo de la author box."
+
+#: config/customizer.php:344 config/customizer.php:2115
+msgid "Width"
+msgstr "Ancho"
+
+#: config/customizer.php:345
+#, fuzzy
+msgid "Amount of space in percentage the author box can take."
+msgstr ""
+"Ancho porcentual sobre el espacio disponible que la caja de autor puede "
+"tener."
+
+#: config/customizer.php:381
+msgid "Border"
+msgstr "Borde"
+
+#: config/customizer.php:391 config/customizer.php:632
+#: config/customizer.php:1742 config/customizer.php:2195
+#: config/customizer.php:2244 includes/class-guest.php:379
+#: includes/class-user.php:213
+msgid "None"
+msgstr "Ninguna"
+
+#: config/customizer.php:397
+msgid "All"
+msgstr "Todos"
+
+#: config/customizer.php:403
+msgid "Horizontals"
+msgstr "Horizontales"
+
+#: config/customizer.php:409
+msgid "Verticals"
+msgstr "Verticales"
+
+#: config/customizer.php:415 config/customizer.php:626
+#: config/customizer.php:949 config/customizer.php:2678
+#: config/customizer.php:3095 config/customizer.php:3690
+msgid "Left"
+msgstr "Izquierda"
+
+#: config/customizer.php:421 config/customizer.php:1608
+msgid "Top"
+msgstr ""
+
+#: config/customizer.php:427 config/customizer.php:638
+#: config/customizer.php:961 config/customizer.php:2690
+#: config/customizer.php:3107 config/customizer.php:3702
+msgid "Right"
+msgstr "Derecha"
+
+#: config/customizer.php:433 config/customizer.php:1620
+msgid "Bottom"
+msgstr "Base"
+
+#: config/customizer.php:461 config/customizer.php:2234
+msgid "Border style"
+msgstr "Estilo del borde"
+
+#: config/customizer.php:471 config/customizer.php:1748
+#: config/customizer.php:2250
+msgid "Solid"
+msgstr "Sólido"
+
+#: config/customizer.php:477 config/customizer.php:1754
+#: config/customizer.php:2256
+msgid "Double"
+msgstr "Doble"
+
+#: config/customizer.php:483 config/customizer.php:1760
+#: config/customizer.php:2262
+msgid "Dotted"
+msgstr "Punteado"
+
+#: config/customizer.php:489 config/customizer.php:1766
+#: config/customizer.php:2268
+msgid "Dashed"
+msgstr "Rayado"
+
+#: config/customizer.php:516 config/customizer.php:2295
+msgid "Border width"
+msgstr "Grosor del borde"
+
+#: config/customizer.php:552 config/customizer.php:2331
+msgid "Border color"
+msgstr "Color del borde"
+
+#: config/customizer.php:584 config/customizer.php:1187
+#: config/customizer.php:2395
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: config/customizer.php:616
+msgid "Shadow"
+msgstr "Sombra"
+
+#: config/customizer.php:655
+msgid "Headline"
+msgstr "Título"
+
+#: config/customizer.php:684
+#, fuzzy
+msgid "Whether to show a headline above the author box."
+msgstr ""
+"¿Mostrar un enlace a los artículos relacionados del autor dentro de la "
+"author box?"
+
+#: config/customizer.php:693
+msgid "Show headline"
+msgstr "Mostrar título"
+
+#: config/customizer.php:699
+msgid "Hide headline"
+msgstr "Ocultar título"
+
+#: config/customizer.php:726
+msgid "Text"
+msgstr "Texto"
+
+#: config/customizer.php:735 config/customizer.php:1426
+#: config/customizer.php:1444 includes/helpers/options.php:253
+#: includes/helpers/options.php:262
+#: public/views/parts/html-author-box-headline.php:34
+#: public/views/parts/html-author-box-tabs.php:37
+msgid "About the author"
+msgstr "Acerca del autor"
+
+#: config/customizer.php:752 config/customizer.php:2481
+#: config/customizer.php:2898 config/customizer.php:3469
+#: config/customizer.php:4181
+msgid "Typography"
+msgstr "Tipografía"
+
+#: config/customizer.php:780 config/customizer.php:2509
+#: config/customizer.php:2926 config/customizer.php:3497
+#: config/customizer.php:4209
+msgid "Size"
+msgstr "Tamaño"
+
+#: config/customizer.php:817 config/customizer.php:2546
+#: config/customizer.php:2963 config/customizer.php:3570
+#: config/customizer.php:3878 config/customizer.php:4246
+msgid "Style"
+msgstr "Estilo"
+
+#: config/customizer.php:827 config/customizer.php:2556
+#: config/customizer.php:2973 config/customizer.php:3580
+#: config/customizer.php:4256
+msgid "Normal"
+msgstr "Normal"
+
+#: config/customizer.php:833 config/customizer.php:2562
+#: config/customizer.php:2979 config/customizer.php:3586
+#: config/customizer.php:4262
+msgid "Bold"
+msgstr "Negrita"
+
+#: config/customizer.php:839 config/customizer.php:2568
+#: config/customizer.php:2985 config/customizer.php:3592
+#: config/customizer.php:4268
+msgid "Italic"
+msgstr "Cursiva"
+
+#: config/customizer.php:845 config/customizer.php:2574
+#: config/customizer.php:2991 config/customizer.php:3598
+#: config/customizer.php:4274
+msgid "Underline"
+msgstr "Subrayado"
+
+#: config/customizer.php:851 config/customizer.php:2580
+#: config/customizer.php:2997
+msgid "Overline"
+msgstr "Sobrerayado"
+
+#: config/customizer.php:857 config/customizer.php:2586
+#: config/customizer.php:3003
+msgid "Overline and underline"
+msgstr "Sobrerayar y subrayar"
+
+#: config/customizer.php:884 config/customizer.php:2613
+#: config/customizer.php:3030 config/customizer.php:3625
+#: config/customizer.php:4301
+msgid "Case"
+msgstr ""
+
+#: config/customizer.php:894 config/customizer.php:2623
+#: config/customizer.php:3040 config/customizer.php:3635
+#: config/customizer.php:4311
+msgid "Leave as is"
+msgstr ""
+
+#: config/customizer.php:900 config/customizer.php:2629
+#: config/customizer.php:3046 config/customizer.php:3641
+#: config/customizer.php:4317
+msgid "Capitalize"
+msgstr ""
+
+#: config/customizer.php:906 config/customizer.php:2635
+#: config/customizer.php:3052 config/customizer.php:3647
+#: config/customizer.php:4323
+msgid "Uppercase"
+msgstr ""
+
+#: config/customizer.php:912 config/customizer.php:2641
+#: config/customizer.php:3058 config/customizer.php:3653
+#: config/customizer.php:4329
+msgid "Lowercase"
+msgstr ""
+
+#: config/customizer.php:939 config/customizer.php:2668
+#: config/customizer.php:3085 config/customizer.php:3680
+msgid "Align"
+msgstr "Alineación"
+
+#: config/customizer.php:955 config/customizer.php:1614
+#: config/customizer.php:2684 config/customizer.php:3101
+#: config/customizer.php:3696
+msgid "Center"
+msgstr "Centrado"
+
+#: config/customizer.php:967 config/customizer.php:2696
+#: config/customizer.php:3113 config/customizer.php:3708
+msgid "Justify"
+msgstr "Justificado"
+
+#: config/customizer.php:994 config/customizer.php:2723
+#: config/customizer.php:3140 config/customizer.php:3735
+#: config/customizer.php:3969 config/customizer.php:4356
+msgid "Color"
+msgstr "Color"
+
+#: config/customizer.php:1016
+msgid "Tabs"
+msgstr "Pestañas"
+
+#: config/customizer.php:1045
+msgid "Where to display the tabs."
+msgstr "Dónde mostrar las pestañas."
+
+#: config/customizer.php:1054
+msgid "Top full width"
+msgstr "Arriba con ancho completo"
+
+#: config/customizer.php:1060
+msgid "Top left"
+msgstr "Arriba en la izquierda"
+
+#: config/customizer.php:1066
+msgid "Top center"
+msgstr "Arriba centradas"
+
+#: config/customizer.php:1072
+msgid "Top right"
+msgstr "Arriba a la derecha"
+
+#: config/customizer.php:1123
+msgid "Tabs color"
+msgstr "Color de las pestañas"
+
+#: config/customizer.php:1155
+msgid "Active tab color"
+msgstr "Color de la pestaña activa"
+
+#: config/customizer.php:1403
+msgid "Text color"
+msgstr "Color del texto"
+
+#: config/customizer.php:1435
+msgid "\"About the author\" label"
+msgstr "Texto \"Acerca del autor\""
+
+#: config/customizer.php:1436
+msgid "Text to show as author bio tab label."
+msgstr ""
+
+#: config/customizer.php:1459 config/customizer.php:1477
+#: config/customizer.php:4113 includes/helpers/options.php:263
+#: public/views/parts/html-author-box-related-title.php:18
+#: public/views/parts/html-author-box-tabs.php:45
+msgid "Related posts"
+msgstr "Posts relacionados"
+
+#: config/customizer.php:1468
+msgid "\"Related posts\" label"
+msgstr "Texto \"Posts relacionados\""
+
+#: config/customizer.php:1469
+#, fuzzy
+msgid "Text to show as author related posts tab label"
+msgstr "El orden utilizado para mostrar los artículos relacionados."
+
+#: config/customizer.php:1491 config/customizer.php:4027
+msgid "Template"
+msgstr "Plantilla"
+
+#: config/customizer.php:1519
+msgid "Profile template"
+msgstr "Plantilla para la información de perfil"
+
+#: config/customizer.php:1520
+#, fuzzy
+msgid "The template to be used to render the author profile section."
+msgstr "Plantilla a utilizar para mostrar la author box."
+
+#: config/customizer.php:1529 config/customizer.php:4065
+msgid "Template 1"
+msgstr "Plantilla 1"
+
+#: config/customizer.php:1535 config/customizer.php:4071
+msgid "Template 2"
+msgstr "Plantilla 2"
+
+#: config/customizer.php:1541 config/customizer.php:4077
+msgid "Template 3"
+msgstr "Plantilla 3"
+
+#: config/customizer.php:1547
+msgid "Template 4"
+msgstr "Plantilla 4"
+
+#: config/customizer.php:1553
+msgid "Template 5"
+msgstr "Plantilla 5"
+
+#: config/customizer.php:1559
+msgid "Template 6"
+msgstr "Plantilla 6"
+
+#: config/customizer.php:1565
+msgid "Template 7"
+msgstr "Plantilla 7"
+
+#: config/customizer.php:1571
+msgid "Template 8"
+msgstr "Plantilla 8"
+
+#: config/customizer.php:1598
+#, fuzzy
+msgid "Alignment"
+msgstr "Alineación"
+
+#: config/customizer.php:1599
+#, fuzzy
+msgid "Content vertical alignment"
+msgstr "Alineación del título"
+
+#: config/customizer.php:1638 config/customizer.php:1656
+#: includes/helpers/options.php:266
+msgid "Author profile"
+msgstr "Perfil del autor"
+
+#: config/customizer.php:1647 config/customizer.php:4104
+msgid "Section label"
+msgstr ""
+
+#: config/customizer.php:1700
+msgid "Bottom background color"
+msgstr "Color de fondo de la base"
+
+#: config/customizer.php:1701
+msgid ""
+"The color used to fill the background of the bottom section on a \"ribbon\" "
+"layout."
+msgstr ""
+"El color de fondo a utilizar para colorear la barra inferior de la plantilla "
+"tipo \"Ribbon\"."
+
+#: config/customizer.php:1732
+#, fuzzy
+msgid "Bottom border style"
+msgstr "Borde superior pie %s"
+
+#: config/customizer.php:1793
+#, fuzzy
+msgid "Bottom border width"
+msgstr ""
+"Grosor del borde de la barra inferior (sólo para la disposición \"tabbed\" "
+"de la caja)."
+
+#: config/customizer.php:1794
+#, fuzzy
+msgid ""
+"Width of the border to add at the top of bottom section on a \"ribbon\" "
+"layout."
+msgstr ""
+"El ancho del borde superior de la barra inferior de la plantilla tipo "
+"\"Ribbon\"."
+
+#: config/customizer.php:1829
+msgid "Bottom border color"
+msgstr "Color del borde de la base"
+
+#: config/customizer.php:1851
+msgid "Avatar"
+msgstr "Avatar"
+
+#: config/customizer.php:1880
+#, fuzzy
+msgid "Whether to show the author avatar."
+msgstr ""
+"Incluir a los autores invitados en los elementos sobre los que realizar una "
+"búsqueda global."
+
+#: config/customizer.php:1926
+#, fuzzy
+msgid "Image Source"
+msgstr "Borde de la imagen"
+
+#: config/customizer.php:1927
+msgid "Where to retrieve the image from."
+msgstr ""
+
+#: config/customizer.php:1936
+msgid "Local"
+msgstr ""
+
+#: config/customizer.php:1948 config/customizer.php:1995
+#, fuzzy
+msgid "Acronym"
+msgstr "Acrónimo del autor"
+
+#: config/customizer.php:1979
+#, fuzzy
+msgid "Fallback"
+msgstr "Opinar"
+
+#: config/customizer.php:1980
+msgid "What to display if no local profile image available?"
+msgstr ""
+
+#: config/customizer.php:2001
+msgid "Nothing"
+msgstr ""
+
+#: config/customizer.php:2032
+#, fuzzy
+msgid "Default Gravatar"
+msgstr "Imagen por defecto"
+
+#: config/customizer.php:2033
+msgid "What default image to display if no Gravatar found."
+msgstr ""
+
+#: config/customizer.php:2042
+msgid "A simple, cartoon-style silhouetted outline of a person"
+msgstr ""
+
+#: config/customizer.php:2048
+msgid "A geometric pattern based on an email hash"
+msgstr ""
+
+#: config/customizer.php:2054
+msgid "A generated 'monster' with different colors, faces, etc."
+msgstr ""
+
+#: config/customizer.php:2060
+msgid "A generated face with differing features and backgrounds"
+msgstr ""
+
+#: config/customizer.php:2066
+msgid "An awesome generated, 8-bit arcade-style pixelated face"
+msgstr ""
+
+#: config/customizer.php:2072
+msgid "A generated robot with different colors, faces, etc."
+msgstr ""
+
+#: config/customizer.php:2078
+msgid "Blank. A transparent PNG image"
+msgstr ""
+
+#: config/customizer.php:2084
+msgid "A random option will be picked for each author"
+msgstr ""
+
+#: config/customizer.php:2116
+msgid ""
+"Avatar image width in pixels. If bigger than actual image's width, image's "
+"width is taken. Square images take the lower value from given size values "
+"(width and height). You might need/consider to regenerate thumbnails."
+msgstr ""
+
+#: config/customizer.php:2150
+#, fuzzy
+msgid "Height"
+msgstr "Derecha"
+
+#: config/customizer.php:2151
+msgid ""
+"Avatar image height in pixels. If bigger than actual image's height, image's "
+"height is taken. Square images take the lower value from given size values "
+"(width and height). You might need/consider to regenerate thumbnails."
+msgstr ""
+
+#: config/customizer.php:2185
+msgid "Shape"
+msgstr "Forma"
+
+#: config/customizer.php:2186
+#, fuzzy
+msgid "Whether and how to shape the author avatar."
+msgstr ""
+"Forma que dar a la imagen de perfil del autor dentro de la caja de autor."
+
+#: config/customizer.php:2201
+msgid "Rounded"
+msgstr "Redondeada"
+
+#: config/customizer.php:2207 config/customizer.php:3900
+msgid "Circled"
+msgstr "Redonda"
+
+#: config/customizer.php:2363
+#, fuzzy
+msgid " Font color"
+msgstr "Color de la biografía"
+
+#: config/customizer.php:2427 config/customizer.php:2755
+msgid "Link to archive"
+msgstr ""
+
+#: config/customizer.php:2428
+msgid "Whether to make the author avatar link to the author's archive page."
+msgstr ""
+
+#: config/customizer.php:2428
+msgid ""
+"Whether to make the author avatar link to the author's archive page. "
+"Regardless of this setting being enabled, the author avatar might not become "
+"a link. i.e. When author archive pages are disabled."
+msgstr ""
+
+#: config/customizer.php:2437 config/customizer.php:2768
+msgid "Link"
+msgstr "Enlazar"
+
+#: config/customizer.php:2443 config/customizer.php:2774
+msgid "No link"
+msgstr "No enlazar"
+
+#: config/customizer.php:2460 includes/class-guest.php:298
+msgid "Name"
+msgstr "Nombre"
+
+#: config/customizer.php:2756
+msgid "Whether to make the author name link to the author's archive page."
+msgstr ""
+
+#: config/customizer.php:2756
+msgid ""
+"Whether to make the author name link to the author's archive page. "
+"Regardless of this setting being enabled, the author name might not become a "
+"link. i.e. When author archive pages are disabled."
+msgstr ""
+
+#: config/customizer.php:2798
+msgid "Remove inherited underline"
+msgstr ""
+
+#: config/customizer.php:2799
+msgid ""
+"Whether to (try to) remove the underline added by your theme or any other "
+"third plugin."
+msgstr ""
+
+#: config/customizer.php:2811
+#, fuzzy
+msgid "Keep as is"
+msgstr "¿Guardar información?"
+
+#: config/customizer.php:2817
+#, fuzzy
+msgid "Remove it"
+msgstr "Borrar"
+
+#: config/customizer.php:2831 config/options.php:1013
+msgid "Metadata"
+msgstr "Metadata"
+
+#: config/customizer.php:2860
+#, fuzzy
+msgid "Whether to show the author metadata."
+msgstr ""
+"Incluir a los autores invitados en los elementos sobre los que realizar una "
+"búsqueda global."
+
+#: config/customizer.php:3172
+msgid "\"at\" label"
+msgstr ""
+
+#: config/customizer.php:3173
+msgid "Text to show between author's job position and company."
+msgstr ""
+
+#: config/customizer.php:3181 includes/helpers/options.php:256
+#: public/views/parts/html-author-box-meta.php:43
+msgid "at"
+msgstr "en"
+
+#: config/customizer.php:3205
+msgid "\"Website\" label"
+msgstr ""
+
+#: config/customizer.php:3206
+msgid "Text to show as link name to author's personal website."
+msgstr ""
+
+#: config/customizer.php:3238
+msgid "\"+ posts\" label"
+msgstr ""
+
+#: config/customizer.php:3239
+msgid ""
+"Text to show as toggle button to display author's related posts when "
+"displaying author bio."
+msgstr ""
+
+#: config/customizer.php:3247 includes/helpers/options.php:258
+#: public/views/parts/html-author-box-meta.php:96
+#: public/views/parts/html-author-box-meta.php:115
+msgid "+ posts"
+msgstr "+ posts"
+
+#: config/customizer.php:3271
+msgid "\"Bio\" label"
+msgstr ""
+
+#: config/customizer.php:3272
+msgid ""
+"Text to show as toggle button to display author's bio when displaying "
+"related posts."
+msgstr ""
+
+#: config/customizer.php:3280 includes/class-guest.php:300
+#: includes/helpers/options.php:259
+#: public/views/parts/html-author-box-meta.php:96
+msgid "Bio"
+msgstr "Biografía"
+
+#: config/customizer.php:3304
+msgid "Separator"
+msgstr "Separador"
+
+#: config/customizer.php:3305
+msgid "Character used to separate author meta data information"
+msgstr ""
+
+#: config/customizer.php:3315
+msgid "|"
+msgstr ""
+
+#: config/customizer.php:3322
+msgid "||"
+msgstr ""
+
+#: config/customizer.php:3329
+msgid "/"
+msgstr ""
+
+#: config/customizer.php:3336
+msgid "//"
+msgstr ""
+
+#: config/customizer.php:3343 config/customizer.php:3357
+msgid "–"
+msgstr ""
+
+#: config/customizer.php:3350
+msgid "--"
+msgstr ""
+
+#: config/customizer.php:3364
+msgid "·"
+msgstr ""
+
+#: config/customizer.php:3371
+msgid "•"
+msgstr ""
+
+#: config/customizer.php:3378
+msgid ">"
+msgstr ""
+
+#: config/customizer.php:3385
+msgid ">>"
+msgstr ""
+
+#: config/customizer.php:3392
+msgid "~"
+msgstr ""
+
+#: config/customizer.php:3399
+msgid "*"
+msgstr ""
+
+#: config/customizer.php:3406
+msgid "⇄"
+msgstr ""
+
+#: config/customizer.php:3413
+msgid "⊥"
+msgstr ""
+
+#: config/customizer.php:3420
+msgid "⋄"
+msgstr ""
+
+#: config/customizer.php:3427
+msgid "Line break"
+msgstr ""
+
+#: config/customizer.php:3448 includes/class-guest.php:766
+msgid "Biography"
+msgstr "Biografía"
+
+#: config/customizer.php:3534
+msgid "Line height"
+msgstr ""
+
+#: config/customizer.php:3767
+#, fuzzy
+msgid "Content"
+msgstr "Sobre el contenido"
+
+#: config/customizer.php:3768
+msgid ""
+"Whether to display short or full bio in the author box. Full bio will be "
+"displayed on author archive pages if your theme supports it."
+msgstr ""
+
+#: config/customizer.php:3777
+msgid "Full"
+msgstr ""
+
+#: config/customizer.php:3783
+#, fuzzy
+msgid "Short"
+msgstr "Shortcodes"
+
+#: config/customizer.php:3804 config/customizer.php:3832
+msgid "Social icons"
+msgstr "Iconos de redes sociales"
+
+#: config/customizer.php:3833
+msgid "Whether to show social media icons."
+msgstr "Permite mostrar u ocultar los iconos de las redes sociales."
+
+#: config/customizer.php:3894
+msgid "Squared"
+msgstr "Cuadrada"
+
+#: config/customizer.php:3906
+msgid "Boxed"
+msgstr "Encuadrada"
+
+#: config/customizer.php:3912
+msgid "Branded"
+msgstr "Originales"
+
+#: config/customizer.php:3918
+msgid "Branded squared"
+msgstr "Coloreado encuadrado"
+
+#: config/customizer.php:3924
+msgid "Branded squared reverse"
+msgstr "Coloreado encuadrado inverso"
+
+#: config/customizer.php:3930
+msgid "Branded circled"
+msgstr "Coloreado redondeado"
+
+#: config/customizer.php:3936
+msgid "Branded circled reverse"
+msgstr "Coloreado redondeado inverso"
+
+#: config/customizer.php:3942
+msgid "Branded boxed"
+msgstr "Coloreado enmarcado"
+
+#: config/customizer.php:4001
+msgid "Font size"
+msgstr "Tamaño de letra"
+
+#: config/customizer.php:4055
+msgid "Related entries template"
+msgstr ""
+
+#: config/customizer.php:4056
+msgid "The template to be used to render related entries section."
+msgstr ""
+
+#: config/customizer.php:4105
+msgid ""
+"If you have the Pro version of the plugin, you can use {author_name} (curly "
+"brackets included) in your string. It will be replaced by the actual author "
+"name on the frontend."
+msgstr ""
+
+#: config/customizer.php:4137
+msgid "\"No related posts found\" label"
+msgstr ""
+
+#: config/customizer.php:4138
+msgid "Text to display when no related entries are found."
+msgstr ""
+
+#: config/customizer.php:4146 customizer/plugin-customizer-preview.php:99
+#: includes/helpers/options.php:270 public/views/html-author-box-layout.php:167
+#: public/views/html-author-box-profile-layout-1.php:97
+#: public/views/html-multiauthor-box-layout.php:135
+msgid "This author does not have any more posts."
+msgstr "Este autor no ha escrito más artículos."
+
+#: config/customizer.php:4160 includes/class-guest.php:308
+#: includes/class-user.php:138
+msgid "Entries"
+msgstr "Entradas"
+
+#: config/options.php:39
+msgid "Main"
+msgstr "General"
+
+#: config/options.php:47
+msgid "Personalize Molongui Authorship. Settings that make it yours."
+msgstr ""
+
+#: config/options.php:63
+msgid "Features"
+msgstr "Características"
+
+#: config/options.php:68 config/options.php:69 config/options.php:198
+#: config/options.php:199 config/options.php:268 config/options.php:269
+#: config/options.php:317 config/options.php:318 config/options.php:391
+#: config/options.php:392 config/options.php:442 config/options.php:443
+#: config/options.php:516 config/options.php:517 config/options.php:624
+#: config/options.php:625 config/options.php:761 config/options.php:762
+#: config/options.php:869 config/options.php:870 config/options.php:1018
+#: config/options.php:1019 config/options.php:1063 config/options.php:1064
+#: config/options.php:1115 config/options.php:1116 config/options.php:1205
+#: config/options.php:1206 config/options.php:1353 config/options.php:1354
+#: config/options.php:1404 config/options.php:1405 config/options.php:1486
+#: config/options.php:1487 config/options.php:1536 config/options.php:1537
+#: config/options.php:1609 config/options.php:1610 config/options.php:1739
+#: config/options.php:1740 config/options.php:1780 config/options.php:1781
+#: config/options.php:1821 config/options.php:1822 config/options.php:1894
+#: config/options.php:1895 config/options.php:1975 config/options.php:1976
+#: config/options.php:2056 config/options.php:2057 config/options.php:2141
+#: config/options.php:2142 config/options.php:2191 config/options.php:2192
+#, fuzzy
+msgid "Save Settings"
+msgstr "Configuración"
+
+#: config/options.php:88
+#, php-format
+msgid ""
+"Enable %sco-authoring%s to be able to add more than one author to a post"
+msgstr ""
+
+#: config/options.php:103
+#, php-format
+msgid ""
+"%sAdd content from other authors to your site and easily credit them by "
+"changing post author.%s %sJust add a new post, paste content and change post "
+"author accordingly.%s %sGuest authors are just names. They doesn't have "
+"access to your Dashboard, so you don't have to worry about managing them.%s"
+msgstr ""
+
+#: config/options.php:104
+#, php-format
+msgid ""
+"Enable %sguest posting%s to be able to add non-registered users as post "
+"author"
+msgstr ""
+
+#: config/options.php:119
+#, php-format
+msgid ""
+"%sAuthor boxes are a great way to credit authors for their work.%s "
+"%sCustomize how they look like so they integrate nicely on your site.%s "
+"%sAnd easily configure how and when to display them.%s"
+msgstr ""
+
+#: config/options.php:120
+#, php-format
+msgid ""
+"Enable %sauthor boxes%s to properly credit authors for their work displaying "
+"their information on your posts"
+msgstr ""
+
+#: config/options.php:136
+#, php-format
+msgid ""
+"%sStop depending on Gravatar to display author pictures.%s %sEnabling this "
+"setting allows you to upload custom images as author avatars.%s %sThis "
+"setting does not disable Gravatar. In fact, it can still be used as fallback "
+"if no local avatar is provided.%s"
+msgstr ""
+
+#: config/options.php:137
+#, php-format
+msgid ""
+"Enable %slocal avatars%s to be able to upload custom images as author "
+"profile avatars"
+msgstr ""
+
+#: config/options.php:152
+#, php-format
+msgid ""
+"%sEnabling this setting additional fields are added to the user profile page."
+"%s %sMost of them can be displayed on the author box and other public places."
+"%s"
+msgstr ""
+
+#: config/options.php:153
+msgid ""
+"Enhance user profile adding extra fields like short bio, phone, company, "
+"social links and others"
+msgstr ""
+
+#: config/options.php:167
+msgid ""
+"Enhance the search function to give visitors more relevant search results "
+"and a better user experience allowing them to search content by author "
+"display name."
+msgstr ""
+
+#: config/options.php:170 config/options.php:171 config/options.php:242
+#: config/options.php:243 config/options.php:289 config/options.php:290
+#: config/options.php:365 config/options.php:366 config/options.php:414
+#: config/options.php:415 config/options.php:465 config/options.php:466
+#: config/options.php:733 config/options.php:734 config/options.php:818
+#: config/options.php:819 config/options.php:841 config/options.php:842
+#: config/options.php:1154 config/options.php:1155 config/options.php:1376
+#: config/options.php:1377 config/options.php:1508 config/options.php:1509
+#: config/options.php:1558 config/options.php:1559 config/options.php:1711
+#: config/options.php:1712 config/options.php:1843 config/options.php:1844
+#: config/options.php:1949 config/options.php:1950 config/options.php:2030
+#: config/options.php:2031 config/options.php:2115 config/options.php:2116
+#: config/options.php:2163 config/options.php:2164 config/options.php:2290
+#: config/options.php:2291 config/options.php:2544 config/options.php:2545
+#: config/options.php:2586 config/options.php:2587 config/options.php:2608
+#: config/options.php:2609 config/options.php:2630 config/options.php:2631
+#, fuzzy
+msgid "Upgrade"
+msgstr "Actualizar"
+
+#: config/options.php:193
+#, fuzzy
+msgid "Post Types"
+msgstr "Tipos de post"
+
+#: config/options.php:221
+msgid "Select those post types where plugin features will be enabled on."
+msgstr ""
+
+#: config/options.php:221
+#, php-format
+msgid ""
+"Select those post types where plugin features will be enabled on. By "
+"default, they are enabled on %sPosts%s and %sPages%s."
+msgstr ""
+
+#: config/options.php:237
+msgid "Enable plugin features on other post types"
+msgstr ""
+
+#: config/options.php:238
+msgid ""
+"Need guest authors, co-authors or author box in articles, projects, products "
+"or any other custom post type? Upgrade now!"
+msgstr ""
+
+#: config/options.php:263
+#, fuzzy
+msgid "User Roles"
+msgstr "Usuarios"
+
+#: config/options.php:286
+#, php-format
+msgid ""
+"Select which user roles to take to populate authors dropdown selector. Even "
+"custom user roles are supported. %sBy default, %sadministrator%s, %seditor"
+"%s, %sauthor%s and %scontributor%s roles are enabled."
+msgstr ""
+
+#: config/options.php:312
+#, fuzzy
+msgid "Social Networks"
+msgstr "Redes sociales"
+
+#: config/options.php:340
+msgid ""
+"Select those social networks you want to enable. You can select as many as "
+"you wish."
+msgstr ""
+
+#: config/options.php:343
+#, php-format
+msgid ""
+"%sThere are a ton of social networks. To avoid clutter, select those you "
+"want to enable.%s %sYou can select as many as you wish. And you can filter "
+"displayed list by typing the name of the network you are looking for.%s "
+"%sAnd if you find one missing, you can request us to include it.%s %s"
+msgstr ""
+
+#: config/options.php:343
+#, fuzzy, php-format
+msgid "%sDisabled options are only available in %sMolongui Authorship Pro%s%s"
+msgstr "Esta opción está disponible sólo en la %sversión Premium%s del plugin."
+
+#: config/options.php:360
+msgid "Need to enable any of those disabled listed networks?"
+msgstr ""
+
+#: config/options.php:361
+msgid ""
+"Disabled networks are only available in Molongui Authorship Pro. Upgrade now!"
+msgstr ""
+
+#: config/options.php:386
+msgid "Spam Protection"
+msgstr ""
+
+#: config/options.php:409
+msgid ""
+"Display plain author email and phone without worrying about them getting "
+"spammed."
+msgstr ""
+
+#: config/options.php:410
+msgid "Encode sensitive information to make it unreadable for SPAM bots."
+msgstr ""
+
+#: config/options.php:437
+#, fuzzy
+msgid "Interface"
+msgstr "Integración"
+
+#: config/options.php:462
+#, php-format
+msgid ""
+"Move 'Guest Authors' menu item to place it under %sUsers%s, %sPosts%s or "
+"%sPages%s menu."
+msgstr ""
+
+#: config/options.php:487 includes/class-guest.php:517
+#: includes/class-guest.php:801 includes/class-post.php:1706
+#: includes/class-user.php:143
+msgid "Author Box"
+msgstr "Caja de Autor"
+
+#: config/options.php:495
+msgid "Let your readers learn more about authors on your site at a glance."
+msgstr ""
+
+#: config/options.php:511
+msgid "Styling"
+msgstr "Estilos"
+
+#: config/options.php:536
+#, php-format
+msgid ""
+"%sYou can provide a CSS class you want to be added to the author box. %sThis "
+"is useful if you need to add some custom styling to the author box or "
+"overwrite a default value.%s %sRemember that CSS selectors are generally "
+"case-insensitive.%s"
+msgstr ""
+
+#: config/options.php:537
+#, php-format
+msgid "Add this custom CSS class to the author box container: %s"
+msgstr ""
+
+#: config/options.php:552
+#, php-format
+msgid ""
+"%sAuthor boxes are fully customizable. All the settings you need to make "
+"them fit your likings and website style are available in the %sWordPress "
+"Customizer%s.%s %sIf you prefer to style it from scratch coding your own "
+"stylesheets, you can disable the load of the provided styles and settings.%s"
+msgstr ""
+
+#: config/options.php:559
+msgid ""
+"I want to visually and easily style my author box using WordPress Customizer"
+msgstr ""
+
+#: config/options.php:564
+msgid ""
+"I'm a skilled developer and I prefer to provide my own styles. Don't load "
+"plugin CSS files."
+msgstr ""
+
+#: config/options.php:581 config/options.php:994
+msgid "Click to open WordPress Customizer"
+msgstr ""
+
+#: config/options.php:582
+#, fuzzy
+msgid "Customize author box styles"
+msgstr "Estilos de la caja de autor"
+
+#: config/options.php:597
+msgid "REMEMBER!"
+msgstr ""
+
+#: config/options.php:598
+msgid ""
+"Not loading the provided author box styles requires you to provide your own "
+"stylesheet. To do so you can use the 'Custom CSS' setting available at the "
+"WordPress Customizer or a child theme."
+msgstr ""
+
+#: config/options.php:657
+msgid "Click to learn more"
+msgstr ""
+
+#: config/options.php:658
+msgid ""
+"Settings below might get overridden by more specific post or author settings"
+msgstr ""
+
+#: config/options.php:676
+#, fuzzy, php-format
+msgid "Automatically display the author box %s"
+msgstr "Dónde mostrar la caja de autor"
+
+#: config/options.php:682
+#, fuzzy
+msgid "only on Posts"
+msgstr "Sólo en posts"
+
+#: config/options.php:687
+#, fuzzy
+msgid "only on Pages"
+msgstr "Sólo en páginas"
+
+#: config/options.php:692
+msgid "on those post types configured on the 'Main' tab"
+msgstr ""
+
+#: config/options.php:697
+msgid "nowhere. I will configure author box display on a per post basis"
+msgstr ""
+
+#: config/options.php:715
+#, fuzzy
+msgid "Hide the author box if there is no author bio info to show."
+msgstr ""
+"Ocultar la caja si el autor no tiene información biográfica que mostrar."
+
+#: config/options.php:728
+msgid ""
+"Prevent to add the author box on post categories where it shouldn't be "
+"displayed."
+msgstr ""
+
+#: config/options.php:756
+msgid "Placement"
+msgstr "Localización"
+
+#: config/options.php:781
+#, fuzzy, php-format
+msgid "Display the author box %s the post content."
+msgstr "¿Mostrar la caja de autor en este post?"
+
+#: config/options.php:787
+#, fuzzy
+msgid "above"
+msgstr "Arriba"
+
+#: config/options.php:792
+#, fuzzy
+msgid "below"
+msgstr "Abajo"
+
+#: config/options.php:797
+#, fuzzy
+msgid "above and below"
+msgstr "Antes y después del contenido"
+
+#: config/options.php:813
+msgid ""
+"Push the author box higher/lower so it gets displayed before/after other "
+"added post widgets."
+msgstr ""
+
+#: config/options.php:814
+msgid "This helps ordering content added by third-party plugins."
+msgstr ""
+
+#: config/options.php:836
+msgid "Display the author box anywhere: Custom post types, Sidebar, Footer..."
+msgstr ""
+
+#: config/options.php:837
+msgid "Easy-to-use shortcode with many customization attributes."
+msgstr ""
+
+#: config/options.php:890
+#, php-format
+msgid ""
+"%sSometimes you may want to display some text just above the author box.%s "
+"%sSomething like: %sAbout the author%s%s %sActivate this setting to add a "
+"heading to your author box and fully customize it using WordPress Customizer."
+"%s"
+msgstr ""
+
+#: config/options.php:893
+#, fuzzy
+msgid "Display a fully customizable heading above the author box"
+msgstr "Mostrar el email de forma pública en la caja de autor."
+
+#: config/options.php:910
+#, php-format
+msgid ""
+"%sDifferent author box layouts to choose from.%s %sGet to know how each one "
+"looks like on your site using the Customizer's live preview.%s"
+msgstr ""
+
+#: config/options.php:913
+#, fuzzy, php-format
+msgid "Use the %s layout to display the author box."
+msgstr "Dónde mostrar la caja de autor"
+
+#: config/options.php:919
+msgid "slim"
+msgstr ""
+
+#: config/options.php:924
+#, fuzzy
+msgid "tabbed"
+msgstr "Pestañas"
+
+#: config/options.php:929
+msgid "stacked"
+msgstr ""
+
+#: config/options.php:947
+#, php-format
+msgid "On co-authored posts, display author bio information in %s"
+msgstr ""
+
+#: config/options.php:953
+msgid "one single box"
+msgstr ""
+
+#: config/options.php:958
+msgid "as many author boxes as authors"
+msgstr ""
+
+#: config/options.php:978
+#, php-format
+msgid ""
+"%sAs other plugins may also add their stuff to post content, the author box "
+"might be displayed somewhere different than expected. Making the plugin to "
+"add the author box before that third-party content (lowering the priority "
+"number) should move the box up, while adding it later (increasing the "
+"priority number) should move the box down.%s %sA value below 10 may cause "
+"issues with your content.%s"
+msgstr ""
+
+#: config/options.php:979
+#, php-format
+msgid ""
+"Display the responsive layout version of the author box for screens up to %s "
+"px wide."
+msgstr ""
+
+#: config/options.php:995
+msgid "Open Live-Preview Author Box Customizer"
+msgstr ""
+
+#: config/options.php:1039
+#, php-format
+msgid ""
+"%sDisplay author job position, company, telephone, email and other available "
+"author details in a line below the author name.%s %sYou can style that "
+"metadata line using WordPress Customizer.%s"
+msgstr ""
+
+#: config/options.php:1042
+#, fuzzy
+msgid "Display author details like job position and company in the author box."
+msgstr "Mostrar el email de forma pública en la caja de autor."
+
+#: config/options.php:1058
+#, fuzzy
+msgid "Social Links"
+msgstr "Iconos de redes sociales"
+
+#: config/options.php:1081
+#, fuzzy, php-format
+msgid "Open social links on %s"
+msgstr "Color iconos %s"
+
+#: config/options.php:1087
+msgid "the same browser tab"
+msgstr ""
+
+#: config/options.php:1092
+msgid "a new tab"
+msgstr ""
+
+#: config/options.php:1110
+#, fuzzy
+msgid "Related Posts"
+msgstr "Posts relacionados"
+
+#: config/options.php:1135
+#, fuzzy
+msgid "Display related posts from the same author within the author box."
+msgstr "Número de artículos relacionados que mostrar."
+
+#: config/options.php:1149
+msgid ""
+"Configure which related posts are displayed to provide more relevant content "
+"and a better user experience."
+msgstr ""
+
+#: config/options.php:1150
+msgid ""
+"Select which (custom) post types to retrieve, how many to display and how to "
+"order and sort them."
+msgstr ""
+
+#: config/options.php:1176
+msgid "Byline"
+msgstr ""
+
+#: config/options.php:1184
+msgid "Configure bylines to your needs."
+msgstr ""
+
+#: config/options.php:1200
+#, fuzzy
+msgid "Author Name"
+msgstr "Nombre del autor"
+
+#: config/options.php:1226
+#, php-format
+msgid ""
+"%sThe byline on a post gives the name of the people who contributed to write "
+"it.%s %sWhen a post is written by one single person, that person's name is "
+"the one displayed on the post byline. However, on co-authored posts you have "
+"the option to choose how author names are displayed.%s"
+msgstr ""
+
+#: config/options.php:1230
+#, php-format
+msgid "On co-authored posts display %s"
+msgstr ""
+
+#: config/options.php:1236
+#, fuzzy
+msgid "all authors names"
+msgstr "Nombre del autor"
+
+#: config/options.php:1241
+msgid "only the name of the main author"
+msgstr ""
+
+#: config/options.php:1246
+msgid "main author name and remaining authors count as number"
+msgstr ""
+
+#: config/options.php:1251
+msgid "first 2 authors names and remaining authors count as number"
+msgstr ""
+
+#: config/options.php:1256
+msgid "first 3 authors names and remaining authors count as number"
+msgstr ""
+
+#: config/options.php:1274 config/options.php:1291
+#, php-format
+msgid ""
+"%sYou can provide any word, string or symbol except these symbols: %s?%s %s/"
+"%s %s*%s.%s %sAny question mark, slash and asterisk you provide will be "
+"removed.%s"
+msgstr ""
+
+#: config/options.php:1275
+#, fuzzy, php-format
+msgid "As delimiter to separate multiple authors names, use: %s"
+msgstr "El color usado en el texto del nombre del autor."
+
+#: config/options.php:1292
+#, php-format
+msgid "As delimiter to separate last two authors names, use: %s"
+msgstr ""
+
+#: config/options.php:1309
+#, php-format
+msgid ""
+"%sThemes normally make author name on bylines to link to that author's "
+"archive page. That's standard behavior so everyone expects it to work like "
+"that.%s %sHowever, Molongui Authorship allows you to disable that feature "
+"preventing author names to be a link.%s"
+msgstr ""
+
+#: config/options.php:1312
+#, fuzzy
+msgid "Make the author name link to the author archive page"
+msgstr ""
+"Plantilla que usar para mostrar el archivo de entradas de un autor invitado."
+
+#: config/options.php:1329
+msgid ""
+"Your theme or third-party plugin might prevent this setting to work. If "
+"disabled, the whole byline will link to the main author archive page."
+msgstr ""
+
+#: config/options.php:1332
+#, php-format
+msgid ""
+"On co-authored posts, make each author name link to its author archive page "
+"%sMight not always work!%s"
+msgstr ""
+
+#: config/options.php:1348
+#, fuzzy
+msgid "Modifiers"
+msgstr "Fecha modificación"
+
+#: config/options.php:1371
+#, php-format
+msgid ""
+"Customize bylines by adding custom strings to the beginning %se.g. 'Written "
+"by'%s or to the end %se.g. 'et al.'%s of it."
+msgstr ""
+
+#: config/options.php:1372
+msgid ""
+"HTML markup is accepted, so you can add your own styles and custom elements."
+msgstr ""
+
+#: config/options.php:1399
+#, fuzzy
+msgid "Template Tags"
+msgstr "Plantilla 1"
+
+#: config/options.php:1423
+#, php-format
+msgid ""
+"%sFully customized and functional bylines can be achieved using the provided "
+"template tags.%s %sIt requires coding skills, but using them is the best way "
+"to go in order to avoid byline issues (e.g., wrong author name being "
+"displayed).%s %sSome parameters can be provided to the template tags so "
+"bylines can be fully localized and customized with custom HTML markup and "
+"CSS styles.%s"
+msgstr ""
+
+#: config/options.php:1424
+#, fuzzy
+msgid "Enable Template Tags"
+msgstr "Plantilla 1"
+
+#: config/options.php:1439
+msgid "Click to open Plugin Docs"
+msgstr ""
+
+#: config/options.php:1440
+msgid "Check out Template Tags documentation"
+msgstr ""
+
+#: config/options.php:1457
+#, fuzzy
+msgid "Author Archives"
+msgstr "Perfil del autor"
+
+#: config/options.php:1465
+msgid ""
+"Customize those pages listing all content written by a given author. Hassle-"
+"Free."
+msgstr ""
+
+#: config/options.php:1481
+#, fuzzy
+msgid "Guest Author Archive"
+msgstr "Perfil del autor"
+
+#: config/options.php:1504
+msgid ""
+"Give your guest authors the credit they deserve with Guest Archive Pages."
+msgstr ""
+
+#: config/options.php:1505
+msgid "Just like User Archives. Same layout, same styles."
+msgstr ""
+
+#: config/options.php:1531
+#, fuzzy
+msgid "Registered User Archive"
+msgstr "Usuarios registrados"
+
+#: config/options.php:1554
+msgid "Easily configure User Pages to your needs."
+msgstr ""
+
+#: config/options.php:1555
+msgid ""
+"Disable them and configure redirection. Change template and permalink. "
+"Include pages and custom post types. Customize page title."
+msgstr ""
+
+#: config/options.php:1580
+msgid "SEO"
+msgstr "SEO"
+
+#: config/options.php:1588
+msgid "Easily include your authors in your SEO strategy."
+msgstr ""
+
+#: config/options.php:1604
+#, fuzzy
+msgid "Author Tags"
+msgstr "Autores"
+
+#: config/options.php:1627
+msgid ""
+"Author meta tags might be useful for rich snippets and SEO. Enabling "
+"settings below might not be required if you already have a dedicated SEO/"
+"Schema plugin that gets the job done."
+msgstr ""
+
+#: config/options.php:1645
+#, php-format
+msgid "Add %sname='author'%s meta tags."
+msgstr ""
+
+#: config/options.php:1660
+msgid "Opengraph meta tags might help your site improve SEO ratings."
+msgstr ""
+
+#: config/options.php:1661
+#, fuzzy
+msgid "Add Opengraph meta tags."
+msgstr "Añadir Open Graph"
+
+#: config/options.php:1676
+msgid "Facebook tags might help your site improve SEO ratings."
+msgstr ""
+
+#: config/options.php:1677
+#, php-format
+msgid "Add %sproperty='article:author'%s meta tag for Facebook."
+msgstr ""
+
+#: config/options.php:1692
+msgid "Twitter tags might help your site improve SEO ratings."
+msgstr ""
+
+#: config/options.php:1693
+#, php-format
+msgid "Add %sname='twitter:creator'%s meta tag for Twitter."
+msgstr ""
+
+#: config/options.php:1707
+msgid "Configure how to include co-authors information into post meta tags."
+msgstr ""
+
+#: config/options.php:1708
+msgid "Get full control over meta tags to improve your SEO."
+msgstr ""
+
+#: config/options.php:1734
+msgid "Structured Data"
+msgstr ""
+
+#: config/options.php:1759
+msgid ""
+"Add Structured Data/Schema.org Markup to HTML code generated by the plugin."
+msgstr ""
+
+#: config/options.php:1775
+msgid "Links"
+msgstr "Enlaces"
+
+#: config/options.php:1800
+msgid "Add 'nofollow' attribute to social networks links."
+msgstr ""
+
+#: config/options.php:1816
+msgid "Headings"
+msgstr "Títulos"
+
+#: config/options.php:1839
+msgid ""
+"Improve your SEO selecting the HTML tags that best suits your SEO strategy."
+msgstr ""
+
+#: config/options.php:1840
+msgid ""
+"Configure heading tags for author box headline and author box author name."
+msgstr ""
+
+#: config/options.php:1865
+msgid "Compatibility"
+msgstr "Compatibilidad"
+
+#: config/options.php:1873
+msgid ""
+"Most of the issues you might have with the plugin can be easily fixed with "
+"these settings."
+msgstr ""
+
+#: config/options.php:1889
+msgid "Themes"
+msgstr ""
+
+#: config/options.php:1912
+#, php-format
+msgid ""
+"Molongui Authorship plugin works great with just about every theme, "
+"especially with the most popular. Some require tailored functions to achieve "
+"full compatibility, so you need to enable this setting. If you experience "
+"issues with the information displayed on your bylines or anything related to "
+"your authors information, make sure this is enabled. If it is and the issue "
+"persists, please %sopen a support ticket%s with us so we can assist."
+msgstr ""
+
+#: config/options.php:1913
+#, php-format
+msgid ""
+"%sSome themes require this setting to be enabled in order to work properly."
+"%s %sIn case of doubt, keep it enabled.%s"
+msgstr ""
+
+#: config/options.php:1914
+#, fuzzy
+msgid "Enable theme compatibility"
+msgstr "Compatibilidad"
+
+#: config/options.php:1929 config/options.php:2010 config/options.php:2095
+msgid "Click to open a Support Ticket"
+msgstr ""
+
+#: config/options.php:1930 config/options.php:2011 config/options.php:2096
+msgid "Issue persists? Report it"
+msgstr ""
+
+#: config/options.php:1945
+msgid "Need to make your theme work with Molongui Authorship ASAP?"
+msgstr ""
+
+#: config/options.php:1946
+msgid ""
+"Get Premium support to make your theme run smoothly with Molongui Authorship."
+msgstr ""
+
+#: config/options.php:1970
+msgid "Plugins"
+msgstr "Plugins"
+
+#: config/options.php:1993
+#, php-format
+msgid ""
+"Some third plugins require tailored functions to be compatible with Molongui "
+"Authorship, so you need to enable this setting. If you experience issues "
+"related to your authors information, make sure this is enabled. If it is and "
+"the issue persists, please %sopen a support ticket%s with us so we can "
+"assist."
+msgstr ""
+
+#: config/options.php:1994
+#, php-format
+msgid ""
+"%sSome plugins require this setting to be enabled in order to work properly."
+"%s %sIn case of doubt, keep it enabled.%s"
+msgstr ""
+
+#: config/options.php:1995
+#, fuzzy
+msgid "Enable plugin compatibility"
+msgstr "Compatibilidad"
+
+#: config/options.php:2026
+msgid "Want to benefit from Priority?"
+msgstr ""
+
+#: config/options.php:2027
+msgid ""
+"Get elevated levels of support to help you keep your favourite plugins "
+"running smoothly together."
+msgstr ""
+
+#: config/options.php:2051
+msgid "CDN"
+msgstr ""
+
+#: config/options.php:2074
+#, php-format
+msgid ""
+"Messed up author box layout? And you using a CDN? Enable this setting and "
+"clear every cache you might have, including your CDN's. If the issue "
+"persists, please %sopen a support ticket%s with us so we can assist."
+msgstr ""
+
+#: config/options.php:2077
+#, php-format
+msgid ""
+"%sActivate this setting only if you are experiencing issues.%s %sWhen using "
+"a CDN to serve stylesheet files, author box layout might look messed up. "
+"Enabling this setting should fix that.%s"
+msgstr ""
+
+#: config/options.php:2080
+msgid ""
+"Enable CDN compatibility to fix author box layout and make it display nicely."
+msgstr ""
+
+#: config/options.php:2111
+msgid "Need Premium Support?"
+msgstr ""
+
+#: config/options.php:2112
+msgid ""
+"Paid users are given top priority in our support system, with replies to "
+"their support tickets taking precedence."
+msgstr ""
+
+#: config/options.php:2136
+msgid "REST API"
+msgstr ""
+
+#: config/options.php:2159
+msgid ""
+"Allow third-party applications to interact with your posts and authors via "
+"the WordPress REST API."
+msgstr ""
+
+#: config/options.php:2160
+msgid "Expose post co-authors and guest author object."
+msgstr ""
+
+#: config/options.php:2186
+msgid "Misc"
+msgstr ""
+
+#: config/options.php:2213
+#, php-format
+msgid ""
+"%sMany themes add elements to your site without giving the option to disable "
+"them.%s %sNow you can hide unwanted author boxes, byline decorations or "
+"whatever.%s"
+msgstr ""
+
+#: config/options.php:2216
+msgid ""
+"Need to get rid of some elements you don't have the setting to? Provide a "
+"comma-separated list of CSS IDs and/or classes and Molongui Authorship will "
+"prevent them from being displayed on the front-end."
+msgstr ""
+
+#: config/options.php:2233
+#, fuzzy
+msgid "Enable the use of shortcodes in text widgets."
+msgstr "Habilitar en widgets de texto"
+
+#: config/options.php:2248 config/options.php:2272
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: config/options.php:2256
+msgid "Handy shortcodes that will make building your site a lot easier."
+msgstr ""
+
+#: config/options.php:2286
+msgid ""
+"Display author information wherever your design requires. Easy yet highly "
+"flexible and customizable."
+msgstr ""
+
+#: config/options.php:2287
+msgid "A must-have if you use a page builder like Elementor or Divi Builder."
+msgstr ""
+
+#: config/options.php:2309
+#, php-format
+msgid ""
+"Displays an author box anywhere you want. You can customize which author "
+"information to show and how the displayed author box will look like by using "
+"additional attributes. All styling settings can be overridden. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2325
+#, php-format
+msgid ""
+"Displays a list of (all) authors in your site anywhere you want. %sLearn more"
+"%s"
+msgstr ""
+
+#: config/options.php:2341
+#, php-format
+msgid ""
+"Displays a list showing (all the) posts from any given author anywhere you "
+"want. Listed posts can be configured making use of the optional attributes "
+"this shortcode can take. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2357
+#, php-format
+msgid ""
+"Displays the post's byline. Most themes display the byline just below the "
+"title. You can place it anywhere you want using this shortcode. What is "
+"more, customize it by prepending and/or appending any text you like. %sLearn "
+"more%s"
+msgstr ""
+
+#: config/options.php:2373
+#, php-format
+msgid ""
+"Displays the name of the current post author(s) if no attributes are "
+"provided or the name of a given author if you provide the author ID and "
+"author type. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2389
+#, php-format
+msgid ""
+"Displays the slug of the current post author(s) if no attributes are "
+"provided or the slug of a given author if you provide the author ID and "
+"author type. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2405
+#, php-format
+msgid ""
+"Displays the url to the archive page of the current post author(s) if no "
+"attributes are provided or the url to the archive page of a given author if "
+"you provide the author ID and author type. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2421
+#, php-format
+msgid ""
+"Displays the bio of the current post author(s) if no attributes are provided "
+"or the bio of a given author if you provide the author ID and author type. "
+"%sLearn more%s"
+msgstr ""
+
+#: config/options.php:2437
+#, php-format
+msgid ""
+"Displays the email address of the current post author(s) if no attributes "
+"are provided or the email address of a given author if you provide the "
+"author ID and author type. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2453
+#, php-format
+msgid ""
+"Displays the any author meta data of the current post author(s) if no "
+"attributes are provided or any author meta data of a given author if you "
+"provide the author ID and author type. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2469
+#, php-format
+msgid ""
+"Displays the avatar of the current post author(s) if no attributes are "
+"provided or the avatar of a given author if you provide the author ID and "
+"author type. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2485
+#, php-format
+msgid ""
+"Displays a dropdown select listing (all the) authors from your blog. This "
+"shortcode is intended for developers only. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2502
+msgid "Tools"
+msgstr ""
+
+#: config/options.php:2510
+msgid "Convenient tools to easily manage plugin data."
+msgstr ""
+
+#: config/options.php:2526
+#, fuzzy
+msgid "Authorship"
+msgstr "Authorship box"
+
+#: config/options.php:2540
+msgid "1-click easy manage post authorship"
+msgstr ""
+
+#: config/options.php:2541
+msgid "Export, import and reset your posts author configuration. Hasle-free!"
+msgstr ""
+
+#: config/options.php:2567 includes/class-guest.php:158
+msgid "Guest authors"
+msgstr "Autores invitados"
+
+#: config/options.php:2583
+msgid ""
+"Export Guest Authors to have a backup or import them on another installation"
+msgstr ""
+
+#: config/options.php:2604
+msgid "Easily import one or thousands of guest authors with just 1 click"
+msgstr ""
+
+#: config/options.php:2626
+msgid "Remove all existing guest authors at once. Instantly"
+msgstr ""
+
+#: customizer/plugin-customizer-callbacks.php:39
+msgid "You must supply a valid width."
+msgstr ""
+
+#: customizer/plugin-customizer-callbacks.php:43
+msgid "Box width is too small."
+msgstr ""
+
+#: customizer/plugin-customizer-callbacks.php:47
+msgid "Box width cannot be bigger than 100%."
+msgstr ""
+
+#: includes/class-author.php:134
+msgid "No author ID nor author type provided. Please, indicate both values."
+msgstr ""
+
+#: includes/class-author.php:142
+msgid ""
+"No author ID nor author type provided. Please, provide author id and type "
+"when instantiating the Author Class."
+msgstr ""
+
+#: includes/class-author.php:147
+msgid "No author id or author type provided. Please, indicate both values."
+msgstr ""
+
+#: includes/class-author.php:150
+msgid "Wrong id provided. It must be an integer higher than 0."
+msgstr ""
+
+#: includes/class-author.php:156
+msgid "No accepted author type provided. Please, indicate 'user' or 'guest'."
+msgstr ""
+
+#: includes/class-author.php:162
+#, php-format
+msgid "No user exists with the given ID (%s)."
+msgstr ""
+
+#: includes/class-author.php:166
+#, php-format
+msgid "No guest author exists with the given ID (%s)."
+msgstr ""
+
+#: includes/class-author.php:231 includes/class-author.php:337
+#: includes/class-author.php:386 includes/class-author.php:450
+#: includes/class-author.php:582 includes/class-author.php:617
+#, php-format
+msgid "No %s exists with the given ID (%s)."
+msgstr ""
+
+#: includes/class-author.php:231 includes/class-author.php:337
+#: includes/class-author.php:386 includes/class-author.php:450
+#: includes/class-author.php:582 includes/class-author.php:617
+msgid "guest author"
+msgstr "autor invitado"
+
+#: includes/class-author.php:231 includes/class-author.php:337
+#: includes/class-author.php:386 includes/class-author.php:450
+#: includes/class-author.php:582 includes/class-author.php:617
+#: includes/class-post.php:1760
+msgid "user"
+msgstr "usuario"
+
+#: includes/class-author.php:648
+msgid ""
+"Which meta do you want to retrieve? You need to provide a 'key' attribute."
+msgstr ""
+
+#: includes/class-author.php:687
+#, php-format
+msgid "No %s exists for this author (%s)."
+msgstr ""
+
+#: includes/class-guest.php:154
+msgctxt "post type general name"
+msgid "Guest Authors"
+msgstr "Autores Invitados"
+
+#: includes/class-guest.php:155
+msgctxt "post type singular name"
+msgid "Guest Author"
+msgstr "Autor Invitado"
+
+#: includes/class-guest.php:156
+msgid "Guest Authors"
+msgstr "Autores Invitados"
+
+#: includes/class-guest.php:157
+msgid "Guest Author"
+msgstr "Autor Invitado"
+
+#: includes/class-guest.php:158
+msgid "All Guest authors"
+msgstr "Listar todos"
+
+#: includes/class-guest.php:160
+#, fuzzy
+msgid "Add New Guest Author"
+msgstr "Añadir nuevo autor invitado"
+
+#: includes/class-guest.php:161
+#, fuzzy
+msgid "Edit Guest Author"
+msgstr "Editar autor invitado"
+
+#: includes/class-guest.php:162
+#, fuzzy
+msgid "New Guest Author"
+msgstr "Nuevo autor invitado"
+
+#: includes/class-guest.php:163
+#, fuzzy
+msgid "View Guest Author"
+msgstr "Ver autor invitado"
+
+#: includes/class-guest.php:164
+#, fuzzy
+msgid "Search Guest Authors"
+msgstr "Búsqueda de autores invitados"
+
+#: includes/class-guest.php:165
+#, fuzzy
+msgid "No Guest Authors Found"
+msgstr "No se encontraron autores invitados"
+
+#: includes/class-guest.php:166
+#, fuzzy
+msgid "No Guest Authors Found in the Trash"
+msgstr "No hay ningún perfil de autor invitado eliminado"
+
+#: includes/class-guest.php:168 includes/class-guest.php:814
+#, fuzzy
+msgid "Profile Image"
+msgstr "Imagen de perfil"
+
+#: includes/class-guest.php:169
+#, fuzzy
+msgid "Set Profile Image"
+msgstr "Imagen de perfil"
+
+#: includes/class-guest.php:170
+msgid "Remove Profile Pmage"
+msgstr "Borrar imagen"
+
+#: includes/class-guest.php:171
+msgid "Use as Profile Pmage"
+msgstr "Utilizar como imagen de perfil"
+
+#: includes/class-guest.php:297
+msgid "Photo"
+msgstr "Foto"
+
+#: includes/class-guest.php:301
+msgid "Email"
+msgstr "Email"
+
+#: includes/class-guest.php:303
+msgid "URL"
+msgstr "URL"
+
+#: includes/class-guest.php:304
+msgid "Job"
+msgstr "Trabajo"
+
+#: includes/class-guest.php:305
+msgid "Co."
+msgstr "Empresa"
+
+#: includes/class-guest.php:306
+msgid "Co. URL"
+msgstr ""
+
+#: includes/class-guest.php:307
+msgid "Social"
+msgstr "Redes Sociales"
+
+#: includes/class-guest.php:309 includes/class-user.php:147
+msgid "ID"
+msgstr "ID"
+
+#: includes/class-guest.php:756
+msgid "Profile"
+msgstr "Perfil"
+
+#: includes/class-guest.php:778
+#, fuzzy
+msgid "Short Biography"
+msgstr "Biografía"
+
+#: includes/class-guest.php:789
+msgid "Social Media"
+msgstr "Redes sociales"
+
+#: includes/class-guest.php:827
+msgid "Role"
+msgstr ""
+
+#: includes/class-guest.php:1308
+msgid ""
+"There is a registered WordPress user with the same display name. You might "
+"want to address that."
+msgstr ""
+
+#: includes/class-guest.php:1312
+msgid ""
+"There is another guest author with the same display name. You might want to "
+"address that."
+msgstr ""
+
+#: includes/class-guest.php:1316
+msgid ""
+"There is a registered WordPress user and another guest author with the same "
+"display name. You might want to address that."
+msgstr ""
+
+#: includes/class-guest.php:1492
+#, fuzzy
+msgid "No display name provided"
+msgstr "Nombre a mostrar"
+
+#: includes/class-highlights.php:60
+msgid ""
+"Molongui Authorship is probably the most complete suite on all about authors "
+"and authorship. Check below some of its awesome features:"
+msgstr ""
+
+#: includes/class-highlights.php:62
+#, php-format
+msgid ""
+"%sCo-authors%s. Assign multiple authors to your posts. Just locate the "
+"'Authors' module on the right of your post edit screen and start adding "
+"authors."
+msgstr ""
+
+#: includes/class-highlights.php:63
+#, php-format
+msgid ""
+"%sGuest authors%s. Assign guest authors to your posts without creating "
+"WordPress user accounts. Open the 'Guest authors' menu and define your guest "
+"authors."
+msgstr ""
+
+#: includes/class-highlights.php:64
+#, php-format
+msgid ""
+"%sAuthor box%s. Display the author profile in all your posts or just on "
+"those you define. Customize the box to your likings to best fit your site "
+"with %slive-preview%s!."
+msgstr ""
+
+#: includes/class-highlights.php:65 includes/class-highlights.php:67
+#, fuzzy
+msgid "Pro only"
+msgstr "Sólo Premium"
+
+#: includes/class-highlights.php:65
+#, php-format
+msgid ""
+"%sShortcodes%s. Display author boxes on your sidebar or anywhere you like, a "
+"list of authors and contributors of your blog and a list of posts by author."
+msgstr ""
+
+#: includes/class-highlights.php:67
+msgid ""
+"%Pro features%s. More layouts, more styles, more customization settings, "
+"guest author archive pages and Premium support."
+msgstr ""
+
+#: includes/class-highlights.php:77
+#, php-format
+msgid "Thanks for choosing %s plugin!"
+msgstr ""
+
+#: includes/class-highlights.php:87
+msgid "Customizer"
+msgstr ""
+
+#: includes/class-highlights.php:96
+msgid "Settings"
+msgstr "Configuración"
+
+#: includes/class-highlights.php:105
+msgid "Documentation"
+msgstr "Documentación"
+
+#: includes/class-highlights.php:114
+#, fuzzy
+msgid "Go Pro"
+msgstr "Actualizar a Premium"
+
+#: includes/class-highlights.php:139
+msgid ""
+"We have listened to you and we have focused this update on improving the "
+"customization of the author box."
+msgstr ""
+
+#: includes/class-highlights.php:141
+#, php-format
+msgid ""
+"The author box can be now customized with %slive preview%s from the "
+"WordPress Customizer."
+msgstr ""
+
+#: includes/class-highlights.php:142
+msgid "Settings page reorganization for clarity's sake."
+msgstr ""
+
+#: includes/class-highlights.php:144
+#, php-format
+msgid ""
+"Added the options to display the author box %sonly on posts%s or %sonly on "
+"pages%s."
+msgstr ""
+
+#: includes/class-highlights.php:145
+msgid "Author name color is now customizable."
+msgstr ""
+
+#: includes/class-highlights.php:147 includes/class-highlights.php:148
+#: includes/class-highlights.php:149 includes/class-highlights.php:215
+#: includes/class-highlights.php:216 includes/class-highlights.php:217
+msgid "Premium only"
+msgstr "Sólo Premium"
+
+#: includes/class-highlights.php:147
+#, php-format
+msgid ""
+"Added setting to %sdisable user archive pages%s and redirect pages to any "
+"given destination."
+msgstr ""
+
+#: includes/class-highlights.php:148
+#, php-format
+msgid ""
+"Added setting to %schange author archives template and the author base%s."
+msgstr ""
+
+#: includes/class-highlights.php:149
+msgid "Added more customization settings: text style, border style..."
+msgstr ""
+
+#: includes/class-highlights.php:151
+msgid ""
+"Some styling modifications have been introduced. Please, make sure the "
+"author box looks like you want and customize it required."
+msgstr ""
+
+#: includes/class-highlights.php:159 includes/class-highlights.php:227
+#: includes/class-highlights.php:293
+#, php-format
+msgid "What's new on %s %s"
+msgstr ""
+
+#: includes/class-highlights.php:169
+msgid "Open new customizer"
+msgstr ""
+
+#: includes/class-highlights.php:177 includes/class-highlights.php:245
+#: includes/class-highlights.php:311
+msgid "Settings page"
+msgstr "Configuración"
+
+#: includes/class-highlights.php:185 includes/class-highlights.php:253
+#: includes/class-highlights.php:319
+msgid "See changelog"
+msgstr "Ver registro de cambios"
+
+#: includes/class-highlights.php:209 includes/class-highlights.php:277
+msgid "Huge update with endless author box layout combinations!"
+msgstr ""
+
+#: includes/class-highlights.php:211
+#, php-format
+msgid ""
+"Added a %snew box layout%s that displays author profile above related posts "
+"in the same author box."
+msgstr ""
+
+#: includes/class-highlights.php:212
+msgid "Added settings to customize box tabs."
+msgstr ""
+
+#: includes/class-highlights.php:213
+#, php-format
+msgid ""
+"Added a %snew template to display related entries%s into the author box."
+msgstr ""
+
+#: includes/class-highlights.php:214
+msgid ""
+"Added 'Hide on these post categories' setting to control on which categories "
+"the author box won't be displayed by default."
+msgstr ""
+
+#: includes/class-highlights.php:215
+#, php-format
+msgid "Added 7 %snew profile templates%s."
+msgstr ""
+
+#: includes/class-highlights.php:216
+#, php-format
+msgid ""
+"Added a %sthird new template%s to display related entries into the author "
+"box."
+msgstr ""
+
+#: includes/class-highlights.php:217
+#, php-format
+msgid ""
+"New %s'Contributors' page%s featuring a list of all authors in your site."
+msgstr ""
+
+#: includes/class-highlights.php:219
+msgid ""
+"Some styling modifications have been introduced. Please, make sure the "
+"author box looks like you want and customize it if required."
+msgstr ""
+
+#: includes/class-highlights.php:237 includes/class-highlights.php:303
+msgid "Open customizer"
+msgstr "Abrir Customizer"
+
+#: includes/class-highlights.php:279
+#, php-format
+msgid ""
+"Now you can edit 'first name', 'last name' and 'display name' %sseparately%s "
+"for your guest authors. Just like you do for regular users."
+msgstr ""
+
+#: includes/class-highlights.php:280
+msgid "Added setting to align name and author meta within the author box."
+msgstr ""
+
+#: includes/class-highlights.php:281
+msgid ""
+"Added 'Entries' column to 'Users list' to display number of entries for each "
+"user."
+msgstr ""
+
+#: includes/class-highlights.php:282
+msgid ""
+"Removed 'e-mail' and 'website' from social networks list. Both can be "
+"optionally displayed as an icon."
+msgstr ""
+
+#: includes/class-highlights.php:283
+msgid ""
+"Now it is possible to show phone number as another icon within the social "
+"icons section."
+msgstr ""
+
+#: includes/class-highlights.php:284
+msgid ""
+"Restyled 'Support' page. Now you can open support tickets and chat with "
+"Molongui without leaving the Dashboard :)"
+msgstr ""
+
+#: includes/class-post.php:1701 includes/class-post.php:1878
+#: includes/class-post.php:2144
+msgid "Authors"
+msgstr "Autores"
+
+#: includes/class-post.php:1753
+msgid "guest"
+msgstr "invitado"
+
+#: includes/class-post.php:1875
+msgid "Authorship data"
+msgstr "Molongui Authorship"
+
+#: includes/class-post.php:1878
+#, fuzzy
+msgid "Author"
+msgstr "Autores"
+
+#: includes/class-post.php:1905
+msgid "Author box"
+msgstr "Caja de autor"
+
+#: includes/class-post.php:2158
+#, fuzzy
+msgid "Authorship Box"
+msgstr "Authorship box"
+
+#: includes/class-post.php:2199 includes/class-post.php:2207
+msgid ""
+"Add as many authors as needed by selecting them from the dropdown below. "
+"Drag to change their order and click on trash icon to remove them. First "
+"listed author will be the main author."
+msgstr ""
+
+#: includes/class-post.php:2201 includes/class-post.php:2222
+#, fuzzy
+msgid "+ Add new guest"
+msgstr "Añadir nuevo autor invitado"
+
+#: includes/class-post.php:2219
+#, php-format
+msgid ""
+"Select an author for this post. Or enable the %sMulti-Author%s feature to "
+"add as many authors as needed."
+msgstr ""
+
+#: includes/class-post.php:2228
+#, php-format
+msgid ""
+"Select a user as author for this post. Or enable the %sMulti-Author%s "
+"feature to add as many authors as needed or the %sGuest Author%s feature to "
+"add contributors without adding new real users."
+msgstr ""
+
+#: includes/class-post.php:2307
+msgid "No authors found."
+msgstr "No se encontraron autores."
+
+#: includes/class-post.php:2313
+msgid "Add an(other) author..."
+msgstr "Añadir un/otro autor..."
+
+#: includes/class-post.php:2318
+#, fuzzy
+msgid "Add an author..."
+msgstr "Añadir un/otro autor..."
+
+#: includes/class-post.php:2348
+msgid "Remove author from selection"
+msgstr "Quitar este autor de la selección"
+
+#: includes/class-user.php:335
+#, php-format
+msgid ""
+"Or you can upload a custom profile picture using %sMolongui Authorship field"
+"%s."
+msgstr ""
+
+#: includes/class-user.php:339
+msgid ""
+"Or you can upload a custom profile using the \"Local Avatar\" field below."
+msgstr ""
+
+#: includes/class-user.php:344
+#, php-format
+msgid ""
+"Or you can upload a custom profile picture enabling Molongui Authorship "
+"\"Local Avatar\" feature %shere%s."
+msgstr ""
+
+#: includes/compat/plugins/wpdiscuz.php:134
+msgid "Anonymous"
+msgstr "Anónimo"
+
+#: includes/compat/themes/jupiter.php:138
+#: includes/compat/themes/jupiter.php:143
+#, fuzzy, php-format
+msgid "Author Archive for: \"%s\""
+msgstr "Perfil del autor"
+
+#: includes/deprecated/actions.php:56 includes/deprecated/filters.php:57
+#, php-format
+msgid ""
+"%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
+msgstr ""
+
+#: includes/deprecated/actions.php:69 includes/deprecated/filters.php:70
+#, php-format
+msgid ""
+"%1$s is <strong>deprecated</strong> since version %2$s with no alternative "
+"available."
+msgstr ""
+
+#: includes/helpers/author.php:60
+msgid ""
+"Conditional query tags do not work before the query is run. Before then, "
+"they always return false."
+msgstr ""
+
+#: includes/helpers/options.php:267
+msgid "Related entries"
+msgstr "Entradas relacionadas"
+
+#: includes/helpers/post.php:423 public/class-public.php:534
+msgid "and"
+msgstr "y"
+
+#: includes/helpers/post.php:447
+#, php-format
+msgid "%s %d more"
+msgstr ""
+
+#: molongui-authorship.php:176
+#, php-format
+msgid ""
+"%s is not working because you are running a PHP version (%s) on your web "
+"host older than %s. Please update your PHP version."
+msgstr ""
+
+#: molongui-authorship.php:177
+msgid "How to update your PHP version"
+msgstr ""
+
+#: public/class-public.php:535
+msgid "View all posts by"
+msgstr ""
+
+#~ msgid "Web"
+#~ msgstr "Web"
+
+#, fuzzy
+#~ msgid "Avatar to show if none uploaded and no gravatar configured."
+#~ msgstr ""
+#~ "Imagen que mostrar si no se ha subido ninguna ni existe Gravatar "
+#~ "configurado."
+
+#~ msgid "Blank"
+#~ msgstr "Sin imagen"
+
+#~ msgid "Mistery man"
+#~ msgstr "Silueta"
+
+#, fuzzy
+#~ msgid " Acronym font color"
+#~ msgstr "Color texto acrónimo"
+
+#~ msgid "Acronym background color"
+#~ msgstr "Color fondo acrónimo"
+
+#, fuzzy
+#~ msgid "Whether to enable the guest authors feature."
+#~ msgstr ""
+#~ "Incluir a los autores invitados en los elementos sobre los que realizar "
+#~ "una búsqueda global."
+
+#, fuzzy
+#~ msgid "Search by Author"
+#~ msgstr "Búsqueda de autores invitados"
+
+#~ msgid "Search results"
+#~ msgstr "Resultados de búsqueda"
+
+#~ msgid "Include guest authors in search"
+#~ msgstr "Incluir autores invitados en las búsquedas"
+
+#~ msgid "Whether to make guest authors searchable."
+#~ msgstr ""
+#~ "Incluir a los autores invitados en los elementos sobre los que realizar "
+#~ "una búsqueda global."
+
+#, fuzzy
+#~ msgid "Where to add the 'Guest Authors' menu"
+#~ msgstr ""
+#~ "Elige dónde añadir el enlace a la opción \"Autores invitados\" en el menú "
+#~ "lateral."
+
+#, fuzzy
+#~ msgid "Choose where to add the 'Guest Authors' link in the admin menu."
+#~ msgstr ""
+#~ "Elige dónde añadir el enlace a la opción \"Autores invitados\" en el menú "
+#~ "lateral."
+
+#~ msgid "Top level"
+#~ msgstr "Nuevo elemento"
+
+#~ msgid "Posts"
+#~ msgstr "Entradas"
+
+#~ msgid "Pages"
+#~ msgstr "Páginas"
+
+#~ msgid "By default"
+#~ msgstr "Por defecto"
+
+#~ msgid "Show only on posts"
+#~ msgstr "Mostrar sólo en posts"
+
+#~ msgid "Show only on pages"
+#~ msgstr "Mostrar sólo en páginas"
+
+#~ msgid "Multi-author"
+#~ msgstr "Multi-autor"
+
+#~ msgid "Author box layout"
+#~ msgstr "Diseño de la caja de autor"
+
+#~ msgid "Show related posts"
+#~ msgstr "Mostrar posts relacionados"
+
+#, fuzzy
+#~ msgid "Whether to show related posts within the author box."
+#~ msgstr ""
+#~ "¿Mostrar un enlace a los artículos relacionados del autor dentro de la "
+#~ "author box?"
+
+#, fuzzy
+#~ msgid "Type of posts to show as related."
+#~ msgstr "Número de posts a mostrar"
+
+#~ msgid "Number of posts"
+#~ msgstr "Número de posts"
+
+#~ msgid "Order by"
+#~ msgstr "Criterio de selección"
+
+#~ msgid "The criteria to sort related posts."
+#~ msgstr ""
+#~ "El criterio utilizado para ordenar los artículos relacionados a mostrar."
+
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgid "Date"
+#~ msgstr "Fecha"
+
+#~ msgid "Comment count"
+#~ msgstr "Número de comentarios"
+
+#~ msgid "Random order"
+#~ msgstr "Orden aleatorio"
+
+#~ msgid "The order to sort related posts."
+#~ msgstr "El orden utilizado para mostrar los artículos relacionados."
+
+#~ msgid "Ascending order"
+#~ msgstr "Alfabético ascendente"
+
+#~ msgid "Descending order"
+#~ msgstr "Alfabético descendente"
+
+#, fuzzy
+#~ msgid ""
+#~ "There are many social networking websites out there and this plugin "
+#~ "allows you to link to the most of them. Not to glut the edit page, choose "
+#~ "the ones you want to be able to configure."
+#~ msgstr ""
+#~ "Existen muchas redes sociales y este plugin permite enlazar con las más "
+#~ "populares. Para no abarrotar la página de edición, escoge sólo las que "
+#~ "quieras poder configurar."
+
+#~ msgid "Messages"
+#~ msgstr "Mensajes"
+
+#~ msgid "Read documentation"
+#~ msgstr "Consultar documentación"
+
+#~ msgid "Written by "
+#~ msgstr "Escrito por "
+
+#~ msgid "Enable 'guest author' archives"
+#~ msgstr "Habilitar archivo de invitados"
+
+#~ msgid "Disable 'guest author' archives"
+#~ msgstr "Deshabilitar archivo de invitados"
+
+#~ msgid ""
+#~ "Whether to enable the use of guest author archive pages. Disabling this "
+#~ "option, author name link is disabled."
+#~ msgstr ""
+#~ "Activar el uso de las páginas de archivo de entradas de autores "
+#~ "invitados. Desactivando esta opción el nombre del autor dejará de ser un "
+#~ "enlace."
+
+#~ msgid "Include pages on archive"
+#~ msgstr "Incluir páginas en la página de archivo"
+
+#, fuzzy
+#~ msgid "Include custom post types on archive"
+#~ msgstr "Incluir páginas en la página de archivo"
+
+#~ msgid "Permalink"
+#~ msgstr "Permalink"
+
+#~ msgid ""
+#~ "Permastruct to add after your installation URI and before the slug set "
+#~ "below."
+#~ msgstr ""
+#~ "Estructura permanente que añadir detrás de la URI de instalación de tu "
+#~ "Wordpress, pero antes que el slug que pueda indicar debajo."
+
+#~ msgid "Part of the permalink that identifies your author archive page."
+#~ msgstr ""
+#~ "Parte del enlace permanente que identifica la página de archivo de los "
+#~ "autores invitados."
+
+#~ msgid "Disable user archives"
+#~ msgstr "Deshabilitar archivo de usuario"
+
+#~ msgid "Template to be used on author archive pages."
+#~ msgstr ""
+#~ "Plantilla que usar para mostrar el archivo de entradas de un usuario."
+
+#~ msgid ""
+#~ "Whether to add Open Graph metadata for author details (useful for rich "
+#~ "snippets)."
+#~ msgstr "Permite añadir metadatos Open Graph con los datos del autor."
+
+#~ msgid "Add Facebook Authorship"
+#~ msgstr "Añadir Facebook Authorship"
+
+#~ msgid ""
+#~ "Whether to add Facebook Authorship metadata for author details (useful "
+#~ "for rich snippets)."
+#~ msgstr ""
+#~ "Permite añadir metadatos Facebook Authorship con los datos del autor."
+
+#~ msgid "Add Google Authorship"
+#~ msgstr "Añadir Google Authorship"
+
+#~ msgid ""
+#~ "Whether to add Google Authorship metadata for author details (useful for "
+#~ "rich snippets)."
+#~ msgstr "Permite añadir metadatos Google Authorship con los datos del autor."
+
+#, fuzzy
+#~ msgid "Plugin settings"
+#~ msgstr "Plugins"
+
+#, fuzzy
+#~ msgid "Export"
+#~ msgstr "Ayuda"
+
+#, fuzzy
+#~ msgid "Import"
+#~ msgstr "Ayuda"
+
+#~ msgid "Preview"
+#~ msgstr "Vista previa"
+
+#~ msgid "Default setting"
+#~ msgstr "Configuración por defecto"
+
+#~ msgid "Yes"
+#~ msgstr "Sí"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Multiauthor"
+#~ msgstr "Multi autor"
+
+#~ msgid "Whether to show \"related posts\" link on the author box."
+#~ msgstr ""
+#~ "¿Mostrar un enlace a los artículos relacionados del autor dentro de la "
+#~ "author box?"
+
+#~ msgid ""
+#~ "There are many social networking websites out there and this plugin "
+#~ "allows you to link to the most popular. Not to glut the edit page, choose "
+#~ "the ones you want to be able to configure."
+#~ msgstr ""
+#~ "Existen muchas redes sociales y este plugin permite enlazar con las más "
+#~ "populares. Para no abarrotar la página de edición, escoge sólo las que "
+#~ "quieras poder configurar."
+
+#~ msgid "Functionality"
+#~ msgstr "Funcionalidad"
+
+#, fuzzy
+#~ msgid "Where to add \"Guest authors\" menu"
+#~ msgstr ""
+#~ "Elige dónde añadir el enlace a la opción \"Autores invitados\" en el menú "
+#~ "lateral."
+
+#~ msgid "Choose where to add the \"Guest authors\" link in the admin menu."
+#~ msgstr ""
+#~ "Elige dónde añadir el enlace a la opción \"Autores invitados\" en el menú "
+#~ "lateral."
+
+#~ msgctxt "molongui_guestauthor"
+#~ msgid "Add New"
+#~ msgstr "Añadir nuevo"
+
+#~ msgid "Enter guest author name here"
+#~ msgstr "Introduce aquí el nombre del autor invitado"
+
+#~ msgid ""
+#~ "%sPremium feature%s. You are using the free version of this plugin. "
+#~ "Consider purchasing the Premium Version to enable this feature."
+#~ msgstr ""
+#~ "%sOpción premium%s. Utilizas la versión gratuita del plugin. Obtén la "
+#~ "versión Premium para tener disponible esta función."
+
+#~ msgid "Contributors"
+#~ msgstr "Colaboradores"
+
+#~ msgid "There are no posts to list."
+#~ msgstr "No hay entradas que listar."
+
+#~ msgid "Select an author"
+#~ msgstr "Selecciona un autor"
+
+#~ msgid "Enable 'Author Archives' feature"
+#~ msgstr "Habilitar los archivos de autor"
+
+#~ msgid "Default RTL"
+#~ msgstr "Principal RTL"
+
+#~ msgid "Ribbon"
+#~ msgstr "Ribbon"
+
+#~ msgid "Ribbon RTL"
+#~ msgstr "Ribbon RTL"
+
+#, fuzzy
+#~ msgid "Box headline"
+#~ msgstr "Mostrar título"
+
+#~ msgid ""
+#~ "Whether to show a headline above the author data. \"Tabbed\" layout does "
+#~ "not show any headline."
+#~ msgstr ""
+#~ "¿Mostrar un título antes de la información del autor? La plantilla "
+#~ "\"Tabbed\" no es compatible con esta opción."
+
+#~ msgid ""
+#~ "Customize the author box by choosing the font-sizes, the layout, the "
+#~ "social media icons and the colors that you like the most to make it fit "
+#~ "the best with your site."
+#~ msgstr ""
+#~ "Personaliza la \"author box\" escogiendo los tamaños del texto, la "
+#~ "disposición de la información, la familia de iconos sociales y los "
+#~ "colores que más te gusten y que mejor encajen con tu web."
+
+#, fuzzy
+#~ msgid ""
+#~ "You can preview premium settings but default values will be saved. "
+#~ "Consider upgrading to %sPremium version%s to unlock all features and have "
+#~ "premium support."
+#~ msgstr ""
+#~ "Existe una versión Premium de este plugin. Adquiere una %slicencia Premium"
+#~ "%s para desbloquear todas las funcionalidades y tener servicio de soporte "
+#~ "preferente."
+
+#~ msgid "Thin"
+#~ msgstr "Delgada"
+
+#~ msgid "Thick"
+#~ msgstr "Gruesa"
+
+#~ msgid "Biggest"
+#~ msgstr "El más grande"
+
+#~ msgid "Bigger"
+#~ msgstr "Más grande"
+
+#~ msgid "Big"
+#~ msgstr "Grande"
+
+#~ msgid "Small"
+#~ msgstr "Pequeño"
+
+#~ msgid "Smaller"
+#~ msgstr "Más pequeño"
+
+#~ msgid "Smallest"
+#~ msgstr "El más pequeño"
+
+#, fuzzy
+#~ msgid "Text style"
+#~ msgstr "Estilo del texto de la biografía"
+
+#~ msgid "Italics"
+#~ msgstr "Cursiva"
+
+#~ msgid "Italics-Bold"
+#~ msgstr "Cursiva-Negrita"
+
+#, fuzzy
+#~ msgid "Text align"
+#~ msgstr "Alineación del texto de la biografía"
+
+#~ msgid "Thicker"
+#~ msgstr "Muy gruesa"
+
+#~ msgid "Thickest"
+#~ msgstr "La más gruesa"
+
+#~ msgid "Author acronym [PREMIUM]"
+#~ msgstr "Acrónimo del autor [PREMIUM]"
+
+#, fuzzy
+#~ msgid "Hyperlink style"
+#~ msgstr "Mostrar nombre como enlace"
+
+#~ msgid "Whether to display the author name as an hyperlink (underlined)."
+#~ msgstr "Mostar el nombre del autor como un hipervínculo (subrayado)."
+
+#~ msgid "Labels"
+#~ msgstr "Etiquetas"
+
+#~ msgid ""
+#~ "Customize the text displayed on the frontend to your liking or your "
+#~ "language."
+#~ msgstr "Personaliza los textos utilizados en la caja a tu gusto o idioma."
+
+#, fuzzy
+#~ msgid "By line"
+#~ msgstr "Enlace al blog"
+
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+#~ msgid "Open Graph"
+#~ msgstr "Open Graph"
+
+#~ msgid "Google Authorship"
+#~ msgstr "Google Authorship"
+
+#~ msgid "Facebook Authorship"
+#~ msgstr "Facebook Authorship"
+
+#~ msgid "Yes, on all posts and pages"
+#~ msgstr "Sí, en todos las páginas y posts"
+
+#~ msgid "Only on posts [PREMIUM]"
+#~ msgstr "Sólo en los posts [PREMIUM]"
+
+#~ msgid "Only on pages [PREMIUM]"
+#~ msgstr "Sólo en páginas [PREMIUM]"
+
+#~ msgid "No, let me choose where to display it"
+#~ msgstr "No, escogeré donde mostrarla"
+
+#~ msgid "Hide if no description"
+#~ msgstr "Ocultar si biografía vacía"
+
+#~ msgid "Default RTL [PREMIUM]"
+#~ msgstr "Principal RTL [PREMIUM]"
+
+#~ msgid "Ribbon [PREMIUM]"
+#~ msgstr "Ribbon [PREMIUM]"
+
+#~ msgid "Ribbon RTL [PREMIUM]"
+#~ msgstr "Ribbon RTL [PREMIUM]"
+
+#~ msgid "Amount of space the author box can take. "
+#~ msgstr ""
+#~ "Ancho porcentual sobre el espacio disponible que la caja de autor puede "
+#~ "tener."
+
+#~ msgid "100%"
+#~ msgstr "100%"
+
+#~ msgid "90%"
+#~ msgstr "90%"
+
+#~ msgid "80%"
+#~ msgstr "80%"
+
+#~ msgid "70%"
+#~ msgstr "70%"
+
+#~ msgid "60%"
+#~ msgstr "60%"
+
+#~ msgid "50%"
+#~ msgstr "50%"
+
+#~ msgid "40%"
+#~ msgstr "40%"
+
+#~ msgid "30%"
+#~ msgstr "30%"
+
+#~ msgid "20%"
+#~ msgstr "20%"
+
+#~ msgid "10%"
+#~ msgstr "10%"
+
+#~ msgid "Space to add above and below the author box."
+#~ msgstr "Espacio que añadir encima y debajo de la author box."
+
+#~ msgid "10px"
+#~ msgstr "10px"
+
+#~ msgid "20px"
+#~ msgstr "20px"
+
+#~ msgid "30px"
+#~ msgstr "30px"
+
+#~ msgid "40px"
+#~ msgstr "40px"
+
+#~ msgid "50px"
+#~ msgstr "50px"
+
+#~ msgid "60px"
+#~ msgstr "60px"
+
+#~ msgid "80px"
+#~ msgstr "80px"
+
+#~ msgid "Box styling"
+#~ msgstr "Estilo de la caja"
+
+#~ msgid "Whether and where to add a shadow to the author box."
+#~ msgstr "¿Añadir un efecto de sombra a la author box?"
+
+#~ msgid "Width of the border to add to the author box."
+#~ msgstr "Ancho del borde que añadir a la author box."
+
+#~ msgid "The border color of the author box."
+#~ msgstr "El color del borde de la caja de autor."
+
+#~ msgid "The background color of the author box."
+#~ msgstr "El color de fondo de la caja de autor."
+
+#~ msgid "Headline font size"
+#~ msgstr "Tamaño de letra del título"
+
+#~ msgid "Font size used to display the headline."
+#~ msgstr "Tamaño de fuente utilizado en el título."
+
+#~ msgid "Headline text color"
+#~ msgstr "Color del título"
+
+#~ msgid "Color used to display the headline."
+#~ msgstr "Color usado en el texto del título."
+
+#~ msgid "Text alignment to display the headline."
+#~ msgstr "Alineación del texto del título."
+
+#~ msgid "Headline text style"
+#~ msgstr "Estilo del texto del título"
+
+#~ msgid "Image style"
+#~ msgstr "Estilo de la fotografía"
+
+#~ msgid "Width of the border to add to the author profile image."
+#~ msgstr "Ancho del borde que añadir a la imagen de perfil del autor."
+
+#~ msgid "Image border color"
+#~ msgstr "Color del borde de la imagen"
+
+#~ msgid "Acronym text color"
+#~ msgstr "Color texto acrónimo"
+
+#~ msgid "The color used to display the author name acronym."
+#~ msgstr ""
+#~ "El color usado en el texto del acrónimo a mostrar como imagen de perfil."
+
+#~ msgid "Acronym bg color"
+#~ msgstr "Color fondo acrónimo"
+
+#~ msgid "The color used to fill the author name acronym background."
+#~ msgstr "El color a utilizar para colorear el fondo del acrónimo."
+
+#~ msgid "Name font size"
+#~ msgstr "Tamaño de letra del nombre"
+
+#~ msgid "Font size used to display the author name."
+#~ msgstr "Tamaño de fuente utilizado en el nombre del autor."
+
+#~ msgid "Name hyperlink style"
+#~ msgstr "Mostrar nombre como enlace"
+
+#~ msgid "Meta font size"
+#~ msgstr "Tamaño de letra del cargo"
+
+#~ msgid ""
+#~ "Font size used to display the author metadata (job position, company...)."
+#~ msgstr ""
+#~ "Tamaño de fuente utilizado en la información complementaria del autor "
+#~ "(cargo, empresa...)."
+
+#~ msgid "Bio font size"
+#~ msgstr "Tamaño de letra de la biografía"
+
+#~ msgid "Font size used to display the author bio."
+#~ msgstr "Tamaño de fuente utilizado en la biografía del autor."
+
+#~ msgid "Bio color"
+#~ msgstr "Color de la biografía"
+
+#~ msgid "Color used to display the author bio."
+#~ msgstr "Color del texto de la biografía del autor."
+
+#~ msgid "Bio text align"
+#~ msgstr "Alineación del texto de la biografía"
+
+#~ msgid "Text alignment to display the author bio."
+#~ msgstr "Alineación del texto de la biografía del autor."
+
+#~ msgid "Social icons size"
+#~ msgstr "Tamaño de los iconos"
+
+#~ msgid "The size of the social media icons."
+#~ msgstr "El tamaño con el que mostrar los iconos de las redes sociales."
+
+#~ msgid "Social icons color"
+#~ msgstr "Color de los iconos"
+
+#~ msgid "Color used to display the social media icions."
+#~ msgstr "Color utilizado para colorear los iconos de las redes sociales."
+
+#~ msgid "Social icons style"
+#~ msgstr "Estilo de los iconos"
+
+#~ msgid "Bottom bg color"
+#~ msgstr "Color fondo barra inferior"
+
+#~ msgid "Bottom border"
+#~ msgstr "Borde de la base"
+
+#~ msgid ""
+#~ "The color of the border to add at the top of bottom section on a\"ribbon"
+#~ "\" layout."
+#~ msgstr ""
+#~ "El color del borde superior de la barra inferior de la plantilla tipo "
+#~ "\"Ribbon\"."
+
+#, fuzzy
+#~ msgid "Meta display"
+#~ msgstr "Mostrar Author box"
+
+#, fuzzy
+#~ msgid "Character used to separate author meta data information."
+#~ msgstr ""
+#~ "Color de fuente utilizado en la información complementaria del autor "
+#~ "(cargo, empresa...)"
+
+#~ msgid "Frontend labels"
+#~ msgstr "Etiquetas públicas"
+
+#~ msgid "e-mail"
+#~ msgstr "e-mail"
+
+#~ msgid "Url"
+#~ msgstr "URL"
+
+#~ msgid "Job position"
+#~ msgstr "Profesión"
+
+#~ msgid ""
+#~ "URL the author name will link to. Leave blank to disable link feature."
+#~ msgstr ""
+#~ "Dirección web a la que enlazar el nombre del autor. Dejar en blanco para "
+#~ "desactivar el enlace."
+
+#~ msgid "//www.example.com/"
+#~ msgstr "//www.example.com/"
+
+#~ msgid "Email address"
+#~ msgstr "Dirección de e-mail"
+
+#, fuzzy
+#~ msgid "Display phone publicly in the author box."
+#~ msgstr "Mostrar el email de forma pública en la caja de autor."
+
+#, fuzzy
+#~ msgid "Field description here."
+#~ msgstr "Ocultar si biografía vacía"
+
+#~ msgid "7"
+#~ msgstr "7"
+
+#~ msgid "8"
+#~ msgstr "8"
+
+#~ msgid ""
+#~ "As author, you can choose between a registered user and a guest author:"
+#~ msgstr ""
+#~ "Como autor puedes escoger entre un usuario registrado y un autor invitado:"
+
+#~ msgid "Molongui is a trademark of %1$s Amitzy%2$s."
+#~ msgstr "Molongui es una marca registrada propiedad de %1$s Amitzy%2$s."
+
+#, fuzzy
+#~ msgid ""
+#~ "If you like <strong>%s</strong> please leave us a %s&#9733;&#9733;&#9733;"
+#~ "&#9733;&#9733;%s rating. A huge thank you from Molongui in advance!"
+#~ msgstr ""
+#~ "Si te gusta <strong>Molongui Authorship</strong>, por favor, valóranos "
+#~ "con %s&#9733;&#9733;&#9733;&#9733;&#9733;%s. ¡Muchísimas gracias de "
+#~ "antemano!"
+
+#~ msgid "Thanks :)"
+#~ msgstr "Gracias :-)"
+
+#~ msgid "Docs"
+#~ msgstr "Documentos"
+
+#, fuzzy
+#~ msgid ""
+#~ "We are constantly looking for ways to improve the quality of our plugins. "
+#~ "How you rate them is the most important information we can obtain to "
+#~ "support our goal."
+#~ msgstr ""
+#~ "Buscamos mejorar nuestros productos y servicios constantemente. Tu "
+#~ "valoración es la información más importante que podemos obtener para "
+#~ "conseguir nuestro objetivo."
+
+#, fuzzy
+#~ msgid ""
+#~ "As part of our ongoing effort to provide high quality, eye-catching "
+#~ "Wordpress plugins, here you have some you might find useful for your site."
+#~ msgstr ""
+#~ "Como parte de nuestro esfuerzo en ofrecerte plugins útiles y de calidad, "
+#~ "te mostramos algunos de los que hemos desarrollado y que pueden "
+#~ "resultarte interesantes:"
+
+#~ msgid "Note"
+#~ msgstr "Nota"
+
+#~ msgid ""
+#~ "Your theme might change how typography, colors and sizes are displayed in "
+#~ "this preview."
+#~ msgstr ""
+#~ "El tema de tu web puede cambiar la tipografía, colores y tamaños que aquí "
+#~ "se muestran."
+
+#~ msgid ""
+#~ "We are constantly looking for ways to improve the quality of our products "
+#~ "and services. How you rate our product and service is the most important "
+#~ "information we can obtain to support our goal."
+#~ msgstr ""
+#~ "Buscamos mejorar nuestros productos y servicios constantemente. Tu "
+#~ "valoración es la información más importante que podemos obtener para "
+#~ "conseguir nuestro objetivo."
+
+#~ msgid ""
+#~ "We would really appreciate it if you would take a second to rate this "
+#~ "plugin at the official directory of Wordpress plugins. A huge thank you "
+#~ "from Molongui in advance!"
+#~ msgstr ""
+#~ "Te agradeceríamos enormemente que te tomarás un minuto para valorar este "
+#~ "plugin. Tu opinión y sugerencias nos resultan de vital importancia para "
+#~ "seguir mejorando y así poder ofrecerte productos y servicios de tu "
+#~ "interés. ¡Muchas gracias de antemano!"
+
+#~ msgid "Rate this plugin"
+#~ msgstr "Valorar este plugin"
+
+#~ msgid ""
+#~ "We would really appreciate any feedback you would like to send us. A huge "
+#~ "thank you from Molongui in advance!"
+#~ msgstr ""
+#~ "Te agradeceríamos enormemente que te tomarás un minuto para que nos digas "
+#~ "qué opinas de este plugin y de nuestro servicio. Tu opinión y sugerencias "
+#~ "nos resultan de vital importancia para seguir mejorando y así poder "
+#~ "ofrecerte productos y servicios de tu interés. ¡Muchas gracias de "
+#~ "antemano!"
+
+#~ msgid "Send feedback"
+#~ msgstr "Enviar comentario"
+
+#~ msgid ""
+#~ "As part of our ongoing effort to provide high quality, eye-catching "
+#~ "Wordpress plugins, here you have some you might find useful for your site:"
+#~ msgstr ""
+#~ "Como parte de nuestro esfuerzo en ofrecerte plugins útiles y de calidad, "
+#~ "te mostramos algunos de los que hemos desarrollado y que pueden "
+#~ "resultarte interesantes:"
+
+#~ msgid "Free"
+#~ msgstr "Gratuita"
+
+#, fuzzy
+#~ msgid "Molongui plugins"
+#~ msgstr "Molongui Authorship"
+
+#, fuzzy
+#~ msgid "Send report"
+#~ msgstr "Enviar informe a Molongui"
+
+#~ msgid "Download report as text file"
+#~ msgstr "Descargar informe"
+
+#~ msgid "Send report to Molongui"
+#~ msgstr "Enviar informe a Molongui"
+
+#~ msgid ""
+#~ "This page displays information about your WordPress configuration and "
+#~ "Server information that may be useful for debugging."
+#~ msgstr ""
+#~ "Esta página muestra información acerca de tu configuración de WordPress e "
+#~ "información de tu servidor, útil para el servicio de soporte de Molongui."
+
+#~ msgid "Plugin information"
+#~ msgstr "Información del plugin"
+
+#, fuzzy
+#~ msgid "The name of this plugin."
+#~ msgstr "Valorar este plugin"
+
+#~ msgid "License"
+#~ msgstr "Licencia"
+
+#, fuzzy
+#~ msgid "The license of this plugin."
+#~ msgstr "Valorar este plugin"
+
+#, fuzzy
+#~ msgid "Upgrade now!"
+#~ msgstr "Actualizar ahora"
+
+#~ msgid "Version"
+#~ msgstr "Versión"
+
+#, fuzzy
+#~ msgid "Database Version"
+#~ msgstr "Versión"
+
+#, fuzzy
+#~ msgid "Keep configuration"
+#~ msgstr "¿Guardar configuración?"
+
+#, fuzzy
+#~ msgid "Should plugin configuration be kept upon plugin uninstal?"
+#~ msgstr ""
+#~ "Permite mantener la configuración del plugin aunque éste sea eliminado."
+
+#, fuzzy
+#~ msgid "Should plugin data be kept upon plugin uninstal?"
+#~ msgstr ""
+#~ "Permite mantener toda la información de los autores invitados aunque el "
+#~ "plugin se desinstale."
+
+#, fuzzy
+#~ msgid "Permalink strucutre"
+#~ msgstr "Permalink"
+
+#, fuzzy
+#~ msgid "Registered post status"
+#~ msgstr "Autor registrado"
+
+#, fuzzy
+#~ msgid "Author URL"
+#~ msgstr "Autor"
+
+#, fuzzy
+#~ msgid "Visit author homepage"
+#~ msgstr "Archivo de entradas de autores invitados"
+
+#, fuzzy
+#~ msgid "PHP Version"
+#~ msgstr "Versión"
+
+#, fuzzy
+#~ msgid "PHP Display Errors"
+#~ msgstr "Opciones de presentación"
+
+#, fuzzy
+#~ msgid "cURL Version"
+#~ msgstr "Versión"
+
+#, fuzzy
+#~ msgid "Remote Get"
+#~ msgstr "Borrar"
+
+#, fuzzy
+#~ msgid "Default Timezone is UTC"
+#~ msgstr "Imagen por defecto"
+
+#, fuzzy
+#~ msgid "IP address"
+#~ msgstr "Dirección de e-mail"
+
+#~ msgid "Uninstalling"
+#~ msgstr "Desinstalación"
+
+#~ msgid "Keep configuration?"
+#~ msgstr "¿Guardar configuración?"
+
+#~ msgid ""
+#~ "Whether to keep plugin configuration settings upon plugin uninstalling."
+#~ msgstr ""
+#~ "Permite mantener la configuración del plugin aunque éste sea eliminado."
+
+#~ msgid "Keep data?"
+#~ msgstr "¿Guardar información?"
+
+#~ msgid "Whether to keep plugin related data upon plugin uninstalling."
+#~ msgstr ""
+#~ "Permite mantener toda la información de los autores invitados aunque el "
+#~ "plugin se desinstale."
+
+#~ msgid "Credentials"
+#~ msgstr "Credenciales"
+
+#~ msgid ""
+#~ "Insert your license credentials to make the plugin work, you will find "
+#~ "them by logging in %sto your account%s."
+#~ msgstr ""
+#~ "Introduce los datos de tu licencia para habilitar el plugin. Puedes "
+#~ "econtrarlos entrando a tu %sconsola de cliente%s."
+
+#~ msgid "License Key"
+#~ msgstr "Número de licencia"
+
+#~ msgid "The key we provided upon premium plugin purchase."
+#~ msgstr "La clave que te remitimos cuando compraste la licencia Premium."
+
+#~ msgid "License email"
+#~ msgstr "e-mail registrado"
+
+#~ msgid "The email you used to purchase the premium license."
+#~ msgstr ""
+#~ "La dirección de email que utilizaste para realizar la compra de la "
+#~ "licencia Premium."
+
+#~ msgid "Deactivation"
+#~ msgstr "Desactivación"
+
+#~ msgid ""
+#~ "Choose whether to deactivate the licence key upon plugin deactivation. "
+#~ "Deactivating the license releases it so it can be used on another website "
+#~ "but also removes it from this one, so should you reactivate the plugin, "
+#~ "you will need to set again your credentials. %sRegardless of the value of "
+#~ "this setting, the license will be released when uninstalling the plugin."
+#~ msgstr ""
+#~ "Escoge si quieres desactivar la licencia en el servidor de Molongui "
+#~ "cuando desactives el plugin. Al desactivar la licencia, ésta puede ser "
+#~ "utilizada en otra instalación pero deberás reactivarla en este servidor "
+#~ "si quieres volver a utilizar aquí el plugin. %sIndependientemente de la "
+#~ "configuración de esta opción, la licencia se desactiva automáticamente al "
+#~ "desinstalar el plugin."
+
+#~ msgid "Keep on deactivation"
+#~ msgstr "Mantener al desactivar"
+
+#~ msgid "Whether to keep license credentials upon plugin deactivation."
+#~ msgstr "Mantener la licencia activa al desactivar el plugin."
+
+#~ msgid "Deactivate license"
+#~ msgstr "Desactivar licencia"
+
+#~ msgid ""
+#~ "Deactivates your premium license so you can use it on another "
+#~ "installation."
+#~ msgstr "Desactivar la licencia para poder utilizarla en otra instalación."
+
+#~ msgid "Deactivate now"
+#~ msgstr "Desactivar ahora"
+
+#, fuzzy
+#~ msgid "Molongui"
+#~ msgstr "%1$sMolongui %2$s"
+
+#~ msgid "About"
+#~ msgstr "Acerca de"
+
+#~ msgid "MOLONGUI - Support report for %s"
+#~ msgstr "MOLONGUI - Reporte de soporte para %s"
+
+#, fuzzy
+#~ msgid ""
+#~ "The %s license has not been activated, so the plugin is inactive! %sClick "
+#~ "here%s to activate the license key and the plugin."
+#~ msgstr ""
+#~ "La licencia Premium de \"Molongui Authorship\" no ha sido activada, por "
+#~ "lo que el plugin no funcionará. %sPulsa aquí%s para activar tu licencia."
+
+#, fuzzy
+#~ msgid ""
+#~ "Your license for %s has expired. %sGrab a new one%s to get plugin updates "
+#~ "and have direct support."
+#~ msgstr ""
+#~ "Existe una versión Premium de este plugin. Adquiere una %slicencia Premium"
+#~ "%s para desbloquear todas las funcionalidades y tener servicio de soporte "
+#~ "preferente."
+
+#~ msgid "Plugin activated. "
+#~ msgstr "Plugin activado."
+
+#~ msgid "Connection failed to the License Key API server. Try again later."
+#~ msgstr ""
+#~ "Falló la conexión con el servidor de licencias. Inténtalo de nuevo más "
+#~ "tarde."
+
+#, fuzzy
+#~ msgid ""
+#~ "The license could not be deactivated. Use the License Deactivation button "
+#~ "to manually deactivate the license before activating a new license."
+#~ msgstr ""
+#~ "La licencia no pudo ser activada. Utiliza la pestaña \"Desactivar licencia"
+#~ "\" para desactivar manualmente la licencia actual y así poder introducir "
+#~ "una nueva."
+
+#~ msgid "Your license has been deactivated. %s"
+#~ msgstr "Tu licencia ha sido desactivada. %s"
+
+#~ msgid "There is no active license to deactivate..."
+#~ msgstr "No hay licencia guardada que desactivar..."
+
+#~ msgid ""
+#~ "The plugin has been updated, but might have not been reactivated. Please "
+#~ "reactivate it manually if needed."
+#~ msgstr ""
+#~ "Plugin actualizado correctamente. Puede que requiera ser reactivado "
+#~ "manualmente."
+
+#~ msgid "Plugin reactivated successfully."
+#~ msgstr "Plugin reactivado correctamente."
+
+#~ msgid ""
+#~ "The license key for %s has expired. You can reactivate or purchase a "
+#~ "license key from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+#~ "a>."
+#~ msgstr ""
+#~ "La llave de licencia para %s ha expirado. Puedes reactivar o comprar una "
+#~ "licencia nueva desde tu <a href=\"%s\" target=\"_blank\">panel</a> de "
+#~ "usuario."
+
+#~ msgid ""
+#~ "The subscription for %s is on-hold. You can reactivate the subscription "
+#~ "from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+#~ msgstr ""
+#~ "La suscripción para %s está en espera. Puedes reactivarla desde tu <a "
+#~ "href=\"%s\" target=\"_blank\">consola de cliente</a>."
+
+#~ msgid ""
+#~ "The subscription for %s has been cancelled. You can renew the "
+#~ "subscription from your account <a href=\"%s\" target=\"_blank"
+#~ "\">dashboard</a>. A new license key will be emailed to you after your "
+#~ "order has been completed."
+#~ msgstr ""
+#~ "La suscripción para %s ha sido cancelada. Puede renovar la suscripción de "
+#~ "su cuenta desde tu <a href=“%s” target=“_blank”>consola de cliente</a> . "
+#~ "Una nueva clave licencia será enviada por correo electrónico después de "
+#~ "que su pedido haya sido completado."
+
+#~ msgid ""
+#~ "The subscription for %s has expired. You can reactivate the subscription "
+#~ "from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+#~ msgstr ""
+#~ "La suscripción para %s ha expirado. Puedes reactivar la suscripción desde "
+#~ "tu <a href=\"%s\" target=\"_blank\">consola de cliente</a> ."
+
+#~ msgid ""
+#~ "The subscription for %s has been suspended. You can reactivate the "
+#~ "subscription from your account <a href=\"%s\" target=\"_blank"
+#~ "\">dashboard</a>."
+#~ msgstr ""
+#~ "La suscripción para %s ha sido suspendida. Puedes reactivar la "
+#~ "suscripción desde tu <a href=\"%s\" target=\"_blank\">consola de cliente</"
+#~ "a>."
+
+#~ msgid ""
+#~ "The subscription for %s is still pending. You can check on the status of "
+#~ "the subscription from your account <a href=\"%s\" target=\"_blank"
+#~ "\">dashboard</a>."
+#~ msgstr ""
+#~ "La suscripción para %s está pendiente. Puedes comprobar el estado de la "
+#~ "suscripción desde tu <a href=\"%s\" target=\"_blank\">consola de cliente</"
+#~ "a>."
+
+#~ msgid ""
+#~ "The subscription for %s has been placed in the trash and will be deleted "
+#~ "soon. You can purchase a new subscription from your account <a href=\"%s"
+#~ "\" target=\"_blank\">dashboard</a>."
+#~ msgstr ""
+#~ "La suscripción para %s ha sido enviada a la papelera y será borrada "
+#~ "pronto. Puedes comprar una nueva suscripción desde tu <a href=\"%s\" "
+#~ "target=\"_blank\">consola de cliente</a>."
+
+#~ msgid ""
+#~ "A subscription for %s could not be found. You can purchase a subscription "
+#~ "from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+#~ msgstr ""
+#~ "La suscripción para %s  no se pudo encontrar. Usted puede comprar una "
+#~ "suscripción para su cuenta desde tu <a href=\"%s\" target=\"_blank"
+#~ "\">consola de cliente</a>."
+
+#~ msgid ""
+#~ "A license key for %s could not be found. Maybe you forgot to enter a "
+#~ "license key when setting up %s, or the key was deactivated in your "
+#~ "account. You can reactivate or purchase a license key from your account "
+#~ "<a href=\"%s\" target=\"_blank\">dashboard</a>."
+#~ msgstr ""
+#~ "La clave de licencia %s no se pudo encontrar. Quizás olvidó introducir "
+#~ "una clave de licencia al realizar la configuración %s o la clave se "
+#~ "encuentra desactivada en su cuenta. Puede volver a reactivar o comprar "
+#~ "una clave de licencia para su cuenta desde tu <a href=\"%s\" target="
+#~ "\"_blank\">consola de cliente</a>."
+
+#~ msgid ""
+#~ "Download permission for %s has been revoked possibly due to a license key "
+#~ "or subscription expiring. You can reactivate or purchase a license key "
+#~ "from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+#~ msgstr ""
+#~ "El permiso de descarga para %s ha sido revocado posiblemente porque ha "
+#~ "expirado la llave de licencia o la suscripción. Puedes reactivar o "
+#~ "comprar una clave desde tu <a href=\"%s\" target=\"_blank\">consola de "
+#~ "cliente</a>."
+
+#~ msgid ""
+#~ "%s has not been activated. Go to the settings page and enter the license "
+#~ "key and license email to activate %s."
+#~ msgstr ""
+#~ "%s no ha sido activado. Ve a la página de ajustes e introduce la llave de "
+#~ "licencia y el email licenciado para activar %s"
+
+#~ msgid ""
+#~ "You changed the subscription for %s, so you will need to enter your new "
+#~ "API License Key in the settings page. The License Key should have arrived "
+#~ "in your email inbox, if not you can get it by logging into your account "
+#~ "<a href=\"%s\" target=\"_blank\">dashboard</a>."
+#~ msgstr ""
+#~ "Has modificado la suscripción para %s, así que tendrás que introducir tu "
+#~ "nueva clave de licencia de API en la página de ajustes. La clave de "
+#~ "licencia debería haber llegado a la bandeja de entrada de tu email, en "
+#~ "caso contrario puedes volver a conseguirla desde tu <a href=\"%s\" target="
+#~ "\"_blank\">consola de cliente</a>."
+
+#~ msgid "by"
+#~ msgstr "por"
+
+#~ msgid "Amitzy"
+#~ msgstr "Amitzy"
+
+#~ msgid "Rate"
+#~ msgstr "Valorar"
+
+#~ msgid "System information"
+#~ msgstr "Información del sistema"
+
+#~ msgid ""
+#~ "To copy the System Status, click below then press Ctrl + C (PC) or Cmd + "
+#~ "C (Mac)."
+#~ msgstr ""
+#~ "Para copiar la información del sistema, pulsa debajo y teclea Ctrl + C "
+#~ "(PC) o Cmd + C (Mac)."
+
+#~ msgid "Sorting criteria."
+#~ msgstr "Criterio de ordenación."
+
+#~ msgid "Sorting order."
+#~ msgstr "Ordenación."
+
+#~ msgid "Number of related posts to show."
+#~ msgstr "Número de posts relacionados que mostrar."
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "Youtube"
+#~ msgstr "Youtube"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "Tumblr"
+#~ msgstr "Tumblr"
+
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "Slideshare"
+#~ msgstr "Slideshare"
+
+#~ msgid "Xing"
+#~ msgstr "Xing"
+
+#~ msgid "Renren"
+#~ msgstr "Renren"
+
+#~ msgid "Vk"
+#~ msgstr "Vk"
+
+#~ msgid "Flickr"
+#~ msgstr "﻿Flickr"
+
+#~ msgid "Vine"
+#~ msgstr "Vine"
+
+#~ msgid "Meetup"
+#~ msgstr "Meetup"
+
+#~ msgid "Deviantart"
+#~ msgstr "Deviantart"
+
+#~ msgid "Stumbleupon"
+#~ msgstr "Stumbleupon"
+
+#~ msgid "MySpace"
+#~ msgstr "MySpace"
+
+#~ msgid "Yelp"
+#~ msgstr "Yelp"
+
+#~ msgid "Mixi"
+#~ msgstr "Mixi"
+
+#~ msgid "SoundCloud"
+#~ msgstr "SoundCloud"
+
+#~ msgid "Foursquare"
+#~ msgstr "Foursquare"
+
+#~ msgid "Spotify"
+#~ msgstr "Spotify"
+
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo"
+
+#~ msgid "Dailymotion"
+#~ msgstr "Dailymotion"
+
+#~ msgid "Reddit"
+#~ msgstr "Reddit"
+
+#~ msgid "Box shadow"
+#~ msgstr "Sombra de la caja"
+
+#~ msgid "Box border"
+#~ msgstr "Borde de la caja"
+
+#~ msgid "Box background color"
+#~ msgstr "Color de fondo de la caja"
+
+#~ msgid "Size to display social icons."
+#~ msgstr "Tamaño de los iconos sociales."
+
+#~ msgid "Bottom background color."
+#~ msgstr ""
+#~ "Color de fondo de la barra inferior (sólo para la disposición \"tabbed\" "
+#~ "de la caja)."
+
+#~ msgid "Bottom border color."
+#~ msgstr ""
+#~ "Color de la barra inferior (sólo para la disposición \"tabbed\" de la "
+#~ "caja)."
+
+#~ msgid "Twitter profile"
+#~ msgstr "Perfil de Twitter"
+
+#~ msgid "//www.twitter.com/user_name"
+#~ msgstr "//www.twitter.com/nombre_usuario"
+
+#~ msgid "Facebook profile"
+#~ msgstr "Perfil de Facebook"
+
+#~ msgid "//www.facebook.com/user_name"
+#~ msgstr "//www.facebook.com/nombre_usuario"
+
+#~ msgid "Linkedin profile"
+#~ msgstr "Perfil de Linkedin"
+
+#~ msgid "//www.linkedin.com/pub/user_name"
+#~ msgstr "//www.linkedin.com/pub/nombre_usuario"
+
+#~ msgid "Google+ profile"
+#~ msgstr "Perfil de Google+"
+
+#~ msgid "//plus.google.com/+user_name"
+#~ msgstr "//plus.google.com/+nombre_usuario"
+
+#~ msgid "Youtube profile"
+#~ msgstr "Perfil de YouTube"
+
+#~ msgid "//www.youtube.com/user/user_name"
+#~ msgstr "//www.youtube.com/user/nombre_usuario"
+
+#~ msgid "Pinterest profile"
+#~ msgstr "Pinterest"
+
+#~ msgid "//www.pinterest.com/user_name"
+#~ msgstr "//www.pinterest.com/nombre_usuario"
+
+#~ msgid "Tumblr profile"
+#~ msgstr "Tumblr"
+
+#~ msgid "//user_name.tumblr.com"
+#~ msgstr "//nombre_usuario.tumblr.com"
+
+#~ msgid "Instagram profile"
+#~ msgstr "Instagram"
+
+#~ msgid "//instagram.com/user_name"
+#~ msgstr "//instagram.com/nombre_usuario"
+
+#~ msgid "Slideshare profile"
+#~ msgstr "Perfil en Slideshare"
+
+#~ msgid "//www.slideshare.net/username"
+#~ msgstr "//www.slideshare.net/username"
+
+#~ msgid "Xing profile"
+#~ msgstr "Xing"
+
+#~ msgid "//www.xing.com/profile/user_name"
+#~ msgstr "//www.xing.com/profile/nombre_usuario"
+
+#~ msgid "Renren profile"
+#~ msgstr "Renren"
+
+#~ msgid "//www.renren.com/user_name"
+#~ msgstr "//www.renren.com/nombre_usuario"
+
+#~ msgid "//www.vk.com/user_name"
+#~ msgstr "//www.vk.com/nombre_usuario"
+
+#~ msgid "Flickr profile"
+#~ msgstr "Flickr"
+
+#~ msgid "//www.flickr.com/photos/user_name"
+#~ msgstr "//www.flickr.com/photos/nombre_usuario"
+
+#~ msgid "Vine profile"
+#~ msgstr "Vine"
+
+#~ msgid "//vine.co/user_name"
+#~ msgstr "//vine.co/nombre_usuario"
+
+#~ msgid "Meetup profile"
+#~ msgstr "Meetup"
+
+#~ msgid "//www.meetup.com/user_name"
+#~ msgstr "//www.meetup.com/nombre_usuario"
+
+#~ msgid "//www.weibo.com/user_name"
+#~ msgstr "//www.weibo.com/nombre_usuario"
+
+#~ msgid "DeviantArt profile"
+#~ msgstr "DevianArt"
+
+#~ msgid "//user_name.deviantart.com"
+#~ msgstr "//nombre_usuario.deviantart.com"
+
+#~ msgid "StumbleUpon profile"
+#~ msgstr "StumbleUpon"
+
+#~ msgid "//stumbleupon.com/stumbler/user_name"
+#~ msgstr "//stumbleupon.com/stumbler/nombre_usuario"
+
+#~ msgid "MySpace profile"
+#~ msgstr "MySpace"
+
+#~ msgid "//myspace.com/user_name"
+#~ msgstr "//myspace.com/nombre_usuario"
+
+#~ msgid "Yelp profile"
+#~ msgstr "Yelp"
+
+#~ msgid "//www.yelp.com/biz/name"
+#~ msgstr "//www.yelp.com/biz/nombre_usuario"
+
+#~ msgid "Mixi profile"
+#~ msgstr "Mixi"
+
+#~ msgid "//mixi.jp/view_community.pl?id=12345"
+#~ msgstr "//mixi.jp/view_community.pl?id=12345"
+
+#~ msgid "SoundCloud profile"
+#~ msgstr "SoundCloud"
+
+#~ msgid "//soundcloud.com/user_name"
+#~ msgstr "//soundcloud.com/nombre_usuario"
+
+#~ msgid "Last.fm profile"
+#~ msgstr "Last.fm"
+
+#~ msgid "//www.last.fm/user/name"
+#~ msgstr "//www.last.fm/user/nombre_usuario"
+
+#~ msgid "Foursquare profile"
+#~ msgstr "Foursquare"
+
+#~ msgid "//foursquare.com/user_name"
+#~ msgstr "//foursquare.com/nombre_usuario"
+
+#~ msgid "Spotify profile"
+#~ msgstr "Spotify"
+
+#~ msgid "//play.spotify.com/user/name"
+#~ msgstr "//play.spotify.com/user/nombre_usuario"
+
+#~ msgid "Vimeo profile"
+#~ msgstr "Vimeo"
+
+#~ msgid "//vimeo.com/user_name"
+#~ msgstr "//vimeo.com/nombre_usuario"
+
+#~ msgid "Dailymotion profile"
+#~ msgstr "Perfil en Dailymotion"
+
+#~ msgid "//www.dailymotion.com/user_name"
+#~ msgstr "//www.dailymotion.com/user_name"
+
+#~ msgid "Reddit profile"
+#~ msgstr "Perfil en Reddit"
+
+#~ msgid "//www.reddit.com/user/username"
+#~ msgstr "//www.reddit.com/user/username"
+
+#~ msgid "Google +"
+#~ msgstr "Google+"
+
+#~ msgid "DeviantArt"
+#~ msgstr "DeviantArt"
+
+#~ msgid "StumbleUpon"
+#~ msgstr "StumbleUpon"
+
+#~ msgid "Last.fm"
+#~ msgstr "Last.fm"
+
+#~ msgid "https://play.spotify.com/user/name"
+#~ msgstr "https://play.spotify.com/user/nombre_usuario"
+
+#~ msgid "Molongui Authorship Premium"
+#~ msgstr "Molongui Authorship Premium"
+
+#~ msgid "https://molongui.amitzy.com/product/authorship"
+#~ msgstr "https://molongui.amitzy.com/product/authorship"
+
+#~ msgid ""
+#~ "Give credit to the authors and contributors of your blog by showing their "
+#~ "profile information in a fancy and minimalistic box within the post page."
+#~ msgstr ""
+#~ "Otorga el crédito que se merecen a los autores y colaboradores de tu blog "
+#~ "mostrando su información de perfil de forma elegante y minimalista junto "
+#~ "a su artículo."
+
+#~ msgid "License Activation"
+#~ msgstr "Activar licencia"
+
+#~ msgid "License Deactivation"
+#~ msgstr "Desactivar licencia"
+
+#~ msgid "Deactivate License Key"
+#~ msgstr "Desactivar licencia"
+
+#~ msgid "Plugin license deactivated. "
+#~ msgstr "Licencia desactivada."
+
+#~ msgid "There is no active license to deactivate."
+#~ msgstr "No existe licencia activa que desactivar."
+
+#~ msgid "Deactivates the License Key so it can be used on another blog."
+#~ msgstr ""
+#~ "Desactiva la licencia de modo que pueda ser utilizada en otra instalación "
+#~ "de Wordpress."
+
+#~ msgid "Show box by default"
+#~ msgstr "Mostrar la caja por defecto"
+
+#~ msgid "Box position"
+#~ msgstr "Posición"
+
+#~ msgid "Hide box if no description"
+#~ msgstr "Ocultar caja si no existe biografía del autor"
+
+#~ msgid "Box layout"
+#~ msgstr "Plantilla"
+
+#~ msgid ""
+#~ "Set display options that will apply by default to all posts. They can be "
+#~ "changed for each post on its edit page."
+#~ msgstr ""
+#~ "Indica las opciones que se utilizarán por defecto en todos las entradas "
+#~ "del blog. Puedes cambiarlas luego para cada post."
+
+#~ msgid ""
+#~ "%sPremium%s options are only available in the %spremium version%s of this "
+#~ "plugin. Default options will be used in the free version."
+#~ msgstr ""
+#~ "Las opciones %spremium%s sólo están disponibles en la %sversión Premium%s "
+#~ "del plugin. Las opciones por defecto son las que se usan en esta versión "
+#~ "gratuita."
+
+#~ msgid "Layout 1 [PREMIUM]"
+#~ msgstr "Plantilla 1 [PREMIUM]"
+
+#~ msgid "Layout 1"
+#~ msgstr "Plantilla 1"
+
+#~ msgid "Layout 1 RTL [PREMIUM]"
+#~ msgstr "Plantilla 1 RTL [PREMIUM]"
+
+#~ msgid "Layout 1 RTL"
+#~ msgstr "Plantilla 1 RTL"
+
+#~ msgid "Squared [PREMIUM]"
+#~ msgstr "Encuadrado [PREMIUM]"
+
+#~ msgid "Circled [PREMIUM]"
+#~ msgstr "Redondeado [PREMIUM]"
+
+#~ msgid "Boxed [PREMIUM]"
+#~ msgstr "Encuadrada [PREMIUM]"
+
+#~ msgid "Branded [PREMIUM]"
+#~ msgstr "Original [PREMIUM]"
+
+#~ msgid ""
+#~ "This option is available only in the %spremium version%s of the plugin. "
+#~ "Default style will be used in the free version."
+#~ msgstr ""
+#~ "Esta opción está disponible sólo en la %sversión premium%s del plugin. El "
+#~ "estilo por defecto será el que se use en la versión gratuita."
+
+#~ msgid "Customize related posts from authors."
+#~ msgstr "Configura las opciones de los posts relacionados."
+
+#~ msgid ""
+#~ "Choose whether to add profile metadata for author details (useful for "
+#~ "rich snippets)."
+#~ msgstr ""
+#~ "Escoge si quieres añadir rich snippets a la cabecera del fichero HTML con "
+#~ "la información del autor."
+
+#~ msgid ""
+#~ "Choose whether to keep plugin configuration and plugin related data upon "
+#~ "plugin uninstalling."
+#~ msgstr ""
+#~ "Escoge qué hacer con la configuración e información (autores "
+#~ "invitados, ...) del plugin si éste es desinstalado."
+
+#~ msgid "Insert here the URL of the page you want the user name to link to."
+#~ msgstr ""
+#~ "Indica aquí la dirección URL de la página a la que enlazar la ficha del "
+#~ "autor."
+
+#~ msgid ""
+#~ "Insert here the URL of the page you want the company name to link to."
+#~ msgstr ""
+#~ "Introduzca la dirección URL de la página a la que desea que el nombre "
+#~ "enlace."
+
+#~ msgid "Blog"
+#~ msgstr "Blog"
+
+#~ msgid "Layout 2 [PREMIUM]"
+#~ msgstr "Plantilla 2 [PREMIUM]"
+
+#~ msgid "Layout 2"
+#~ msgstr "Plantilla 2"
+
+#~ msgid "Layout 2 RTL [PREMIUM]"
+#~ msgstr "Plantilla 2 RTL [PREMIUM]"
+
+#~ msgid "Layout 2 RTL"
+#~ msgstr "Plantilla 2 RTL"
+
+#~ msgid "Layout 3 [PREMIUM]"
+#~ msgstr "Plantilla 3 [PREMIUM]"
+
+#~ msgid "Layout 3"
+#~ msgstr "Plantilla 3"
+
+#~ msgid "Layout 3 RTL [PREMIUM]"
+#~ msgstr "Plantilla 3 RTL [PREMIUM]"
+
+#~ msgid "Layout 3 RTL"
+#~ msgstr "Plantilla 3 RTL"
+
+#~ msgid "Italic-Bold"
+#~ msgstr "Cursiva-Negrita"
+
+#~ msgid "https://www.twitter.com/user_name"
+#~ msgstr "https://www.twitter.com/nombre_de_usuario"
+
+#~ msgid "https://www.facebook.com/user_name"
+#~ msgstr "https://www.facebook.com/nombre_de_usuario"
+
+#~ msgid "https://plus.google.com/+user_name"
+#~ msgstr "https://plus.google.com/+nombre_de_usuario"
+
+#~ msgid "https://www.youtube.com/user/user_name"
+#~ msgstr "https://www.youtube.com/user/nombre_de_usuario"
+
+#~ msgid "http://molongui.amitzy.com/authorship/"
+#~ msgstr "http://molongui.amitzy.com/authorship/"
+
+#~ msgid "http://molongui.amitzy.com/"
+#~ msgstr "http://molongui.amitzy.com/"
+
+#~ msgid ""
+#~ "Connection failed to the\n"
+#~ "\t\t\t\t\tLicense Key API server. Try again later."
+#~ msgstr ""
+#~ "La conexión con el servidor de licencias de Molongui ha fallado. Por "
+#~ "favor, vuelve a intentarlo más tarde."
+
+#~ msgid "Box layout %s"
+#~ msgstr "Planitlla %s"
+
+#~ msgid "Name color %s"
+#~ msgstr "Color del nombre %s"
+
+#~ msgid "Meta color %s"
+#~ msgstr "Color del trabajo %s"
+
+#~ msgid "Bio color %s"
+#~ msgstr "Color fuente biografía %s"
+
+#~ msgid "Bio text align %s"
+#~ msgstr "Alineación texto biografía %s"
+
+#~ msgid "Bio text style %s"
+#~ msgstr "Estilo texto biografía %s"
+
+#~ msgid "Social icons style %s"
+#~ msgstr "Estilo iconos %s"
+
+#~ msgid "Bottom background color %s"
+#~ msgstr "Color fondo pie %s"
+
+#~ msgid "Bottom border color %s"
+#~ msgstr "Color borde pie %s"
+
+#~ msgid "Show box in posts by default"
+#~ msgstr "Mostrar autor en los posts por defecto"
+
+#~ msgid "Below post content"
+#~ msgstr "Bajo el post"
+
+#~ msgid "Social media icon style"
+#~ msgstr "Estilo de los iconos"
+
+#~ msgid "Box color scheme"
+#~ msgstr "Paleta de colores"
+
+#~ msgid ""
+#~ "Set default display options that will apply to the author box on all "
+#~ "posts. They can be changed for each post on its edit page."
+#~ msgstr ""
+#~ "Escoge las opciones por defecto que se aplicarán a todos los posts. Esta "
+#~ "configuración puede cambiarse para cada post de manera individual desde "
+#~ "la ventana de edición de post."
+
+#~ msgid ""
+#~ "Choose whether to add profile metadata for author details (useful for "
+#~ "rich snippets)"
+#~ msgstr ""
+#~ "Indica si quieres añadir metadatos del perfil del autor en la cabecera "
+#~ "HTML (rich snippets)"
+
+#~ msgid ""
+#~ "Customize the author box choosing the layout you like the most and "
+#~ "picking up the social media icons and colors that fit best with your site."
+#~ msgstr ""
+#~ "Personaliza como se muestra la información del autor seleccionando la "
+#~ "disposición que más te guste y escogiendo el estilo de iconos y la "
+#~ "familia de colores que mejor se adapte a tu página web/blog."
+
+#~ msgid ""
+#~ "Choose the position relative to a post where the author box will be "
+#~ "displayed."
+#~ msgstr "Escoge la posición relativa al post donde mostrar la \"Author box\""
+
+#~ msgctxt "Guest author"
+#~ msgid "Add New"
+#~ msgstr "Añadir nuevo"
+
+#~ msgid ""
+#~ "As part of our ongoing effort to provide high quality, eye-catching "
+#~ "Wordpress plugins, here you have some you might find useful for your\n"
+#~ "\tsite:"
+#~ msgstr ""
+#~ "Siendo nuestro objetivo el ofrecer plugins útiles y de calidad, aquí "
+#~ "tienes algunos de los que hemos desarrollado y que te pueden resultar "
+#~ "interesantes:"
+
+#~ msgid ""
+#~ "We are constantly looking for ways to improve the quality of our products "
+#~ "and services. How you rate our product and service\n"
+#~ "\t\t\t\t\t\t\tis the most important information we can obtain to support "
+#~ "our goal."
+#~ msgstr ""
+#~ "Buscamos mejorar nuestros productos y servicios constantemente. En qué "
+#~ "medida valoras nuestro plugin y servicio es la información más importante "
+#~ "que podemos obtener para conseguir nuestro objetivo."
+
+#~ msgid ""
+#~ "We would really appreciate it if you would take a second to rate this "
+#~ "plugin at the official directory of Wordpress\n"
+#~ "\t\t\t\t\t\t\t\tplugins. A huge thank you from Molongui in advance!"
+#~ msgstr ""
+#~ "Te agradeceríamos enormemente que te tomarás un minuto para valorar este "
+#~ "plugin. Tu opinión y sugerencias nos resultan de vital importancia para "
+#~ "seguir mejorando y así poder ofrecerte productos y servicios de tu "
+#~ "interés. ¡Muchas gracias de antemano!"
+
+#~ msgid ""
+#~ "Give authorship to your posts and pages with Molongui Authorship, the "
+#~ "only plugin that allows you to add Guest Authors."
+#~ msgstr "Descripción en español"

@@ -1,0 +1,964 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Profile Extra Fields\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-17 14:59+0200\n"
+"PO-Revision-Date: 2020-11-17 14:59+0200\n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: Matthias Siebler <matthias.siebler@gmail.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bws_menu\n"
+
+#: includes/class-prflxtrflds-settings.php:20
+msgid "Misc"
+msgstr ""
+
+#: includes/class-prflxtrflds-settings.php:21
+msgid "Custom Code"
+msgstr ""
+
+#: includes/class-prflxtrflds-settings.php:22
+msgid "License Key"
+msgstr ""
+
+#: includes/class-prflxtrflds-settings.php:43
+#, fuzzy
+#| msgid "Profile Extra Fields"
+msgid "Profile Extra Fields Pro Shortcode"
+msgstr "Profile Extra Fields"
+
+#: includes/class-prflxtrflds-settings.php:46
+msgid "Add user data for current user using the following shortcode:"
+msgstr ""
+
+#: includes/class-prflxtrflds-settings.php:50
+msgid ""
+"Add user data for specific users using the following shortcode (where * is "
+"user ids, separated by commas):"
+msgstr ""
+
+#: includes/class-prflxtrflds-settings.php:54
+msgid ""
+"Add user data for specific user roles using the following shortcode (where * "
+"is user roles, separated by commas):"
+msgstr ""
+
+#: includes/class-prflxtrflds-settings.php:58
+msgid ""
+"Add user data specifying the data position (columns or rows) using the "
+"following shortcode (where * is top, left or right):"
+msgstr ""
+
+#: includes/class-prflxtrflds-settings.php:62
+msgid "Also you can select the current user:"
+msgstr ""
+
+#: profile-extra-fields.php:40 profile-extra-fields.php:48
+#: profile-extra-fields.php:49 profile-extra-fields.php:3925
+msgid "All Fields"
+msgstr ""
+
+#: profile-extra-fields.php:56
+#, fuzzy
+#| msgid "Add new field"
+msgid "Add New Fields"
+msgstr "Neues Feld hinzufügen"
+
+#: profile-extra-fields.php:57 profile-extra-fields.php:2463
+#, fuzzy
+#| msgid "Add new field"
+msgid "Add New"
+msgstr "Neues Feld hinzufügen"
+
+#: profile-extra-fields.php:64 profile-extra-fields.php:2397
+msgid "Profile Extra Fields Settings"
+msgstr "Profile Extra Feld - Einstellungen"
+
+#: profile-extra-fields.php:65 profile-extra-fields.php:4153
+#: profile-extra-fields.php:4167
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: profile-extra-fields.php:80
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: profile-extra-fields.php:360
+msgid "The field is empty"
+msgstr ""
+
+#: profile-extra-fields.php:361
+msgid "N/A"
+msgstr "nicht verfügbar"
+
+#: profile-extra-fields.php:372
+msgid "Text field"
+msgstr ""
+
+#: profile-extra-fields.php:373
+msgid "Textarea"
+msgstr ""
+
+#: profile-extra-fields.php:374
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: profile-extra-fields.php:375
+msgid "Radio button"
+msgstr ""
+
+#: profile-extra-fields.php:376
+msgid "Drop down list"
+msgstr "Dropdown-Liste"
+
+#: profile-extra-fields.php:377
+msgid "Date"
+msgstr ""
+
+#: profile-extra-fields.php:378
+msgid "Time"
+msgstr ""
+
+#: profile-extra-fields.php:379
+msgid "Datetime"
+msgstr ""
+
+#: profile-extra-fields.php:380
+msgid "Number"
+msgstr ""
+
+#: profile-extra-fields.php:381
+msgid "Phone number"
+msgstr ""
+
+#: profile-extra-fields.php:382
+msgid "URL link"
+msgstr ""
+
+#: profile-extra-fields.php:674 profile-extra-fields.php:677
+#: profile-extra-fields.php:1643 profile-extra-fields.php:1648
+msgid "Edit Field"
+msgstr ""
+
+#: profile-extra-fields.php:743
+msgid "Add New Field"
+msgstr ""
+
+#: profile-extra-fields.php:760
+msgid "Field name is empty."
+msgstr ""
+
+#: profile-extra-fields.php:765
+msgid "Select at least one user role."
+msgstr ""
+
+#: profile-extra-fields.php:770 profile-extra-fields.php:1119
+#, php-format
+msgid ""
+"Please specify a mask which will be used for the phone validation, where * "
+"is a number. Use only the following symbols %s"
+msgstr ""
+
+#: profile-extra-fields.php:785 profile-extra-fields.php:791
+msgid "Select at least one available value."
+msgstr ""
+
+#: profile-extra-fields.php:788
+msgid "Select at least two available values."
+msgstr ""
+
+#: profile-extra-fields.php:798
+msgid "The field has been updated."
+msgstr ""
+
+#: profile-extra-fields.php:800
+msgid "The field has been created."
+msgstr ""
+
+#: profile-extra-fields.php:1034 profile-extra-fields.php:1513
+#: profile-extra-fields.php:1882 profile-extra-fields.php:2919
+#: profile-extra-fields.php:3059
+msgid "Name"
+msgstr "Name"
+
+#: profile-extra-fields.php:1040 profile-extra-fields.php:1515
+msgid "Type"
+msgstr "Typ"
+
+#: profile-extra-fields.php:1050
+msgid "Max Length"
+msgstr ""
+
+#: profile-extra-fields.php:1053
+msgid ""
+"Specify field max length (for text field and textarea type) or max number "
+"(for number field type)."
+msgstr ""
+
+#: profile-extra-fields.php:1057
+msgid "Field width in characters"
+msgstr ""
+
+#: profile-extra-fields.php:1063
+msgid "The height of the field in the text lines"
+msgstr ""
+
+#: profile-extra-fields.php:1069 profile-extra-fields.php:1072
+msgid "Date Format"
+msgstr ""
+
+#: profile-extra-fields.php:1085 profile-extra-fields.php:1109
+msgid "Custom:"
+msgstr ""
+
+#: profile-extra-fields.php:1085
+msgid "enter a custom date format in the following field"
+msgstr ""
+
+#: profile-extra-fields.php:1086
+msgid "Custom date format:"
+msgstr ""
+
+#: profile-extra-fields.php:1087 profile-extra-fields.php:1110
+#, fuzzy
+msgid "example:"
+msgstr "Beispiel"
+
+#: profile-extra-fields.php:1088 profile-extra-fields.php:1111
+msgid "Documentation on date and time formatting."
+msgstr ""
+
+#: profile-extra-fields.php:1093 profile-extra-fields.php:1096
+msgid "Time Format"
+msgstr ""
+
+#: profile-extra-fields.php:1109
+msgid "enter a custom time format in the following field"
+msgstr ""
+
+#: profile-extra-fields.php:1110
+msgid "Custom time format:"
+msgstr ""
+
+#: profile-extra-fields.php:1116
+msgid "Pattern"
+msgstr ""
+
+#: profile-extra-fields.php:1123
+msgid "Available Values"
+msgstr ""
+
+#: profile-extra-fields.php:1127 profile-extra-fields.php:1138
+#: profile-extra-fields.php:1145
+msgid "Name of value"
+msgstr "Name des Wert"
+
+#: profile-extra-fields.php:1130
+msgid "Delete"
+msgstr "Löschen"
+
+#: profile-extra-fields.php:1150
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: profile-extra-fields.php:1151
+msgid "Click save button to add more values"
+msgstr ""
+
+#: profile-extra-fields.php:1156 profile-extra-fields.php:1514
+#: profile-extra-fields.php:2242
+msgid "Description"
+msgstr "Beschreibung"
+
+#: profile-extra-fields.php:1162
+msgid "Field Properties"
+msgstr ""
+
+#: profile-extra-fields.php:1166 profile-extra-fields.php:1171
+msgid "Available"
+msgstr ""
+
+#: profile-extra-fields.php:1167 profile-extra-fields.php:1187
+msgid "Editable"
+msgstr ""
+
+#: profile-extra-fields.php:1168 profile-extra-fields.php:1205
+msgid "Visible"
+msgstr ""
+
+#: profile-extra-fields.php:1176 profile-extra-fields.php:1195
+#: profile-extra-fields.php:1213 profile-extra-fields.php:1227
+msgid "Select all"
+msgstr "Alles auswählen"
+
+#: profile-extra-fields.php:1242 profile-extra-fields.php:1516
+msgid "Required"
+msgstr "Pflichtfeld"
+
+#: profile-extra-fields.php:1246
+msgid "Enable to make this field required."
+msgstr ""
+
+#: profile-extra-fields.php:1251
+#, fuzzy
+#| msgid "Required"
+msgid "Required Symbol"
+msgstr "Pflichtfeld"
+
+#: profile-extra-fields.php:1259
+msgid "Show by Default in User Data"
+msgstr ""
+
+#: profile-extra-fields.php:1263
+msgid ""
+"Show this field by default in User Data. You can change it using Screen "
+"Options tab."
+msgstr ""
+
+#: profile-extra-fields.php:1268
+msgid "Always Show in User Data"
+msgstr ""
+
+#: profile-extra-fields.php:1272
+msgid ""
+"Show this field in User Data on any display. You can change it using Screen "
+"Options tab."
+msgstr ""
+
+#: profile-extra-fields.php:1278
+msgid "Always Show in User Registration Form"
+msgstr ""
+
+#: profile-extra-fields.php:1283
+msgid "Show this field in user registration form."
+msgstr ""
+
+#: profile-extra-fields.php:1296 profile-extra-fields.php:2468
+msgid "WooСommerce"
+msgstr ""
+
+#: profile-extra-fields.php:1300
+msgid "Enable to display this field for WooCommerce."
+msgstr ""
+
+#: profile-extra-fields.php:1305
+msgid "WooСommerce Сheckout Form"
+msgstr ""
+
+#: profile-extra-fields.php:1309
+msgid "Enable to display this field for WooCommerce Сheckout Form."
+msgstr ""
+
+#: profile-extra-fields.php:1314
+msgid "WooСommerce Registration Form"
+msgstr ""
+
+#: profile-extra-fields.php:1318
+msgid "Enable to display this field for WooCommerce Registration Form."
+msgstr ""
+
+#: profile-extra-fields.php:1325 profile-extra-fields.php:2510
+msgid "Learn More"
+msgstr ""
+
+#: profile-extra-fields.php:1339 profile-extra-fields.php:1350
+#: profile-extra-fields.php:1386
+#, php-format
+msgid "Enable to display this field for %s."
+msgstr ""
+
+#: profile-extra-fields.php:1377 profile-extra-fields.php:2570
+msgid "Activate"
+msgstr ""
+
+#: profile-extra-fields.php:1379 profile-extra-fields.php:2573
+msgid "Download"
+msgstr ""
+
+#: profile-extra-fields.php:1398 profile-extra-fields.php:1520
+msgid "Field Order"
+msgstr ""
+
+#: profile-extra-fields.php:1408 profile-extra-fields.php:2708
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: profile-extra-fields.php:1428
+msgid "Fields per page"
+msgstr "Felder pro Seite"
+
+#: profile-extra-fields.php:1517
+msgid "Show by Default"
+msgstr ""
+
+#: profile-extra-fields.php:1518
+msgid "Show Always"
+msgstr ""
+
+#: profile-extra-fields.php:1519
+msgid "Roles"
+msgstr "Rollen"
+
+#: profile-extra-fields.php:1539 profile-extra-fields.php:1644
+#: profile-extra-fields.php:1649
+msgid "Delete Permanently"
+msgstr "Unwiderruflich löschen"
+
+#: profile-extra-fields.php:1595
+msgid "All"
+msgstr "Alle"
+
+#: profile-extra-fields.php:1619 profile-extra-fields.php:2022
+msgid "All roles"
+msgstr "Alle Rollen"
+
+#: profile-extra-fields.php:1628 profile-extra-fields.php:2031
+msgid "Filter"
+msgstr "Filter"
+
+#: profile-extra-fields.php:1663 profile-extra-fields.php:1668
+#: profile-extra-fields.php:1677
+msgid "No"
+msgstr "Nein"
+
+#: profile-extra-fields.php:1663 profile-extra-fields.php:1667
+#: profile-extra-fields.php:1676
+msgid "Yes"
+msgstr "Ja"
+
+#: profile-extra-fields.php:1879 profile-extra-fields.php:1989
+#: profile-extra-fields.php:2916 profile-extra-fields.php:2972
+#: profile-extra-fields.php:3037 profile-extra-fields.php:3126
+msgid "User ID"
+msgstr "Benutzer ID"
+
+#: profile-extra-fields.php:1880 profile-extra-fields.php:2655
+#: profile-extra-fields.php:2917 profile-extra-fields.php:2974
+#: profile-extra-fields.php:3044 profile-extra-fields.php:3133
+msgid "Username"
+msgstr "Benutzername"
+
+#: profile-extra-fields.php:1881 profile-extra-fields.php:2918
+#: profile-extra-fields.php:3051
+msgid "User role"
+msgstr "Benutzerrolle"
+
+#: profile-extra-fields.php:1883 profile-extra-fields.php:2920
+#: profile-extra-fields.php:3067
+msgid "Email"
+msgstr "E-Mail"
+
+#: profile-extra-fields.php:1884 profile-extra-fields.php:2921
+#: profile-extra-fields.php:3075
+msgid "Posts"
+msgstr "Beiträge"
+
+#: profile-extra-fields.php:1987
+msgid "Edit user"
+msgstr "Benutzer bearbeiten"
+
+#: profile-extra-fields.php:2241
+msgid "Field Name"
+msgstr ""
+
+#: profile-extra-fields.php:2243
+msgid "Show This Field"
+msgstr ""
+
+#: profile-extra-fields.php:2244
+msgid "Show Only If the Next Value is Selected"
+msgstr ""
+
+#: profile-extra-fields.php:2276
+msgid "Show despite the value"
+msgstr ""
+
+#: profile-extra-fields.php:2439
+msgid "Settings saved"
+msgstr "Einstellungen gespeichert"
+
+#: profile-extra-fields.php:2447
+msgid "All plugin settings were restored."
+msgstr ""
+
+#: profile-extra-fields.php:2466
+msgid "Extra Fields"
+msgstr ""
+
+#: profile-extra-fields.php:2470
+msgid "Booking"
+msgstr ""
+
+#: profile-extra-fields.php:2471
+msgid "User Data"
+msgstr ""
+
+#: profile-extra-fields.php:2473
+msgid "Shortcode Settings"
+msgstr ""
+
+#: profile-extra-fields.php:2482 profile-extra-fields.php:2524
+msgid ""
+"Drag each item into the order you would like to display it on the user page"
+msgstr ""
+
+#: profile-extra-fields.php:2488 profile-extra-fields.php:2503
+#: profile-extra-fields.php:2530 profile-extra-fields.php:2615
+msgid "Search"
+msgstr ""
+
+#: profile-extra-fields.php:2569
+#, php-format
+msgid "Activate %s to display fields for %s."
+msgstr ""
+
+#: profile-extra-fields.php:2572
+#, php-format
+msgid "Install %s to display fields for %s."
+msgstr ""
+
+#: profile-extra-fields.php:2597
+msgid "Export Data"
+msgstr ""
+
+#: profile-extra-fields.php:2599
+msgid "Data layout"
+msgstr ""
+
+#: profile-extra-fields.php:2601 profile-extra-fields.php:2682
+#: profile-extra-fields.php:3903
+msgid "Columns"
+msgstr ""
+
+#: profile-extra-fields.php:2602 profile-extra-fields.php:2683
+#: profile-extra-fields.php:3904
+msgid "Rows"
+msgstr ""
+
+#: profile-extra-fields.php:2604
+msgid "Export"
+msgstr ""
+
+#: profile-extra-fields.php:2630
+msgid "Message for Empty Field"
+msgstr ""
+
+#: profile-extra-fields.php:2636
+msgid "Message for the Field Unavaliable for the User"
+msgstr ""
+
+#: profile-extra-fields.php:2642
+msgid "Sort by User Name"
+msgstr ""
+
+#: profile-extra-fields.php:2645
+msgid "ASC"
+msgstr "Aufsteigend"
+
+#: profile-extra-fields.php:2646
+msgid "DESC"
+msgstr "Absteigend"
+
+#: profile-extra-fields.php:2651
+msgid "Display Name"
+msgstr ""
+
+#: profile-extra-fields.php:2658
+msgid "Public Name"
+msgstr ""
+
+#: profile-extra-fields.php:2664
+msgid "Show Empty Fields"
+msgstr ""
+
+#: profile-extra-fields.php:2668
+msgid "Enable to show the field if the value is not filled by a user."
+msgstr ""
+
+#: profile-extra-fields.php:2673
+msgid "Show User ID"
+msgstr ""
+
+#: profile-extra-fields.php:2679 profile-extra-fields.php:3901
+msgid "Data Rotation"
+msgstr ""
+
+#: profile-extra-fields.php:2688
+msgid "Debug Mode"
+msgstr ""
+
+#: profile-extra-fields.php:2692
+msgid ""
+"Enable to display error messages when shortcode formation is failed (i.e. "
+"there are no users for the selected roles)."
+msgstr ""
+
+#: profile-extra-fields.php:2747 profile-extra-fields.php:3218
+#, php-format
+msgid "User with entered id(id=%s) does not exist!"
+msgstr ""
+
+#: profile-extra-fields.php:2769
+#, php-format
+msgid "There are no users for the selected roles ( %s )"
+msgstr ""
+
+#: profile-extra-fields.php:2777
+#, php-format
+msgid "Unsupported shortcode option(display=%s)"
+msgstr ""
+
+#: profile-extra-fields.php:2787 profile-extra-fields.php:3258
+msgid "Shortcode output error"
+msgstr "Shortcode Ausgabefehler"
+
+#: profile-extra-fields.php:3186
+msgid "No data for current shortcode settings"
+msgstr ""
+
+#: profile-extra-fields.php:3225
+#, php-format
+msgid "Field with entered id(id=%s) does not exist!"
+msgstr ""
+
+#: profile-extra-fields.php:3334
+#, fuzzy, php-format
+#| msgid "Extra fields"
+msgid "%s Extra Fields"
+msgstr "Zusätzliche Felder"
+
+#: profile-extra-fields.php:3578 profile-extra-fields.php:4760
+#, php-format
+msgid "Required field %s is not filled. Data was not saved!"
+msgstr ""
+"Das Pflichtfeld %s ist nicht gefüllt. Die Daten wurden nicht gespeichert!"
+
+#: profile-extra-fields.php:3589 profile-extra-fields.php:3619
+#: profile-extra-fields.php:3622 profile-extra-fields.php:4769
+#: profile-extra-fields.php:4799 profile-extra-fields.php:4802
+#, php-format
+msgid "Field %s does not match %s. Data was not saved!"
+msgstr ""
+
+#: profile-extra-fields.php:3771 profile-extra-fields.php:4734
+msgid "Please fill all required fields."
+msgstr ""
+
+#: profile-extra-fields.php:3886
+msgid "Display all users data"
+msgstr ""
+
+#: profile-extra-fields.php:3887 profile-extra-fields.php:3939
+msgid "Display logged in user data"
+msgstr ""
+
+#: profile-extra-fields.php:3888
+#, fuzzy
+msgid "Specify a user role"
+msgstr "Mindestens eine Rolle auswählen"
+
+#: profile-extra-fields.php:3889 profile-extra-fields.php:3940
+msgid "Specify a user"
+msgstr ""
+
+#: profile-extra-fields.php:3893
+msgid "Select Shortcode"
+msgstr ""
+
+#: profile-extra-fields.php:3895
+msgid "Table"
+msgstr ""
+
+#: profile-extra-fields.php:3896
+msgid "Field Value"
+msgstr ""
+
+#: profile-extra-fields.php:3908
+msgid "Users"
+msgstr ""
+
+#: profile-extra-fields.php:3923 profile-extra-fields.php:3933
+msgid "Field"
+msgstr ""
+
+#: profile-extra-fields.php:3926
+msgid "Select Field"
+msgstr ""
+
+#: profile-extra-fields.php:3937
+msgid "User"
+msgstr ""
+
+#: profile-extra-fields.php:4169
+msgid "FAQ"
+msgstr "FAQ"
+
+#: profile-extra-fields.php:4170
+msgid "Support"
+msgstr "Support"
+
+#: profile-extra-fields.php:4735
+msgid "The following fields are required"
+msgstr ""
+
+#, fuzzy
+#~ msgid "required"
+#~ msgstr "(erforderlich)"
+
+#~ msgid "Show always"
+#~ msgstr "Immer anzeigen"
+
+#~ msgid "Show this field"
+#~ msgstr "Dieses Feld anzeigen"
+
+#~ msgid "Textfield"
+#~ msgstr "Textfeld"
+
+#~ msgid "Radiobutton"
+#~ msgstr "Radiobutton"
+
+#~ msgid "Field not filled"
+#~ msgstr "Das Feld ist nicht gefüllt"
+
+#~ msgid "Edit field"
+#~ msgstr "Feld bearbeiten"
+
+#~ msgid "Field name is empty"
+#~ msgstr "Feldname ist leer"
+
+#~ msgid "Select at least one role"
+#~ msgstr "Mindestens eine Rolle auswählen"
+
+#~ msgid "Select at least one available value"
+#~ msgstr "Mindestens einen verfügbaren Wert auswählen"
+
+#~ msgid "Select at least two available values"
+#~ msgstr "Mindestens zwei verfügbare Werte auswählen"
+
+#~ msgid "Field updated"
+#~ msgstr "Feld aktualisiert"
+
+#~ msgid "Field created"
+#~ msgstr "Feld wurde erstellt"
+
+#~ msgid "Available values"
+#~ msgstr "Verfügbare Werte"
+
+#~ msgid "To add more values, click save button"
+#~ msgstr "Um weitere Werte hinzuzufügen, klicken Sie auf Speichern"
+
+#~ msgid "Mark this field as required"
+#~ msgstr "Markiere dieses Feld als Pflichtfeld."
+
+#~ msgid "Show by default in User data"
+#~ msgstr "Standardmäßig in den Benutzerdaten anzeigen"
+
+#~ msgid ""
+#~ "Show this field by default in User data. You can change it using screen "
+#~ "options"
+#~ msgstr ""
+#~ "Standardmäßig in den Benutzerdaten anzeigen. In den Anzeigeoptionen "
+#~ "änderbar."
+
+#~ msgid "Show always in User data"
+#~ msgstr "Standardmäßig immer in den Benutzerdaten anzeigen"
+
+#~ msgid ""
+#~ "Show this field in User data on any display. You can change it using "
+#~ "screen options"
+#~ msgstr "Zeige dieses Feld überall. In den Anzeigeoptionen änderbar"
+
+#~ msgid "Field order"
+#~ msgstr "Feldreihenfolge"
+
+#~ msgid "Save settings"
+#~ msgstr "Einstellungen speichern"
+
+#~ msgid "Show default"
+#~ msgstr "Standardmäßig anzeigen"
+
+#~ msgid "Field name"
+#~ msgstr "Feldname"
+
+#~ msgid "Show only if next value is selected"
+#~ msgstr "Nur anzeigen, wenn der nächste Wert ausgewählt ist"
+
+#~ msgid "Show if any values"
+#~ msgstr "Zeige, wenn irgendwelche Werte vorhanden sind"
+
+#~ msgid "User data"
+#~ msgstr "Benutzerdaten"
+
+#~ msgid "Shortcode settings"
+#~ msgstr "Shortcode Einstellungen"
+
+#~ msgid "Drag each item into the order you prefer display fields on user page"
+#~ msgstr ""
+#~ "Ziehe die Elemente in die gewünschten Reihenfolge, so wie sie im "
+#~ "Benutzerprofil angezeigt werden sollen."
+
+#~ msgid "Message for empty field"
+#~ msgstr "Nachricht für leeres Feld"
+
+#~ msgid "Message for the field unavaliable for the user"
+#~ msgstr "Nachricht für ein Feld, dass für den Benutzer nicht verfügbar ist"
+
+#~ msgid "Sort by user name"
+#~ msgstr "Sortieren nach Name"
+
+#, fuzzy
+#~ msgid "Show empty fields"
+#~ msgstr "Leere Felder verbergen"
+
+#, fuzzy
+#~ msgid "Show the field if the value is not filled in by any user"
+#~ msgstr "Verberge das Feld, wenn kein Benutzer Daten angegeben hat"
+
+#~ msgid "Show user ID"
+#~ msgstr "Zeige Benutzer-ID"
+
+#~ msgid "For selected roles ( %s ) are no users"
+#~ msgstr "Für ausgewählte Rollen (%s) gibt es keine zugeordneten Benutzer"
+
+#, fuzzy
+#~ msgid "Unsupported shortcode option ( display=%s )"
+#~ msgstr "Shortcode-Option nicht unterstützt ( display = %s )"
+
+#~ msgid "No data for a current shortcode settings"
+#~ msgstr "Keine Daten für die aktuelle Shortcode-Einstellungen"
+
+#, fuzzy
+#~ msgid "Field %s do not match %s. Data was not saved!"
+#~ msgstr ""
+#~ "Das Pflichtfeld %s ist nicht gefüllt. Die Daten wurden nicht gespeichert!"
+
+#~ msgid "Available for roles"
+#~ msgstr "Verfügbar für Rollen"
+
+#~ msgid "Extra profile information"
+#~ msgstr "Extra Profile Information"
+
+#~ msgid "Position of the table header"
+#~ msgstr "Position des Tabellenkopf"
+
+#~ msgid "Top"
+#~ msgstr "Oben"
+
+#~ msgid ""
+#~ "Role with entered name ( %s ) is not exist! If you entered the name "
+#~ "correctly, try enter data without whitespaces in English."
+#~ msgstr ""
+#~ "Die Rolle mit eingegebenen ID (id =%s) ist nicht vorhanden! Wenn die ID "
+#~ "korrekt ist, die Daten bitte OHNE Leerzeichen eingeben."
+
+#~ msgid "Left"
+#~ msgstr "Links"
+
+#~ msgid "Right"
+#~ msgstr "Rechts"
+
+#~ msgid "Unknown field ID"
+#~ msgstr "Unbekannte Feld-ID"
+
+#~ msgid "List View"
+#~ msgstr "Listenansicht"
+
+#~ msgid "Excerpt View"
+#~ msgstr "Auszugansicht"
+
+#~ msgid "Use shortcode"
+#~ msgstr "Shortcode verwenden"
+
+#~ msgid "to see user data in frontend."
+#~ msgstr "um die Benutzerdaten im Frontend anzuzeigen."
+
+#~ msgid "You can specify a user ID, separated by commas without spaces."
+#~ msgstr ""
+#~ "Es können Benutzer-IDs, die durch Kommas und OHNE Leerzeichen voneinander "
+#~ "getrennt sind, angeben werden."
+
+#~ msgid "You can specify a user role, separated by commas without spaces."
+#~ msgstr ""
+#~ "Es können Benutzerrolle, die durch Kommas und OHNE Leerzeichen "
+#~ "voneinander getrennt sind, angeben werden."
+
+#~ msgid "You can specify a header position manually (top, left or right)."
+#~ msgstr ""
+#~ "Es kann die Header-Position manuell angegeben werden. Verfügbare Werte "
+#~ "sind: (top, left oder right)"
+
+#~ msgid "You can select multiple options."
+#~ msgstr "Es können mehrere Optionen ausgewählt werden."
+
+#~ msgid ""
+#~ "User with entered id ( id=%s ) is not exist! If you entered id corrected, "
+#~ "try enter data without spaces."
+#~ msgstr ""
+#~ "Der Benutzer mit eingegebenen ID (id =%s) ist nicht vorhanden! Wenn die "
+#~ "ID korrekt ist, die Daten bitte OHNE Leerzeichen eingeben."
+
+#~ msgid "Notice:"
+#~ msgstr "Hinweis:"
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them please "
+#~ "don't forget to click the 'Save Changes' button."
+#~ msgstr "Die Einstellungen wurden geändert. Bitte die Änderungen speichern."
+
+#~ msgid "Etc"
+#~ msgstr "І т.д."
+
+#~ msgid "Show user ID in shortcode table"
+#~ msgstr ""
+#~ "Відображати ID користувачів у таблиці, що виводиться за допомогою шорткоду"
+
+#~ msgid "You can specify top, left or right display. "
+#~ msgstr "В параметрах отображение можно указать top, left или right"
+
+#~ msgid "You can use both options at the same time"
+#~ msgstr "Вы можете использовать обе опции одновременно"
+
+#~ msgid "Use only one parameter: user_role or role_id"
+#~ msgstr "Используйте только один параметр: user_role или user_id"
+
+#~ msgid "Select"
+#~ msgstr "Выпадающий список"
+
+#~ msgid "Field type"
+#~ msgstr "Тип поля"
+
+#~ msgid "Value"
+#~ msgstr "Значение"
+
+#~ msgid "(No available fields)"
+#~ msgstr "(Нет доступных полей)"
+
+#~ msgid "Change field settings"
+#~ msgstr "Изменить настройки поля"
+
+#~ msgid "Filter by field type"
+#~ msgstr "Фильтр по типу поля"
+
+#~ msgid "Filter by field name"
+#~ msgstr "Фильтр по имени поля"
+
+#~ msgid "Show only filled fields"
+#~ msgstr "Показать только заполенные поля"
+
+#~ msgid "User nicename"
+#~ msgstr "Имя пользователя"
+
+#~ msgid "Data saved!"
+#~ msgstr "Данные сохранены!"
+
+#~ msgid "&larr; Back"
+#~ msgstr "&larr;Назад"

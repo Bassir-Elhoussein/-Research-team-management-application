@@ -1,0 +1,151 @@
+@import 'variables/variables';
+
+#user-registration {
+	&.vertical {
+		display: flex;
+		flex-wrap: wrap;
+
+		.user-registration-error, .user-registration-message {
+			float:none;
+			width: 100%;
+		}
+
+		.user-registration-MyAccount-navigation {
+			background: $color_gray_five;
+			width: 25%;
+
+			ul {
+				flex-direction: column;
+				flex-wrap: nowrap;
+
+				.user-registration-MyAccount-navigation-link {
+					&.is-active {
+						a {
+							background: $color_gray_four;
+							border-color: $primary_color;
+						}
+					}
+				}
+			}
+		}
+
+		.user-registration-MyAccount-content {
+			width: 75%;
+
+			.user-registration-profile-header {
+				display: flex;
+				flex-wrap: wrap;
+				align-items: center;
+				flex-direction: column;
+
+				.user-registration-img-container {
+					margin: auto;
+				}
+			}
+		}
+	}
+
+	&.horizontal,
+	& {
+		box-shadow: 0 2px 20px transparentize($gray-base, 0.9);
+
+		.user-registration-message,
+		.user-registration-error,
+		.user-registration-info {
+			margin-bottom: 0;
+		}
+
+		.user-registration-MyAccount-navigation {
+			border-bottom: 1px solid $border_color;
+
+			ul {
+				justify-content: center;
+
+				.user-registration-MyAccount-navigation-link {
+					a {
+						padding: 15px 20px;
+					}
+
+					&.is-active {
+						a {
+							background-color: $color_gray_four;
+						}
+					}
+				}
+			}
+		}
+
+		.user-registration-MyAccount-content,
+		.ur-edit-profile {
+			text-align: center;
+
+			.user-registration-profile-header {
+				.user-registration-img-container {
+					margin: 0 auto;
+					margin-bottom: 15px;
+
+					img {
+						width: 100px;
+						height: 100px;
+						object-fit: cover;
+						border-radius: 50%;
+						margin: 0 auto;
+					}
+				}
+			}
+
+			.edit-profile,
+			.edit-password {
+				text-align: left;
+			}
+
+			.edit-profile {
+				.user-registration-profile-header,
+				h2 {
+					text-align: center;
+				}
+			}
+		}
+	}
+}
+
+
+@media screen and (max-width: 980px) {
+	#user-registration {
+		&.vertical {
+			.user-registration-MyAccount-navigation {
+				width: 30%;
+			}
+
+			.user-registration-MyAccount-content {
+				width: 70%;
+			}
+		}
+	}
+}
+
+@media screen and (max-width: 600px) {
+	#user-registration {
+		&.vertical {
+			.user-registration-MyAccount-navigation {
+				width: 100%;
+
+				ul {
+					.user-registration-MyAccount-navigation-link {
+						a {
+							padding: 15px 20px;
+						}
+					}
+				}
+			}
+
+			.user-registration-MyAccount-content {
+				width: 100%;
+			}
+		}
+
+		.user-registration-MyAccount-content {
+			padding: 15px;
+		}
+	}
+}

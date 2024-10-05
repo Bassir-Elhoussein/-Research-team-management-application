@@ -1,0 +1,3429 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the molongui-authorship package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: config/customizer.php:33 config/customizer.php:382 config/customizer.php:462
+#: config/customizer.php:517 config/customizer.php:553
+#: config/customizer.php:585 config/customizer.php:617
+#: config/customizer.php:656 config/customizer.php:727
+#: config/customizer.php:753 config/customizer.php:781
+#: config/customizer.php:818 config/customizer.php:885
+#: config/customizer.php:940 config/customizer.php:995
+#: config/customizer.php:1017 config/customizer.php:1124
+#: config/customizer.php:1156 config/customizer.php:1188
+#: config/customizer.php:1404 config/customizer.php:1492
+#: config/customizer.php:1733 config/customizer.php:1830
+#: config/customizer.php:1852 config/customizer.php:2235
+#: config/customizer.php:2296 config/customizer.php:2332
+#: config/customizer.php:2364 config/customizer.php:2396
+#: config/customizer.php:2461 config/customizer.php:2482
+#: config/customizer.php:2510 config/customizer.php:2547
+#: config/customizer.php:2614 config/customizer.php:2669
+#: config/customizer.php:2724 config/customizer.php:2832
+#: config/customizer.php:2899 config/customizer.php:2927
+#: config/customizer.php:2964 config/customizer.php:3031
+#: config/customizer.php:3086 config/customizer.php:3141
+#: config/customizer.php:3449 config/customizer.php:3470
+#: config/customizer.php:3498 config/customizer.php:3535
+#: config/customizer.php:3571 config/customizer.php:3626
+#: config/customizer.php:3681 config/customizer.php:3736
+#: config/customizer.php:3805 config/customizer.php:3879
+#: config/customizer.php:3970 config/customizer.php:4002
+#: config/customizer.php:4028 config/customizer.php:4161
+#: config/customizer.php:4182 config/customizer.php:4210
+#: config/customizer.php:4247 config/customizer.php:4302
+#: config/customizer.php:4357
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: molongui-authorship 4.3.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-01 08:12+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: config/customizer.php:19
+msgid "Molongui Author Box"
+msgstr ""
+
+#: config/customizer.php:20
+msgid "Customize visual settings to your like."
+msgstr ""
+
+#: config/customizer.php:32
+msgid "Pre-defined appearance schemes"
+msgstr ""
+
+#: config/customizer.php:60
+msgid "Pre-defined schemes"
+msgstr ""
+
+#: config/customizer.php:61
+msgid ""
+"Choose the pre-defined appearance scheme you would like to use. Once loaded, "
+"you can customize any setting you need."
+msgstr ""
+
+#: config/customizer.php:69
+msgid "Scheme 1"
+msgstr ""
+
+#: config/customizer.php:75
+msgid "Scheme 2"
+msgstr ""
+
+#: config/customizer.php:81
+msgid "Scheme 3"
+msgstr ""
+
+#: config/customizer.php:99 includes/class-guest.php:304
+msgid "Box"
+msgstr ""
+
+#: config/customizer.php:100
+msgid ""
+"Customize to your likings the author box that will be displayed on your "
+"posts by selecting which layout to use, the position where to display it, "
+"and many more color, size and styling options. Make it fit the best with "
+"your site. You can preview Premium settings. Upgrade to Premium to unlock "
+"them all :)"
+msgstr ""
+
+#: config/customizer.php:175 config/options.php:1177
+msgid "Layout"
+msgstr ""
+
+#: config/customizer.php:176
+msgid ""
+"The template used to render the author box. The first two displays the "
+"author profile or the related posts in the same space while the third one "
+"shows related entries below author profile."
+msgstr ""
+
+#: config/customizer.php:185
+msgid "Slim"
+msgstr ""
+
+#: config/customizer.php:191
+msgid "Tabbed"
+msgstr ""
+
+#: config/customizer.php:197
+msgid "Stacked"
+msgstr ""
+
+#: config/customizer.php:224 config/customizer.php:1044
+#: views/post/html-admin-box-metabox.php:34
+msgid "Position"
+msgstr ""
+
+#: config/customizer.php:225
+msgid ""
+"Whether to show the author box above the post content, below or on both "
+"places."
+msgstr ""
+
+#: config/customizer.php:234
+msgid "Above content"
+msgstr ""
+
+#: config/customizer.php:240
+msgid "Below content"
+msgstr ""
+
+#: config/customizer.php:246
+msgid "Above and below content"
+msgstr ""
+
+#: config/customizer.php:273
+msgid "Order"
+msgstr ""
+
+#: config/customizer.php:274
+msgid ""
+"Author box is added to post content in the configured position. Nonetheless, "
+"other plugins may also add their stuff, making the author box appear above/"
+"below it. Reduce the number below until the box goes up there where you like "
+"or increase it to make it go down."
+msgstr ""
+
+#: config/customizer.php:308
+msgid "Margin"
+msgstr ""
+
+#: config/customizer.php:309
+msgid "Space in pixels to add above and below the author box."
+msgstr ""
+
+#: config/customizer.php:344 config/customizer.php:2115
+msgid "Width"
+msgstr ""
+
+#: config/customizer.php:345
+msgid "Amount of space in percentage the author box can take."
+msgstr ""
+
+#: config/customizer.php:381
+msgid "Border"
+msgstr ""
+
+#: config/customizer.php:391 config/customizer.php:632
+#: config/customizer.php:1742 config/customizer.php:2195
+#: config/customizer.php:2244 includes/class-guest.php:387
+#: includes/class-user.php:214
+msgid "None"
+msgstr ""
+
+#: config/customizer.php:397
+msgid "All"
+msgstr ""
+
+#: config/customizer.php:403
+msgid "Horizontals"
+msgstr ""
+
+#: config/customizer.php:409
+msgid "Verticals"
+msgstr ""
+
+#: config/customizer.php:415 config/customizer.php:626
+#: config/customizer.php:949 config/customizer.php:2678
+#: config/customizer.php:3095 config/customizer.php:3690
+msgid "Left"
+msgstr ""
+
+#: config/customizer.php:421 config/customizer.php:1608
+msgid "Top"
+msgstr ""
+
+#: config/customizer.php:427 config/customizer.php:638
+#: config/customizer.php:961 config/customizer.php:2690
+#: config/customizer.php:3107 config/customizer.php:3702
+msgid "Right"
+msgstr ""
+
+#: config/customizer.php:433 config/customizer.php:1620
+msgid "Bottom"
+msgstr ""
+
+#: config/customizer.php:461 config/customizer.php:2234
+msgid "Border style"
+msgstr ""
+
+#: config/customizer.php:471 config/customizer.php:1748
+#: config/customizer.php:2250
+msgid "Solid"
+msgstr ""
+
+#: config/customizer.php:477 config/customizer.php:1754
+#: config/customizer.php:2256
+msgid "Double"
+msgstr ""
+
+#: config/customizer.php:483 config/customizer.php:1760
+#: config/customizer.php:2262
+msgid "Dotted"
+msgstr ""
+
+#: config/customizer.php:489 config/customizer.php:1766
+#: config/customizer.php:2268
+msgid "Dashed"
+msgstr ""
+
+#: config/customizer.php:516 config/customizer.php:2295
+msgid "Border width"
+msgstr ""
+
+#: config/customizer.php:552 config/customizer.php:2331
+msgid "Border color"
+msgstr ""
+
+#: config/customizer.php:584 config/customizer.php:1187
+#: config/customizer.php:2395
+msgid "Background color"
+msgstr ""
+
+#: config/customizer.php:616
+msgid "Shadow"
+msgstr ""
+
+#: config/customizer.php:655 config/options.php:1306
+msgid "Headline"
+msgstr ""
+
+#: config/customizer.php:683 config/customizer.php:1879
+#: config/customizer.php:2859 config/options.php:932
+#: views/guest-author/html-admin-box-metabox.php:24
+#: views/post/html-admin-box-metabox.php:23
+msgid "Display"
+msgstr ""
+
+#: config/customizer.php:684
+msgid "Whether to show a headline above the author box."
+msgstr ""
+
+#: config/customizer.php:693
+msgid "Show headline"
+msgstr ""
+
+#: config/customizer.php:699
+msgid "Hide headline"
+msgstr ""
+
+#: config/customizer.php:726
+msgid "Text"
+msgstr ""
+
+#: config/customizer.php:735 config/customizer.php:1426
+#: config/customizer.php:1444 config/options.php:1345
+#: includes/helpers/options.php:92 includes/helpers/options.php:100
+#: views/author-box/parts/html-headline.php:35
+#: views/author-box/parts/html-tabs.php:38
+msgid "About the author"
+msgstr ""
+
+#: config/customizer.php:752 config/customizer.php:2481
+#: config/customizer.php:2898 config/customizer.php:3469
+#: config/customizer.php:4181
+msgid "Typography"
+msgstr ""
+
+#: config/customizer.php:780 config/customizer.php:2509
+#: config/customizer.php:2926 config/customizer.php:3497
+#: config/customizer.php:4209
+msgid "Size"
+msgstr ""
+
+#: config/customizer.php:817 config/customizer.php:2546
+#: config/customizer.php:2963 config/customizer.php:3570
+#: config/customizer.php:3878 config/customizer.php:4246
+msgid "Style"
+msgstr ""
+
+#: config/customizer.php:827 config/customizer.php:2556
+#: config/customizer.php:2973 config/customizer.php:3580
+#: config/customizer.php:4256
+msgid "Normal"
+msgstr ""
+
+#: config/customizer.php:833 config/customizer.php:2562
+#: config/customizer.php:2979 config/customizer.php:3586
+#: config/customizer.php:4262
+msgid "Bold"
+msgstr ""
+
+#: config/customizer.php:839 config/customizer.php:2568
+#: config/customizer.php:2985 config/customizer.php:3592
+#: config/customizer.php:4268
+msgid "Italic"
+msgstr ""
+
+#: config/customizer.php:845 config/customizer.php:2574
+#: config/customizer.php:2991 config/customizer.php:3598
+#: config/customizer.php:4274
+msgid "Underline"
+msgstr ""
+
+#: config/customizer.php:851 config/customizer.php:2580
+#: config/customizer.php:2997
+msgid "Overline"
+msgstr ""
+
+#: config/customizer.php:857 config/customizer.php:2586
+#: config/customizer.php:3003
+msgid "Overline and underline"
+msgstr ""
+
+#: config/customizer.php:884 config/customizer.php:2613
+#: config/customizer.php:3030 config/customizer.php:3625
+#: config/customizer.php:4301
+msgid "Case"
+msgstr ""
+
+#: config/customizer.php:894 config/customizer.php:2623
+#: config/customizer.php:3040 config/customizer.php:3635
+#: config/customizer.php:4311
+msgid "Leave as is"
+msgstr ""
+
+#: config/customizer.php:900 config/customizer.php:2629
+#: config/customizer.php:3046 config/customizer.php:3641
+#: config/customizer.php:4317
+msgid "Capitalize"
+msgstr ""
+
+#: config/customizer.php:906 config/customizer.php:2635
+#: config/customizer.php:3052 config/customizer.php:3647
+#: config/customizer.php:4323
+msgid "Uppercase"
+msgstr ""
+
+#: config/customizer.php:912 config/customizer.php:2641
+#: config/customizer.php:3058 config/customizer.php:3653
+#: config/customizer.php:4329
+msgid "Lowercase"
+msgstr ""
+
+#: config/customizer.php:939 config/customizer.php:2668
+#: config/customizer.php:3085 config/customizer.php:3680
+msgid "Align"
+msgstr ""
+
+#: config/customizer.php:955 config/customizer.php:1614
+#: config/customizer.php:2684 config/customizer.php:3101
+#: config/customizer.php:3696
+msgid "Center"
+msgstr ""
+
+#: config/customizer.php:967 config/customizer.php:2696
+#: config/customizer.php:3113 config/customizer.php:3708
+msgid "Justify"
+msgstr ""
+
+#: config/customizer.php:994 config/customizer.php:2723
+#: config/customizer.php:3140 config/customizer.php:3735
+#: config/customizer.php:3969 config/customizer.php:4356
+msgid "Color"
+msgstr ""
+
+#: config/customizer.php:1016
+msgid "Tabs"
+msgstr ""
+
+#: config/customizer.php:1045
+msgid "Where to display the tabs."
+msgstr ""
+
+#: config/customizer.php:1054
+msgid "Top full width"
+msgstr ""
+
+#: config/customizer.php:1060
+msgid "Top left"
+msgstr ""
+
+#: config/customizer.php:1066
+msgid "Top center"
+msgstr ""
+
+#: config/customizer.php:1072
+msgid "Top right"
+msgstr ""
+
+#: config/customizer.php:1123
+msgid "Tabs color"
+msgstr ""
+
+#: config/customizer.php:1155
+msgid "Active tab color"
+msgstr ""
+
+#: config/customizer.php:1403
+msgid "Text color"
+msgstr ""
+
+#: config/customizer.php:1435
+msgid "\"About the author\" label"
+msgstr ""
+
+#: config/customizer.php:1436
+msgid "Text to show as author bio tab label."
+msgstr ""
+
+#: config/customizer.php:1459 config/customizer.php:1477
+#: views/author-box/parts/html-tabs.php:46
+msgid "Related posts"
+msgstr ""
+
+#: config/customizer.php:1468
+msgid "\"Related posts\" label"
+msgstr ""
+
+#: config/customizer.php:1469
+msgid "Text to show as author related posts tab label"
+msgstr ""
+
+#: config/customizer.php:1491 config/customizer.php:4027
+msgid "Template"
+msgstr ""
+
+#: config/customizer.php:1519
+msgid "Profile template"
+msgstr ""
+
+#: config/customizer.php:1520
+msgid "The template to be used to render the author profile section."
+msgstr ""
+
+#: config/customizer.php:1529 config/customizer.php:4065
+msgid "Template 1"
+msgstr ""
+
+#: config/customizer.php:1535 config/customizer.php:4071
+msgid "Template 2"
+msgstr ""
+
+#: config/customizer.php:1541 config/customizer.php:4077
+msgid "Template 3"
+msgstr ""
+
+#: config/customizer.php:1547
+msgid "Template 4"
+msgstr ""
+
+#: config/customizer.php:1553
+msgid "Template 5"
+msgstr ""
+
+#: config/customizer.php:1559
+msgid "Template 6"
+msgstr ""
+
+#: config/customizer.php:1565
+msgid "Template 7"
+msgstr ""
+
+#: config/customizer.php:1571
+msgid "Template 8"
+msgstr ""
+
+#: config/customizer.php:1598
+msgid "Alignment"
+msgstr ""
+
+#: config/customizer.php:1599
+msgid "Content vertical alignment"
+msgstr ""
+
+#: config/customizer.php:1638 config/customizer.php:1656
+#: includes/helpers/options.php:95
+msgid "Author Profile"
+msgstr ""
+
+#: config/customizer.php:1647
+msgid "Section label"
+msgstr ""
+
+#: config/customizer.php:1648
+msgid "Leave empty to remove the section label"
+msgstr ""
+
+#: config/customizer.php:1700
+msgid "Bottom background color"
+msgstr ""
+
+#: config/customizer.php:1701
+msgid ""
+"The color used to fill the background of the bottom section on a \"ribbon\" "
+"layout."
+msgstr ""
+
+#: config/customizer.php:1732
+msgid "Bottom border style"
+msgstr ""
+
+#: config/customizer.php:1793
+msgid "Bottom border width"
+msgstr ""
+
+#: config/customizer.php:1794
+msgid ""
+"Width of the border to add at the top of bottom section on a \"ribbon\" "
+"layout."
+msgstr ""
+
+#: config/customizer.php:1829
+msgid "Bottom border color"
+msgstr ""
+
+#: config/customizer.php:1851 config/options.php:1541
+msgid "Avatar"
+msgstr ""
+
+#: config/customizer.php:1880
+msgid "Whether to show the author avatar."
+msgstr ""
+
+#: config/customizer.php:1889 config/customizer.php:2869
+#: config/customizer.php:3842 includes/class-guest.php:365
+#: includes/class-guest.php:530 includes/class-post.php:2035
+#: includes/class-post.php:2127 includes/class-user.php:226
+#: includes/class-user.php:246 views/guest-author/html-admin-box-metabox.php:31
+#: views/post/html-admin-box-metabox.php:28
+#: views/user/html-admin-plugin-fields.php:109
+msgid "Show"
+msgstr ""
+
+#: config/customizer.php:1895 config/customizer.php:2875
+#: config/customizer.php:3848 includes/class-guest.php:365
+#: includes/class-guest.php:531 includes/class-post.php:2035
+#: includes/class-post.php:2128 includes/class-user.php:232
+#: includes/class-user.php:244 views/guest-author/html-admin-box-metabox.php:32
+#: views/post/html-admin-box-metabox.php:29
+#: views/user/html-admin-plugin-fields.php:110
+msgid "Hide"
+msgstr ""
+
+#: config/customizer.php:1926
+msgid "Image Source"
+msgstr ""
+
+#: config/customizer.php:1927
+msgid "Where to retrieve the image from."
+msgstr ""
+
+#: config/customizer.php:1936
+msgid "Local"
+msgstr ""
+
+#: config/customizer.php:1942 config/customizer.php:1989
+#: views/user/html-admin-profile-picture.php:38
+msgid "Gravatar"
+msgstr ""
+
+#: config/customizer.php:1948 config/customizer.php:1995
+msgid "Acronym"
+msgstr ""
+
+#: config/customizer.php:1979
+msgid "Fallback"
+msgstr ""
+
+#: config/customizer.php:1980
+msgid "What to display if no local profile image available?"
+msgstr ""
+
+#: config/customizer.php:2001
+msgid "Nothing"
+msgstr ""
+
+#: config/customizer.php:2032
+msgid "Default Gravatar"
+msgstr ""
+
+#: config/customizer.php:2033
+msgid "What default image to display if no Gravatar found."
+msgstr ""
+
+#: config/customizer.php:2042
+msgid "A simple, cartoon-style silhouetted outline of a person"
+msgstr ""
+
+#: config/customizer.php:2048
+msgid "A geometric pattern based on an email hash"
+msgstr ""
+
+#: config/customizer.php:2054
+msgid "A generated 'monster' with different colors, faces, etc."
+msgstr ""
+
+#: config/customizer.php:2060
+msgid "A generated face with differing features and backgrounds"
+msgstr ""
+
+#: config/customizer.php:2066
+msgid "An awesome generated, 8-bit arcade-style pixelated face"
+msgstr ""
+
+#: config/customizer.php:2072
+msgid "A generated robot with different colors, faces, etc."
+msgstr ""
+
+#: config/customizer.php:2078
+msgid "Blank. A transparent PNG image"
+msgstr ""
+
+#: config/customizer.php:2084
+msgid "A random option will be picked for each author"
+msgstr ""
+
+#: config/customizer.php:2116
+msgid ""
+"Avatar image width in pixels. If bigger than actual image's width, image's "
+"width is taken. Square images take the lower value from given size values "
+"(width and height). You might need/consider to regenerate thumbnails."
+msgstr ""
+
+#: config/customizer.php:2150
+msgid "Height"
+msgstr ""
+
+#: config/customizer.php:2151
+msgid ""
+"Avatar image height in pixels. If bigger than actual image's height, image's "
+"height is taken. Square images take the lower value from given size values "
+"(width and height). You might need/consider to regenerate thumbnails."
+msgstr ""
+
+#: config/customizer.php:2185
+msgid "Shape"
+msgstr ""
+
+#: config/customizer.php:2186
+msgid "Whether and how to shape the author avatar."
+msgstr ""
+
+#: config/customizer.php:2201
+msgid "Rounded"
+msgstr ""
+
+#: config/customizer.php:2207 config/customizer.php:3900
+msgid "Circled"
+msgstr ""
+
+#: config/customizer.php:2363
+msgid " Font color"
+msgstr ""
+
+#: config/customizer.php:2427 config/customizer.php:2755
+msgid "Link to archive"
+msgstr ""
+
+#: config/customizer.php:2428
+msgid "Whether to make the author avatar link to the author's archive page."
+msgstr ""
+
+#: config/customizer.php:2428
+msgid ""
+"Whether to make the author avatar link to the author's archive page. "
+"Regardless of this setting being enabled, the author avatar might not become "
+"a link. i.e. When author archive pages are disabled."
+msgstr ""
+
+#: config/customizer.php:2437 config/customizer.php:2768
+msgid "Link"
+msgstr ""
+
+#: config/customizer.php:2443 config/customizer.php:2774
+msgid "No link"
+msgstr ""
+
+#: config/customizer.php:2460 includes/class-guest.php:303
+msgid "Name"
+msgstr ""
+
+#: config/customizer.php:2756
+msgid "Whether to make the author name link to the author's archive page."
+msgstr ""
+
+#: config/customizer.php:2756
+msgid ""
+"Whether to make the author name link to the author's archive page. "
+"Regardless of this setting being enabled, the author name might not become a "
+"link. i.e. When author archive pages are disabled."
+msgstr ""
+
+#: config/customizer.php:2798
+msgid "Remove inherited underline"
+msgstr ""
+
+#: config/customizer.php:2799
+msgid ""
+"Whether to (try to) remove the underline added by your theme or any other "
+"third plugin."
+msgstr ""
+
+#: config/customizer.php:2811
+msgid "Keep as is"
+msgstr ""
+
+#: config/customizer.php:2817
+msgid "Remove it"
+msgstr ""
+
+#: config/customizer.php:2831
+msgid "Metadata"
+msgstr ""
+
+#: config/customizer.php:2860
+msgid "Whether to show the author metadata."
+msgstr ""
+
+#: config/customizer.php:3172
+msgid "\"at\" label"
+msgstr ""
+
+#: config/customizer.php:3173
+msgid "Text to show between author's job position and company."
+msgstr ""
+
+#: config/customizer.php:3181 config/options.php:1457
+#: includes/helpers/options.php:106 views/author-box/parts/html-meta.php:44
+msgid "at"
+msgstr ""
+
+#: config/customizer.php:3205
+msgid "\"Website\" label"
+msgstr ""
+
+#: config/customizer.php:3206
+msgid "Text to show as link name to author's personal website."
+msgstr ""
+
+#: config/customizer.php:3214 config/options.php:1476
+#: includes/helpers/options.php:107 views/author-box/parts/html-meta.php:77
+#: views/guest-author/html-admin-profile-metabox.php:63
+msgid "Website"
+msgstr ""
+
+#: config/customizer.php:3238
+msgid "\"+ posts\" label"
+msgstr ""
+
+#: config/customizer.php:3239
+msgid ""
+"Text to show as toggle button to display author's related posts when "
+"displaying author bio."
+msgstr ""
+
+#: config/customizer.php:3247 config/options.php:1495
+#: includes/helpers/options.php:108 views/author-box/parts/html-meta.php:97
+#: views/author-box/parts/html-meta.php:116
+msgid "+ posts"
+msgstr ""
+
+#: config/customizer.php:3271
+msgid "\"Bio\" label"
+msgstr ""
+
+#: config/customizer.php:3272
+msgid ""
+"Text to show as toggle button to display author's bio when displaying "
+"related posts."
+msgstr ""
+
+#: config/customizer.php:3280 config/options.php:1514
+#: includes/class-guest.php:305 includes/helpers/options.php:109
+#: views/author-box/parts/html-meta.php:97
+msgid "Bio"
+msgstr ""
+
+#: config/customizer.php:3304
+msgid "Separator"
+msgstr ""
+
+#: config/customizer.php:3305
+msgid "Character used to separate author meta data information"
+msgstr ""
+
+#: config/customizer.php:3315
+msgid "|"
+msgstr ""
+
+#: config/customizer.php:3322
+msgid "||"
+msgstr ""
+
+#: config/customizer.php:3329
+msgid "/"
+msgstr ""
+
+#: config/customizer.php:3336
+msgid "//"
+msgstr ""
+
+#: config/customizer.php:3343 config/customizer.php:3357
+msgid "–"
+msgstr ""
+
+#: config/customizer.php:3350
+msgid "--"
+msgstr ""
+
+#: config/customizer.php:3364
+msgid "·"
+msgstr ""
+
+#: config/customizer.php:3371
+msgid "•"
+msgstr ""
+
+#: config/customizer.php:3378
+msgid ">"
+msgstr ""
+
+#: config/customizer.php:3385
+msgid ">>"
+msgstr ""
+
+#: config/customizer.php:3392
+msgid "~"
+msgstr ""
+
+#: config/customizer.php:3399
+msgid "*"
+msgstr ""
+
+#: config/customizer.php:3406
+msgid "⇄"
+msgstr ""
+
+#: config/customizer.php:3413
+msgid "⊥"
+msgstr ""
+
+#: config/customizer.php:3420
+msgid "⋄"
+msgstr ""
+
+#: config/customizer.php:3427
+msgid "Line break"
+msgstr ""
+
+#: config/customizer.php:3448 includes/class-guest.php:779
+msgid "Biography"
+msgstr ""
+
+#: config/customizer.php:3534
+msgid "Line height"
+msgstr ""
+
+#: config/customizer.php:3767 config/options.php:1372
+msgid "Content"
+msgstr ""
+
+#: config/customizer.php:3768
+msgid ""
+"Whether to display short or full bio in the author box. Full bio will be "
+"displayed on author archive pages if your theme supports it."
+msgstr ""
+
+#: config/customizer.php:3777
+msgid "Full"
+msgstr ""
+
+#: config/customizer.php:3783
+msgid "Short"
+msgstr ""
+
+#: config/customizer.php:3804 config/customizer.php:3832
+msgid "Social icons"
+msgstr ""
+
+#: config/customizer.php:3833
+msgid "Whether to show social media icons."
+msgstr ""
+
+#: config/customizer.php:3888 includes/class-guest.php:529
+#: includes/class-post.php:2126
+#: views/guest-author/html-admin-box-metabox.php:30
+#: views/post/html-admin-box-metabox.php:27
+#: views/post/html-admin-box-metabox.php:38
+#: views/user/html-admin-plugin-fields.php:108
+msgid "Default"
+msgstr ""
+
+#: config/customizer.php:3894
+msgid "Squared"
+msgstr ""
+
+#: config/customizer.php:3906
+msgid "Boxed"
+msgstr ""
+
+#: config/customizer.php:3912
+msgid "Branded"
+msgstr ""
+
+#: config/customizer.php:3918
+msgid "Branded squared"
+msgstr ""
+
+#: config/customizer.php:3924
+msgid "Branded squared reverse"
+msgstr ""
+
+#: config/customizer.php:3930
+msgid "Branded circled"
+msgstr ""
+
+#: config/customizer.php:3936
+msgid "Branded circled reverse"
+msgstr ""
+
+#: config/customizer.php:3942
+msgid "Branded boxed"
+msgstr ""
+
+#: config/customizer.php:4001
+msgid "Font size"
+msgstr ""
+
+#: config/customizer.php:4055
+msgid "Related entries template"
+msgstr ""
+
+#: config/customizer.php:4056
+msgid "The template to be used to render related entries section."
+msgstr ""
+
+#: config/customizer.php:4095 config/customizer.php:4113
+#: includes/helpers/options.php:96
+msgid "Related Entries"
+msgstr ""
+
+#: config/customizer.php:4104
+msgid "Section Label"
+msgstr ""
+
+#: config/customizer.php:4105
+msgid ""
+"If you have the Pro version of the plugin, you can use {author_name} (curly "
+"brackets included) in your string. It will be replaced by the actual author "
+"name on the frontend. Or leave empty to remove the section label."
+msgstr ""
+
+#: config/customizer.php:4137
+msgid "\"No related posts found\" label"
+msgstr ""
+
+#: config/customizer.php:4138
+msgid "Text to display when no related entries are found"
+msgstr ""
+
+#: config/customizer.php:4146 config/options.php:1917
+#: customizer/plugin-customizer-preview.php:99 includes/helpers/options.php:122
+#: views/author-box/html-layout.php:171
+#: views/author-box/html-multiauthor-layout.php:136
+#: views/author-box/profile/html-layout-1.php:98
+msgid "This author does not have any more posts."
+msgstr ""
+
+#: config/customizer.php:4160 includes/class-guest.php:313
+#: includes/class-user.php:138
+msgid "Entries"
+msgstr ""
+
+#: config/options.php:39
+msgid "Main"
+msgstr ""
+
+#: config/options.php:47
+msgid "Personalize Molongui Authorship. Settings that make it yours."
+msgstr ""
+
+#: config/options.php:63
+msgid "Features"
+msgstr ""
+
+#: config/options.php:68 config/options.php:69 config/options.php:198
+#: config/options.php:199 config/options.php:268 config/options.php:269
+#: config/options.php:317 config/options.php:318 config/options.php:391
+#: config/options.php:392 config/options.php:442 config/options.php:443
+#: config/options.php:549 config/options.php:550 config/options.php:696
+#: config/options.php:697 config/options.php:747 config/options.php:748
+#: config/options.php:829 config/options.php:830 config/options.php:937
+#: config/options.php:938 config/options.php:1074 config/options.php:1075
+#: config/options.php:1182 config/options.php:1183 config/options.php:1311
+#: config/options.php:1312 config/options.php:1377 config/options.php:1378
+#: config/options.php:1546 config/options.php:1547 config/options.php:1771
+#: config/options.php:1772 config/options.php:1845 config/options.php:1846
+#: config/options.php:1972 config/options.php:1973 config/options.php:2022
+#: config/options.php:2023 config/options.php:2095 config/options.php:2096
+#: config/options.php:2225 config/options.php:2226 config/options.php:2266
+#: config/options.php:2267 config/options.php:2307 config/options.php:2308
+#: config/options.php:2634 config/options.php:2635 config/options.php:2715
+#: config/options.php:2716 config/options.php:2796 config/options.php:2797
+#: config/options.php:2881 config/options.php:2882 config/options.php:2931
+#: config/options.php:2932
+msgid "Save Settings"
+msgstr ""
+
+#: config/options.php:88
+#, php-format
+msgid ""
+"Enable %sco-authoring%s to be able to add more than one author to a post"
+msgstr ""
+
+#: config/options.php:103
+#, php-format
+msgid ""
+"%sAdd content from other authors to your site and easily credit them by "
+"changing post author.%s %sJust add a new post, paste content and change post "
+"author accordingly.%s %sGuest authors are just names. They doesn't have "
+"access to your Dashboard, so you don't have to worry about managing them.%s"
+msgstr ""
+
+#: config/options.php:104
+#, php-format
+msgid ""
+"Enable %sguest posting%s to be able to add non-registered users as post "
+"author"
+msgstr ""
+
+#: config/options.php:119
+#, php-format
+msgid ""
+"%sAuthor boxes are a great way to credit authors for their work.%s "
+"%sCustomize how they look like so they integrate nicely on your site.%s "
+"%sAnd easily configure how and when to display them.%s"
+msgstr ""
+
+#: config/options.php:120
+#, php-format
+msgid ""
+"Enable %sauthor boxes%s to properly credit authors for their work displaying "
+"their information on your posts"
+msgstr ""
+
+#: config/options.php:136
+#, php-format
+msgid ""
+"%sStop depending on Gravatar to display author pictures.%s %sEnabling this "
+"setting allows you to upload custom images as author avatars.%s %sThis "
+"setting does not disable Gravatar. In fact, it can still be used as fallback "
+"if no local avatar is provided.%s"
+msgstr ""
+
+#: config/options.php:137
+#, php-format
+msgid ""
+"Enable %slocal avatars%s to be able to upload custom images as author "
+"profile avatars"
+msgstr ""
+
+#: config/options.php:152
+#, php-format
+msgid ""
+"%sEnabling this setting additional fields are added to the user profile page."
+"%s %sMost of them can be displayed on the author box and other public places."
+"%s"
+msgstr ""
+
+#: config/options.php:153
+msgid ""
+"Enhance user profile adding extra fields like short bio, phone, company, "
+"social links and others"
+msgstr ""
+
+#: config/options.php:167
+msgid ""
+"Enhance the search function to give visitors more relevant search results "
+"and a better user experience allowing them to search content by author "
+"display name."
+msgstr ""
+
+#: config/options.php:170 config/options.php:171 config/options.php:242
+#: config/options.php:243 config/options.php:289 config/options.php:290
+#: config/options.php:365 config/options.php:366 config/options.php:414
+#: config/options.php:415 config/options.php:498 config/options.php:499
+#: config/options.php:719 config/options.php:720 config/options.php:1046
+#: config/options.php:1047 config/options.php:1131 config/options.php:1132
+#: config/options.php:1154 config/options.php:1155 config/options.php:1440
+#: config/options.php:1441 config/options.php:1884 config/options.php:1885
+#: config/options.php:1994 config/options.php:1995 config/options.php:2044
+#: config/options.php:2045 config/options.php:2197 config/options.php:2198
+#: config/options.php:2329 config/options.php:2330 config/options.php:2393
+#: config/options.php:2394 config/options.php:2689 config/options.php:2690
+#: config/options.php:2770 config/options.php:2771 config/options.php:2855
+#: config/options.php:2856 config/options.php:2903 config/options.php:2904
+#: config/options.php:3030 config/options.php:3031 config/options.php:3072
+#: config/options.php:3073 config/options.php:3094 config/options.php:3095
+#: config/options.php:3116 config/options.php:3117
+msgid "Upgrade"
+msgstr ""
+
+#: config/options.php:193
+msgid "Post Types"
+msgstr ""
+
+#: config/options.php:221
+msgid "Select those post types where plugin features will be enabled on."
+msgstr ""
+
+#: config/options.php:221
+#, php-format
+msgid ""
+"Select those post types where plugin features will be enabled on. By "
+"default, they are enabled on %sPosts%s and %sPages%s."
+msgstr ""
+
+#: config/options.php:237
+msgid "Enable plugin features on other post types"
+msgstr ""
+
+#: config/options.php:238
+msgid ""
+"Need guest authors, co-authors or author box in articles, projects, products "
+"or any other custom post type? Upgrade now!"
+msgstr ""
+
+#: config/options.php:263
+msgid "User Roles"
+msgstr ""
+
+#: config/options.php:286
+#, php-format
+msgid ""
+"Select which user roles to take to populate authors dropdown selector. Even "
+"custom user roles are supported. %sBy default, %sadministrator%s, %seditor"
+"%s, %sauthor%s and %scontributor%s roles are enabled."
+msgstr ""
+
+#: config/options.php:312
+msgid "Social Networks"
+msgstr ""
+
+#: config/options.php:340
+msgid ""
+"Select those social networks you want to enable. You can select as many as "
+"you wish."
+msgstr ""
+
+#: config/options.php:343
+#, php-format
+msgid ""
+"%sThere are a ton of social networks. To avoid clutter, select those you "
+"want to enable.%s %sYou can select as many as you wish. And you can filter "
+"displayed list by typing the name of the network you are looking for.%s "
+"%sAnd if you find one missing, you can request us to include it.%s %s"
+msgstr ""
+
+#: config/options.php:343
+#, php-format
+msgid "%sDisabled options are only available in %sMolongui Authorship Pro%s%s"
+msgstr ""
+
+#: config/options.php:360
+msgid "Need to enable any of those disabled listed networks?"
+msgstr ""
+
+#: config/options.php:361
+msgid ""
+"Disabled networks are only available in Molongui Authorship Pro. Upgrade now!"
+msgstr ""
+
+#: config/options.php:386
+msgid "Spam Protection"
+msgstr ""
+
+#: config/options.php:409
+msgid ""
+"Display plain author email and phone without worrying about them getting "
+"spammed."
+msgstr ""
+
+#: config/options.php:410
+msgid "Encode sensitive information to make it unreadable for SPAM bots."
+msgstr ""
+
+#: config/options.php:437
+msgid "Interface"
+msgstr ""
+
+#: config/options.php:463
+#, php-format
+msgid ""
+"%sOn admin screens listing posts, you have a column labeled %sAuthors%s. "
+"This setting allows you to configure what action to take when clicking on "
+"the author name displayed on that column.%s %sYou can choose between keeping "
+"WordPress default behavior, which is to show a list of posts authored by "
+"that author or get redirected to the author edit screen.%s"
+msgstr ""
+
+#: config/options.php:466
+#, php-format
+msgid "When clicking on an author name %s"
+msgstr ""
+
+#: config/options.php:472
+msgid "open the edit-author screen"
+msgstr ""
+
+#: config/options.php:477
+msgid "display a filtered list of posts by author"
+msgstr ""
+
+#: config/options.php:495
+#, php-format
+msgid ""
+"Move 'Guest Authors' menu item to place it under %sUsers%s, %sPosts%s or "
+"%sPages%s menu."
+msgstr ""
+
+#: config/options.php:520
+msgid "Byline"
+msgstr ""
+
+#: config/options.php:528
+msgid "Configure bylines to your needs."
+msgstr ""
+
+#: config/options.php:544
+msgid "Author Name"
+msgstr ""
+
+#: config/options.php:570
+#, php-format
+msgid ""
+"%sThe byline on a post gives the name of the people who contributed to write "
+"it.%s %sWhen a post is written by one single person, that person's name is "
+"the one displayed on the post byline. However, on co-authored posts you have "
+"the option to choose how author names are displayed.%s"
+msgstr ""
+
+#: config/options.php:573
+#, php-format
+msgid "On co-authored posts display %s"
+msgstr ""
+
+#: config/options.php:579
+msgid "all authors names"
+msgstr ""
+
+#: config/options.php:584
+msgid "only the name of the main author"
+msgstr ""
+
+#: config/options.php:589
+msgid "main author name and remaining authors count as number"
+msgstr ""
+
+#: config/options.php:594
+msgid "first 2 authors names and remaining authors count as number"
+msgstr ""
+
+#: config/options.php:599
+msgid "first 3 authors names and remaining authors count as number"
+msgstr ""
+
+#: config/options.php:617 config/options.php:634
+#, php-format
+msgid ""
+"%sYou can provide any word, string or symbol except these symbols: %s?%s %s/"
+"%s %s*%s.%s %sAny question mark, slash and asterisk you provide will be "
+"removed.%s"
+msgstr ""
+
+#: config/options.php:618
+#, php-format
+msgid "As delimiter to separate multiple authors names, use: %s"
+msgstr ""
+
+#: config/options.php:635
+#, php-format
+msgid "As delimiter to separate last two authors names, use: %s"
+msgstr ""
+
+#: config/options.php:652
+#, php-format
+msgid ""
+"%sThemes normally make author name on bylines to link to that author's "
+"archive page. That's standard behavior so everyone expects it to work like "
+"that.%s %sHowever, Molongui Authorship allows you to disable that feature "
+"preventing author names to be a link.%s"
+msgstr ""
+
+#: config/options.php:655
+msgid "Make the author name link to the author archive page"
+msgstr ""
+
+#: config/options.php:672
+msgid ""
+"Your theme or third-party plugin might prevent this setting to work. If "
+"disabled, the whole byline will link to the main author archive page."
+msgstr ""
+
+#: config/options.php:675
+#, php-format
+msgid ""
+"On co-authored posts, make each author name link to its author archive page "
+"%sMight not always work!%s"
+msgstr ""
+
+#: config/options.php:691
+msgid "Modifiers"
+msgstr ""
+
+#: config/options.php:714
+#, php-format
+msgid ""
+"Customize bylines by adding custom strings to the beginning %se.g. 'Written "
+"by'%s or to the end %se.g. 'et al.'%s of it."
+msgstr ""
+
+#: config/options.php:715
+msgid ""
+"HTML markup is accepted, so you can add your own styles and custom elements."
+msgstr ""
+
+#: config/options.php:742
+msgid "Template Tags"
+msgstr ""
+
+#: config/options.php:766
+#, php-format
+msgid ""
+"%sFully customized and functional bylines can be achieved using the provided "
+"template tags.%s %sIt requires coding skills, but using them is the best way "
+"to go in order to avoid byline issues (e.g., wrong author name being "
+"displayed).%s %sSome parameters can be provided to the template tags so "
+"bylines can be fully localized and customized with custom HTML markup and "
+"CSS styles.%s"
+msgstr ""
+
+#: config/options.php:767
+msgid "Enable Template Tags"
+msgstr ""
+
+#: config/options.php:782
+msgid "Click to open Plugin Docs"
+msgstr ""
+
+#: config/options.php:783
+msgid "Check out Template Tags documentation"
+msgstr ""
+
+#: config/options.php:800 includes/class-guest.php:527
+#: includes/class-guest.php:837 includes/class-post.php:1920
+#: includes/class-user.php:143
+msgid "Author Box"
+msgstr ""
+
+#: config/options.php:808
+msgid "Let your readers learn more about the authors on your site at a glance."
+msgstr ""
+
+#: config/options.php:824
+msgid "Styling"
+msgstr ""
+
+#: config/options.php:849
+#, php-format
+msgid ""
+"%sYou can provide a CSS class you want to be added to the author box. %sThis "
+"is useful if you need to add some custom styling to the author box or "
+"overwrite a default value.%s %sRemember that CSS selectors are generally "
+"case-insensitive.%s"
+msgstr ""
+
+#: config/options.php:850
+#, php-format
+msgid "Add this custom CSS class to the author box container: %s"
+msgstr ""
+
+#: config/options.php:865
+#, php-format
+msgid ""
+"%sAuthor boxes are fully customizable. All the settings you need to make "
+"them fit your likings and website style are available in the %sWordPress "
+"Customizer%s.%s %sIf you prefer to style it from scratch coding your own "
+"stylesheets, you can disable the load of the provided styles and settings.%s"
+msgstr ""
+
+#: config/options.php:872
+msgid ""
+"I want to visually and easily style my author box using WordPress Customizer"
+msgstr ""
+
+#: config/options.php:877
+msgid ""
+"I'm a skilled developer and I prefer to provide my own styles. Don't load "
+"plugin CSS files."
+msgstr ""
+
+#: config/options.php:894 config/options.php:1287
+msgid "Click to open WordPress Customizer"
+msgstr ""
+
+#: config/options.php:895
+msgid "Customize author box styles"
+msgstr ""
+
+#: config/options.php:910
+msgid "REMEMBER!"
+msgstr ""
+
+#: config/options.php:911
+msgid ""
+"Not loading the provided author box styles requires you to provide your own "
+"stylesheet. To do so you can use the 'Custom CSS' setting available at the "
+"WordPress Customizer or a child theme."
+msgstr ""
+
+#: config/options.php:970
+msgid "Click to learn more"
+msgstr ""
+
+#: config/options.php:971
+msgid ""
+"Settings below might get overridden by more specific post or author settings"
+msgstr ""
+
+#: config/options.php:989
+#, php-format
+msgid "Automatically display the author box %s"
+msgstr ""
+
+#: config/options.php:995
+msgid "only on Posts"
+msgstr ""
+
+#: config/options.php:1000
+msgid "only on Pages"
+msgstr ""
+
+#: config/options.php:1005
+msgid "on those post types configured on the 'Main' tab"
+msgstr ""
+
+#: config/options.php:1010
+msgid "nowhere. I will configure author box display on a per post basis"
+msgstr ""
+
+#: config/options.php:1028
+msgid "Hide the author box if there is no author bio info to show"
+msgstr ""
+
+#: config/options.php:1041
+msgid "Want to hide the author box on posts with a given category?"
+msgstr ""
+
+#: config/options.php:1042
+msgid ""
+"Upgrade to be able to select those post categories where the author box "
+"won't be displayed"
+msgstr ""
+
+#: config/options.php:1069
+msgid "Placement"
+msgstr ""
+
+#: config/options.php:1094
+#, php-format
+msgid "Display the author box %s the post content"
+msgstr ""
+
+#: config/options.php:1100
+msgid "above"
+msgstr ""
+
+#: config/options.php:1105
+msgid "below"
+msgstr ""
+
+#: config/options.php:1110
+msgid "above and below"
+msgstr ""
+
+#: config/options.php:1126
+msgid ""
+"Push the author box higher/lower so it gets displayed before/after other "
+"added post widgets"
+msgstr ""
+
+#: config/options.php:1127
+msgid "This helps ordering content added by third-party plugins"
+msgstr ""
+
+#: config/options.php:1149
+msgid "Display the author box anywhere: Custom post types, Sidebar, Footer..."
+msgstr ""
+
+#: config/options.php:1150
+msgid "Easy-to-use shortcode with many customization attributes"
+msgstr ""
+
+#: config/options.php:1203
+#, php-format
+msgid ""
+"%sDifferent author box layouts to choose from.%s %sGet to know how each one "
+"looks like on your site using the Customizer's live preview.%s"
+msgstr ""
+
+#: config/options.php:1206
+#, php-format
+msgid "Use the %s layout to display the author box"
+msgstr ""
+
+#: config/options.php:1212
+msgid "slim"
+msgstr ""
+
+#: config/options.php:1217
+msgid "tabbed"
+msgstr ""
+
+#: config/options.php:1222
+msgid "stacked"
+msgstr ""
+
+#: config/options.php:1240
+#, php-format
+msgid "On co-authored posts, display author bio information in %s"
+msgstr ""
+
+#: config/options.php:1246
+msgid "one single box"
+msgstr ""
+
+#: config/options.php:1251
+msgid "as many author boxes as authors"
+msgstr ""
+
+#: config/options.php:1271
+#, php-format
+msgid ""
+"%sAs other plugins may also add their stuff to post content, the author box "
+"might be displayed somewhere different than expected. Making the plugin to "
+"add the author box before that third-party content (lowering the priority "
+"number) should move the box up, while adding it later (increasing the "
+"priority number) should move the box down.%s %sA value below 10 may cause "
+"issues with your content%s"
+msgstr ""
+
+#: config/options.php:1272
+#, php-format
+msgid ""
+"Display the responsive layout version of the author box for screens up to %s "
+"px wide"
+msgstr ""
+
+#: config/options.php:1288
+msgid "Open Live-Preview Author Box Customizer"
+msgstr ""
+
+#: config/options.php:1332
+#, php-format
+msgid ""
+"%sSometimes you may want to display some text just above the author box.%s "
+"%sSomething like: %sAbout the author%s%s %sActivate this setting to add a "
+"heading to your author box and fully customize it using WordPress Customizer."
+"%s"
+msgstr ""
+
+#: config/options.php:1335
+msgid "Display a headline above the author box"
+msgstr ""
+
+#: config/options.php:1353
+#, php-format
+msgid "%sText to display above each author box.%s"
+msgstr ""
+
+#: config/options.php:1356
+#, php-format
+msgid "As a headline, display this text: %s"
+msgstr ""
+
+#: config/options.php:1398
+#, php-format
+msgid ""
+"%sEnable this setting to make the author name in the author box link to a "
+"page listing all posts by the author.%s"
+msgstr ""
+
+#: config/options.php:1401
+msgid "Make author name link to the author's page"
+msgstr ""
+
+#: config/options.php:1418
+#, php-format
+msgid ""
+"%sDisplay author job position, company, telephone, email and other available "
+"author details in a line below the author name.%s %sYou can style that "
+"metadata line using WordPress Customizer.%s"
+msgstr ""
+
+#: config/options.php:1421
+msgid "Display author details like job position and company in the author box"
+msgstr ""
+
+#: config/options.php:1435
+msgid ""
+"Make author boxes display shorter author bio descriptions to make them look "
+"nicer"
+msgstr ""
+
+#: config/options.php:1436
+msgid ""
+"Provide a short bio to display in the author box while keeping full bio to "
+"be displayed in author pages"
+msgstr ""
+
+#: config/options.php:1465
+#, php-format
+msgid ""
+"%sText to display between job position and company name.%s %sIf one of those "
+"data is not provided, this connector will not be shown.%s"
+msgstr ""
+
+#: config/options.php:1468
+#, php-format
+msgid ""
+"As connector to display between job position and company name, display this "
+"text: %s"
+msgstr ""
+
+#: config/options.php:1484
+#, php-format
+msgid "%sText to display as text link to an external author website.%s"
+msgstr ""
+
+#: config/options.php:1487
+#, php-format
+msgid "As author personal website, use this text: %s"
+msgstr ""
+
+#: config/options.php:1503
+#, php-format
+msgid ""
+"%sText to display as switch to show author related posts.%s %sIt is not "
+"displayed if related posts feature is disabled.%s"
+msgstr ""
+
+#: config/options.php:1506
+#, php-format
+msgid "As text switch to show author related posts, use this text: %s"
+msgstr ""
+
+#: config/options.php:1522
+#, php-format
+msgid ""
+"%sText to display as switch to show author biography.%s %sOnly displayed "
+"when the author box is displaying author related posts.%s"
+msgstr ""
+
+#: config/options.php:1525
+#, php-format
+msgid "As text switch to show author biography, use this text: %s"
+msgstr ""
+
+#: config/options.php:1567
+#, php-format
+msgid ""
+"%sEnable this setting if you want the author avatar to be displayed in the "
+"author box.%s"
+msgstr ""
+
+#: config/options.php:1570
+msgid "Display the author avatar in the author box"
+msgstr ""
+
+#: config/options.php:1587
+#, php-format
+msgid ""
+"%sEnable this setting to make the author profile image in the author box "
+"link to a page listing all posts by the author.%s"
+msgstr ""
+
+#: config/options.php:1590
+msgid "Make avatar link to the author's page"
+msgstr ""
+
+#: config/options.php:1606
+#, php-format
+msgid "Retrieve avatar image from %s"
+msgstr ""
+
+#: config/options.php:1612
+msgid "media library"
+msgstr ""
+
+#: config/options.php:1617
+msgid "Gravatar.com"
+msgstr ""
+
+#: config/options.php:1622
+msgid "nowhere. Generate an image with author's name acronym instead."
+msgstr ""
+
+#: config/options.php:1640
+#, php-format
+msgid "If no local image available, %s"
+msgstr ""
+
+#: config/options.php:1646
+msgid "try to retrieve one from Gravatar.com"
+msgstr ""
+
+#: config/options.php:1651
+msgid "generate an image with author's name acronym instead"
+msgstr ""
+
+#: config/options.php:1656
+msgid "don't display anything"
+msgstr ""
+
+#: config/options.php:1674
+#, php-format
+msgid "If author has no gravatar configured, load %s"
+msgstr ""
+
+#: config/options.php:1680
+msgid "a simple, cartoon-style silhouetted outline of a person"
+msgstr ""
+
+#: config/options.php:1685
+msgid "a geometric pattern based on an email hash"
+msgstr ""
+
+#: config/options.php:1690
+msgid "a generated 'monster' with different colors, faces, etc."
+msgstr ""
+
+#: config/options.php:1695
+msgid "a generated face with differing features and backgrounds"
+msgstr ""
+
+#: config/options.php:1700
+msgid "a generated 8-bit arcade-style pixelated face"
+msgstr ""
+
+#: config/options.php:1705
+msgid "a generated robot with different colors, faces, etc."
+msgstr ""
+
+#: config/options.php:1710
+msgid "a transparent image"
+msgstr ""
+
+#: config/options.php:1730
+#, php-format
+msgid ""
+"%sAvatar image width in pixels.%s %sIf bigger than actual image's width, "
+"image's width is taken.%s %sSquare images take the lower value from given "
+"size values (width and height).%s %sYou might need/consider to regenerate "
+"thumbnails.%s"
+msgstr ""
+
+#: config/options.php:1731
+#, php-format
+msgid "Avatar image width: %s (px)"
+msgstr ""
+
+#: config/options.php:1749
+#, php-format
+msgid ""
+"%sAvatar image height in pixels.%s %sIf bigger than actual image's height, "
+"image's height is taken.%s %sSquare images take the lower value from given "
+"size values (width and height).%s %sYou might need/consider to regenerate "
+"thumbnails.%s"
+msgstr ""
+
+#: config/options.php:1750
+#, php-format
+msgid "Avatar image height: %s (px)"
+msgstr ""
+
+#: config/options.php:1766
+msgid "Social Links"
+msgstr ""
+
+#: config/options.php:1792
+#, php-format
+msgid ""
+"%sEnable this setting if you want social icons to be displayed in the author "
+"box.%s %sOnly provided social profiles are displayed.%s"
+msgstr ""
+
+#: config/options.php:1795
+msgid "Display author social profiles as icon links in the author box"
+msgstr ""
+
+#: config/options.php:1811
+#, php-format
+msgid "Open social links on %s"
+msgstr ""
+
+#: config/options.php:1817
+msgid "the same browser tab"
+msgstr ""
+
+#: config/options.php:1822
+msgid "a new tab"
+msgstr ""
+
+#: config/options.php:1840 includes/helpers/options.php:93
+msgid "Related Posts"
+msgstr ""
+
+#: config/options.php:1865
+msgid "Display related posts from the same author within the author box"
+msgstr ""
+
+#: config/options.php:1879
+msgid ""
+"Configure which related posts are displayed to provide more relevant content "
+"and a better user experience"
+msgstr ""
+
+#: config/options.php:1880
+msgid ""
+"Select which (custom) post types to retrieve, how many to display and how to "
+"order and sort them"
+msgstr ""
+
+#: config/options.php:1907
+msgid "Show section even if there are no related entries to show."
+msgstr ""
+
+#: config/options.php:1925
+#, php-format
+msgid ""
+"%sMessage to display to let your readers know the author has no related "
+"entries to show.%s"
+msgstr ""
+
+#: config/options.php:1928
+#, php-format
+msgid "When there are no related posts to show, display this text: %s"
+msgstr ""
+
+#: config/options.php:1943
+msgid "Author Pages"
+msgstr ""
+
+#: config/options.php:1951
+msgid ""
+"Customize those pages listing all content written by a given author. Hassle-"
+"Free."
+msgstr ""
+
+#: config/options.php:1967
+msgid "Guest Author Page"
+msgstr ""
+
+#: config/options.php:1990
+msgid ""
+"Give your guest authors the credit they deserve with Guest Archive Pages."
+msgstr ""
+
+#: config/options.php:1991
+msgid "Just like User Archives. Same layout, same styles."
+msgstr ""
+
+#: config/options.php:2017
+msgid "Registered User Page"
+msgstr ""
+
+#: config/options.php:2040
+msgid "Easily configure User Pages to your needs."
+msgstr ""
+
+#: config/options.php:2041
+msgid ""
+"Disable them and configure redirection. Switch template and permalink. "
+"Include pages and custom post types. Customize page title."
+msgstr ""
+
+#: config/options.php:2066
+msgid "SEO"
+msgstr ""
+
+#: config/options.php:2074
+msgid "Easily include your authors in your SEO strategy."
+msgstr ""
+
+#: config/options.php:2090
+msgid "Author Tags"
+msgstr ""
+
+#: config/options.php:2113
+msgid ""
+"Author meta tags might be useful for rich snippets and SEO. Enabling "
+"settings below might not be required if you already have a dedicated SEO/"
+"Schema plugin that gets the job done."
+msgstr ""
+
+#: config/options.php:2131
+#, php-format
+msgid "Add %sname='author'%s meta tags."
+msgstr ""
+
+#: config/options.php:2146
+msgid "Opengraph meta tags might help your site improve SEO ratings."
+msgstr ""
+
+#: config/options.php:2147
+msgid "Add Opengraph meta tags."
+msgstr ""
+
+#: config/options.php:2162
+msgid "Facebook tags might help your site improve SEO ratings."
+msgstr ""
+
+#: config/options.php:2163
+#, php-format
+msgid "Add %sproperty='article:author'%s meta tag for Facebook."
+msgstr ""
+
+#: config/options.php:2178
+msgid "Twitter tags might help your site improve SEO ratings."
+msgstr ""
+
+#: config/options.php:2179
+#, php-format
+msgid "Add %sname='twitter:creator'%s meta tag for Twitter."
+msgstr ""
+
+#: config/options.php:2193
+msgid "Configure how to include co-authors information into post meta tags."
+msgstr ""
+
+#: config/options.php:2194
+msgid "Get full control over meta tags to improve your SEO."
+msgstr ""
+
+#: config/options.php:2220
+msgid "Structured Data"
+msgstr ""
+
+#: config/options.php:2245
+msgid ""
+"Add Structured Data/Schema.org Markup to HTML code generated by the plugin."
+msgstr ""
+
+#: config/options.php:2261
+msgid "Links"
+msgstr ""
+
+#: config/options.php:2286
+msgid "Add 'nofollow' attribute to social networks links."
+msgstr ""
+
+#: config/options.php:2302
+msgid "Headings"
+msgstr ""
+
+#: config/options.php:2325
+msgid ""
+"Improve your SEO selecting the HTML tags that best suits your SEO strategy."
+msgstr ""
+
+#: config/options.php:2326
+msgid ""
+"Configure heading tags for author box headline and author box author name."
+msgstr ""
+
+#: config/options.php:2351 config/options.php:2375
+msgid "Shortcodes"
+msgstr ""
+
+#: config/options.php:2359
+msgid "Handy shortcodes that will make building your site a lot easier."
+msgstr ""
+
+#: config/options.php:2389
+msgid ""
+"Display author information wherever your design requires. Easy yet highly "
+"flexible and customizable."
+msgstr ""
+
+#: config/options.php:2390
+msgid "A must-have if you use a page builder like Elementor or Divi Builder."
+msgstr ""
+
+#: config/options.php:2412
+#, php-format
+msgid ""
+"Displays an author box anywhere you want. You can customize which author "
+"information to show and how the displayed author box will look like by using "
+"additional attributes. All styling settings can be overridden. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2428
+#, php-format
+msgid ""
+"Displays a list of (all) authors in your site anywhere you want. %sLearn more"
+"%s"
+msgstr ""
+
+#: config/options.php:2444
+#, php-format
+msgid ""
+"Displays a list showing (all the) posts from any given author anywhere you "
+"want. Listed posts can be configured making use of the optional attributes "
+"this shortcode can take. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2460
+#, php-format
+msgid ""
+"Displays the post's byline. Most themes display the byline just below the "
+"title. You can place it anywhere you want using this shortcode. What is "
+"more, customize it by prepending and/or appending any text you like. %sLearn "
+"more%s"
+msgstr ""
+
+#: config/options.php:2476
+#, php-format
+msgid ""
+"Displays the name of the current post author(s) if no attributes are "
+"provided or the name of a given author if you provide the author ID and "
+"author type. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2492
+#, php-format
+msgid ""
+"Displays the slug of the current post author(s) if no attributes are "
+"provided or the slug of a given author if you provide the author ID and "
+"author type. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2508
+#, php-format
+msgid ""
+"Displays the url to the archive page of the current post author(s) if no "
+"attributes are provided or the url to the archive page of a given author if "
+"you provide the author ID and author type. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2524
+#, php-format
+msgid ""
+"Displays the bio of the current post author(s) if no attributes are provided "
+"or the bio of a given author if you provide the author ID and author type. "
+"%sLearn more%s"
+msgstr ""
+
+#: config/options.php:2540
+#, php-format
+msgid ""
+"Displays the email address of the current post author(s) if no attributes "
+"are provided or the email address of a given author if you provide the "
+"author ID and author type. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2556
+#, php-format
+msgid ""
+"Displays the any author meta data of the current post author(s) if no "
+"attributes are provided or any author meta data of a given author if you "
+"provide the author ID and author type. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2572
+#, php-format
+msgid ""
+"Displays the avatar of the current post author(s) if no attributes are "
+"provided or the avatar of a given author if you provide the author ID and "
+"author type. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2588
+#, php-format
+msgid ""
+"Displays a dropdown select listing (all the) authors from your blog. This "
+"shortcode is intended for developers only. %sLearn more%s"
+msgstr ""
+
+#: config/options.php:2605
+msgid "Compatibility"
+msgstr ""
+
+#: config/options.php:2613
+msgid ""
+"Most of the issues you might have with the plugin can be easily fixed with "
+"these settings."
+msgstr ""
+
+#: config/options.php:2629
+msgid "Themes"
+msgstr ""
+
+#: config/options.php:2652
+#, php-format
+msgid ""
+"Molongui Authorship plugin works great with just about every theme, "
+"especially with the most popular. Some require tailored functions to achieve "
+"full compatibility, so you need to enable this setting. If you experience "
+"issues with the information displayed on your bylines or anything related to "
+"your authors information, make sure this is enabled. If it is and the issue "
+"persists, please %sopen a support ticket%s with us so we can assist."
+msgstr ""
+
+#: config/options.php:2653
+#, php-format
+msgid ""
+"%sSome themes require this setting to be enabled in order to work properly."
+"%s %sIn case of doubt, keep it enabled.%s"
+msgstr ""
+
+#: config/options.php:2654
+msgid "Enable theme compatibility"
+msgstr ""
+
+#: config/options.php:2669 config/options.php:2750 config/options.php:2835
+msgid "Click to open a Support Ticket"
+msgstr ""
+
+#: config/options.php:2670 config/options.php:2751 config/options.php:2836
+msgid "Issue persists? Report it"
+msgstr ""
+
+#: config/options.php:2685
+msgid "Need to make your theme work with Molongui Authorship ASAP?"
+msgstr ""
+
+#: config/options.php:2686
+msgid ""
+"Get Premium support to make your theme run smoothly with Molongui Authorship."
+msgstr ""
+
+#: config/options.php:2710
+msgid "Plugins"
+msgstr ""
+
+#: config/options.php:2733
+#, php-format
+msgid ""
+"Some third plugins require tailored functions to be compatible with Molongui "
+"Authorship, so you need to enable this setting. If you experience issues "
+"related to your authors information, make sure this is enabled. If it is and "
+"the issue persists, please %sopen a support ticket%s with us so we can "
+"assist."
+msgstr ""
+
+#: config/options.php:2734
+#, php-format
+msgid ""
+"%sSome plugins require this setting to be enabled in order to work properly."
+"%s %sIn case of doubt, keep it enabled.%s"
+msgstr ""
+
+#: config/options.php:2735
+msgid "Enable plugin compatibility"
+msgstr ""
+
+#: config/options.php:2766
+msgid "Want to benefit from Priority?"
+msgstr ""
+
+#: config/options.php:2767
+msgid ""
+"Get elevated levels of support to help you keep your favourite plugins "
+"running smoothly together."
+msgstr ""
+
+#: config/options.php:2791
+msgid "CDN"
+msgstr ""
+
+#: config/options.php:2814
+#, php-format
+msgid ""
+"Messed up author box layout? And you using a CDN? Enable this setting and "
+"clear every cache you might have, including your CDN's. If the issue "
+"persists, please %sopen a support ticket%s with us so we can assist."
+msgstr ""
+
+#: config/options.php:2817
+#, php-format
+msgid ""
+"%sActivate this setting only if you are experiencing issues.%s %sWhen using "
+"a CDN to serve stylesheet files, author box layout might look messed up. "
+"Enabling this setting should fix that.%s"
+msgstr ""
+
+#: config/options.php:2820
+msgid ""
+"Enable CDN compatibility to fix author box layout and make it display nicely."
+msgstr ""
+
+#: config/options.php:2851
+msgid "Need Premium Support?"
+msgstr ""
+
+#: config/options.php:2852
+msgid ""
+"Paid users are given top priority in our support system, with replies to "
+"their support tickets taking precedence."
+msgstr ""
+
+#: config/options.php:2876
+msgid "REST API"
+msgstr ""
+
+#: config/options.php:2899
+msgid ""
+"Allow third-party applications to interact with your posts and authors via "
+"the WordPress REST API."
+msgstr ""
+
+#: config/options.php:2900
+msgid "Expose post co-authors and guest author object."
+msgstr ""
+
+#: config/options.php:2926
+msgid "Misc"
+msgstr ""
+
+#: config/options.php:2953
+#, php-format
+msgid ""
+"%sMany themes add elements to your site without giving the option to disable "
+"them.%s %sNow you can hide unwanted author boxes, byline decorations or "
+"whatever.%s"
+msgstr ""
+
+#: config/options.php:2956
+msgid ""
+"Need to get rid of some elements you don't have the setting to? Provide a "
+"comma-separated list of CSS IDs and/or classes and Molongui Authorship will "
+"prevent them from being displayed on the front-end."
+msgstr ""
+
+#: config/options.php:2973
+msgid "Enable the use of shortcodes in text widgets."
+msgstr ""
+
+#: config/options.php:2988
+msgid "Tools"
+msgstr ""
+
+#: config/options.php:2996
+msgid "Convenient tools to easily manage plugin data."
+msgstr ""
+
+#: config/options.php:3012
+msgid "Authorship"
+msgstr ""
+
+#: config/options.php:3026
+msgid "1-click easy manage post authorship"
+msgstr ""
+
+#: config/options.php:3027
+msgid "Export, import and reset your posts author configuration. Hasle-free!"
+msgstr ""
+
+#: config/options.php:3053 includes/class-guest.php:158
+msgid "Guest authors"
+msgstr ""
+
+#: config/options.php:3069
+msgid ""
+"Export Guest Authors to have a backup or import them on another installation"
+msgstr ""
+
+#: config/options.php:3090
+msgid "Easily import one or thousands of guest authors with just 1 click"
+msgstr ""
+
+#: config/options.php:3112
+msgid "Remove all existing guest authors at once. Instantly"
+msgstr ""
+
+#: customizer/plugin-customizer-callbacks.php:39
+msgid "You must supply a valid width."
+msgstr ""
+
+#: customizer/plugin-customizer-callbacks.php:43
+msgid "Box width is too small."
+msgstr ""
+
+#: customizer/plugin-customizer-callbacks.php:47
+msgid "Box width cannot be bigger than 100%."
+msgstr ""
+
+#: includes/class-author.php:134
+msgid "No author ID nor author type provided. Please, indicate both values."
+msgstr ""
+
+#: includes/class-author.php:142
+msgid ""
+"No author ID nor author type provided. Please, provide author id and type "
+"when instantiating the Author Class."
+msgstr ""
+
+#: includes/class-author.php:147
+msgid "No author id or author type provided. Please, indicate both values."
+msgstr ""
+
+#: includes/class-author.php:150
+msgid "Wrong id provided. It must be an integer higher than 0."
+msgstr ""
+
+#: includes/class-author.php:156
+msgid "No accepted author type provided. Please, indicate 'user' or 'guest'."
+msgstr ""
+
+#: includes/class-author.php:162
+#, php-format
+msgid "No user exists with the given ID (%s)."
+msgstr ""
+
+#: includes/class-author.php:166
+#, php-format
+msgid "No guest author exists with the given ID (%s)."
+msgstr ""
+
+#: includes/class-author.php:231 includes/class-author.php:337
+#: includes/class-author.php:386 includes/class-author.php:450
+#: includes/class-author.php:581 includes/class-author.php:616
+#, php-format
+msgid "No %s exists with the given ID (%s)."
+msgstr ""
+
+#: includes/class-author.php:231 includes/class-author.php:337
+#: includes/class-author.php:386 includes/class-author.php:450
+#: includes/class-author.php:581 includes/class-author.php:616
+msgid "guest author"
+msgstr ""
+
+#: includes/class-author.php:231 includes/class-author.php:337
+#: includes/class-author.php:386 includes/class-author.php:450
+#: includes/class-author.php:581 includes/class-author.php:616
+#: includes/class-post.php:1979
+msgid "user"
+msgstr ""
+
+#: includes/class-author.php:647
+msgid ""
+"Which meta do you want to retrieve? You need to provide a 'key' attribute."
+msgstr ""
+
+#: includes/class-author.php:710
+#, php-format
+msgid "No %s exists for this author (%s)."
+msgstr ""
+
+#: includes/class-guest.php:154
+msgctxt "post type general name"
+msgid "Guest Authors"
+msgstr ""
+
+#: includes/class-guest.php:155
+msgctxt "post type singular name"
+msgid "Guest Author"
+msgstr ""
+
+#: includes/class-guest.php:156
+msgid "Guest Authors"
+msgstr ""
+
+#: includes/class-guest.php:157
+msgid "Guest Author"
+msgstr ""
+
+#: includes/class-guest.php:158
+msgid "All Guest authors"
+msgstr ""
+
+#: includes/class-guest.php:160
+msgid "Add New Guest Author"
+msgstr ""
+
+#: includes/class-guest.php:161
+msgid "Edit Guest Author"
+msgstr ""
+
+#: includes/class-guest.php:162
+msgid "New Guest Author"
+msgstr ""
+
+#: includes/class-guest.php:163
+msgid "View Guest Author"
+msgstr ""
+
+#: includes/class-guest.php:164
+msgid "Search Guest Authors"
+msgstr ""
+
+#: includes/class-guest.php:165
+msgid "No Guest Authors Found"
+msgstr ""
+
+#: includes/class-guest.php:166
+msgid "No Guest Authors Found in the Trash"
+msgstr ""
+
+#: includes/class-guest.php:168 includes/class-guest.php:814
+msgid "Profile Image"
+msgstr ""
+
+#: includes/class-guest.php:169
+msgid "Set Profile Image"
+msgstr ""
+
+#: includes/class-guest.php:170
+msgid "Remove Profile Pmage"
+msgstr ""
+
+#: includes/class-guest.php:171
+msgid "Use as Profile Pmage"
+msgstr ""
+
+#: includes/class-guest.php:302
+msgid "Photo"
+msgstr ""
+
+#: includes/class-guest.php:306
+msgid "Email"
+msgstr ""
+
+#: includes/class-guest.php:307
+#: views/guest-author/html-admin-profile-metabox.php:70
+#: views/user/html-admin-plugin-fields.php:39
+msgid "Phone"
+msgstr ""
+
+#: includes/class-guest.php:308
+msgid "URL"
+msgstr ""
+
+#: includes/class-guest.php:309
+msgid "Job"
+msgstr ""
+
+#: includes/class-guest.php:310
+msgid "Co."
+msgstr ""
+
+#: includes/class-guest.php:311
+msgid "Co. URL"
+msgstr ""
+
+#: includes/class-guest.php:312
+msgid "Social"
+msgstr ""
+
+#: includes/class-guest.php:314 includes/class-user.php:147
+msgid "ID"
+msgstr ""
+
+#: includes/class-guest.php:769
+msgid "Profile"
+msgstr ""
+
+#: includes/class-guest.php:791
+msgid "Short Biography"
+msgstr ""
+
+#: includes/class-guest.php:802
+msgid "Social Media"
+msgstr ""
+
+#: includes/class-guest.php:825
+msgid "Archive"
+msgstr ""
+
+#: includes/class-guest.php:850
+msgid "Role"
+msgstr ""
+
+#: includes/class-guest.php:1353
+msgid ""
+"There is a registered WordPress user with the same display name. You might "
+"want to address that."
+msgstr ""
+
+#: includes/class-guest.php:1357
+msgid ""
+"There is another guest author with the same display name. You might want to "
+"address that."
+msgstr ""
+
+#: includes/class-guest.php:1361
+msgid ""
+"There is a registered WordPress user and another guest author with the same "
+"display name. You might want to address that."
+msgstr ""
+
+#: includes/class-guest.php:1537
+msgid "No display name provided"
+msgstr ""
+
+#: includes/class-highlights.php:58
+msgid ""
+"Molongui Authorship is probably the most complete suite on all about authors "
+"and authorship. Check below some of its awesome features:"
+msgstr ""
+
+#: includes/class-highlights.php:60
+#, php-format
+msgid ""
+"%sCo-authors%s. Assign multiple authors to your posts. Just locate the "
+"'Authors' module on the right of your post edit screen and start adding "
+"authors."
+msgstr ""
+
+#: includes/class-highlights.php:61
+#, php-format
+msgid ""
+"%sGuest authors%s. Assign guest authors to your posts without creating "
+"WordPress user accounts. Open the 'Guest authors' menu and define your guest "
+"authors."
+msgstr ""
+
+#: includes/class-highlights.php:62
+#, php-format
+msgid ""
+"%sAuthor box%s. Display the author profile in all your posts or just on "
+"those you define. Customize the box to your likings to best fit your site "
+"with %slive-preview%s!."
+msgstr ""
+
+#: includes/class-highlights.php:63 includes/class-highlights.php:65
+msgid "Pro only"
+msgstr ""
+
+#: includes/class-highlights.php:63
+#, php-format
+msgid ""
+"%sShortcodes%s. Display author boxes on your sidebar or anywhere you like, a "
+"list of authors and contributors of your blog and a list of posts by author."
+msgstr ""
+
+#: includes/class-highlights.php:65
+#, php-format
+msgid ""
+"%sPro features%s. More layouts, more styles, more customization settings, "
+"guest author archive pages and Premium support."
+msgstr ""
+
+#: includes/class-highlights.php:75
+#, php-format
+msgid "Thanks for choosing %s plugin!"
+msgstr ""
+
+#: includes/class-highlights.php:85
+msgid "Customizer"
+msgstr ""
+
+#: includes/class-highlights.php:94
+msgid "Settings"
+msgstr ""
+
+#: includes/class-highlights.php:103
+msgid "Documentation"
+msgstr ""
+
+#: includes/class-highlights.php:112
+msgid "Go Pro"
+msgstr ""
+
+#: includes/class-highlights.php:137
+msgid ""
+"We have listened to you and we have focused this update on improving the "
+"customization of the author box."
+msgstr ""
+
+#: includes/class-highlights.php:139
+#, php-format
+msgid ""
+"The author box can be now customized with %slive preview%s from the "
+"WordPress Customizer."
+msgstr ""
+
+#: includes/class-highlights.php:140
+msgid "Settings page reorganization for clarity's sake."
+msgstr ""
+
+#: includes/class-highlights.php:142
+#, php-format
+msgid ""
+"Added the options to display the author box %sonly on posts%s or %sonly on "
+"pages%s."
+msgstr ""
+
+#: includes/class-highlights.php:143
+msgid "Author name color is now customizable."
+msgstr ""
+
+#: includes/class-highlights.php:145 includes/class-highlights.php:146
+#: includes/class-highlights.php:147 includes/class-highlights.php:213
+#: includes/class-highlights.php:214 includes/class-highlights.php:215
+msgid "Premium only"
+msgstr ""
+
+#: includes/class-highlights.php:145
+#, php-format
+msgid ""
+"Added setting to %sdisable user archive pages%s and redirect pages to any "
+"given destination."
+msgstr ""
+
+#: includes/class-highlights.php:146
+#, php-format
+msgid ""
+"Added setting to %schange author archives template and the author base%s."
+msgstr ""
+
+#: includes/class-highlights.php:147
+msgid "Added more customization settings: text style, border style..."
+msgstr ""
+
+#: includes/class-highlights.php:149
+msgid ""
+"Some styling modifications have been introduced. Please, make sure the "
+"author box looks like you want and customize it required."
+msgstr ""
+
+#: includes/class-highlights.php:157 includes/class-highlights.php:225
+#: includes/class-highlights.php:291
+#, php-format
+msgid "What's new on %s %s"
+msgstr ""
+
+#: includes/class-highlights.php:167
+msgid "Open new customizer"
+msgstr ""
+
+#: includes/class-highlights.php:175 includes/class-highlights.php:243
+#: includes/class-highlights.php:309
+msgid "Settings page"
+msgstr ""
+
+#: includes/class-highlights.php:183 includes/class-highlights.php:251
+#: includes/class-highlights.php:317
+msgid "See changelog"
+msgstr ""
+
+#: includes/class-highlights.php:207 includes/class-highlights.php:275
+msgid "Huge update with endless author box layout combinations!"
+msgstr ""
+
+#: includes/class-highlights.php:209
+#, php-format
+msgid ""
+"Added a %snew box layout%s that displays author profile above related posts "
+"in the same author box."
+msgstr ""
+
+#: includes/class-highlights.php:210
+msgid "Added settings to customize box tabs."
+msgstr ""
+
+#: includes/class-highlights.php:211
+#, php-format
+msgid ""
+"Added a %snew template to display related entries%s into the author box."
+msgstr ""
+
+#: includes/class-highlights.php:212
+msgid ""
+"Added 'Hide on these post categories' setting to control on which categories "
+"the author box won't be displayed by default."
+msgstr ""
+
+#: includes/class-highlights.php:213
+#, php-format
+msgid "Added 7 %snew profile templates%s."
+msgstr ""
+
+#: includes/class-highlights.php:214
+#, php-format
+msgid ""
+"Added a %sthird new template%s to display related entries into the author "
+"box."
+msgstr ""
+
+#: includes/class-highlights.php:215
+#, php-format
+msgid ""
+"New %s'Contributors' page%s featuring a list of all authors in your site."
+msgstr ""
+
+#: includes/class-highlights.php:217
+msgid ""
+"Some styling modifications have been introduced. Please, make sure the "
+"author box looks like you want and customize it if required."
+msgstr ""
+
+#: includes/class-highlights.php:235 includes/class-highlights.php:301
+msgid "Open customizer"
+msgstr ""
+
+#: includes/class-highlights.php:277
+#, php-format
+msgid ""
+"Now you can edit 'first name', 'last name' and 'display name' %sseparately%s "
+"for your guest authors. Just like you do for regular users."
+msgstr ""
+
+#: includes/class-highlights.php:278
+msgid "Added setting to align name and author meta within the author box."
+msgstr ""
+
+#: includes/class-highlights.php:279
+msgid ""
+"Added 'Entries' column to 'Users list' to display number of entries for each "
+"user."
+msgstr ""
+
+#: includes/class-highlights.php:280
+msgid ""
+"Removed 'e-mail' and 'website' from social networks list. Both can be "
+"optionally displayed as an icon."
+msgstr ""
+
+#: includes/class-highlights.php:281
+msgid ""
+"Now it is possible to show phone number as another icon within the social "
+"icons section."
+msgstr ""
+
+#: includes/class-highlights.php:282
+msgid ""
+"Restyled 'Support' page. Now you can open support tickets and chat with "
+"Molongui without leaving the Dashboard :)"
+msgstr ""
+
+#: includes/class-post.php:1915 includes/class-post.php:2097
+#: includes/class-post.php:2363
+msgid "Authors"
+msgstr ""
+
+#: includes/class-post.php:1972
+msgid "guest"
+msgstr ""
+
+#: includes/class-post.php:2094
+msgid "Authorship data"
+msgstr ""
+
+#: includes/class-post.php:2097
+msgid "Author"
+msgstr ""
+
+#: includes/class-post.php:2124
+msgid "Author box"
+msgstr ""
+
+#: includes/class-post.php:2377
+msgid "Authorship Box"
+msgstr ""
+
+#: includes/class-post.php:2418 includes/class-post.php:2426
+msgid ""
+"Add as many authors as needed by selecting them from the dropdown below. "
+"Drag to change their order and click on trash icon to remove them. First "
+"listed author will be the main author."
+msgstr ""
+
+#: includes/class-post.php:2420 includes/class-post.php:2441
+msgid "+ Add new guest"
+msgstr ""
+
+#: includes/class-post.php:2438
+#, php-format
+msgid ""
+"Select an author for this post. Or enable the %sMulti-Author%s feature to "
+"add as many authors as needed."
+msgstr ""
+
+#: includes/class-post.php:2447
+#, php-format
+msgid ""
+"Select a user as author for this post. Or enable the %sMulti-Author%s "
+"feature to add as many authors as needed or the %sGuest Author%s feature to "
+"add contributors without adding new real users."
+msgstr ""
+
+#: includes/class-post.php:2533
+msgid "No authors found."
+msgstr ""
+
+#: includes/class-post.php:2539
+msgid "Add an(other) author..."
+msgstr ""
+
+#: includes/class-post.php:2544
+msgid "Add an author..."
+msgstr ""
+
+#: includes/class-post.php:2574
+msgid "Remove author from selection"
+msgstr ""
+
+#: includes/class-user.php:336
+#, php-format
+msgid ""
+"Or you can upload a custom profile picture using %sMolongui Authorship field"
+"%s."
+msgstr ""
+
+#: includes/class-user.php:340
+msgid ""
+"Or you can upload a custom profile using the \"Local Avatar\" field below."
+msgstr ""
+
+#: includes/class-user.php:345
+#, php-format
+msgid ""
+"Or you can upload a custom profile picture enabling Molongui Authorship "
+"\"Local Avatar\" feature %shere%s."
+msgstr ""
+
+#: includes/compat/plugins/wpdiscuz.php:158
+msgid "Anonymous"
+msgstr ""
+
+#: includes/compat/themes/jupiter.php:138
+#: includes/compat/themes/jupiter.php:143
+#, php-format
+msgid "Author Archive for: \"%s\""
+msgstr ""
+
+#: includes/deprecated/actions.php:56 includes/deprecated/filters.php:57
+#, php-format
+msgid ""
+"%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
+msgstr ""
+
+#: includes/deprecated/actions.php:69 includes/deprecated/filters.php:70
+#, php-format
+msgid ""
+"%1$s is <strong>deprecated</strong> since version %2$s with no alternative "
+"available."
+msgstr ""
+
+#: includes/helpers/author.php:60
+msgid ""
+"Conditional query tags do not work before the query is run. Before then, "
+"they always return false."
+msgstr ""
+
+#: includes/helpers/post.php:423 public/class-public.php:533
+msgid "and"
+msgstr ""
+
+#: includes/helpers/post.php:447
+#, php-format
+msgid "%s %d more"
+msgstr ""
+
+#: includes/hooks/post/filter.php:37
+msgid "All authors"
+msgstr ""
+
+#: includes/hooks/post/filter.php:76
+msgid "All guest authors"
+msgstr ""
+
+#: molongui-authorship.php:192
+#, php-format
+msgid ""
+"%s is not working because you are running a PHP version (%s) on your web "
+"host older than %s. Please update your PHP version."
+msgstr ""
+
+#: molongui-authorship.php:193
+msgid "How to update your PHP version"
+msgstr ""
+
+#: public/class-public.php:534
+msgid "View all posts by"
+msgstr ""
+
+#: views/guest-author/html-admin-archive-metabox.php:25
+msgid ""
+"Archive this author so he/she won't be displayed as an eligible author for "
+"your posts. Won't be listed in the authors dropdown in your edit-post screen."
+msgstr ""
+
+#: views/guest-author/html-admin-avatar-metabox.php:24
+msgid "Avatar Display Disabled"
+msgstr ""
+
+#: views/guest-author/html-admin-avatar-metabox.php:26
+msgid "Avatar display is disabled"
+msgstr ""
+
+#: views/guest-author/html-admin-avatar-metabox.php:26
+#, php-format
+msgid ""
+"You can enable author avatars at the WordPress %sCustomizer%s. There you can "
+"select whether to display custom local images, gravatars or acronyms."
+msgstr ""
+
+#: views/guest-author/html-admin-avatar-metabox.php:28
+msgid "Open Customizer"
+msgstr ""
+
+#: views/guest-author/html-admin-avatar-metabox.php:33
+msgid "Local Avatar Disabled"
+msgstr ""
+
+#: views/guest-author/html-admin-avatar-metabox.php:39
+#: views/guest-author/html-admin-avatar-metabox.php:43
+#: views/guest-author/html-admin-avatar-metabox.php:47
+msgid "Local Avatar feature is disabled"
+msgstr ""
+
+#: views/guest-author/html-admin-avatar-metabox.php:39
+#: views/guest-author/html-admin-avatar-metabox.php:58
+msgid ""
+"As configured, author avatar will be taken from Gravatar using author's "
+"email address and if none associated, a default image will be shown."
+msgstr ""
+
+#: views/guest-author/html-admin-avatar-metabox.php:43
+#: views/guest-author/html-admin-avatar-metabox.php:62
+msgid ""
+"As configured, author acronym will be displayed as author profile image."
+msgstr ""
+
+#: views/guest-author/html-admin-avatar-metabox.php:47
+msgid ""
+"And as there is no fallback configured, no image will be shown as author "
+"avatar."
+msgstr ""
+
+#: views/guest-author/html-admin-avatar-metabox.php:70
+#, php-format
+msgid ""
+"If you want to upload a custom image for this guest author, enable local "
+"avatars for both, users and guests, on the plugin settings page (click %shere"
+"%s)."
+msgstr ""
+
+#: views/guest-author/html-admin-avatar-metabox.php:72
+msgid "Settings Page"
+msgstr ""
+
+#: views/guest-author/html-admin-box-metabox.php:26
+msgid ""
+"Choose whether to display the author box for this author regardless of other "
+"post or plugin settings"
+msgstr ""
+
+#: views/guest-author/html-admin-box-metabox.php:27
+#: views/guest-author/html-admin-social-metabox.php:24
+#: views/user/html-admin-plugin-fields.php:69
+#, php-format
+msgid ""
+"Disabled options are only available in the %sPremium version%s of the plugin."
+msgstr ""
+
+#: views/guest-author/html-admin-box-metabox.php:39
+msgid "Meta Line"
+msgstr ""
+
+#: views/guest-author/html-admin-box-metabox.php:45
+msgid ""
+"Display e-mail in the author meta line, which is displayed below author name."
+msgstr ""
+
+#: views/guest-author/html-admin-box-metabox.php:53
+msgid ""
+"Display phone in the author meta line, which is displayed below author name."
+msgstr ""
+
+#: views/guest-author/html-admin-box-metabox.php:60
+msgid "Social Icons"
+msgstr ""
+
+#: views/guest-author/html-admin-box-metabox.php:66
+msgid "Display website as an icon with social icons."
+msgstr ""
+
+#: views/guest-author/html-admin-box-metabox.php:74
+msgid "Display e-mail as an icon with social icons."
+msgstr ""
+
+#: views/guest-author/html-admin-box-metabox.php:82
+msgid "Display phone as an icon with social icons."
+msgstr ""
+
+#: views/guest-author/html-admin-convert-metabox.php:21
+msgid "Convert to User"
+msgstr ""
+
+#: views/guest-author/html-admin-convert-metabox.php:23
+msgid ""
+"Convert this guest author to a registered WP user with just 1-click. Current "
+"guest will be removed and a new user created. Posts authorship will be kept."
+msgstr ""
+
+#: views/guest-author/html-admin-convert-metabox.php:25
+#: views/user/html-admin-profile-tools.php:37
+msgid "Convert"
+msgstr ""
+
+#: views/guest-author/html-admin-convert-metabox.php:27
+#: views/guest-author/html-admin-short-bio-metabox.php:26
+#, php-format
+msgid "This option is only available in the %sPRO version%s of the plugin."
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:31
+msgid "First Name"
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:32
+msgid "Author's name"
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:39
+msgid "Last Name"
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:40
+msgid "Author's last name"
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:47
+msgid "Display Name"
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:48
+msgid ""
+"This is a phrase that refers to the author's name. Most of the time, it is "
+"the name of the author, but you can write in whatever you wish. This will be "
+"shown as author name."
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:55
+msgid "E-mail"
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:56
+msgid ""
+"Author's e-mail address. Used to retrieve author's Gravatar if it exists and "
+"no local avatar is uploaded. This field is not displayed in the front-end "
+"unless configured so. See 'Author box settings' on this same page."
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:64
+msgid ""
+"URL to the author's website, blog or profile page. Leave blank to prevent "
+"this field to be displayed in the front-end."
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:71
+msgid ""
+"Author's telephone number. This field is not displayed in the front-end "
+"unless configured so. See 'Author box settings' on this same page."
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:84
+msgid "Job Title"
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:85
+msgid ""
+"Name used to describe what the author does for a business or another "
+"enterprise. It will be displayed in the author box, just below the author "
+"name. Leave blank to prevent this field to be displayed in the front-end."
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:92
+#: views/user/html-admin-plugin-fields.php:49
+msgid "Company"
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:93
+msgid ""
+"The name of the company the author works for. It will be displayed in the "
+"author box, just below the author name. Leave blank to prevent this field to "
+"be displayed in the front-end."
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:100
+msgid "Company URL"
+msgstr ""
+
+#: views/guest-author/html-admin-profile-metabox.php:101
+msgid "URL the company name will link to. Leave blank to disable link feature."
+msgstr ""
+
+#: views/guest-author/html-admin-short-bio-metabox.php:22
+msgid ""
+"Provide a short description that can be displayed on the author box instead "
+"of the full author biography. On author archive pages full bio is displayed, "
+"if your theme supports it."
+msgstr ""
+
+#: views/guest-author/html-admin-social-metabox.php:23
+msgid ""
+"Only filled in social profile links will be displayed on the frontend as "
+"icons. If you are missing some networks you would like to configure, enable "
+"them at the plugin settings page: Molongui > Authorship Settings > Main tab "
+"> Social Networks section."
+msgstr ""
+
+#: views/guest-author/html-admin-social-metabox.php:33
+#: views/user/html-admin-plugin-fields.php:78
+#, php-format
+msgid "%s  Premium feature"
+msgstr ""
+
+#: views/options/html-admin-box-preview.php:46
+msgid ""
+"How the author box is displayed in your site's frontend could differ "
+"slightly from what is shown here."
+msgstr ""
+
+#: views/post/html-admin-author-metabox.php:29
+msgid ""
+"You can quick-add a new guest author now. Later on you will be able to fully "
+"edit all profile info through Guest Authors menu item."
+msgstr ""
+
+#: views/post/html-admin-author-metabox.php:35
+msgid "Quick Add New Guest"
+msgstr ""
+
+#: views/post/html-admin-author-metabox.php:36
+msgid ""
+"Now you can quick-add a guest author providing just a display name. You'll "
+"be able to add other profile data later on."
+msgstr ""
+
+#: views/post/html-admin-author-metabox.php:38
+msgid "Type display name here..."
+msgstr ""
+
+#: views/post/html-admin-author-metabox.php:41
+msgid "Cancel"
+msgstr ""
+
+#: views/post/html-admin-author-metabox.php:42
+msgid "Add"
+msgstr ""
+
+#: views/post/html-admin-box-metabox.php:24
+msgid "Whether to show the author box on this post"
+msgstr ""
+
+#: views/post/html-admin-box-metabox.php:35
+msgid "Where in the post to show the author box?"
+msgstr ""
+
+#: views/post/html-admin-box-metabox.php:39
+msgid "Above"
+msgstr ""
+
+#: views/post/html-admin-box-metabox.php:40
+msgid "Below"
+msgstr ""
+
+#: views/post/html-admin-box-metabox.php:41
+msgid "Both"
+msgstr ""
+
+#: views/user/html-admin-avatar-field.php:48
+msgid "Remove"
+msgstr ""
+
+#: views/user/html-admin-avatar-field.php:49
+msgid "Edit"
+msgstr ""
+
+#: views/user/html-admin-avatar-field.php:73
+msgid "Change Image"
+msgstr ""
+
+#: views/user/html-admin-avatar-field.php:73
+msgid "Upload Image"
+msgstr ""
+
+#: views/user/html-admin-avatar-field.php:84
+msgid ""
+"You do not have permission to upload a custom profile picture. Please, "
+"contact the administrator of this site."
+msgstr ""
+
+#: views/user/html-admin-gravatar-field.php:30
+#, php-format
+msgid "<a href=\"%s\">You can change your profile picture on Gravatar</a>."
+msgstr ""
+
+#: views/user/html-admin-gravatar-field.php:31
+msgid "https://en.gravatar.com/"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:21
+msgid "Molongui Authorship"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:32
+msgid "Professional Info"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:33
+#, php-format
+msgid ""
+"Information below will be displayed on the author box and other relevant "
+"sections (i.e. authors list) below the user's name. %sPhone number won't be "
+"displayed unless configured%s using the %sdisplay settings%s. Any blank "
+"field will not be displayed either."
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:44
+msgid "Job title"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:54
+msgid "Company website"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:55
+msgid "https://www.example.com/"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:67
+msgid "Social Profiles"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:68
+#, php-format
+msgid ""
+"The Molongui Authorship plugin allows you to add %smore than %s different "
+"social network profiles%s, so if you don't see here the ones you want to "
+"add, just go to the %splugin settings page%s and check those you need to "
+"edit. %sSocial profiles will be displayed as icons on the author box and "
+"other relevant sections. Any blank profile will not be displayed."
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:97
+msgid "Author Box Settings"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:98
+#, php-format
+msgid ""
+"On the %splugin settings page%s you can configure all the display settings "
+"that affects how the author box is displayed by default. Nonetheless, below "
+"you have some settings that override that global configuration for this user."
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:104
+msgid "Disable author box"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:114
+msgid "Premium"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:115
+#, php-format
+msgid ""
+"Disabled options are available only in the %spremium version%s of the plugin."
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:123
+msgid "Display e-mail"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:124
+msgid ""
+"Check this box to display the user's e-mail publicly in the author meta "
+"line, which is displayed below the author name."
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:129
+msgid "Display phone"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:130
+msgid ""
+"Check this box to display the user's phone publicly in the author meta line, "
+"which is displayed below the author name."
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:135
+msgid "Show website icon"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:136
+msgid "Check this box to display a website icon with other social icons."
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:141
+msgid "Show e-mail icon"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:142
+msgid "Check this box to display an e-mail icon with other social icons."
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:147
+msgid "Show phone icon"
+msgstr ""
+
+#: views/user/html-admin-plugin-fields.php:148
+msgid "Check this box to display a phone icon with other social icons."
+msgstr ""
+
+#: views/user/html-admin-profile-bio.php:23
+msgid "Biographical Info"
+msgstr ""
+
+#: views/user/html-admin-profile-bio.php:28
+msgid "Full Bio"
+msgstr ""
+
+#: views/user/html-admin-profile-bio.php:31
+msgid ""
+"Biographical information to be shown publicly on several places on your site."
+msgstr ""
+
+#: views/user/html-admin-profile-bio.php:37
+msgid "Short Bio"
+msgstr ""
+
+#: views/user/html-admin-profile-bio.php:40
+msgid ""
+"Concise biographical paragraph you can display on author boxes instead of "
+"full bio to keep them slim."
+msgstr ""
+
+#: views/user/html-admin-profile-bio.php:41
+msgid "PRO only"
+msgstr ""
+
+#: views/user/html-admin-profile-bio.php:41
+#, php-format
+msgid "%sUpgrade%s to Premium to unlock this feature."
+msgstr ""
+
+#: views/user/html-admin-profile-picture.php:26
+#: views/user/html-admin-profile-picture.php:47
+msgid "Local Avatar"
+msgstr ""
+
+#: views/user/html-admin-profile-picture.php:26
+#: views/user/html-admin-profile-picture.php:47
+msgid "Profile Picture"
+msgstr ""
+
+#: views/user/html-admin-profile-picture.php:29
+msgid ""
+"Want to use a custom local image instead of Gravatar's? Profile picture is "
+"displayed in the author box, comments and other relevant sections. WordPress "
+"uses Gravatar service to display user's profile picture which is based on "
+"the email address. If you do not have a Gravatar account then your profile "
+"picture will be replaced with a default image placeholder which is called "
+"'Mystery Man'. Molongui Authorship allows you to use any photo you upload "
+"here as your avatar. If none is uploaded, your Gravatar avatar or Default "
+"Avatar will be displayed."
+msgstr ""
+
+#: views/user/html-admin-profile-tools.php:21
+msgid "Author Tools"
+msgstr ""
+
+#: views/user/html-admin-profile-tools.php:22
+#, php-format
+msgid ""
+"Does this user need an account on your site? Does it need access to your "
+"Dashboard? Convert it to a guest author with just 1-click. It will be "
+"removed and a new guest author created. Posts authorship will be kept. "
+"%sUpgrade to PRO%s to unlock this feature."
+msgstr ""
+
+#: views/user/html-admin-profile-tools.php:29
+msgid "Archive Author"
+msgstr ""
+
+#: views/user/html-admin-profile-tools.php:30
+msgid ""
+"Check this box to archive this author so he/she won't be displayed as an "
+"eligible author for your posts. Won't be listed in the authors dropdown in "
+"your edit-post screen."
+msgstr ""
+
+#: views/user/html-admin-profile-tools.php:35
+msgid "Convert to Guest"
+msgstr ""

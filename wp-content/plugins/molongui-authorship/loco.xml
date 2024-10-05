@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundle name="Molongui Authorship">
+    <domain name="molongui-authorship">
+        <project name="Molongui Authorship" slug="molongui-authorship">
+            <source>
+                <directory>.</directory>
+                <exclude>
+                    <directory>i18n</directory>
+                    <directory>fw</directory>
+                </exclude>
+            </source>
+            <target>
+                <directory>i18n</directory>
+            </target>
+            <template>
+                <file>i18n/molongui-authorship.pot</file>
+            </template>
+        </project>
+    </domain>
+    <domain name="molongui-common-framework">
+        <project name="Molongui Common Framework" slug="molongui-common-framework">
+            <source>
+                <directory>fw</directory>
+                <exclude>
+                    <directory>fw/i18n</directory>
+                </exclude>
+            </source>
+            <target>
+                <directory>fw/i18n</directory>
+            </target>
+            <template>
+                <file>fw/i18n/molongui-common-framework.pot</file>
+            </template>
+        </project>
+    </domain>
+</bundle>

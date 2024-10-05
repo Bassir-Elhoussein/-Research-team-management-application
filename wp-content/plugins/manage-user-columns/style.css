@@ -1,0 +1,111 @@
+/*
+* Style file for Manage Users Columns plugin
+*/
+#mucAddNewCol{
+	margin-left: 10px;
+}
+#muc-popup{
+	display: none;
+	position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgb(0,0,0,0.3);
+    z-index: 9999;
+}
+#muc-popup .muc-popup-inner{
+	width: 400px;
+    background: #fff;
+    margin: auto;
+    margin-top: 5%;
+    min-height: 400px;
+    border-radius: 10px;
+    position: relative;
+}
+#muc-popup #muc-close-pp{
+	position: absolute;
+    right: 10px;
+    top: 5px;
+    font-size: 20px;
+    color: #0071a1;
+    font-weight: bold;
+	cursor: pointer;
+}
+#colInfo{
+	padding: 10px 15px;
+}
+.toggleOptions h3{
+	margin-top: 0;
+}
+.toggleOptions td{
+	min-width: 130px;
+}
+th.manage-column{
+	position: relative;
+}
+.dlt-col{
+	color: orangered;
+    font-weight: bold;
+    font-size: 18px;
+	margin-left: 5px;
+	cursor: pointer;
+}
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+.dlt-col.tooltip:after{
+	display: none;
+}
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+  font-size: 14px;
+}
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+.muc-search-sug{
+	display: none;
+	margin: 0;
+    padding: 5px;
+    background: #fff;
+    color: #000;
+    border-radius: 0 0 12px 12px;
+    box-shadow: 0 4px 6px 0 rgba(32,33,36,0.28);
+    overflow: hidden;
+    z-index: 999;
+    margin-top: -5px;
+}
+.muc-search-sug li{
+	cursor: pointer;
+	padding: 3px 8px;
+}
+.muc-search-sug li:hover{
+	background: lightgray;
+}

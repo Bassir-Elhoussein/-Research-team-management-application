@@ -1,0 +1,351 @@
+0000.000 (0) Opened log file at time: Sun, 23 Apr 2023 19:08:42 +0000 on http://localhost/wordpress
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.3 WP: 6.2 PHP: 8.0.26 (apache2handler, Windows NT ZWART-DRAGON 10.0 build 22621 (Windows 10) AMD64) MySQL: 8.0.31 (max packet size=67108864) WPLANG: en_US Server: Apache/2.4.54 (Win64) PHP/8.0.26 mod_fcgid/2.3.10-dev safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.4M | 14M) multisite: N openssl: OpenSSL 1.1.1s  1 Nov 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 141766.4 MB
+0000.005 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB: 1 (schedule: daily)
+0000.008 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.010 (0) Set semaphore last lock (fd) time to 2023-04-23 19:08:42
+0000.010 (0) Semaphore lock (fd) complete
+0000.013 (0) Backup run: resumption=0, nonce=3d703d0c81c4, file_nonce=3d703d0c81c4 begun at=1682276922 (0s ago), job type=backup
+0000.014 (0) Scheduling a resumption (1) after 300 seconds (1682277222) in case this run gets aborted
+0000.016 (0) Checking if we have a zip executable available
+0000.017 (0) Creation of backups of directories: beginning
+0000.020 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.160 (0) Total entities for the zip file: 1012 directories, 4823 files (0 skipped as non-modified), 114.6 MB
+0001.190 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.219 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.247 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.272 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.300 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.327 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.354 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.357 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 4823 files batched, 706 (706) added so far); re-opening (prior size: 0 KB)
+0003.100 (0) A useful amount of data was added after this amount of zip processing: 3.3 s (normalised: 3.3 s, rate: 7783.9 KB/s)
+0003.102 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.2891399860382, normalised_time=3.2888242065228, max_time=3.1005601882935, data points known=1, old_max_bytes=26214400, new_max_bytes=47824508)
+0003.138 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 800 files added (on-disk size: 7813.4 KB)
+0003.166 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 900 files added (on-disk size: 7813.4 KB)
+0003.192 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 1000 files added (on-disk size: 7813.4 KB)
+0003.220 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 1100 files added (on-disk size: 7813.4 KB)
+0003.247 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 1200 files added (on-disk size: 7813.4 KB)
+0003.272 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 1300 files added (on-disk size: 7813.4 KB)
+0003.298 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 1400 files added (on-disk size: 7813.4 KB)
+0003.323 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 1500 files added (on-disk size: 7813.4 KB)
+0003.349 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 1600 files added (on-disk size: 7813.4 KB)
+0003.374 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 1700 files added (on-disk size: 7813.4 KB)
+0003.377 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.3 MB, 4823 files batched, 1001 (1707) added so far); re-opening (prior size: 7813.4 KB)
+0004.919 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 1800 files added (on-disk size: 15795.6 KB)
+0004.944 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 1900 files added (on-disk size: 15795.6 KB)
+0004.970 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 2000 files added (on-disk size: 15795.6 KB)
+0004.996 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 2100 files added (on-disk size: 15795.6 KB)
+0005.021 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 2200 files added (on-disk size: 15795.6 KB)
+0005.045 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 2300 files added (on-disk size: 15795.6 KB)
+0005.071 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 2400 files added (on-disk size: 15795.6 KB)
+0005.097 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 2500 files added (on-disk size: 15795.6 KB)
+0005.123 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 2600 files added (on-disk size: 15795.6 KB)
+0005.148 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 2700 files added (on-disk size: 15795.6 KB)
+0005.151 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.2 MB, 4823 files batched, 1001 (2708) added so far); re-opening (prior size: 15795.6 KB)
+0006.004 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 2800 files added (on-disk size: 22907 KB)
+0006.029 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 2900 files added (on-disk size: 22907 KB)
+0006.054 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 3000 files added (on-disk size: 22907 KB)
+0006.081 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 3100 files added (on-disk size: 22907 KB)
+0006.107 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 3200 files added (on-disk size: 22907 KB)
+0006.132 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 3300 files added (on-disk size: 22907 KB)
+0006.158 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 3400 files added (on-disk size: 22907 KB)
+0006.183 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 3500 files added (on-disk size: 22907 KB)
+0006.209 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 3600 files added (on-disk size: 22907 KB)
+0006.235 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 3700 files added (on-disk size: 22907 KB)
+0006.238 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (29.9 MB, 4823 files batched, 1001 (3709) added so far); re-opening (prior size: 22907 KB)
+0007.853 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 3800 files added (on-disk size: 35981 KB)
+0007.878 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 3900 files added (on-disk size: 35981 KB)
+0007.904 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 4000 files added (on-disk size: 35981 KB)
+0007.932 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 4100 files added (on-disk size: 35981 KB)
+0007.962 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 4200 files added (on-disk size: 35981 KB)
+0007.989 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 4300 files added (on-disk size: 35981 KB)
+0008.018 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 4400 files added (on-disk size: 35981 KB)
+0008.046 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 4500 files added (on-disk size: 35981 KB)
+0008.073 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 4600 files added (on-disk size: 35981 KB)
+0008.102 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 4700 files added (on-disk size: 35981 KB)
+0008.106 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.3 MB, 4823 files batched, 1001 (4710) added so far); re-opening (prior size: 35981 KB)
+0009.003 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.tmp: 4800 files added (on-disk size: 40600.7 KB)
+0009.355 (0) Creating zip file manifest (backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.list-temp.tmp)
+0009.373 (0) Successfully created zip file manifest (size: 389430)
+0009.681 (0) Created plugins zip (0) - 41342.1 KB in 9.7 s (4280.8 KB/s) (sha1: 111146e3164aae5825c40eda1c7f23e0f6eda9cc, sha256: c14a799f6595f90c3f98f225abb926c2936751a9f3cd9d6c68cbbc4061d9ca32)
+0009.688 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0009.689 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-8a1dc92c5f2351e53b9247fb483379fc)
+0010.672 (0) Google Drive: creating path: /UpdraftPlus
+0012.299 (0) Google Drive: quota usage: used=5635.3 MB, total=15360 MB, available=9724.7 MB
+0012.300 (0) Google Drive: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1xZ5CRPUgion3lpQ6x895qJ3OquDc8D7w)
+0014.992 (0) Googledrive chunked upload: 2.5 % uploaded (1048576)
+0017.468 (0) Googledrive chunked upload: 5 % uploaded (2097152 - increasing chunk size to 2048 KB - memory usage: 13 / 16)
+0022.415 (0) Googledrive chunked upload: 9.9 % uploaded (4194304)
+0026.771 (0) Googledrive chunked upload: 14.9 % uploaded (6291456)
+0031.194 (0) Googledrive chunked upload: 19.8 % uploaded (8388608)
+0035.625 (0) Googledrive chunked upload: 24.8 % uploaded (10485760)
+0040.211 (0) Googledrive chunked upload: 29.7 % uploaded (12582912)
+0044.929 (0) Googledrive chunked upload: 34.7 % uploaded (14680064)
+0049.373 (0) Googledrive chunked upload: 39.6 % uploaded (16777216)
+0054.125 (0) Googledrive chunked upload: 44.6 % uploaded (18874368)
+0059.399 (0) Googledrive chunked upload: 49.5 % uploaded (20971520)
+0064.405 (0) Googledrive chunked upload: 54.5 % uploaded (23068672)
+0069.418 (0) Googledrive chunked upload: 59.4 % uploaded (25165824)
+0074.965 (0) Googledrive chunked upload: 64.4 % uploaded (27262976)
+0079.915 (0) Googledrive chunked upload: 69.4 % uploaded (29360128)
+0088.121 (0) Googledrive chunked upload: 74.3 % uploaded (31457280)
+0093.172 (0) Googledrive chunked upload: 79.3 % uploaded (33554432)
+0099.037 (0) Googledrive chunked upload: 84.2 % uploaded (35651584)
+0104.873 (0) Googledrive chunked upload: 89.2 % uploaded (37748736)
+0109.892 (0) Googledrive chunked upload: 94.1 % uploaded (39845888)
+0114.786 (0) Googledrive chunked upload: 99.1 % uploaded (41943040)
+0116.664 (0) Googledrive chunked upload: 100 % uploaded (41943040)
+0116.667 (0) Google Drive: OK: Archive backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip uploaded in 104.37 seconds
+0116.668 (0) Recording as successfully uploaded: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip
+0116.674 (0) Deleting local file: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip: OK
+0116.679 (0) Beginning creation of dump of themes (split every: 400 MB)
+0117.001 (0) Total entities for the zip file: 395 directories, 1161 files (0 skipped as non-modified), 38.5 MB
+0117.029 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0117.055 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0117.082 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0117.110 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0117.136 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0117.162 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0117.188 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0117.213 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0117.238 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0117.264 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0117.269 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (32 MB, 1161 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0118.899 (0) Zip: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip.tmp: 1100 files added (on-disk size: 12809.8 KB)
+0119.165 (0) Creating zip file manifest (backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip.list-temp.tmp)
+0119.170 (0) Successfully created zip file manifest (size: 93834)
+0119.317 (0) Created themes zip (0) - 18775.2 KB in 2.6 s (7126.4 KB/s) (sha1: e042cadf61d411315f834fcef13955649357dbe9, sha256: 68c99c8a60822198736e5ee7e485e9e55cced02071fe1faa3b3f0e1259213fce)
+0119.322 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0119.323 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-8a1dc92c5f2351e53b9247fb483379fc)
+0119.725 (0) Google Drive: quota usage: used=5675.7 MB, total=15360 MB, available=9684.3 MB
+0119.726 (0) Google Drive: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip: Attempting to upload to Google Drive (into folder id: 1xZ5CRPUgion3lpQ6x895qJ3OquDc8D7w)
+0122.635 (0) Googledrive chunked upload: 5.5 % uploaded (1048576)
+0125.109 (0) Googledrive chunked upload: 10.9 % uploaded (2097152 - increasing chunk size to 2048 KB - memory usage: 12.4 / 16)
+0129.304 (0) Googledrive chunked upload: 21.8 % uploaded (4194304)
+0135.380 (0) Googledrive chunked upload: 32.7 % uploaded (6291456)
+0139.639 (0) Googledrive chunked upload: 43.6 % uploaded (8388608)
+0144.145 (0) Googledrive chunked upload: 54.5 % uploaded (10485760)
+0148.300 (0) Googledrive chunked upload: 65.4 % uploaded (12582912)
+0153.142 (0) Googledrive chunked upload: 76.4 % uploaded (14680064)
+0158.867 (0) Googledrive chunked upload: 87.3 % uploaded (16777216)
+0163.615 (0) Googledrive chunked upload: 98.2 % uploaded (18874368)
+0165.497 (0) Googledrive chunked upload: 100 % uploaded (18874368)
+0165.500 (0) Google Drive: OK: Archive backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip uploaded in 45.77 seconds
+0165.501 (0) Recording as successfully uploaded: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip
+0165.505 (0) Deleting local file: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip: OK
+0165.509 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0165.510 (0) Looking for candidates to backup in: C:\wamp64\www\wordpress/wp-content/uploads
+0165.511 (0) finding files: 2023: adding to list (1)
+0165.512 (0) finding files: elementor: adding to list (2)
+0165.512 (0) finding files: event-manager-uploads: adding to list (3)
+0165.513 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0165.531 (0) Total entities for the zip file: 8 directories, 68 files (0 skipped as non-modified), 11 MB
+0166.098 (0) Creating zip file manifest (backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-uploads.zip.list-temp.tmp)
+0166.108 (0) Successfully created zip file manifest (size: 3882)
+0166.189 (0) Created uploads zip (0) - 10452.5 KB in 0.7 s (15561.1 KB/s) (sha1: 49cde6647dce6565da1033f5f4bb40878664f74f, sha256: df022b8e4ae8ad912a434f370c37ea84b37d9e5cb23569809e80cf57c64b3ee7)
+0166.192 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0166.194 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-8a1dc92c5f2351e53b9247fb483379fc)
+0166.572 (0) Google Drive: quota usage: used=5694 MB, total=15360 MB, available=9666 MB
+0166.573 (0) Google Drive: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1xZ5CRPUgion3lpQ6x895qJ3OquDc8D7w)
+0169.249 (0) Googledrive chunked upload: 9.8 % uploaded (1048576)
+0171.605 (0) Googledrive chunked upload: 19.6 % uploaded (2097152 - increasing chunk size to 2048 KB - memory usage: 12.2 / 18)
+0175.845 (0) Googledrive chunked upload: 39.2 % uploaded (4194304)
+0180.104 (0) Googledrive chunked upload: 58.8 % uploaded (6291456)
+0184.329 (0) Googledrive chunked upload: 78.4 % uploaded (8388608)
+0188.286 (0) Googledrive chunked upload: 98 % uploaded (10485760)
+0189.934 (0) Googledrive chunked upload: 100 % uploaded (10485760)
+0189.937 (0) Google Drive: OK: Archive backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-uploads.zip uploaded in 23.36 seconds
+0189.938 (0) Recording as successfully uploaded: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-uploads.zip
+0189.941 (0) Deleting local file: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-uploads.zip: OK
+0189.945 (0) Beginning backup of other directories found in the content directory (index: 0)
+0189.945 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0189.946 (0) Looking for candidates to backup in: C:\wamp64\www\wordpress/wp-content
+0189.947 (0) finding files: fonts: adding to list (1)
+0189.948 (0) finding files: index.php: adding to list (2)
+0189.949 (0) finding files: mu-plugins: adding to list (3)
+0189.949 (0) finding files: plugins: skipping: this is the plugins directory
+0189.950 (0) finding files: themes: skipping: this is the themes directory
+0189.951 (0) finding files: updraft: skipping: this is the updraft directory
+0189.952 (0) finding files: upgrade: skipping: excluded by options
+0189.953 (0) finding files: uploads: skipping: this is the uploads directory
+0189.969 (0) Total entities for the zip file: 4 directories, 65 files (0 skipped as non-modified), 1.2 MB
+0190.029 (0) Creating zip file manifest (backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-others.zip.list-temp.tmp)
+0190.031 (0) Successfully created zip file manifest (size: 4034)
+0190.045 (0) Created others zip (0) - 1154.7 KB in 0.1 s (13055.3 KB/s) (sha1: c4bc0d85ce0ae80b240849beb4a956544186c60d, sha256: b0a8e964bffea95811db8494c20fecee9ffdd5b37d51db8f27a4d10cd0677f22)
+0190.049 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0190.050 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-8a1dc92c5f2351e53b9247fb483379fc)
+0190.425 (0) Google Drive: quota usage: used=5704.2 MB, total=15360 MB, available=9655.8 MB
+0190.426 (0) Google Drive: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-others.zip: Attempting to upload to Google Drive (into folder id: 1xZ5CRPUgion3lpQ6x895qJ3OquDc8D7w)
+0193.164 (0) Googledrive chunked upload: 88.7 % uploaded (1048576)
+0194.462 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0194.465 (0) Google Drive: OK: Archive backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-others.zip uploaded in 4.04 seconds
+0194.466 (0) Recording as successfully uploaded: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-others.zip
+0194.468 (0) Deleting local file: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-others.zip: OK
+0194.474 (0) Saving backup status to database (elements: 8)
+0194.476 (0) Beginning creation of database dump (WordPress DB)
+0194.477 (0) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+0194.494 (0) Table wp_options: Total expected rows (via COUNT): 398
+0194.494 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.571 (0) Table wp_options: Rows added in this batch (next record: 1274): 394 (uncompressed bytes in this segment=2525715) in 0.08 seconds
+0194.576 (0) Table wp_options: finishing file(s) (2, 442.9 KB)
+0194.581 (0) Table wp_users: Total expected rows (via COUNT): 11
+0194.582 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.584 (0) Table wp_users: Rows added in this batch (next record: 11): 11 (uncompressed bytes in this segment=3724) in 0.00 seconds
+0194.589 (0) Table wp_users: finishing file(s) (2, 1.5 KB)
+0194.595 (0) Table wp_usermeta: Total expected rows (via COUNT): 172
+0194.596 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.601 (0) Table wp_usermeta: Rows added in this batch (next record: 185): 172 (uncompressed bytes in this segment=8653) in 0.01 seconds
+0194.615 (0) Table wp_usermeta: finishing file(s) (2, 2.5 KB)
+0194.621 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0194.623 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.00 seconds
+0194.628 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0194.633 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0194.634 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.636 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2132) in 0.00 seconds
+0194.641 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0194.646 (0) Table wp_links: Total expected rows (via COUNT): 0
+0194.648 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1298) in 0.00 seconds
+0194.653 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0194.662 (0) Table wp_postmeta: Total expected rows (via COUNT): 972
+0194.662 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.692 (0) Table wp_postmeta: Rows added in this batch (next record: 1212): 972 (uncompressed bytes in this segment=665170) in 0.04 seconds
+0194.699 (0) Table wp_postmeta: finishing file(s) (2, 21.1 KB)
+0194.706 (0) Table wp_posts: Total expected rows (via COUNT): 326
+0194.707 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.745 (0) Table wp_posts: Rows added in this batch (next record: 367): 326 (uncompressed bytes in this segment=1121630) in 0.04 seconds
+0194.751 (0) Table wp_posts: finishing file(s) (2, 54.1 KB)
+0194.755 (0) Table wp_term_relationships: Total expected rows (approximate): 23
+0194.757 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 23 (uncompressed bytes in this segment=1001) in 0.00 seconds
+0194.762 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0194.767 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 37
+0194.768 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.771 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 42): 37 (uncompressed bytes in this segment=2455) in 0.01 seconds
+0194.776 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0194.782 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0194.784 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=650) in 0.00 seconds
+0194.789 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0194.794 (0) Table wp_terms: Total expected rows (via COUNT): 37
+0194.794 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.797 (0) Table wp_terms: Rows added in this batch (next record: 42): 37 (uncompressed bytes in this segment=2529) in 0.00 seconds
+0194.801 (0) Table wp_terms: finishing file(s) (2, 1.1 KB)
+0194.806 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0194.808 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=525) in 0.00 seconds
+0194.812 (0) Table wp_e_events: finishing file(s) (2, 0.3 KB)
+0194.817 (0) Table wp_prflxtrflds_field_values: Total expected rows (via COUNT): 2
+0194.817 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.819 (0) Table wp_prflxtrflds_field_values: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=775) in 0.00 seconds
+0194.824 (0) Table wp_prflxtrflds_field_values: finishing file(s) (2, 0.4 KB)
+0194.829 (0) Table wp_prflxtrflds_fields_id: Total expected rows (via COUNT): 2
+0194.830 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.831 (0) Table wp_prflxtrflds_fields_id: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=990) in 0.00 seconds
+0194.836 (0) Table wp_prflxtrflds_fields_id: finishing file(s) (2, 0.5 KB)
+0194.840 (0) Table wp_prflxtrflds_fields_meta: Total expected rows (via COUNT): 2
+0194.841 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.842 (0) Table wp_prflxtrflds_fields_meta: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=863) in 0.00 seconds
+0194.847 (0) Table wp_prflxtrflds_fields_meta: finishing file(s) (2, 0.5 KB)
+0194.851 (0) Table wp_prflxtrflds_roles_and_fields: Total expected rows (approximate): 12
+0194.854 (0) Table wp_prflxtrflds_roles_and_fields: Rows added in this batch (next record: 1000): 12 (uncompressed bytes in this segment=980) in 0.00 seconds
+0194.859 (0) Table wp_prflxtrflds_roles_and_fields: finishing file(s) (2, 0.4 KB)
+0194.864 (0) Table wp_prflxtrflds_roles_id: Total expected rows (via COUNT): 6
+0194.865 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.867 (0) Table wp_prflxtrflds_roles_id: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=899) in 0.00 seconds
+0194.871 (0) Table wp_prflxtrflds_roles_id: finishing file(s) (2, 0.5 KB)
+0194.876 (0) Table wp_prflxtrflds_user_field_data: Total expected rows (via COUNT): 20
+0194.877 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.878 (0) Table wp_prflxtrflds_user_field_data: Rows added in this batch (next record: 22): 20 (uncompressed bytes in this segment=1254) in 0.00 seconds
+0194.883 (0) Table wp_prflxtrflds_user_field_data: finishing file(s) (2, 0.6 KB)
+0194.888 (0) Table wp_prflxtrflds_user_roles: Total expected rows (via COUNT): 11
+0194.888 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.890 (0) Table wp_prflxtrflds_user_roles: Rows added in this batch (next record: 11): 11 (uncompressed bytes in this segment=651) in 0.00 seconds
+0194.894 (0) Table wp_prflxtrflds_user_roles: finishing file(s) (2, 0.4 KB)
+0194.901 (0) Table wp_xyz_ips_short_code: Total expected rows (via COUNT): 3
+0194.902 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.903 (0) Table wp_xyz_ips_short_code: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=10444) in 0.01 seconds
+0194.909 (0) Table wp_xyz_ips_short_code: finishing file(s) (2, 1.4 KB)
+0194.910 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\wamp64\www\wordpress/wp-content/updraft/backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db.gz (line 1924, C:\wamp64\www\wordpress\wp-content\plugins\updraftplus\backup.php)
+0194.912 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_options.table.tmpr1275.gz (1/21/fopen): adding to final database dump
+0194.929 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_options.table.gz (2/21/fopen): adding to final database dump
+0194.931 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_users.table.tmpr12.gz (3/21/fopen): adding to final database dump
+0194.932 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_users.table.gz (4/21/fopen): adding to final database dump
+0194.932 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_usermeta.table.tmpr186.gz (5/21/fopen): adding to final database dump
+0194.934 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_usermeta.table.gz (6/21/fopen): adding to final database dump
+0194.934 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_commentmeta.table.tmpr0.gz (7/21/fopen): adding to final database dump
+0194.935 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_commentmeta.table.gz (8/21/fopen): adding to final database dump
+0194.936 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_comments.table.tmpr2.gz (9/21/fopen): adding to final database dump
+0194.937 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_comments.table.gz (10/21/fopen): adding to final database dump
+0194.938 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_links.table.tmpr0.gz (11/21/fopen): adding to final database dump
+0194.939 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_links.table.gz (12/21/fopen): adding to final database dump
+0194.940 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_postmeta.table.tmpr1213.gz (13/21/fopen): adding to final database dump
+0194.941 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_postmeta.table.gz (14/21/fopen): adding to final database dump
+0194.942 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_posts.table.tmpr368.gz (15/21/fopen): adding to final database dump
+0194.945 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_posts.table.gz (16/21/fopen): adding to final database dump
+0194.946 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_term_relationships.table.tmpr100001.gz (17/21/fopen): adding to final database dump
+0194.947 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_term_relationships.table.gz (18/21/fopen): adding to final database dump
+0194.947 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_term_taxonomy.table.tmpr43.gz (19/21/fopen): adding to final database dump
+0194.948 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_term_taxonomy.table.gz (20/21/fopen): adding to final database dump
+0194.949 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_termmeta.table.tmpr0.gz (21/21/fopen): adding to final database dump
+0194.950 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_termmeta.table.gz (22/21/fopen): adding to final database dump
+0194.951 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_terms.table.tmpr43.gz (23/21/fopen): adding to final database dump
+0194.952 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_terms.table.gz (24/21/fopen): adding to final database dump
+0194.953 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_e_events.table.tmpr0.gz (25/21/fopen): adding to final database dump
+0194.954 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_e_events.table.gz (26/21/fopen): adding to final database dump
+0194.954 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_prflxtrflds_field_values.table.tmpr3.gz (27/21/fopen): adding to final database dump
+0194.955 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_prflxtrflds_field_values.table.gz (28/21/fopen): adding to final database dump
+0194.956 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_prflxtrflds_fields_id.table.tmpr3.gz (29/21/fopen): adding to final database dump
+0194.957 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_prflxtrflds_fields_id.table.gz (30/21/fopen): adding to final database dump
+0194.958 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_prflxtrflds_fields_meta.table.tmpr4.gz (31/21/fopen): adding to final database dump
+0194.959 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_prflxtrflds_fields_meta.table.gz (32/21/fopen): adding to final database dump
+0194.960 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_prflxtrflds_roles_and_fields.table.tmpr1001.gz (33/21/fopen): adding to final database dump
+0194.961 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_prflxtrflds_roles_and_fields.table.gz (34/21/fopen): adding to final database dump
+0194.961 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_prflxtrflds_roles_id.table.tmpr7.gz (35/21/fopen): adding to final database dump
+0194.962 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_prflxtrflds_roles_id.table.gz (36/21/fopen): adding to final database dump
+0194.963 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_prflxtrflds_user_field_data.table.tmpr23.gz (37/21/fopen): adding to final database dump
+0194.964 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_prflxtrflds_user_field_data.table.gz (38/21/fopen): adding to final database dump
+0194.965 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_prflxtrflds_user_roles.table.tmpr12.gz (39/21/fopen): adding to final database dump
+0194.966 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_prflxtrflds_user_roles.table.gz (40/21/fopen): adding to final database dump
+0194.967 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_xyz_ips_short_code.table.tmpr4.gz (41/21/fopen): adding to final database dump
+0194.968 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db-table-wp_xyz_ips_short_code.table.gz (42/21/fopen): adding to final database dump
+0194.972 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db.gz: finished writing out complete database file (531.3 KB)
+0194.984 (0) Total database tables backed up: 21 (backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db.gz, size: 544185, sha1: d8605e7922ef2a353359045206289bb4e2bdcc3f, sha256: bd23bf9a9894c9d64ea6ad22f0f46e80ee2217996037be9df5349f99edadbb18)
+0194.990 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip: plugins: This file has already been successfully uploaded
+0194.991 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip: themes: This file has already been successfully uploaded
+0194.992 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-uploads.zip: uploads: This file has already been successfully uploaded
+0194.992 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-others.zip: others: This file has already been successfully uploaded
+0194.993 (0) backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db.gz: db: This file has not yet been successfully uploaded: will queue
+0194.994 (0) Saving backup history. Total backup size: 70.6 MB
+0194.997 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0194.999 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0195.001 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-8a1dc92c5f2351e53b9247fb483379fc)
+0195.354 (0) Google Drive: quota usage: used=5705.3 MB, total=15360 MB, available=9654.7 MB
+0195.355 (0) Google Drive: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db.gz: Attempting to upload to Google Drive (into folder id: 1xZ5CRPUgion3lpQ6x895qJ3OquDc8D7w)
+0197.917 (0) Googledrive chunked upload: 100 % uploaded
+0197.920 (0) Google Drive: OK: Archive backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db.gz uploaded in 2.56 seconds
+0197.921 (0) Recording as successfully uploaded: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db.gz
+0197.924 (0) Deleting local file: backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-db.gz: OK
+0197.926 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=7, retain_db=7
+0197.928 (0) Number of backup sets in history: 2; groups (db): 1
+0197.929 (0) Examining (for databases) backup set with group_id=0, nonce=3d703d0c81c4, datestamp=1682276922 (Apr 23 2023 19:08:42)
+0197.929 (0) This backup set is the backup set just made, so will not be deleted.
+0197.929 (0) Examining (for databases) backup set with group_id=0, nonce=77ca3d15d083, datestamp=1682275855 (Apr 23 2023 18:50:55)
+0197.929 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0197.930 (0) Number of backup sets in history: 2; groups (files): 1
+0197.931 (0) Examining (for files) backup set with nonce=3d703d0c81c4, datestamp=1682276922 (Apr 23 2023 19:08:42)
+0197.931 (0) This backup set is the backup set just made, so will not be deleted.
+0197.932 (0) This backup set is the backup set just made, so will not be deleted.
+0197.932 (0) This backup set is the backup set just made, so will not be deleted.
+0197.932 (0) This backup set is the backup set just made, so will not be deleted.
+0197.933 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0197.933 (0) Examining (for files) backup set with nonce=77ca3d15d083, datestamp=1682275855 (Apr 23 2023 18:50:55)
+0197.933 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0197.934 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0197.936 (0) Resume backup (3d703d0c81c4, 0): finish run
+0197.938 (0) Decremented the semaphore (fd) by 1
+0197.938 (0) Semaphore (fd) unlocked
+0197.939 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0197.942 (0) Deleting zip manifest (backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-plugins.zip.list.tmp)
+0197.943 (0) Deleting zip manifest (backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-themes.zip.list.tmp)
+0197.945 (0) Deleting zip manifest (backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-uploads.zip.list.tmp)
+0197.946 (0) Deleting zip manifest (backup_2023-04-23-1908_Artificial_Intelligence_Team__3d703d0c81c4-others.zip.list.tmp)
+0197.947 (0) No email will/can be sent - the user has not configured an email address.
+0197.948 (0) The backup apparently succeeded and is now complete

@@ -1,0 +1,633 @@
+body.users_page_wpum-custom-fields,
+body.users_page_wpum-registration-forms,
+body.users_page_wpum-roles {
+
+	.wp-heading-inline {
+		img {
+			width: 26px;
+			float: left;
+			padding-right: 15px;
+			margin-top: -6px;
+		}
+	}
+
+	#wpum-add-field-group, #wpum-add-form, #wpum-add-role {
+		span.dashicons {
+			width: 16px;
+			height: 16px;
+			font-size: 16px;
+			vertical-align: inherit;
+			position: relative;
+			top: 3px;
+			margin-right: 2px;
+			color: #0071a1;
+		}
+	}
+
+	.wpum-icon-button {
+		&.circular {
+			padding: 4px !important;
+			border-radius: 9999px !important;
+		}
+
+		span.dashicons {
+			width: 16px;
+			height: 16px;
+			font-size: 16px;
+			vertical-align: inherit;
+			position: relative;
+			top: 3px;
+		}
+	}
+
+	.order-column {
+		width: 30px;
+		border-right: 1px solid #e1e1e1;
+		text-align: center !important;
+	}
+
+	.order-anchor {
+		border-right: 1px solid #e1e1e1;
+		text-align: center !important;
+	}
+
+	.small-column {
+		width: 100px;
+	}
+
+	.wpum-registration-forms-list, .wpum-roles-list {
+		.delete-btn {
+			margin-top: 5px;
+		}
+		.row-actions > span:not(:first-child) {
+			padding-left: 3px;
+			margin-left: 3px;
+			border-left: 2px solid currentColor;
+		}
+	}
+
+	.wpum-fields-groups-table, .wpum-registration-forms-table, .wpum-roles-table {
+		tbody {
+			tr {
+				&:hover {
+					background: #f5f5f5;
+				}
+			}
+		}
+
+		.button {
+			margin: 3px 5px 3px 0;
+			max-width: 100%;
+			overflow: hidden;
+			white-space: nowrap;
+			text-overflow: ellipsis;
+
+			&:last-child {
+				margin-right: 0;
+			}
+
+			span.dashicons {
+				position: relative;
+				top: 3px;
+				margin-right: 3px;
+			}
+
+			&.delete-btn {
+				&:hover {
+					span.dashicons {
+						color: red;
+					}
+				}
+			}
+		}
+
+		.dashicons-yes {
+			color: green;
+		}
+
+		.align-middle {
+			vertical-align: middle;
+		}
+
+		td {
+			vertical-align: middle;
+			padding: 12px 10px;
+		}
+
+		.spinner {
+			margin: 0;
+			float: none !important;
+		}
+	}
+
+	#wpum-fields-editor-wrapper {
+		.vue-wp-notice {
+			margin-right: 0;
+			margin-bottom: 20px;
+		}
+	}
+
+	.sortable-ghost {
+		background: #fffecc;
+	}
+
+	.sortable-chosen {
+		background: #fffecc;
+	}
+
+	.spinner {
+		float: none;
+		margin-top: -8px;
+	}
+
+	.dashicons-menu {
+		&:hover {
+			cursor: move;
+			color: #0073aa;
+		}
+	}
+
+	.v--modal-overlay {
+		background: rgba(0, 0, 0, 0.7);
+		z-index: 99999;
+	}
+
+	.v--modal {
+		box-shadow: 0 5px 15px rgba(0, 0, 0, .7);
+		background: #fcfcfc;
+		border-radius: 0;
+	}
+
+	.media-modal-content {
+		min-height: initial;
+		background: #efefef;
+	}
+
+	.media-frame-title,
+	.media-frame-content,
+	.media-frame-toolbar {
+		left: 0;
+	}
+
+	.media-frame-title {
+		.dashicons {
+			display: inline-block;
+			margin-top: 16px;
+			margin-right: 10px;
+
+			&.dashicons-warning {
+				color: green;
+			}
+		}
+	}
+
+	.media-frame-content {
+		top: 50px;
+		padding: 10px 16px;
+		font-size: 13px;
+		line-height: 1.6em;
+	}
+
+	.wpum-dialog {
+		.spinner {
+			float: none;
+			margin-top: 20px !important;
+		}
+	}
+
+	.dialog-form {
+		padding-top: 10px;
+
+		label {
+			display: inline-block;
+			font-weight: bold;
+			color: #000;
+			margin-bottom: 5px;
+		}
+
+		input,
+		textarea {
+			display: block;
+			width: 100%;
+			margin-bottom: 15px;
+			font-size: 13px !important;
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+	}
+
+	#wpum-fields-editor-list {
+		.vue-wp-notice {
+			margin-right: 0 !important;
+			margin-top: 20px;
+		}
+	}
+
+}
+
+#create-field-dialog {
+	.media-frame-router {
+		left: 10px;
+	}
+
+	.media-frame-content {
+		top: 84px;
+		padding: 0;
+	}
+
+	.media-router {
+		a {
+			&:hover {
+				cursor: pointer;
+			}
+		}
+	}
+
+	form {
+		padding: 20px 15px;
+		border-bottom: 1px solid #ddd;
+
+		label {
+			display: block;
+			font-weight: 500;
+			margin-bottom: 0.5em;
+			font-size: 18px;
+		}
+
+		input {
+			padding: 3px 8px;
+			font-size: 1.7em;
+			line-height: 100%;
+			height: 1.7em;
+			width: 100%;
+			outline: 0;
+			margin: 0 0 3px;
+			background-color: #fff;
+		}
+	}
+
+	ul.attachments {
+		padding: 20px 10px;
+
+		.attachment {
+			width: 16.6%;
+			padding: 10px;
+		}
+
+		.dashicons {
+			font-size: 48px;
+			height: 48px;
+			width: 48px;
+			margin-top: -20px;
+		}
+
+		.check {
+			&:hover {
+				.media-modal-icon {
+					background-position: -21px 0;
+				}
+			}
+		}
+
+		.locked-type {
+			position: absolute;
+			top: 0;
+			right: 0;
+			span {
+				margin-top: 20px;
+				height: 20px;
+				width: 20px;
+				font-size: 30px;
+				margin-right: 25px;
+				color: #016afe;
+			}
+		}
+	}
+
+	button:disabled {
+		cursor: not-allowed
+	}
+}
+
+.table-fixed {
+	display: table;
+	height: 100%;
+	table-layout: fixed;
+	width: 100%;
+
+	.table-cell {
+		display: table-cell;
+		height: 100%;
+		text-align: center;
+		vertical-align: middle;
+		width: 100%;
+	}
+}
+
+#edit-field-dialog {
+	&.media-modal-content {
+		background: #f3f3f3
+	}
+
+	.media-frame-title,
+	.media-frame-content {
+		left: 200px;
+		padding: 0;
+
+		.spinner {
+			margin-left: 20px;
+		}
+
+		.vue-wp-notice {
+			margin-top: 0 !important;
+		}
+	}
+
+	.vue-form-generator {
+		.form-group {
+			padding: 20px 20px;
+			border-bottom: 1px solid #f3f3f3;
+
+			label {
+				display: block;
+				font-weight: 600;
+				margin-bottom: 0.4em;
+			}
+
+			input[type="text"],
+			textarea {
+				box-sizing: border-box;
+				width: 100%;
+				font-size: 13px;
+			}
+
+			select {
+				width: 100%;
+				height: 30px;
+				font-size: 13px;
+
+				option:first-child {
+					display: none;
+				}
+			}
+
+			&.field-checkbox {
+				.field-wrap {
+					float: left;
+				}
+			}
+
+			.hint {
+				font-size: 12px;
+				color: #717171;
+			}
+
+			&.error {
+				margin: 0;
+				border: none;
+				border-bottom: 1px solid #f3f3f3;
+				box-shadow: none;
+			}
+
+			.errors {
+				background: #fbeaea;
+				border-left: 4px solid #dc3232;
+				margin: 5px 0px 2px 0;
+				padding: 1px 12px;
+
+				span {
+					display: block;
+					margin: 0.5em 0;
+					padding: 2px;
+					font-weight: bold;
+				}
+			}
+		}
+	}
+
+}
+
+.wpum-registration-forms-list {
+	.spinner {
+		margin: 0 !important;
+	}
+
+	table .dashicons {
+		color: #00be28;
+	}
+
+	table .button .dashicons {
+		color: #0071a1;
+	}
+}
+
+.wpum-registration-form {
+	h3 .dashicons {
+		width: 15px;
+		height: 15px;
+		margin-right: 10px;
+		display: inline-block;
+		font-size: 18px;
+		vertical-align: bottom;
+	}
+}
+
+.wpum-role-wrapper {
+	margin: 1rem 0;
+}
+
+.wpum-roles-table {
+	.col-stat, .col-default {
+		width: 100px;
+	}
+}
+
+.wpum-role-caps-wrapper {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: normal;
+	align-items: normal;
+	align-content: normal;
+
+	ul {
+		display: block;
+		flex-grow: 0;
+		flex-shrink: 1;
+		flex-basis: auto;
+		align-self: auto;
+		order: 0;
+		margin: 0;
+
+		li {
+			padding: 0.5rem 1rem;
+			border: 1px solid #ccd0d4;
+			border-right: none;
+			margin: 0;
+			border-bottom: none;
+
+			&:last-child {
+				border-bottom: 1px solid #ccd0d4;
+			}
+
+			&.active, &:hover {
+				background: #fff;
+				cursor: pointer;
+			}
+
+			a {
+				text-decoration: none;
+
+				&:focus {
+					box-shadow: none;
+					outline: none;
+				}
+
+				span.label {
+					font-size: 14px;
+					padding-left: 10px;
+				}
+			}
+		}
+	}
+
+	.wpum-caps {
+		display: block;
+		flex-grow: 1;
+		flex-shrink: 1;
+		flex-basis: auto;
+		align-self: auto;
+		order: 0;
+		background: #fff;
+		border: 1px solid #ccd0d4;
+
+		.wp-list-table {
+			border: none;
+			border-bottom: 1px solid #ccd0d4;
+		}
+		.widefat th {
+			padding: 8px 16px 9px;
+			font-weight: bold;
+		}
+		.widefat td {
+			padding: 12px 16px;
+		}
+
+		.button {
+			margin: 1rem;
+		}
+	}
+}
+
+.cap-counts {
+	float: right;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 3rem;
+}
+
+.dragArea {
+	min-height: 50px;
+}
+
+.droppable-fields {
+	min-height: 50px;
+	border: 2px dashed #eee;
+	padding: 20px;
+}
+
+.available-fields-holder {
+	height: 400px;
+	overflow: hidden;
+	overflow-y: visible;
+	padding: 20px;
+	border: 2px dashed #ccc;
+}
+
+.empty-fields {
+	margin: 20px;
+}
+
+.widgets-holder-wrap {
+	.vue-wp-notice {
+		margin: 0;
+		font-weight: bold;
+	}
+
+	.settings-wrapper {
+		padding: 0 8px;
+
+		label {
+			display: block;
+			font-weight: 600;
+			margin-bottom: 0.3em;
+		}
+
+		select {
+			width: 100%;
+		}
+	}
+
+	#publishing-action {
+		.spinner {
+			margin-top: 5px;
+		}
+	}
+}
+
+
+body.users_page_wpum-registration-forms {
+	.wpum-registration-form {
+		.widget-liquid-right {
+			width: 38%;
+		}
+
+		.widget-liquid-left {
+			width: 58%;
+		}
+
+		.optionskit-form-wrapper {
+			padding: 0;
+		}
+
+		#optionskit-navigation {
+			margin: 0 0 0 -22px;
+			width: calc(100% + 42px);
+		}
+
+
+		.optionskit-navigation-wrapper {
+			margin: 20px 0;
+		}
+
+		#optionskit-navigation a.router-link-active {
+			color: inherit;
+			border: none;
+		}
+
+		#optionskit-navigation a.router-link-exact-active {
+			box-shadow: none;
+			border-bottom: 4px solid #0085ba;
+			color: #0085ba;
+		}
+	}
+
+	.registration-form-settings {
+		.registration-form-setting {
+			margin-bottom: 10px;
+
+			.formit-checkbox-wrapper {
+				width: 20px;
+				float: left;
+				margin: 5px 10px 0 0;
+			}
+
+			p.description {
+				padding-bottom: 0;
+			}
+
+		}
+	}
+}

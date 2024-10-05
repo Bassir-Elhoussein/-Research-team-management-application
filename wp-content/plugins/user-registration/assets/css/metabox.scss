@@ -1,0 +1,60 @@
+/**
+ * MetaBox styling begins.
+ */
+
+#urcr-meta-box,
+#user_registration_frontend_listing_filter,
+#user_registration_frontend_listing_general,
+#user_registration_frontend_listing_search,
+#user_registration_frontend_listing_view_profile,
+#user_registration_frontend_listing_pagination,
+#user_registration_frontend_listing_shortcode {
+	.select2-container {
+		width: 100% !important;
+		.select2-selection--multiple {
+			border-color: #dee0e9 !important;
+		}
+	}
+	.meta-box-sortables {
+		select,
+		input[type="text"],
+		input[type="email"] {
+			width: 100%;
+		}
+		select,
+		input {
+			border-color: #dee0e9;
+		}
+	}
+	p.description {
+		color: grey;
+		font-style: italic;
+		font-size: 12px;
+	}
+	.ur-metabox-field-row {
+		display: flex;
+		flex-wrap: nowrap;
+		padding: 15px 0px 15px 0px;
+		color: #1d2327;
+		.ur-metabox-field-label {
+			flex: 0 0 35%;
+			label {
+				font-weight: 600;
+			}
+			@media (max-width: 767px) {
+				width: 100%;
+				margin-bottom: 10px;
+			}
+		}
+		.ur-metabox-field-detail {
+			flex: 0 0 65%;
+			@media (max-width: 767px) {
+				width: 100%;
+			}
+		}
+	}
+}
+
+/**
+ * MetaBox styling ends.
+ */

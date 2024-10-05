@@ -1,0 +1,5511 @@
+# Translation of Plugins - UsersWP &#8211; Front-end login form, User Registration, User Profile &amp; Members Directory plugin for WordPress - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - UsersWP &#8211; Front-end login form, User Registration, User Profile &amp; Members Directory plugin for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-21 15:56:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - UsersWP &#8211; Front-end login form, User Registration, User Profile &amp; Members Directory plugin for WordPress - Stable (latest release)\n"
+
+#: admin/settings/class-formbuilder.php:973
+msgid "Select Language"
+msgstr "Choisir la langue"
+
+#: admin/settings/class-formbuilder.php:974
+msgid "Adds a input for user language selection."
+msgstr "Ajoute une entrée pour la sélection de la langue de l’utilisateur/utilisatrice."
+
+#: admin/settings/class-formbuilder.php:978
+msgid "Site Language"
+msgstr "Langue du site"
+
+#: admin/settings/class-formbuilder.php:2169
+msgid "Available translation languages list will be shown"
+msgstr "La liste des langues de traduction disponibles sera affichée"
+
+#: includes/class-forms.php:4212
+msgid "Site Default"
+msgstr "Site par défaut"
+
+#: admin/settings/class-uwp-settings-general.php:198
+msgid "Enable Login Lightbox Redirect"
+msgstr "Activer la redirection de la fenêtre modale de connexion"
+
+#: admin/settings/class-uwp-settings-general.php:199
+msgid "When enabled the login in lightbox will follow login redirect settings."
+msgstr "SI l’option est activée, la connexion dans la fenêtre modale suit les réglages de redirection de connexion."
+
+#: includes/class-import-export.php:587
+msgid "Row - %s Error: Skipped due to invalid/no data."
+msgstr "Ligne - Erreur %s : ignorée en raison de données non valides/inexistantes."
+
+#: includes/class-import-export.php:649
+msgid "Row - %s Error: User could not be created."
+msgstr "Ligne - erreur %s : impossible de créer l’utilisateur/utilisatrice."
+
+#: includes/class-import-export.php:675
+msgid "Row - %s Error: %s"
+msgstr "Ligne - Erreur %s : %s"
+
+#: admin/settings/class-formbuilder.php:2491
+msgid "Lets you use this field as sorting in the users listing page, set from user sorting tab above."
+msgstr "Vous permet d’utiliser ce champ comme tri dans la page de liste des utilisateurs, définie à partir de l’onglet De tri des utilisateurs/utilisatrices ci-dessus."
+
+#: admin/settings/class-formbuilder.php:2492
+msgid "Include this field in sorting options:"
+msgstr "Invlure ce champ dans les options de tri :"
+
+#: admin/settings/class-uwp-settings-emails.php:414
+msgid "Account new email activation email"
+msgstr "Nouvel e-mail d’activation de compte"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:110
+msgid "User Sorting"
+msgstr "Tri des utilisateurs/utilisatrices"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:130
+msgid "Available sorting options for users listing and search results"
+msgstr "Options de tri disponibles pour la liste des utilisateurs/utilisatrices et les résultats de recherche"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:151
+msgid "Click on any box below to make it appear in the sorting option dropdown on users listing and search results. To make a field available here, go to account tab and expand any field from selected fields panel and tick the checkbox saying 'Include this field in sorting options'."
+msgstr "Cliquer sur n’importe quelle case ci-dessous pour la faire apparaître dans la liste déroulante des options de tri sur la liste des utilisateurs/utilisatrices et les résultats de recherche. Pour rendre un champ disponible ici, aller dans l’onglet Compte et développer n’importe quel champ du panneau des champs choisis et cocher la case « Inclure ce champ dans les options de tri »."
+
+#: admin/settings/class-uwp-settings-user-sorting.php:172
+msgid "List of fields that will appear in users listing and search results sorting option dropdown box."
+msgstr "Liste des champs qui apparaîtront dans la liste déroulante des utilisateurs/utilisatrices et la liste déroulante des options de tri des résultats de recherche."
+
+#: admin/settings/class-uwp-settings-user-sorting.php:193
+msgid "Click to expand and view field related settings. You may drag and drop to arrange fields order in sorting option dropdown box on users listing and search results page."
+msgstr "Cliquez pour développer et afficher les réglages liés au champ. Vous pouvez glisser-déposer pour organiser l’ordre des champs dans la zone de liste déroulante des options de tri sur la liste des utilisateurs/utilisatrices et la page de résultats de recherche."
+
+#: admin/settings/class-uwp-settings-user-sorting.php:261
+msgid "Sort by new user registration in descending order"
+msgstr "Trier par enregistrement de nouvel utilisateur/utilisatrice dans l’ordre décroissant"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:271
+msgid "Sort alphabetically by display name in ascending order"
+msgstr "Trier par ordre alphabétique par nom complet dans l’ordre croissant"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:281
+msgid "Sort alphabetically by first name in ascending order"
+msgstr "Trier par ordre alphabétique par prénom dans l’ordre croissant"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:291
+msgid "Sort alphabetically by last name in ascending order"
+msgstr "Trier par ordre alphabétique par nom dans l’ordre croissant"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:523
+msgid "This is the text used for the sort option."
+msgstr "Ceci est le texte utilisé pour l’option de tri."
+
+#: admin/settings/class-uwp-settings-user-sorting.php:536
+msgid "Select the sort direction: (A-Z or Z-A)."
+msgstr "Choisir le sens de tri : (A-Z ou Z-A)."
+
+#: admin/settings/class-uwp-settings-user-sorting.php:537
+msgid "Ascending or Descending"
+msgstr "Croissant ou décroissant"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:542
+msgid "Ascending"
+msgstr "Croissant"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:543
+msgid "Descending"
+msgstr "Décroissant"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:553
+msgid "This sets the option as the overall default sort value, there can be only one."
+msgstr "Cela définit l’option comme la valeur de tri par défaut globale, il peut y en avoir une seule."
+
+#: admin/settings/class-uwp-settings-user-sorting.php:554
+msgid "Default sort?"
+msgstr "Tri par défaut ?"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:569
+msgid "Set if this sort option is active or not, if not it will not be shown to users."
+msgstr "Choisir si ce type de tri est actif ou pas, si inactif ce ne sera pas montré aux utilisateurs."
+
+#: admin/settings/class-uwp-settings-user-sorting.php:570
+msgid "Is active?"
+msgstr "Est-il actif ?"
+
+#: includes/class-forms.php:2062
+msgid "Account updated successfully. The new address will become active once you confirm via activation link sent to your new email."
+msgstr "Le compte a été mis à jour avec succès. La nouvelle adresse deviendra active après confirmation par le lien d’activation envoyé à votre nouvelle adresse mail."
+
+#: includes/class-notices.php:67
+msgid "Email updated successfully."
+msgstr "Email mit à jour avec succès."
+
+#: admin/settings/class-uwp-settings-general.php:574
+msgid "Bio Length"
+msgstr "Longueur de la biographie"
+
+#: admin/settings/class-uwp-settings-general.php:575
+msgid "Author bio word limit in Author box."
+msgstr "Limite de mots de la biographie de l’auteur dans la zone Auteur."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:417
+#: includes/class-profile.php:1014
+msgid "User Comments"
+msgstr "Commentaires utilisateurs/utilisatrices"
+
+#: widgets/profile-header.php:70
+msgid "Disable Greedy Menu for post counts"
+msgstr "Désactiver le menu pour le compteur de publications"
+
+#: widgets/profile-header.php:71 widgets/profile-tabs.php:58
+#: widgets/profile.php:44 widgets/user-post-counts.php:43
+msgid "Greedy menu prevents a large menu falling onto another line by adding a dropdown select."
+msgstr "Greedy menu évite qu’un grand menu tombe sur une autre ligne en ajoutant une sélection déroulante."
+
+#: widgets/profile-tabs.php:57 widgets/profile.php:43
+#: widgets/user-post-counts.php:42
+msgid "Disable Greedy Menu"
+msgstr "Désactiver le menu gourmand"
+
+#: upgrade.php:71
+msgid "First Name (A-Z)"
+msgstr "Prénom (A-Z)"
+
+#: upgrade.php:81
+msgid "First Name (Z-A)"
+msgstr "Prénom (Z-A)"
+
+#: upgrade.php:91
+msgid "Last Name (A-Z)"
+msgstr "Nom de famille (A-Z)"
+
+#: upgrade.php:101
+msgid "Last Name (Z-A)"
+msgstr "Nom de famille (Z-A)"
+
+#: admin/class-admin.php:967
+msgid "Security nonce failed. Please try again."
+msgstr "Le nonce de sécurité a échoué. Veuillez réessayer."
+
+#: admin/settings/class-uwp-settings-general.php:223
+msgid "Register Link Title"
+msgstr "Titre du lien d’inscription"
+
+#: admin/settings/class-uwp-settings-general.php:224
+msgid "Enter the register link title."
+msgstr "Saisir le titre du lien d’inscription."
+
+#: admin/settings/class-uwp-settings-general.php:233
+msgid "Forgot Password Link Title"
+msgstr "Titre du lien de Mot de passe oublié"
+
+#: admin/settings/class-uwp-settings-general.php:234
+msgid "Enter the forgot password title."
+msgstr "Saisir le titre du mot de passe oublié."
+
+#: admin/settings/class-uwp-settings-general.php:295
+msgid "Login Link Title"
+msgstr "Titre du lien de connexion"
+
+#: admin/settings/class-uwp-settings-general.php:296
+msgid "Enter the login link title."
+msgstr "Saisir le titre du lien de connexion."
+
+#: admin/settings/class-uwp-settings-general.php:305
+msgid "Profile Link Title"
+msgstr "Titre du lien de profil"
+
+#: admin/settings/class-uwp-settings-general.php:306
+msgid "Enter the profile link title."
+msgstr "Saisir le titre du lien de profil."
+
+#: admin/settings/class-uwp-settings-general.php:315
+msgid "Account Link Title"
+msgstr "Titre du lien du compte"
+
+#: admin/settings/class-uwp-settings-general.php:316
+msgid "Enter the account link title."
+msgstr "Saisir le titre du lien du compte."
+
+#: admin/settings/class-uwp-settings-redirects.php:28
+msgid "Redirects"
+msgstr "Redirections"
+
+#: admin/settings/class-uwp-settings-general.php:249
+msgid "Restrict wp-admin"
+msgstr "Restriction wp-admin"
+
+#: admin/settings/class-uwp-settings-general.php:250
+msgid "The user roles that should be restricted from accessing the wp-admin area."
+msgstr "Rôles d’utilisateur/utilisatrice qui ne doivent pas accéder à la zone wp-admin."
+
+#: admin/settings/class-uwp-settings-redirects.php:69
+msgid "Role based redirects"
+msgstr "Redirections basées sur les rôles"
+
+#: admin/settings/class-uwp-settings-redirects.php:104
+msgid "Login redirect based on user role will not work if \"Last User Page\" is set in General->Login->Login Redirect Page."
+msgstr "La redirection de connexion basée sur le rôle de l’utilisateur/utilisatrice ne fonctionnera pas si « Dernière page utilisateur » est défini dans La page de redirection de connexion >> De connexion."
+
+#: admin/settings/class-uwp-settings-redirects.php:110
+msgid "Role based redirect settings"
+msgstr "Réglages de redirection basés sur les rôles"
+
+#: admin/settings/class-uwp-settings-redirects.php:154
+msgid "Hide Adminbar"
+msgstr "Cacher la barre d’administration"
+
+#: admin/settings/class-uwp-settings-redirects.php:155
+msgid "Hide admin bar from frontend for this user role."
+msgstr "Masquer la barre d’administration de l’interface pour ce rôle utilisateur/utilisatrice."
+
+#: widgets/button-group.php:44 widgets/profile-header.php:54
+#: widgets/user-cover.php:55 widgets/user-meta.php:45 widgets/user-title.php:51
+msgid "Leave blank to use current user ID or use post_author for current post author ID. For profile page it will take displayed user ID. Input specific user ID for other pages."
+msgstr "Laissez vide pour utiliser l’ID utilisateur/utilisatrice actuel. Pour la page de profil, il faudra l’ID utilisateur/utilisatrice affiché. Saisissez un ID utilisateur/utilisatrice spécifique pour les autres pages."
+
+#: admin/settings/class-uwp-settings-general.php:112
+msgid "Lightbox Form(s)"
+msgstr "Formulaire(s) en fenêtre modale"
+
+#: admin/settings/class-uwp-settings-general.php:113
+msgid "Choose form(s) to display in lighbox. You can select multiple forms."
+msgstr "Choisir le(s) formulaire(s) à afficher dans fenêtre modale. Vous pouvez en choisir plusieurs."
+
+#: includes/class-uwp-seo.php:101
+msgid "Meta Description Length"
+msgstr "Longueur de la méta description"
+
+#: widgets/register.php:42
+msgid "Display form having IDs"
+msgstr "Afficher le formulaire ayant des ID"
+
+#: widgets/register.php:43
+msgid "Enter comma separeted IDs to show limited forms"
+msgstr "Saisir des ID séparés par des virgules pour afficher des formulaires limités"
+
+#: admin/class-admin.php:614
+msgid "UsersWP Account Details"
+msgstr "Détails du compte UsersWP"
+
+#: admin/class-admin.php:830
+msgid "View UsersWP Documentation"
+msgstr "Afficher la documentation usersWP"
+
+#: admin/class-admin.php:830
+msgid "Docs"
+msgstr "Documents"
+
+#: admin/class-admin.php:831
+msgid "Visit UsersWP support"
+msgstr "Visitez le support UsersWP"
+
+#: admin/class-admin.php:831
+msgid "Support"
+msgstr "Assistance"
+
+#: admin/class-admin.php:832
+msgid "View translations"
+msgstr "Afficher les traductions"
+
+#: admin/class-admin.php:832
+msgid "Translations"
+msgstr "Traductions"
+
+#: admin/class-admin.php:863
+msgid "Form %d"
+msgstr "Formulaire %d"
+
+#: admin/class-admin.php:907 admin/settings/class-formbuilder.php:293
+#: widgets/register.php:33
+msgid "Form"
+msgstr "Formulaire"
+
+#: admin/settings/class-formbuilder.php:181
+msgid "Existing Fields"
+msgstr "Champs existants"
+
+#: admin/settings/class-formbuilder.php:187
+msgid "Click on field to add it to the form. Existing fields are most used fields in all other forms."
+msgstr "Cliquez sur le champ pour l’ajouter au formulaire. Les champs existants sont les champs les plus utilisés sous toutes les autres formes."
+
+#: admin/settings/class-formbuilder.php:311
+#: admin/settings/class-formbuilder.php:494
+#: admin/settings/class-formbuilder.php:539
+msgid "Select Form:"
+msgstr "Choisir formulaire :"
+
+#: admin/settings/class-formbuilder.php:340
+#: admin/settings/class-formbuilder.php:506
+#: admin/settings/class-formbuilder.php:551
+msgid "%s - #%s"
+msgstr "%s - #%s"
+
+#: admin/settings/class-formbuilder.php:347
+msgid "Form Options"
+msgstr "Options Formulaire"
+
+#: admin/settings/class-formbuilder.php:352
+msgid "Delete Form"
+msgstr "Effacer le formulaire"
+
+#: admin/settings/class-formbuilder.php:357
+msgid "Create Form"
+msgstr "Créer un formulaire"
+
+#: admin/settings/class-formbuilder.php:366
+msgid "Title:"
+msgstr "Titre :"
+
+#: admin/settings/class-formbuilder.php:366
+msgid "Title of the form"
+msgstr "Titre du formulaire"
+
+#: admin/settings/class-formbuilder.php:372
+msgid "User Role to Assign:"
+msgstr "Rôle d’utilisateur/utilisatrice à attribuer :"
+
+#: admin/settings/class-formbuilder.php:372
+msgid "Role to assign when user register via this form."
+msgstr "Rôle à attribuer lors de l’inscription de l’utilisateur/utilisatrice via ce formulaire."
+
+#: admin/settings/class-formbuilder.php:388
+msgid "Registration Action:"
+msgstr "Mesure d’inscription :"
+
+#: admin/settings/class-formbuilder.php:402
+msgid "Redirect Page:"
+msgstr "Page de redirection :"
+
+#: admin/settings/class-formbuilder.php:402
+msgid "Set the page to redirect the user to after signing up."
+msgstr "Définir la page pour rediriger l’utilisateur/utilisatrice vers après l’inscription."
+
+#: admin/settings/class-formbuilder.php:425
+msgid "Custom Redirect URL:"
+msgstr "URL de redirection personnalisée :"
+
+#: admin/settings/class-formbuilder.php:432
+msgid "GDPR Policy Page:"
+msgstr "Page RGPD :"
+
+#: admin/settings/class-formbuilder.php:432
+msgid "Page to link when GDPR policy page custom field added to form. If not set then default setting will be used."
+msgstr "Page à lier lorsque le champ personnalisé de la page de stratégie RGPD est ajouté au formulaire. S’il n’est pas défini, le paramètre par défaut sera utilisé."
+
+#: admin/settings/class-formbuilder.php:448
+msgid "TOS Page:"
+msgstr "Page des CGU :"
+
+#: admin/settings/class-formbuilder.php:448
+msgid "Page to link when Terms and Conditions custom field added to form. If not set then default setting will be used."
+msgstr "Page à lier lorsque le champ personnalisé Conditions générales est ajouté au formulaire. S’il n’est pas défini, le paramètre par défaut sera utilisé."
+
+#: admin/settings/class-formbuilder.php:1933
+msgid "Enter regex expression for HTML5 pattern validation."
+msgstr "Saisir l’expression regex pour la validation du modèle HTML5."
+
+#: admin/settings/class-formbuilder.php:1934
+msgid "Validation pattern:"
+msgstr "Modèle de Validation :"
+
+#: admin/settings/class-formbuilder.php:1953
+msgid "Enter a extra validation message to show to the user if validation fails."
+msgstr "Saisir un message de validation supplémentaire à afficher à l’utilisateur/utilisatrice si la validation échoue."
+
+#: admin/settings/class-formbuilder.php:1954
+msgid "Validation message:"
+msgstr "Message de validation :"
+
+#: includes/class-templates.php:570
+msgid "More"
+msgstr "Plus"
+
+#: widgets/register.php:34
+msgid "Select form."
+msgstr "Chosir le formulaire."
+
+#: widgets/users-loop.php:35 widgets/users.php:43
+msgid "Choose user roles to show in list. All users will display if no role selected."
+msgstr "Choisir les rôles des utilisateurs/utilisatrices à afficher dans la liste. Si aucun rôle n’est sélectionné, tous les utilisateurs/utilisatrices seront affichés."
+
+#: admin/settings/class-uwp-settings-general.php:267
+msgid "Disable WP-2FA"
+msgstr "Désactiver WP-2FA"
+
+#: includes/class-forms.php:1252
+msgid "Failed to create a login nonce."
+msgstr "Impossible de créer une connexion."
+
+#: includes/class-forms.php:1274
+msgid "Please enter the authentication code from your 2FA authentication app below to login:"
+msgstr "Veuillez entrer le code d’authentification de votre application d’authentification 2FA ci-dessous pour vous connecter :"
+
+#: includes/class-forms.php:1281 includes/class-forms.php:1283
+msgid "Authentication Code"
+msgstr "Code d’authentification"
+
+#: includes/class-forms.php:1291 includes/class-forms.php:1317
+#: includes/class-forms.php:1362
+msgid "Log In"
+msgstr "Connexion"
+
+#: includes/class-forms.php:1300
+msgid "Please enter the 2FA verification code sent to your email address to login:"
+msgstr "Veuillez saisir le code de vérification 2FA envoyé à votre adresse électronique pour vous connecter :"
+
+#: includes/class-forms.php:1306 includes/class-forms.php:1308
+msgid "Verification Code"
+msgstr "Code de vérification"
+
+#: includes/class-forms.php:1325
+msgid "Resend Code"
+msgstr "Renvoyer le code"
+
+#: includes/class-forms.php:1351
+msgid "Enter backup code"
+msgstr "Saisir le code de sauvegarde"
+
+#: includes/class-forms.php:1353
+msgid "Backup Code"
+msgstr "Code de sauvegarde"
+
+#: includes/class-forms.php:1368
+msgid "Or, use a backup code."
+msgstr "Ou utilisez un code de sauvegarde."
+
+#: includes/class-forms.php:1395
+msgid "Invalid user data. Please try again."
+msgstr "Données utilisateur/utilisatrice non valides. Veuillez réessayer."
+
+#: includes/class-forms.php:1409
+msgid "Invalid request! Please try again."
+msgstr "Demande non valide ! Veuillez réessayer."
+
+#: includes/class-forms.php:1440 includes/class-forms.php:1463
+msgid "Invalid verification code."
+msgstr "Vérification par e-mail."
+
+#: includes/class-forms.php:1455
+msgid "A new code has been sent."
+msgstr "Un nouveau code a été envoyé."
+
+#: includes/class-forms.php:1478
+msgid "Invalid backup code."
+msgstr "Code de sauvegarde non valide."
+
+#: includes/class-forms.php:1499
+msgid "Validation successful. Redirecting..."
+msgstr "Validation réussie. Redirection..."
+
+#: includes/class-uwp-defaults.php:25
+msgid "[[#site_name#]] Login Details"
+msgstr "[[#site_name#]] Détails de connexion"
+
+#: includes/class-uwp-defaults.php:35
+msgid ""
+"Dear [#user_name#],\n"
+"\n"
+"To set your password, visit the following address:\n"
+"\n"
+"[#reset_link#]\n"
+"\n"
+"You can login here: [#login_url#]\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Cher [#user_name#],\n"
+"\n"
+"Pour définir votre mot de passe, visitez l’adresse suivante :\n"
+"\n"
+"[#reset_link#]\n"
+"\n"
+"Vous pouvez vous connecter ici : [#login_url#]\n"
+"\n"
+"Merci,\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:55
+msgid "[[#site_name#]] New User Registration"
+msgstr "[[#site_name#]] Nouvel enregistrement  utilisateur"
+
+#: includes/class-uwp-defaults.php:65
+msgid ""
+"Dear Admin,\n"
+"\n"
+"New user registration on your site: [#site_name#]\n"
+"\n"
+"Username: [#username#]\n"
+"\n"
+"Email: [#user_email#]\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Cher Admin,\n"
+"\n"
+"Enregistrement d’un nouvel utilisateur/utilisatrice sur votre site : [#site_name#]\n"
+"\n"
+"Nom d’utilisateur : [#username#]\n"
+"\n"
+"Email : [#user_email#]\n"
+"\n"
+"Merci,\n"
+"[#site_name_url#]"
+
+#: includes/helpers/misc.php:574
+msgid "Two-factor Authentication Settings"
+msgstr "Réglages de l’authentification à deux facteurs"
+
+#: includes/helpers/tabs.php:145
+msgid "WP - 2FA"
+msgstr "WP - 2FA"
+
+#: admin/settings/class-uwp-settings-general.php:627
+msgid "Advanced settings"
+msgstr "Réglages avancés"
+
+#: admin/settings/class-uwp-settings-general.php:628
+msgid "Disable advanced toggle, show advanced settings at all times (not recommended)."
+msgstr "Désactiver le basculement avancé, afficher les réglagesavancés à tout moment (non recommandé)."
+
+#: includes/class-forms.php:1846
+msgid "Invalid username."
+msgstr "Nom d’utilisateur/utilisatrice invalide."
+
+#: admin/class-uwp-admin-menus.php:107
+msgid "UsersWP Tools"
+msgstr "Outils UsersWP"
+
+#: admin/class-admin-setup-wizard.php:299
+msgid "Registration is disabled"
+msgstr "Numéro  d’enregistrement"
+
+#: admin/class-admin-setup-wizard.php:303
+msgid "User accounts may be registered"
+msgstr "Les comptes utilisateurs/utilisatrices peuvent être créés"
+
+#: admin/class-admin-setup-wizard.php:307
+msgid "Logged in users may register new sites"
+msgstr "Les utilisateurs/utilisatrices connectés peuvent créer de nouveaux sites"
+
+#: admin/class-admin-setup-wizard.php:311
+msgid "Both sites and user accounts can be registered"
+msgstr "Les sites et les comptes d’utilisateurs/utilisatrices peuvent être enregistrés"
+
+#: admin/class-admin.php:250
+msgid "Are you sure you wish to delete this form?"
+msgstr "Confirmez-vous la suppression de ce formulaire ?"
+
+#: admin/class-admin.php:251
+msgid "Enter register form title"
+msgstr "Inscrire le titre du formulaire d’enregistrement"
+
+#: admin/views/html-admin-page-status.php:12
+msgid "System Status"
+msgstr "État du Système"
+
+#: admin/settings/class-uwp-settings-general.php:635
+msgid "Debugging"
+msgstr "Débogage"
+
+#: admin/settings/class-uwp-settings-general.php:636
+msgid "Show debugging info in the error logs."
+msgstr "Afficher les informations de débogage dans les journaux d’erreurs."
+
+#: admin/settings/class-uwp-settings-general.php:137
+msgid "Username Minimum Length"
+msgstr "Longueur minimale du nom d’utilisateur/utilisatrice"
+
+#: admin/settings/class-uwp-settings-general.php:138
+msgid "Minimum username character limit required for registration."
+msgstr "Limite minimale de caractère de nom d’utilisateur/utilisatrice nécessairee pour l’inscription."
+
+#: widgets/login.php:68 widgets/register.php:68
+msgid "Redirect to:"
+msgstr "Redirection vers :"
+
+#: widgets/login.php:69
+msgid "Enter the url you want to redirect after login."
+msgstr "Saisir l’URL que vous souhaitez afficher après la connexion."
+
+#: widgets/register.php:69
+msgid "Enter the url you want to redirect after register."
+msgstr "Saisir l’URL que vous souhaitez rediriger après vous être inscrit."
+
+#: admin/settings/class-uwp-settings-general.php:482
+msgid "Choose the default layout for users listing page."
+msgstr "Choisir la mise en page par défaut pour les utilisateurs/utilisatrices listant la page."
+
+#: includes/class-forms.php:2453
+msgid "Clear field"
+msgstr "Effacer le champ"
+
+#: includes/class-forms.php:3933
+msgid "I accept the %s %s %s."
+msgstr "J’accepte le %s %s %s."
+
+#: upgrade.php:31
+msgid "Display Name (A-Z)"
+msgstr "Nom d’affichage (A-Z)"
+
+#: upgrade.php:41
+msgid "Display Name (Z-A)"
+msgstr "Nom d’affichage (Z-A)"
+
+#: admin/settings/class-formbuilder.php:683
+msgid "Male,Female,Other"
+msgstr "Homme, Femme, Autre"
+
+#: admin/settings/class-uwp-settings-general.php:448
+msgid "User Counts CPTs"
+msgstr "Nombre d’utilisateurs/utilisatrices de CPT"
+
+#: admin/settings/class-uwp-settings-general.php:449
+msgid "Choose post types to display user counts in profile page for all users."
+msgstr "Choisir des types de publication pour afficher le nombre d’utilisateurs/utilisatrices dans la page de profil de tous les utilisateurs."
+
+#: admin/settings/class-uwp-settings-general.php:457
+msgid "User Counts CPTs for profile owner"
+msgstr "L’utilisateur/utilisatrice compte les CPT pour le propriétaire du profil"
+
+#: admin/settings/class-uwp-settings-general.php:458
+msgid "Choose post types to display user counts in profile page for profile owners."
+msgstr "Choisir des types de publication pour afficher le nombre d’utilisateurs/utilisatrices dans la page de profil pour les propriétaires de profil."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:707
+msgid "Key and URL slug for the profile tab."
+msgstr "Touche et URL pour l’onglet profil."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:708
+msgid "Tab key:"
+msgstr "Touche d’onglet :"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:722
+msgid "Tab icon:"
+msgstr "Icône tab :"
+
+#: includes/class-forms.php:552
+msgid "Security hash failed. Try again."
+msgstr "Le hachage de sécurité a échoué. Réessayez."
+
+#: includes/class-forms.php:3484
+msgid "Please enter a valid URL including https://"
+msgstr "Veuillez entrer une URL valide, y compris https://"
+
+#: includes/helpers/pages.php:547
+msgid "Danger"
+msgstr "Danger"
+
+#: includes/helpers/pages.php:545
+msgid "Secondary"
+msgstr "Secondaire"
+
+#: admin/settings/class-formbuilder.php:380
+#: admin/settings/class-formbuilder.php:396
+#: admin/settings/class-formbuilder.php:421 includes/class-forms.php:1989
+msgid "%s"
+msgstr "%s"
+
+#: includes/helpers/pages.php:555
+msgid "Cyan"
+msgstr "Cyan"
+
+#: includes/helpers/pages.php:578
+msgid "Google"
+msgstr "Google"
+
+#: includes/helpers/pages.php:556
+msgid "Gray"
+msgstr "Gris"
+
+#: includes/helpers/pages.php:557
+msgid "Indigo"
+msgstr "Indigo"
+
+#: includes/helpers/pages.php:558
+msgid "Orange"
+msgstr "Orange"
+
+#: includes/helpers/pages.php:553
+msgid "Purple"
+msgstr "Violet"
+
+#: includes/helpers/pages.php:554
+msgid "Salmon"
+msgstr "Saumon"
+
+#: includes/helpers/pages.php:548
+msgid "Warning"
+msgstr "Avertissement"
+
+#: includes/helpers/pages.php:552
+msgid "White"
+msgstr "Blanc"
+
+#: includes/helpers/pages.php:579
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: admin/class-admin.php:852 admin/class-admin.php:916
+#: includes/class-forms.php:368
+msgid "Something went wrong. Please try again."
+msgstr "Quelque chose s’est mal passé. Veuillez réessayer."
+
+#: admin/settings/class-formbuilder.php:144
+msgid "List of fields that will appear in the account form."
+msgstr "Liste des champs qui apparaîtront dans le formulaire de compte."
+
+#: admin/settings/class-formbuilder.php:742
+msgid "Adds Register GDPR page."
+msgstr "Ajoute la page de confidentialité."
+
+#: admin/settings/class-formbuilder.php:746 upgrade.php:383
+msgid "GDPR Policy"
+msgstr "Politique RGPD"
+
+#: admin/settings/class-formbuilder.php:761
+#: admin/settings/class-formbuilder.php:767 upgrade.php:400
+msgid "Terms & Conditions"
+msgstr "Conditions Générales de Vente"
+
+#: admin/settings/class-formbuilder.php:762
+msgid "Adds Register TOS page."
+msgstr "Ajoute la page d’inscription à TOS."
+
+#: admin/settings/class-formbuilder.php:1084
+msgid "Adds a wysiwyg editor input"
+msgstr "Ajoute une zone de texte éditeur WYSIWYG"
+
+#: admin/settings/class-formbuilder.php:1443
+msgid "This will be displayed below the field in the form."
+msgstr "Celui-ci sera affiché sous le champ dans le formulaire."
+
+#: admin/settings/class-formbuilder.php:1445
+msgid "Field Description:"
+msgstr "Description du champ :"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:694
+msgid "This will be the name of profile tab."
+msgstr "Ce sera le nom de l’onglet profil."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:721
+msgid "This will be the icon for profile tab."
+msgstr "Il s’agira de l’icône de l’onglet profil."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:734
+msgid "Select privacy for displaying profile tab and content."
+msgstr "Choisir confidentialité pour l’affichage de l’onglet profil et du contenu."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:770
+msgid "Enable to allow user to decide privacy for displaying profile tab and content."
+msgstr "Permettre à l’utilisateur/utilisatrice de décider de la confidentialité pour l’affichage de l’onglet profil et du contenu."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:793
+msgid "Content to display in profile tab. Shortcode allowed."
+msgstr "Contenu à afficher sous l’onglet profil. Code court autorisé."
+
+#: includes/class-forms.php:224 includes/class-forms.php:271
+#: includes/class-forms.php:769 includes/class-forms.php:2002
+msgid "Something went wrong. Please contact site admin."
+msgstr "Quelque chose s’est mal passé. Veuillez contacter l’administrateur du site."
+
+#: includes/class-forms.php:567
+msgid "User registration is currently not allowed. Please check settings of your site."
+msgstr "L’inscription des utilisateurs/utilisatrices n’est actuellement pas autorisée. Veuillez vérifier les réglages de votre site."
+
+#: includes/class-forms.php:1625
+msgid "Your account is not activated yet. Please activate your account first."
+msgstr "Votre compte n’est pas encore activé. Activez d’abord votre compte."
+
+#: includes/class-validation.php:248 upgrade.php:388
+msgid "You must read and accept our GDPR policy."
+msgstr "Vous devez lire et accepter notre Politique de confidentialité."
+
+#: includes/class-validation.php:251
+msgid "You must accept our terms and conditions."
+msgstr "Vous devez accepter nos conditions pour continuer."
+
+#: includes/helpers/pages.php:544
+msgid "Primary"
+msgstr "Principal"
+
+#: includes/helpers/pages.php:546
+msgid "Success"
+msgstr "Réussi"
+
+#: includes/helpers/pages.php:550
+msgid "Light"
+msgstr "Clair"
+
+#: includes/helpers/pages.php:551
+msgid "Dark"
+msgstr "Sombre"
+
+#: includes/helpers/pages.php:580
+msgid "Vkontakte"
+msgstr "VKontakte"
+
+#: upgrade.php:405
+msgid "You must read and accept our terms and conditions."
+msgstr "Vous devez lire et accepter nos conditions générales."
+
+#: widgets/user-badge.php:116
+msgid "Badge Color"
+msgstr "Couleur du badge"
+
+#: widgets/user-badge.php:120
+msgid "Custom colors"
+msgstr "Couleurs personnalisées"
+
+#: widgets/user-avatar.php:52
+msgid "Allow to change avatar:"
+msgstr "Autoriser à changer d’avatar :"
+
+#: widgets/user-badge.php:117
+msgid "Select the the badge color."
+msgstr "Choisir la couleur du badge."
+
+#: widgets/user-badge.php:343
+msgid "is less than"
+msgstr "est inférieur à"
+
+#: widgets/user-badge.php:344
+msgid "is empty"
+msgstr "est vide"
+
+#: widgets/user-badge.php:342
+msgid "is greater than"
+msgstr "est supérieur à"
+
+#: widgets/user-badge.php:341
+msgid "is not equal"
+msgstr "n’est pas égal"
+
+#: widgets/user-badge.php:340
+msgid "is equal"
+msgstr "est égal"
+
+#: widgets/user-badge.php:163
+msgid "Alignment:"
+msgstr "Alignement :"
+
+#: widgets/user-badge.php:150
+msgid "Size of the badge."
+msgstr "Taille du badge."
+
+#: widgets/user-badge.php:108 widgets/user-badge.php:152
+msgid "Medium"
+msgstr "Moyen"
+
+#: widgets/user-badge.php:107 widgets/user-badge.php:153
+msgid "Small"
+msgstr "Petit"
+
+#: widgets/user-badge.php:102
+msgid "Shadow"
+msgstr "Ombre"
+
+#: widgets/user-badge.php:93
+msgid "Badge"
+msgstr "Badge"
+
+#: widgets/user-badge.php:109 widgets/user-badge.php:154
+msgid "Large"
+msgstr "Grande"
+
+#: admin/class-admin.php:474
+msgid "Pending Email Activation"
+msgstr "E-mails Activation en Attente"
+
+#: widgets/user-badge.php:204
+msgid "This will open the link in a new window."
+msgstr "Cela ouvrira le lien dans une nouvelle fenêtre."
+
+#: admin/class-admin.php:732
+msgid "Activate Users"
+msgstr "Activer des utilisateurs"
+
+#: admin/settings/class-uwp-settings-general.php:146
+msgid "Minimum Password Limit"
+msgstr "Limite minimale de mot de passe"
+
+#: admin/settings/class-uwp-settings-general.php:147
+msgid "Minimum Password limit user should enter in the form."
+msgstr "L’utilisateur/utilisatrice de limite de mot de passe minimum doit entrer dans le formulaire."
+
+#: admin/settings/class-uwp-settings-general.php:155
+msgid "Maximum Password Limit"
+msgstr "Limite maximale de mot de passe"
+
+#: admin/settings/class-uwp-settings-general.php:156
+msgid "Maximum Password limit user should enter in the form."
+msgstr "L’utilisateur/utilisatrice maximum de limite de mot de passe doit entrer dans le formulaire."
+
+#: admin/settings/class-uwp-settings-general.php:192
+msgid "When enabled some login links will open in a lightbox instead of changing page. The page will be reloaded after successful login instead of a redirect."
+msgstr "Lorsque certains liens de connexion sont activés, ils s’ouvrent dans une zone lumineuse au lieu de changer de page. La page sera rechargée après une connexion réussie au lieu d’une redirection."
+
+#: admin/settings/class-uwp-settings-general.php:492
+msgid "Enter number of items to display in users list page."
+msgstr "Saisir le nombre d’éléments à afficher dans la page de liste des utilisateurs."
+
+#: admin/settings/class-uwp-settings-general.php:499
+msgid "Select users to exclude from the users listing."
+msgstr "Choisir les utilisateurs/utilisatrices à exclure de la liste des utilisateurs."
+
+#: admin/settings/class-uwp-settings-general.php:516
+msgid "User Account Settings"
+msgstr "Réglages du compte utilisateur/utilisatrice"
+
+#: admin/settings/class-uwp-settings-general.php:523
+msgid "Disable Account Delete"
+msgstr "Désactiver la suppression de compte"
+
+#: admin/settings/class-uwp-settings-general.php:524
+msgid "Don't allow users to delete their own account. Default enabled."
+msgstr "Ne pas autoriser les utilisateurs/utilisatrices à supprimer leur propre compte. Par défaut activé."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:752
+msgid "%s (Not Changeable)"
+msgstr "%s (non modifiable)"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:772
+msgid "N/A"
+msgstr "Indisponible"
+
+#: includes/class-templates.php:1178
+msgid " (Default)"
+msgstr " (Par défaut)"
+
+#: widgets/user-badge.php:22
+msgid "UWP > User Badge"
+msgstr "UWP > Badge utilisateur/utilisatrice"
+
+#: widgets/user-badge.php:26
+msgid "Displays the user badge."
+msgstr "Affiche le badge de l’utilisateur/utilisatrice."
+
+#: widgets/user-badge.php:43 widgets/user-badge.php:44
+msgid "Leave blank to use current user id."
+msgstr "Laissez vide pour utiliser l’id utilisateur/utilisatrice actuel."
+
+#: widgets/user-badge.php:51
+msgid "Field Key:"
+msgstr "Clé de champ :"
+
+#: widgets/user-badge.php:62
+msgid "Select the custom field condition."
+msgstr "Choisir la condition de champ personnalisé."
+
+#: widgets/user-badge.php:71
+msgid "Value to match:"
+msgstr "Valeur de correspondance :"
+
+#: widgets/user-badge.php:72
+msgid "Match this text with field value to display user badge."
+msgstr "Faites correspondre ce texte à la valeur du champ pour afficher le badge utilisateur."
+
+#: widgets/user-badge.php:81
+msgid "Badge:"
+msgstr "Badge :"
+
+#: widgets/user-badge.php:82
+msgid "Badge text. Leave blank to show field title as a badge, or use %%input%% to use the input value of the field or %%profile_url%% for the user profile url, or the field key for any other info %%email%%."
+msgstr "Texte du badge. Laissez vide pour afficher le titre de champ comme un badge, ou utilisez %%input%% pour utiliser la valeur d’entrée du champ ou de la %%profile_url%% pour l’URL du profil utilisateur, ou la clé de champ pour toute autre %%email%%."
+
+#: widgets/user-badge.php:89
+msgid "Type"
+msgstr "Type"
+
+#: widgets/user-badge.php:90
+msgid "Select the badge type."
+msgstr "Choisir le type de badge."
+
+#: widgets/user-badge.php:94
+msgid "Pill"
+msgstr "Cylindre"
+
+#: widgets/user-badge.php:103
+msgid "Select the shadow badge type."
+msgstr "Choisir le type d’ombre du badge."
+
+#: widgets/user-badge.php:106 widgets/user-badge.php:166
+msgid "None"
+msgstr "Aucune"
+
+#: widgets/user-badge.php:130
+msgid "Color for the badge background."
+msgstr "Couleur pour l’arrière-plan du badge."
+
+#: widgets/user-badge.php:140
+msgid "Color for the badge text."
+msgstr "Couleur pour le texte du badge."
+
+#: widgets/user-badge.php:155
+msgid "Extra Large"
+msgstr "Très grand"
+
+#: widgets/user-badge.php:164
+msgid "How the item should be positioned on the page."
+msgstr "Comment l’élément doit être positionné sur la page."
+
+#: widgets/user-badge.php:168
+msgid "Center"
+msgstr "Au centre"
+
+#: widgets/user-badge.php:178
+msgid "You can show a font-awesome icon here by entering the icon class."
+msgstr "Vous pouvez montrer une icône de fontawesome ici en entrant dans la classe d’icône."
+
+#: widgets/user-badge.php:195
+msgid "Link url:"
+msgstr "URL du lien :"
+
+#: widgets/user-badge.php:196
+msgid "Badge link url. You can use this to make the button link to something, %%input%% can be used here if a link or %%profile_url%% for the user profile url."
+msgstr "Url de lien de badge. Vous pouvez l’utiliser pour faire le lien de bouton vers quelque chose, %%input%% peut être utilisé ici si un lien ou %%profile_url%% pour l’URL de profil utilisateur."
+
+#: widgets/user-badge.php:200 widgets/user-badge.php:209
+#: widgets/user-badge.php:218 widgets/user-badge.php:227
+msgid "Click Action"
+msgstr "Action du clic"
+
+#: widgets/user-badge.php:203
+msgid "Open link in new window:"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre :"
+
+#: widgets/user-badge.php:213
+msgid "Popover title:"
+msgstr "Titre par dessus :"
+
+#: widgets/user-badge.php:214
+msgid "Reveals some title text onclick. Enter some text or use %%input%% to use the input value of the field or the field key for any other info %%email%%."
+msgstr "Révèle un texte de titre onclick. Saisir un texte ou utilisez %%input%% pour utiliser la valeur d’entrée du champ ou de la clé de champ pour toute autre information %%email%%."
+
+#: widgets/user-badge.php:222
+msgid "Popover text:"
+msgstr "Texte par dessus :"
+
+#: widgets/user-badge.php:223
+msgid "Reveals some text onclick. Enter some text or use %%input%% to use the input value of the field or the field key for any other info %%email%%."
+msgstr "Révèle un peu de texte onclick. Saisir un texte ou utilisez %%input%% pour utiliser la valeur d’entrée du champ ou de la clé de champ pour toute autre information %%email%%."
+
+#: widgets/user-badge.php:231
+msgid "Tooltip text:"
+msgstr "Texte de l’info-bulle :"
+
+#: widgets/user-badge.php:232
+msgid "Reveals some text on hover. Enter some text or use %%input%% to use the input value of the field or the field key for any other info %%email%%. (this can NOT be used with popover text)"
+msgstr "Révèle un peu de texte sur le vol stationnaire. Saisir un texte ou utilisez %%input%% pour utiliser la valeur d’entrée du champ ou de la clé de champ pour toute autre information %%email%%. (cela ne peut pas être utilisé avec du texte popover)"
+
+#: widgets/user-badge.php:236 widgets/user-badge.php:245
+#: widgets/user-badge.php:254
+msgid "Hover Action"
+msgstr "Action au survol"
+
+#: widgets/user-badge.php:240
+msgid "Hover content:"
+msgstr "Contenu de l’aéroglisseur :"
+
+#: widgets/user-badge.php:241
+msgid "Change the button text on hover. Enter some text or use %%input%% to use the input value of the field or the field key for any other info %%email%%."
+msgstr "Modifier le texte du bouton au survol. Saisir un texte ou utilisez %%input%% pour utiliser la valeur d’entrée du champ ou de la clé de champ pour toute autre information %%email%%."
+
+#: widgets/user-badge.php:249
+msgid "Hover icon:"
+msgstr "Icône au survol :"
+
+#: widgets/user-badge.php:250
+msgid "Change the button icon on hover. You can show a font-awesome icon here by entering the icon class."
+msgstr "Modifier l’icône du bouton au survol. Vous pouvez afficher une icône de font-awesome ici en entrant la classe de l’icône."
+
+#: widgets/user-badge.php:293
+msgid "User ID is missing"
+msgstr "L’ID d’utilisateur/utilisatrice est manquant"
+
+#: widgets/user-badge.php:296
+msgid "Field key is missing"
+msgstr "La clé du champ est manquante"
+
+#: widgets/user-badge.php:345
+msgid "is not empty"
+msgstr "n’est pas vide"
+
+#: includes/class-uwp-seo.php:47
+msgid "Disable meta tags"
+msgstr "Désactiver les balises méta"
+
+#: includes/class-uwp-seo.php:89
+msgid "Meta Description"
+msgstr "Description Meta"
+
+#: includes/class-uwp-seo.php:77
+msgid "Meta Title"
+msgstr "Titre Meta"
+
+#: includes/class-uwp-seo.php:39
+msgid "Profile SEO"
+msgstr "Profil SEO"
+
+#: includes/class-uwp-seo.php:56
+msgid "Title separator"
+msgstr "Séparateur de titre"
+
+#: admin/class-admin-setup-wizard.php:295
+#: admin/class-admin-setup-wizard.php:329
+msgid " User registration is currently not allowed."
+msgstr " L’enregistrement est actuellement désactivé."
+
+#: admin/class-admin-setup-wizard.php:332
+msgid " Anyone can register"
+msgstr " Tout le monde peut s’enregistrer"
+
+#: admin/settings/class-formbuilder.php:1505
+msgid "Placeholder :"
+msgstr "Texte indicatif :"
+
+#: admin/settings/class-formbuilder.php:1510
+msgid "Enter placeholder text for this field."
+msgstr "Saisir le texte de l’espace réservé pour ce champ."
+
+#: admin/settings/class-uwp-settings-general.php:404
+msgid "Profile avatar width"
+msgstr "Largeur de l’avatar de profil"
+
+#: admin/settings/class-uwp-settings-general.php:411
+msgid "Profile avatar height"
+msgstr "Hauteur de l’avatar de profil"
+
+#: admin/settings/class-uwp-settings-general.php:425
+msgid "Profile banner height"
+msgstr "Hauteur de bannière de profil"
+
+#: includes/class-forms.php:1607
+msgid "Invalid email or user doesn't exists."
+msgstr "Email inconnu."
+
+#: includes/class-uwp-seo.php:60
+msgid "Choose the symbol to use as your title separator. This will display, for instance, between your user profile title and site name. Symbols are shown in the size they will appear in the search results."
+msgstr "Choisir le symbole à utiliser comme séparateur de titre. Cela s’affiche, par exemple, entre le titre de votre profil utilisateur/utilisatrice et le nom du site. Les symboles sont affichés dans la taille qu’ils apparaîtront dans les résultats de recherche."
+
+#: includes/class-uwp-seo.php:81 includes/class-uwp-seo.php:96
+msgid "Available SEO tags:"
+msgstr "Balises SEO disponibles :"
+
+#: includes/class-uwp-seo.php:92
+msgid "Enter the meta description to use for the page."
+msgstr "Saisir la description méta à utiliser pour la page."
+
+#: includes/helpers/forms.php:185
+msgid "Choose %s&hellip;"
+msgstr "Choisir %s&hellip;"
+
+#: includes/class-forms.php:94
+msgid "Avatar reset successfully."
+msgstr "Avatar bien réinitialisé."
+
+#: includes/class-forms.php:101
+msgid "Banner reset successfully."
+msgstr "Réinitialisation de la bannière avec succès."
+
+#: includes/class-forms.php:4537
+msgid "Privacy settings updated successfully."
+msgstr "Réglages de confidentialité mis à jour avec succès."
+
+#: includes/class-notices.php:63
+msgid "Resend"
+msgstr "Envoyer à nouveau"
+
+#: includes/class-user-notifications.php:106
+msgid "Notification settings updated successfully."
+msgstr "Réglages de notification mis à jour avec succès."
+
+#: templates/bootstrap/modal-profile-image.php:94
+#: templates/modal-profile-image.php:45
+msgid "Reset to Default"
+msgstr "Initialiser avec les valeurs par défaut"
+
+#: widgets/user-avatar.php:31
+msgid "Displays user avatar image for user."
+msgstr "Affiche l’image de l’avatar de l’utilisateur/utilisatrice."
+
+#: widgets/user-avatar.php:53
+msgid "Allow user to change avatar image in profile page."
+msgstr "Permettre à l’utilisateur/utilisatrice de modifier l’image de l’avatar dans la page de profil."
+
+#: widgets/user-cover.php:27
+msgid "UWP > User Cover Image"
+msgstr "UWP > Image de couverture utilisateur/utilisatrice"
+
+#: widgets/user-cover.php:32
+msgid "Displays user cover image for user."
+msgstr "Affiche l’image de couverture pour l’utilisateur/utilisatrice."
+
+#: widgets/user-cover.php:37
+msgid "Link cover image to user's profile page."
+msgstr "Lien entre l’image de couverture et la page de profil de l’utilisateur/utilisatrice."
+
+#: widgets/user-cover.php:45
+msgid "Allow to change cover:"
+msgstr "Autoriser à changer de couverture :"
+
+#: widgets/user-cover.php:46
+msgid "Allow user to change cover image in profile page."
+msgstr "Permettre à l’utilisateur/utilisatrice de modifier l’image de couverture dans la page de profil."
+
+#: widgets/user-post-counts.php:25
+msgid "UWP > User Post Counts"
+msgstr "UWP > nombre de postes d’utilisateurs/utilisatrices"
+
+#: widgets/user-post-counts.php:30
+msgid "Display user post, comments and other custom post type counts."
+msgstr "Afficher la publication utilisateur, les commentaires et autres types de comptes de poste personnalisé."
+
+#: includes/class-tools.php:831
+msgid "DB text translation"
+msgstr "Traduction du texte DB"
+
+#: includes/class-tools.php:832
+msgid "This tool will collect any texts stored in the DB and put them in the file db-language.php so they can then be used to translate them by translations tools."
+msgstr "Cet outil recueillera tous les textes stockés dans la base de données et les mettra dans le fichier db-Language. php afin qu’ils puissent ensuite être utilisés pour les traduire par des outils de traduction."
+
+#: includes/helpers/misc.php:1315
+msgid "Something went wrong, please retry."
+msgstr "Quelque chose s’est mal passé, s’il vous plaît réessayer."
+
+#: admin/class-admin.php:101
+msgid "UsersWP - an AyeCode product!"
+msgstr "UsersWP - Un produit AyeCode !"
+
+#: admin/class-admin.php:103
+msgid "<strong>Have a license?</strong> Forget about entering license keys or downloading zip files, connect your site for instant access. %slearn more%s"
+msgstr "<strong>Vous avez une licence ?</strong> Oubliez d’entrer les clés de licence ou de télécharger des fichiers zip, connectez votre site pour un accès instantané. %slearn more%s"
+
+#: admin/class-admin.php:104
+msgid "Connect Site"
+msgstr "Connecter le site"
+
+#: admin/class-admin.php:105
+msgid "Connecting..."
+msgstr "Connexion..."
+
+#: admin/class-admin.php:106
+msgid "This service will only work with a live domain, not a localhost."
+msgstr "Ce service ne fonctionnera qu’avec un domaine en direct, et non sur un localhost."
+
+#: admin/class-admin.php:107
+msgid "Something went wrong, please refresh and try again."
+msgstr "Quelque chose s’est mal passé, veuillez rafraîchir la page et essayer à nouveau."
+
+#: includes/class-forms.php:841
+msgid "Password you entered during registration."
+msgstr "Mot de passe que vous avez entré lors de l’inscription."
+
+#: admin/settings/class-uwp-settings-emails.php:624
+#: includes/class-emails.php:96
+msgid "%s - Powered by UsersWP"
+msgstr "%s - Propulsé par UsersWP"
+
+#: admin/settings/class-uwp-settings-emails.php:537
+msgid "Base Color"
+msgstr "Couleur de base"
+
+#: admin/settings/class-uwp-settings-emails.php:496
+msgid "Email address"
+msgstr "Adresse e-mail"
+
+#: admin/settings/class-formbuilder.php:1083
+#: admin/settings/class-uwp-settings-emails.php:637
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/settings/class-uwp-settings-emails.php:519
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/settings/class-uwp-settings-emails.php:639
+msgid "Plain text"
+msgstr "Texte brut"
+
+#: admin/settings/class-formbuilder.php:783
+#: admin/settings/class-formbuilder.php:788
+msgid "Website"
+msgstr "Site"
+
+#: admin/settings/class-formbuilder.php:784
+msgid "Let users enter their website url."
+msgstr "Laissez les utilisateurs/utilisatrices saisir leur URL de site."
+
+#: admin/settings/class-uwp-settings-emails.php:67
+msgid "Email Options"
+msgstr "Options d’e-mail"
+
+#: admin/settings/class-uwp-settings-emails.php:146
+#: admin/settings/class-uwp-settings-emails.php:447
+msgid "Account delete email"
+msgstr "Email de suppression de compte"
+
+#: admin/settings/class-uwp-settings-emails.php:150
+msgid "Send an email to admin after user account deleted from the site."
+msgstr "Envoyez un e-mail à l’administrateur après la suppression du compte utilisateur/utilisatrice du site."
+
+#: admin/settings/class-uwp-settings-emails.php:451
+msgid "Send an email to user after deleting account from the site."
+msgstr "Envoyez un e-mail à l’utilisateur/utilisatrice après avoir supprimé le compte du site."
+
+#: admin/settings/class-uwp-settings-emails.php:485
+msgid "Email sender options"
+msgstr "Options d’e-mail de l’expéditeur"
+
+#: admin/settings/class-uwp-settings-emails.php:488
+msgid "Sender name"
+msgstr "Nom de l’expéditeur"
+
+#: admin/settings/class-uwp-settings-emails.php:489
+msgid "How the sender name appears in outgoing UsersWP emails."
+msgstr "Comment le nom de l’expéditeur apparaît dans les e-mails UsersWP sortants."
+
+#: admin/settings/class-uwp-settings-emails.php:497
+msgid "How the sender email appears in outgoing UsersWP emails."
+msgstr "Comment l’e-mail de l’expéditeur apparaît dans les e-mails UsersWP sortants."
+
+#: admin/settings/class-uwp-settings-emails.php:506
+msgid "Email Template"
+msgstr "Modèle de e-mail"
+
+#: admin/settings/class-uwp-settings-emails.php:506
+msgid "This section lets you customize the UsersWP email template. %sClick here to preview your email template%s."
+msgstr "Cette section vous permet de personnaliser le modèle de messagerie UsersWP. %s Cliquez ici pour prévisualiser votre modèle de messagerie%s."
+
+#: admin/settings/class-uwp-settings-emails.php:511
+msgid "Email type"
+msgstr "Type d’email"
+
+#: admin/settings/class-uwp-settings-emails.php:512
+msgid "Select format of the email to send."
+msgstr "Choisir le format de l’e-mail à envoyer."
+
+#: admin/settings/class-uwp-settings-emails.php:520
+msgid "Upload a logo to be displayed at the top of the emails. Displayed on HTML emails only."
+msgstr "Chargez un logo à afficher en haut des e-mails. Affiché uniquement sur les e-mails HTML."
+
+#: admin/settings/class-uwp-settings-emails.php:527
+msgid "Footer Text"
+msgstr "Texte du pied de page"
+
+#: admin/settings/class-uwp-settings-emails.php:528
+msgid "The text to appear in the footer of all UsersWP emails."
+msgstr "Le texte à afficher dans le pied de pied de tous les e-mails UsersWP."
+
+#: admin/settings/class-uwp-settings-emails.php:546
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: admin/settings/class-uwp-settings-emails.php:547
+msgid "The background color of email template. Default <code>#f5f5f5</code>."
+msgstr "Couleur d’arrière-plan du modèle d’e-mail. Par défaut <code> #f5f5f5 </code>."
+
+#: admin/settings/class-uwp-settings-emails.php:555
+msgid "Body Background Color"
+msgstr "Couleur de l’arrière-plan principal"
+
+#: admin/settings/class-uwp-settings-emails.php:556
+msgid "The main body background color of email template. Default <code>#fdfdfd</code>."
+msgstr "La couleur de fond du corps principal du modèle d’email. Par défaut, <code>#fdfdfd</code>."
+
+#: admin/settings/class-uwp-settings-emails.php:564
+msgid "Body Text Color"
+msgstr "Couleur du texte du corps"
+
+#: admin/settings/class-uwp-settings-emails.php:565
+msgid "The main body text color. Default <code>#505050</code>."
+msgstr "La couleur du corps du texte principal. Par défaut <code>#505050</code>."
+
+#: admin/settings/class-uwp-settings-emails.php:573
+msgid "Header Background Color"
+msgstr "Couleur d’arrière-plan de l’en-tête"
+
+#: admin/settings/class-uwp-settings-emails.php:574
+msgid "The header background color of email template. Default <code>#555555</code>."
+msgstr "La couleur d’arrière-plan du modèle d’e-mail. Par défaut <code>#555555</code>."
+
+#: admin/settings/class-uwp-settings-emails.php:582
+msgid "Header Text Color"
+msgstr "Couleur du texte de l’en-tête"
+
+#: admin/settings/class-uwp-settings-emails.php:583
+msgid "The footer text color. Default <code>#ffffff</code>."
+msgstr "Couleur du texte du pied de page. Par défaut, <code> #ffffff </code>."
+
+#: admin/settings/class-uwp-settings-emails.php:591
+msgid "Footer Background Color"
+msgstr "Couleur d’arrière-plan du pied de page"
+
+#: admin/settings/class-uwp-settings-emails.php:592
+msgid "The footer background color of email template. Default <code>#666666</code>."
+msgstr "Couleur d’arrière-plan du pied de page du modèle d’e-mail. Par défaut <code> #666666 </code>."
+
+#: admin/settings/class-uwp-settings-emails.php:600
+msgid "Footer Text Color"
+msgstr "Couleur de texte du pied de page"
+
+#: admin/settings/class-uwp-settings-emails.php:601
+msgid "The footer text color. Default <code>#dddddd</code>."
+msgstr "Couleur du texte du pied de page. Par défaut, <code> #dddddd </code>."
+
+#: includes/class-account.php:77 includes/helpers/misc.php:570
+#: includes/helpers/tabs.php:154
+msgid "Delete Account"
+msgstr "Supprimer le compte"
+
+#: includes/class-account.php:115
+msgid "<strong>Error</strong>: Incorrect password."
+msgstr "Le mot de passe doit être \"Fort\" ou plus."
+
+#: includes/class-uwp-defaults.php:281
+msgid "[#site_name#] - Your account has been deleted."
+msgstr "[#site_name#] -Votre structure a été soumise pour approbation."
+
+#: includes/class-uwp-defaults.php:291
+msgid ""
+"Dear [#user_name#],\n"
+"\n"
+"Your account has been deleted successfully.\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Cher [#user_name#],\n"
+"\n"
+"Votre compte a été supprimé avec succès.\n"
+"\n"
+"Merci\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:307
+msgid "[#site_name#] - Account has been deleted by a user."
+msgstr "[#site_name#] - Le compte a été supprimé par un utilisateur."
+
+#: includes/class-uwp-defaults.php:317
+msgid ""
+"Dear Admin,\n"
+"\n"
+"User has deleted own account from the site.\n"
+"\n"
+"[#login_details#]\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Cher Administrateur,\n"
+"\n"
+"L’utilisateur/utilisatrice a supprimé son propre compte du site.\n"
+"\n"
+"[#login_details#]\n"
+"\n"
+"Merci\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-privacy-exporters.php:27
+msgid "UsersWP user data"
+msgstr "Données utilisateur/utilisatrice UsersWP"
+
+#: includes/class-uwp-privacy-exporters.php:28
+msgid "The UsersWP user data"
+msgstr "Les données utilisateur/utilisatrice UsersWP"
+
+#: includes/template-functions.php:95
+msgid "%s does not exist."
+msgstr "%s n’existe pas."
+
+#: admin/class-admin-setup-wizard.php:86
+msgid "Recommend"
+msgstr "Recommander"
+
+#: admin/class-admin-setup-wizard.php:689
+msgid "UsersWP – ReCaptcha"
+msgstr "UsersWP - ReCaptcha"
+
+#: admin/class-admin-setup-wizard.php:605
+msgid "Recommended Plugins"
+msgstr "Plugins recommandées"
+
+#: admin/class-admin-setup-wizard.php:606
+msgid "Below are a few recommended plugins that will help you with your site."
+msgstr "Voici quelques extensions recommandés pour votre site."
+
+#: admin/class-admin-setup-wizard.php:643
+msgid "Tick to install"
+msgstr "Cocher pour installer"
+
+#: admin/class-admin-setup-wizard.php:683
+msgid "UsersWP – Social Login"
+msgstr "UsersWP – Connexion avec les réseaux sociaux"
+
+#: admin/class-admin-setup-wizard.php:684
+msgid "This plugin lets your user to register and login with popular sites like Facebook, Google, Twitter, LinkedIn, Instagram, Yahoo, WordPress, vkontakte etc."
+msgstr "Cette extension permet à votre utilisateur/utilisatrice de s’inscrire et de se connecter à des sites populaires comme Facebook, Google, Twitter, LinkedIn, Instagram, Yahoo, WordPress, vkontakte etc."
+
+#: admin/class-admin-setup-wizard.php:690
+msgid "This plugin allows you to implement a super security captcha into forms like registration, login forms etc."
+msgstr "Cette extension permet d’intégrer un Captcha de sécurité dans des formulaires comme l’enregistrement, les formulaires de connexion, etc."
+
+#: admin/settings/class-formbuilder.php:741
+msgid "GDPR Policy Page"
+msgstr "Page Politique RGPD"
+
+#: includes/class-forms.php:3846
+msgid "By using this form I agree to the storage and handling of my data by this website. View our %s %s %s."
+msgstr "En utilisant ce formulaire, je suis d’accord pour le stockage et le traitement de mes données par ce site. Voir nos %s %s %s."
+
+#: admin/class-uwp-admin-help.php:123
+msgid "About UsersWP"
+msgstr "À propos de UsersWP"
+
+#: admin/class-admin-setup-wizard.php:81
+msgid "Content"
+msgstr "Contenu"
+
+#: admin/settings/class-formbuilder.php:411
+#: admin/settings/class-uwp-settings-general.php:175
+#: admin/settings/class-uwp-settings-redirects.php:93
+msgid "Custom Redirect"
+msgstr "Redirection personnalisée"
+
+#: admin/class-uwp-admin-help.php:125
+msgid "Github project"
+msgstr "Projet Github"
+
+#: admin/class-admin-setup-wizard.php:445
+msgid "Insert menu items"
+msgstr "Insérer des éléments de menu"
+
+#: admin/class-admin-setup-wizard.php:76
+msgid "Introduction"
+msgstr "Introduction"
+
+#: includes/class-tools.php:1115
+msgid "Menu already exists."
+msgstr "Le menu existe déjà."
+
+#: includes/class-tools.php:1123
+msgid "Menu items added successfully."
+msgstr "Éléments de menu ajoutés avec succès."
+
+#: admin/class-admin-setup-wizard.php:249
+msgid "Menus"
+msgstr "Menus"
+
+#: admin/class-uwp-admin-help.php:126
+msgid "Official extensions"
+msgstr "Extensions officielles"
+
+#: admin/class-admin-setup-wizard.php:38
+msgid "Skip setup"
+msgstr "Ignorer la configuration"
+
+#: admin/class-admin-setup-wizard.php:272
+#: admin/class-admin-setup-wizard.php:660
+msgid "Skip this step"
+msgstr "Passer cette étape"
+
+#: admin/class-uwp-admin-help.php:124
+msgid "WordPress.org project"
+msgstr "Projet WordPress.org"
+
+#: admin/class-admin-setup-wizard.php:36
+msgid "Run the Setup Wizard"
+msgstr "Lancer l’assistant de configuration"
+
+#: admin/class-admin-setup-wizard.php:55
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors, on triche ?"
+
+#: admin/class-admin-setup-wizard.php:91
+msgid "Ready!"
+msgstr "Prêt !"
+
+#: admin/class-admin-setup-wizard.php:143
+msgid "Userswp &rsaquo; Setup Wizard"
+msgstr "UsersWP &raquo; Assistant de configuration"
+
+#: admin/class-admin-setup-wizard.php:189
+msgid "Return to the WordPress Dashboard"
+msgstr "Retour au tableau de bord WordPress"
+
+#: admin/class-admin-setup-wizard.php:200
+msgid "Thank you for choosing UsersWP!"
+msgstr "Merci d’avoir choisi UsersWP !"
+
+#: admin/class-admin-setup-wizard.php:201
+msgid "This quick setup wizard will help you configure the basic settings. It's completely optional and shouldn't take longer than two minutes."
+msgstr "Cet Assistant configuration rapide vous aidera à configurer les réglages de base. Il est entièrement facultatif et ne devrait pas prendre plus de deux minutes."
+
+#: admin/class-admin-setup-wizard.php:206
+msgid "Not right now"
+msgstr "Pas maintenant"
+
+#: admin/class-admin-setup-wizard.php:208
+msgid "Let's go!"
+msgstr "C’est parti !"
+
+#: admin/class-admin-setup-wizard.php:248
+msgid "How will you use UsersWP"
+msgstr "Comment utiliserez-vous UsersWP"
+
+#: admin/class-admin-setup-wizard.php:274
+#: admin/class-admin-setup-wizard.php:662
+msgid "Continue"
+msgstr "Continuer"
+
+#: admin/class-admin-setup-wizard.php:356
+msgid "User Profiles"
+msgstr "Profils utilisateurs/utilisatrices"
+
+#: admin/class-admin-setup-wizard.php:362
+msgid "Members Directory"
+msgstr "Répertoire des membres"
+
+#: admin/class-admin-setup-wizard.php:376
+msgid "Select the theme main menu"
+msgstr "Choisir le menu principal du théme"
+
+#: admin/class-admin-setup-wizard.php:406
+#: admin/class-admin-setup-wizard.php:433
+msgid "( Auto detected )"
+msgstr "(Auto détecté)"
+
+#: admin/class-admin-setup-wizard.php:478
+msgid "Create Users"
+msgstr "Créer des utilisateur"
+
+#: admin/class-admin-setup-wizard.php:706
+msgid "Awesome, you are ready to go!"
+msgstr "Super, vous êtes prêt à démarrer !"
+
+#: admin/class-admin-setup-wizard.php:711
+msgid "Learn more"
+msgstr "En apprendre plus"
+
+#: admin/class-admin-setup-wizard.php:715
+msgid "Getting started guide"
+msgstr "Guide de mise en route"
+
+#: admin/class-admin-setup-wizard.php:719
+msgid "Get Userswp advice in your inbox"
+msgstr "Recevez les conseils de Userswp dans votre boîte de réception"
+
+#: admin/class-uwp-admin-help.php:103
+msgid "If you find a bug within UsersWP core you can create a ticket via <a href=\"%1$s\">Github issues</a>. Ensure you read the <a href=\"%2$s\">contribution guide</a> prior to submitting your report. To help us solve your issue, please be as descriptive as possible and include your <a href=\"%3$s\">system status report</a>"
+msgstr "Si vous trouvez un bogue dans le noyau UsersWP, vous pouvez créer un billet via <a href=\"%1$s\">les problèmes Github</a>. Assurez-vous de lire <a href=\"%2$s\">le guide de contribution</a> avant de soumettre votre rapport. Pour nous aider à résoudre votre problème, veuillez être aussi descriptif que possible et inclure votre rapport <a href=\"%3$s\">d’état du système</a>"
+
+#: admin/class-uwp-admin-help.php:104
+msgid "Report a bug"
+msgstr "Signaler un bogue"
+
+#: admin/class-uwp-admin-help.php:112
+msgid "If you need to access the setup wizard again, please click on the button below."
+msgstr "Si vous avez besoin d’accéder de nouveau à l’assistant de configuration, veuillez cliquer sur le bouton ci-dessous."
+
+#: admin/class-uwp-admin-help.php:113
+msgid "Running the wizard again will not delete your current settings. You will have the option to change any current settings."
+msgstr "L’exécution de l’Assistant ne supprimera pas vos réglages actuels. Vous aurez la possibilité de modifier les réglages actuels."
+
+#: admin/class-uwp-admin-help.php:122
+msgid "For more information:"
+msgstr "Pour plus d’informations :"
+
+#: admin/settings/class-formbuilder.php:410
+#: admin/settings/class-uwp-settings-general.php:174
+#: admin/settings/class-uwp-settings-redirects.php:92
+msgid "Default Redirect"
+msgstr "Redirection par défaut"
+
+#: admin/settings/class-uwp-settings-general.php:214
+#: admin/settings/class-uwp-settings-redirects.php:136
+msgid "Redirect Custom URL"
+msgstr "Rediriger l’URL personnalisée"
+
+#: admin/settings/class-uwp-settings-general.php:215
+#: admin/settings/class-uwp-settings-redirects.php:137
+msgid "Set the custom url to redirect the user to after logging in."
+msgstr "Définissez l’URL personnalisée pour rediriger l’utilisateur/utilisatrice vers le fait après s’être connecté."
+
+#: admin/settings/class-uwp-settings-general.php:757
+msgid "Grid View - 1 Column (List View)"
+msgstr "Vue Grille - 1 Colonne (Affichage Liste)"
+
+#: includes/class-forms.php:536 includes/class-forms.php:1118
+#: includes/class-forms.php:1565
+msgid "Security verification failed. Try again."
+msgstr "Échec de la vérification de sécurité. Réessayez."
+
+#: includes/class-forms.php:2112 includes/class-forms.php:2142
+msgid "User Information:"
+msgstr "Informations utilisateur/utilisatrice :"
+
+#: includes/class-tools.php:1037 includes/class-tools.php:1048
+msgid "The menu is not valid."
+msgstr "Le menu n’est pas valide."
+
+#: includes/class-tools.php:1121
+msgid "Menu items already exist, none added."
+msgstr "Les éléments de menu existent déjà, aucun ajouté."
+
+#: includes/class-tools.php:1125
+msgid "Something went wrong, you can manually add items in Appearance > Menus"
+msgstr "Quelque chose s’est mal passé, vous pouvez ajouter manuellement des éléments dans Apparence > Menus"
+
+#: admin/class-uwp-admin-help.php:92
+msgid "Help & Support"
+msgstr "Aide & Support"
+
+#: admin/class-uwp-admin-help.php:66
+msgid "Help &amp; Support"
+msgstr "Aide & support"
+
+#: admin/class-uwp-admin-help.php:78 admin/class-uwp-admin-help.php:111
+#: admin/class-uwp-admin-help.php:114
+msgid "Setup wizard"
+msgstr "Assistant d’installation"
+
+#: admin/class-uwp-admin-help.php:93
+msgid "Should you need help understanding, using, or extending UsersWP <a href=\"%1$s\">please read our documentation</a>. You will find all kinds of resources including snippets, tutorials and much more.,"
+msgstr "Si vous avez besoin d’aide pour comprendre, utiliser ou étendre UsersWP <a href=\"%1$s\">s’il vous plaît lire notre documentation</a>. Vous trouverez toutes sortes de ressources, y compris des extraits, des tutoriels et bien plus encore.,"
+
+#: admin/class-uwp-admin-help.php:95
+msgid "Before asking for help we recommend checking the system status page to identify any problems with your configuration."
+msgstr "Avant de demander de l’aide, nous vous recommandons de vérifier la page État du système pour identifier tout problème avec votre configuration."
+
+#: admin/class-uwp-admin-help.php:96
+msgid "UsersWP support"
+msgstr "Aide UsersWP"
+
+#: includes/libraries/class-geodirectory-plugin.php:351
+msgid "Lists"
+msgstr "Listes"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:741
+#: includes/class-templates.php:1158
+msgid "Logged in"
+msgstr "Connecté"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:740
+#: includes/class-templates.php:1157
+msgid "Anyone"
+msgstr "Tout le monde"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:735
+msgid "Privacy:"
+msgstr "Confidentialité :"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:742
+#: includes/class-templates.php:1159
+msgid "Author only"
+msgstr "Auteur"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:771
+msgid "Let user decide :"
+msgstr "Laissez l’utilisateur/utilisatrice décider :"
+
+#: includes/class-templates.php:1139
+msgid "Tab Name"
+msgstr "Nom de l’onglet"
+
+#: templates/bootstrap/profile-header.php:34
+#: templates/bootstrap/user-cover.php:30 templates/profile-header.php:43
+#: templates/user-cover.php:31
+msgid "User banner image"
+msgstr "Image de bannière d’utilisateur/utilisatrice"
+
+#: templates/bootstrap/profile-header.php:71
+#: templates/bootstrap/user-avatar.php:34 templates/profile-header.php:70
+#: templates/user-avatar.php:32
+msgid "User avatar"
+msgstr "Avatar de l’utilisateur/utilisatrice"
+
+#: includes/class-profile.php:1789
+msgid "File too big."
+msgstr "Fichier trop grand."
+
+#: includes/class-notices.php:177
+msgid "Yoast SEO has disabled user profiles, please enable them."
+msgstr "Yoast SEO a désactivé les profils d’utilisateurs, veuillez les activer."
+
+#: includes/class-notices.php:178
+msgid "View Settings"
+msgstr "Options d’affichage"
+
+#: admin/settings/class-formbuilder.php:952 includes/helpers/pages.php:577
+msgid "WordPress"
+msgstr "WordPress"
+
+#: templates/bootstrap/users-actions.php:35
+msgid "Sort By"
+msgstr "Trier par"
+
+#: upgrade.php:235
+msgid "Activity"
+msgstr "Activité"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:69
+msgid "Available profile tabs."
+msgstr "Onglets de profil disponibles."
+
+#: widgets/profile-tabs.php:49
+msgid "Body only"
+msgstr "Corps uniquement"
+
+#: templates/change.php:7
+msgid "Change"
+msgstr "Modifier"
+
+#: includes/class-tools.php:793
+msgid "Clear version numbers"
+msgstr "Effacer les numéros de version"
+
+#: upgrade.php:243
+msgid "Downloads"
+msgstr "Téléchargements"
+
+#: admin/settings/class-formbuilder.php:804 includes/helpers/pages.php:570
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:91
+msgid "Fields that can be added to the profile tabs."
+msgstr "Champs pouvant être ajoutés aux onglets de profil."
+
+#: admin/settings/class-formbuilder.php:889 includes/helpers/pages.php:574
+msgid "Flickr"
+msgstr "Flickr"
+
+#: widgets/account.php:42 widgets/change.php:42 widgets/forgot.php:42
+#: widgets/login.php:45 widgets/reset.php:42
+msgid "Form title"
+msgstr "Titre du formulaire"
+
+#: upgrade.php:275
+msgid "Friends"
+msgstr "Amis"
+
+#: admin/settings/class-formbuilder.php:910 includes/helpers/pages.php:575
+msgid "GitHub"
+msgstr "GitHub"
+
+#: templates/bootstrap/users-actions.php:112
+#: templates/bootstrap/users-actions.php:119
+#: templates/bootstrap/users-actions.php:126
+#: templates/bootstrap/users-actions.php:133
+#: templates/bootstrap/users-actions.php:140 templates/users-actions.php:23
+#: templates/users-actions.php:24 templates/users-actions.php:25
+#: templates/users-actions.php:26
+msgid "Grid %d"
+msgstr "Grille %d"
+
+#: admin/settings/class-formbuilder.php:846 includes/helpers/pages.php:572
+msgid "Instagram"
+msgstr "Instagram"
+
+#: upgrade.php:307
+msgid "Jobs"
+msgstr "Emplois"
+
+#: widgets/profile-tabs.php:50
+msgid "JSON Array (developer option)"
+msgstr "JSON Array (option développeur)"
+
+#: admin/settings/class-formbuilder.php:867 includes/helpers/pages.php:573
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: upgrade.php:291
+msgid "Products"
+msgstr "Produits"
+
+#: upgrade.php:251
+msgid "Purchases"
+msgstr "Achats"
+
+#: upgrade.php:324
+msgid "Replies"
+msgstr "Réponses"
+
+#: admin/settings/class-uwp-settings-general.php:644
+msgid "The default design style to use."
+msgstr "Le style de conception par défaut à utiliser."
+
+#: admin/settings/class-formbuilder.php:825 includes/helpers/pages.php:571
+msgid "Twitter"
+msgstr "Twitter"
+
+#: widgets/profile-tabs.php:44
+msgid "What parts should be output."
+msgstr "Quelles parties doivent être sorties."
+
+#: admin/settings/class-formbuilder.php:95
+msgid "Standard Fields"
+msgstr "Champs standards"
+
+#: admin/settings/class-formbuilder.php:125
+msgid "Custom Fields"
+msgstr "Champs personnalisés"
+
+#: admin/settings/class-formbuilder.php:694
+#: admin/settings/class-formbuilder.php:698
+#: admin/settings/class-formbuilder.php:699
+msgid "Date of birth"
+msgstr "Date de naissance"
+
+#: admin/settings/class-formbuilder.php:695
+msgid "Adds a date input for users to enter their date of birth."
+msgstr "Ajoute une entrée de date pour que les utilisateurs/utilisatrices entrent leur date de naissance."
+
+#: admin/settings/class-formbuilder.php:700
+msgid "Enter your date of birth."
+msgstr "Saisir votre date de naissance."
+
+#: admin/settings/class-formbuilder.php:805
+msgid "Let users enter their facebook url."
+msgstr "Laissez les utilisateurs/utilisatrices saisir leur URL Facebook."
+
+#: admin/settings/class-formbuilder.php:809
+msgid "Facebook url"
+msgstr "URL Facebook"
+
+#: admin/settings/class-formbuilder.php:826
+msgid "Let users enter their twitter url."
+msgstr "Laissez les utilisateurs/utilisatrices saisir leur URL Twitter."
+
+#: admin/settings/class-formbuilder.php:830
+msgid "Twitter url"
+msgstr "URL Twitter"
+
+#: admin/settings/class-formbuilder.php:847
+msgid "Let users enter their instagram url."
+msgstr "Laissez les utilisateurs/utilisatrices saisir leur URL Instagram."
+
+#: admin/settings/class-formbuilder.php:851
+msgid "Instagram url"
+msgstr "URL Instagram"
+
+#: admin/settings/class-formbuilder.php:868
+msgid "Let users enter their linkedin url."
+msgstr "Laissez les utilisateurs/utilisatrices saisir leur URL Linkedin."
+
+#: admin/settings/class-formbuilder.php:872
+msgid "Linkedin url"
+msgstr "Linkedin (url)"
+
+#: admin/settings/class-formbuilder.php:890
+msgid "Let users enter their Flickr url."
+msgstr "Laissez les utilisateurs/utilisatrices saisir leur URL Flickr."
+
+#: admin/settings/class-formbuilder.php:894
+msgid "Flickr url"
+msgstr "URL Flickr"
+
+#: admin/settings/class-formbuilder.php:911
+msgid "Let users enter their GitHub url."
+msgstr "Laissez les utilisateurs/utilisatrices saisir leur URL GitHub."
+
+#: admin/settings/class-formbuilder.php:915
+msgid "GitHub url"
+msgstr "Url GitHub"
+
+#: admin/settings/class-formbuilder.php:931 includes/helpers/pages.php:576
+msgid "YouTube"
+msgstr "YouTube"
+
+#: admin/settings/class-formbuilder.php:932
+msgid "Let users enter their YouTube url."
+msgstr "Laissez les utilisateurs/utilisatrices saisir leur URL YouTube."
+
+#: admin/settings/class-formbuilder.php:936
+msgid "YouTube url"
+msgstr "URL YouTube"
+
+#: admin/settings/class-formbuilder.php:953
+msgid "Let users enter their WordPress profile url."
+msgstr "Laissez les utilisateurs/utilisatrices saisir leur URL de profil WordPress."
+
+#: admin/settings/class-formbuilder.php:957
+msgid "WordPress url"
+msgstr "Url WordPress"
+
+#: admin/settings/class-uwp-settings-general.php:105
+msgid "Register Lightbox"
+msgstr "Fenêtre modale d’inscription"
+
+#: admin/settings/class-uwp-settings-general.php:106
+msgid "When enabled some register links will open in a lightbox instead of changing page."
+msgstr "Si activé, certains liens d’inscription s’ouvriront dans une fenêtre modale."
+
+#: admin/settings/class-uwp-settings-general.php:191
+msgid "Login Lightbox"
+msgstr "Login Lightbox"
+
+#: admin/settings/class-uwp-settings-general.php:288
+msgid "Forgot password lightbox"
+msgstr "Mot de passe oublié"
+
+#: admin/settings/class-uwp-settings-general.php:289
+msgid "When enabled some forgot password links will open in a lightbox instead of changing page."
+msgstr "Lorsque activé, certains liens de mot de passe oubliés s’ouvriront dans une boîte lumineuse au lieu de changer de page."
+
+#: admin/settings/class-uwp-settings-general.php:593
+msgid "Author box Content (bootstrap)"
+msgstr "Contenu de la boîte d’Auteur (BootStrap)"
+
+#: admin/settings/class-uwp-settings-general.php:643
+msgid "Default Design Style"
+msgstr "Style de Design par défaut"
+
+#: admin/settings/class-uwp-settings-general.php:647
+msgid "Bootstrap"
+msgstr "BootStrap"
+
+#: admin/settings/class-uwp-settings-general.php:648
+msgid "Legacy (non-bootstrap)"
+msgstr "Hérité (non BootStrap)"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:49
+#: admin/settings/class-uwp-settings-profile-tabs.php:113
+msgid "Profile Tabs"
+msgstr "Onglets de profil"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:135
+msgid "Choose the items from left panel to create the profile tabs."
+msgstr "Choisir les éléments du panneau gauche pour créer les onglets de profil."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:695
+msgid "Tab Name:"
+msgstr "Nom de l’onglet :"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:799
+msgid "Add shortcode here."
+msgstr "Ajouter le code court ici."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:1029
+#: admin/settings/class-uwp-settings-profile-tabs.php:1032
+#: admin/settings/class-uwp-settings-user-sorting.php:816
+#: admin/settings/class-uwp-settings-user-sorting.php:819
+msgid "Failed to sort tab items."
+msgstr "Impossible de trier les éléments d’onglet."
+
+#: includes/class-forms.php:682
+msgid "Sorry, that username is not allowed."
+msgstr "Ce nom d’utilisateur/utilisatrice n’est pas autorisé."
+
+#: includes/class-forms.php:924
+msgid "Account registered successfully. Redirecting..."
+msgstr "Compte créé et activé. Merci de patienter..."
+
+#: includes/class-notices.php:26
+msgid "User registration is currently not allowed."
+msgstr "L’enregistrement d’utilisateurs/utilisatrices n’est actuellement pas autorisé."
+
+#: includes/class-notices.php:143
+msgid "Try our exciting new bootstrap styling for a more modern and clean look (switch back at any time)."
+msgstr "Essayez notre nouveau style BootStrap pour un look plus moderne (revenez à tout moment)."
+
+#: includes/class-notices.php:144
+msgid "Try Now"
+msgstr "Essayez maintenant"
+
+#: includes/class-profile.php:813
+msgid "Newer posts"
+msgstr "Articles plus récents"
+
+#: includes/class-profile.php:817
+msgid "Older posts"
+msgstr "Publications plus anciennes"
+
+#: includes/class-profile.php:826
+msgctxt "previous set of posts"
+msgid "Previous"
+msgstr "Article précédent"
+
+#: includes/class-profile.php:827
+msgctxt "next set of posts"
+msgid "Next"
+msgstr "﻿Suivant"
+
+#: includes/class-profile.php:828
+msgid "Posts navigation"
+msgstr "Navigation des publications"
+
+#: includes/class-tools.php:794
+msgid "This will force install/upgrade functions to run."
+msgstr "Cela forcera les fonctions d’installation/mise à niveau à s’exécuter."
+
+#: includes/class-tools.php:1020
+msgid "Version numbers cleared. Install/upgrade functions will run on next page load."
+msgstr "Les numéros de version sont effacés. Les fonctions d’installation/mise à niveau s’exécuteront au chargement de la page suivante."
+
+#: includes/helpers/forms.php:517 widgets/profile-tabs.php:47
+msgid "Default"
+msgstr "Par défaut"
+
+#: includes/helpers/misc.php:1499
+msgid "Profile side (non bootstrap)"
+msgstr "Côté profil (non BootStrap)"
+
+#: includes/libraries/class-geodirectory-plugin.php:1245
+#: templates/bootstrap/posts-post.php:59
+msgid "View"
+msgstr "Vues"
+
+#: includes/libraries/class-invoicing-plugin.php:108
+msgid "Subscriptions"
+msgstr "Inscriptions"
+
+#: includes/libraries/class-invoicing-plugin.php:119
+msgid "Quotes"
+msgstr "Citations"
+
+#: templates/bootstrap/comments-item.php:43
+#: templates/bootstrap/comments-item.php:44
+msgid "View Comment"
+msgstr "Voir le commentaire"
+
+#: templates/bootstrap/modal-profile-image.php:49
+msgid "Note: Max upload image size: %s"
+msgstr "Remarque : téléversement maximum d’image : %s"
+
+#: templates/bootstrap/profile-header.php:50
+#: templates/bootstrap/profile-header.php:87
+#: templates/bootstrap/user-avatar.php:46
+msgid "Update Profile Image"
+msgstr "Mets à jour l’image du profil"
+
+#: templates/bootstrap/search-form.php:11
+#: templates/bootstrap/search-form.php:19
+#: templates/bootstrap/search-form.php:20 templates/search-form.php:10
+#: templates/search-form.php:11
+msgid "Search for users..."
+msgstr "Recherche utilisateurs..."
+
+#: templates/bootstrap/user-cover.php:44
+msgid "Update Cover Image"
+msgstr "Mettre à jour l’image de couverture"
+
+#: templates/bootstrap/users-actions.php:48
+msgid "Sort Options"
+msgstr "Options de tri"
+
+#: templates/bootstrap/users-actions.php:90
+msgid "Clear Sort"
+msgstr "Réinitialiser"
+
+#: upgrade.php:259
+msgid "Followers"
+msgstr "Abonnés"
+
+#: upgrade.php:267
+msgid "Following"
+msgstr "Abonnements"
+
+#: upgrade.php:283
+msgid "MyCred"
+msgstr "Mon crédit"
+
+#: upgrade.php:299
+msgid "Orders"
+msgstr "Commandes"
+
+#: upgrade.php:315
+msgid "Topics"
+msgstr "Sujets"
+
+#: widgets/account.php:43 widgets/change.php:43 widgets/forgot.php:43
+#: widgets/register.php:59 widgets/reset.php:43
+msgid "Enter the form title (or \"0\" for no title)"
+msgstr "Saisir le titre du formulaire (ou \"0\" pour aucun titre)"
+
+#: widgets/account.php:51 widgets/change.php:51 widgets/forgot.php:51
+#: widgets/login.php:76 widgets/register.php:76
+msgid "Design Style"
+msgstr "Style du design"
+
+#: widgets/account.php:52 widgets/change.php:52 widgets/forgot.php:52
+#: widgets/login.php:77 widgets/register.php:77
+msgid "The design style to use."
+msgstr "Style de conception par défaut à utiliser."
+
+#: widgets/account.php:55 widgets/change.php:55 widgets/forgot.php:55
+#: widgets/login.php:80 widgets/register.php:80
+msgid "default"
+msgstr "Défaut"
+
+#: widgets/account.php:56 widgets/change.php:56 widgets/forgot.php:56
+#: widgets/login.php:81 widgets/register.php:81
+msgid "Style 1"
+msgstr "Style N°1"
+
+#: widgets/button-group.php:27
+msgid "UWP > Button Group"
+msgstr "UWP > Groupe de boutons"
+
+#: widgets/button-group.php:30
+msgid "Displays a group of buttons from the custom fields."
+msgstr "Affiche un groupe de boutons à partir des champs personnalisés."
+
+#: widgets/button-group.php:34
+msgid "Fields"
+msgstr "Champ"
+
+#: widgets/button-group.php:35
+msgid "Enter a comma separated list of field keys. (leave empty for default social fields)"
+msgstr "Saisir une liste de clés de champ séparées par virgule. (laisser vide pour les champs sociaux par défaut)"
+
+#: widgets/login.php:46
+msgid "Enter the form title (or `0` for no title)"
+msgstr "Saisir le titre du formulaire (ou `0` pour aucun titre)"
+
+#: widgets/login.php:85 widgets/login.php:94 widgets/user-avatar.php:40
+#: widgets/user-badge.php:99 widgets/user-badge.php:113
+#: widgets/user-badge.php:125 widgets/user-badge.php:134
+#: widgets/user-badge.php:144 widgets/user-badge.php:159
+#: widgets/user-badge.php:173 widgets/user-badge.php:182
+#: widgets/user-badge.php:191
+msgid "Design"
+msgstr "Design"
+
+#: widgets/profile-tabs.php:48
+msgid "Head only"
+msgstr "Tête uniquement"
+
+#: widgets/profile-tabs.php:118
+msgid "Not Found"
+msgstr "Non trouvé"
+
+#: widgets/profile-tabs.php:137 widgets/profile-tabs.php:154
+msgid "No Tabs"
+msgstr "Onglets"
+
+#: widgets/profile-tabs.php:142
+msgid "No content, please make sure tabs have been added %shere.%s"
+msgstr "Pas de contenu, assurez-vous que les onglets ont été ajoutés %sici.%s"
+
+#: widgets/profile-tabs.php:159
+msgid "No content found."
+msgstr "Aucune liste n’est actuellement disponible."
+
+#: widgets/register.php:58
+msgid "Form Title"
+msgstr "Titre du formulaire"
+
+#: widgets/users-item.php:29
+msgid "UWP > Users Item"
+msgstr "UWP > Élément utilisateurs/utilisatrices"
+
+#: widgets/users-item.php:32
+msgid "Template for displaying a single user item inside the users loop."
+msgstr "Modèle pour l’affichage d’un seul élément utilisateur/utilisatrice à l’intérieur de la boucle utilisateurs."
+
+#. Description of the plugin
+msgid "The only lightweight user profile plugin for WordPress. UsersWP features front end user profile, users directory, a registration and a login form."
+msgstr "Extension très légère de profil d’utilisateur/utilisatrice pour WordPress. UsersWP propose un profil utilisateur/utilisatrice en ligne, un répertoire d’utilisateurs/utilisatrices, un formulaire d’inscription et de connexion."
+
+#: widgets/profile-section.php:93
+msgid "closing"
+msgstr "fermeture"
+
+#: widgets/profile-actions.php:30
+msgid "Display profile actions."
+msgstr "Afficher les actions du profil."
+
+#: widgets/profile-tabs.php:31
+msgid "Displays profile tabs."
+msgstr "Affiche les onglets de profil."
+
+#: widgets/users-loop-actions.php:30
+msgid "Displays user loop actions."
+msgstr "Affiche les actions de la boucle utilisateur."
+
+#: widgets/users-loop.php:30
+msgid "Displays users loop."
+msgstr "Affiche la boucle des utilisateurs."
+
+#: widgets/users-search.php:31
+msgid "Displays users search form."
+msgstr "Affiche le formulaire de recherche des utilisateurs."
+
+#: widgets/profile-social.php:34
+msgid "Exclude Fields"
+msgstr "Exclure les champs"
+
+#: widgets/profile-section.php:93
+msgid "opening"
+msgstr "ouverture"
+
+#: includes/class-pages.php:332
+msgctxt "page_slug"
+msgid "user-list-item"
+msgstr "element-liste-utilisateurs"
+
+#: widgets/user-meta.php:61
+msgid "Value (strip_tags)"
+msgstr "Valeur (strip_tags)"
+
+#: admin/class-admin.php:303
+msgid "User(s) has been activated!"
+msgstr "L’utilisateur/utilisatrice a été activé !"
+
+#: admin/class-admin.php:715
+msgid "Activate User"
+msgstr "Activer utilisateur"
+
+#: admin/menus/class-menus.php:28
+msgid "UsersWP Endpoints"
+msgstr "Points de terminaison UsersWP"
+
+#: admin/menus/class-menus.php:102
+msgid "Select all"
+msgstr "Tout choisir"
+
+#: admin/settings/class-uwp-settings-general.php:77
+msgid "Developer"
+msgstr "Développeurs"
+
+#: admin/settings/class-uwp-settings-general.php:614
+msgid "Developer Settings"
+msgstr "Réglages du développeur"
+
+#: admin/settings/class-uwp-settings-general.php:622
+msgid "By default UsersWP will change the avatar to profile image. You can disable this using this option."
+msgstr "Par défaut, UsersWP modifiera l’avatar en image de profil. Vous pouvez désactiver cette option à l’aide de cette option."
+
+#: admin/settings/class-uwp-settings-general.php:727
+msgid "Users List Item Page"
+msgstr "Page élément de liste des utilisateurs/utilisatrices"
+
+#: admin/settings/class-uwp-settings-general.php:728
+msgid "This is the page/template for displaying user item in users list page. You can change the template as you want which will apply to each user item in users list page."
+msgstr "Il s’agit de la page/modèle pour afficher l’élément utilisateur/utilisatrice dans la page de liste des utilisateurs. Vous pouvez modifier le modèle comme vous le souhaitez, ce qui s’appliquera à chaque élément utilisateur/utilisatrice de la page de liste des utilisateurs."
+
+#: includes/class-pages.php:332
+msgid "Users List Item"
+msgstr "Élément de liste des utilisateurs/utilisatrices"
+
+#: includes/class-pages.php:507
+msgid "UWP Register Page"
+msgstr "Page d’inscription UWP"
+
+#: includes/class-pages.php:511
+msgid "UWP Login Page"
+msgstr "Page de connexion UWP"
+
+#: includes/class-pages.php:515
+msgid "UWP Forgot Password Page"
+msgstr "Page de mot de passe oublié UWP"
+
+#: includes/class-pages.php:519
+msgid "UWP Reset Password Page"
+msgstr "Page de réinitialisation de mot de passe UWP"
+
+#: includes/class-pages.php:523
+msgid "UWP Account Page"
+msgstr "Page de compte UWP"
+
+#: includes/class-pages.php:527
+msgid "UWP Profile Page"
+msgstr "Page de profil UWP"
+
+#: includes/class-pages.php:531
+msgid "UWP Users Page"
+msgstr "Page des utilisateurs/utilisatrices UWP"
+
+#: includes/class-pages.php:535
+msgid "UWP User Item Page"
+msgstr "Page élément utilisateur/utilisatrice UWP"
+
+#: includes/class-pages.php:539
+msgid "UWP Change Password Page"
+msgstr "Page de modification mot de passe UWP"
+
+#: templates/bootstrap/forgot.php:27 templates/bootstrap/login.php:27
+#: templates/bootstrap/register.php:27 widgets/profile-section.php:41
+msgid "Close"
+msgstr "Fermé"
+
+#: templates/bootstrap/no-users-found.php:11 templates/no-users-found.php:12
+msgid "No users were found matching your selection."
+msgstr "Aucun utilisateur/utilisatrice n’a été trouvé correspondant à votre sélection."
+
+#: widgets/button-group.php:43 widgets/profile-header.php:53
+#: widgets/user-avatar.php:61 widgets/user-badge.php:42
+#: widgets/user-cover.php:54 widgets/user-meta.php:44 widgets/user-title.php:50
+msgid "User ID:"
+msgstr "ID utilisateur/utilisatrice :"
+
+#: widgets/output-location.php:27
+msgid "UWP > Output Location"
+msgstr "UWP > Emplacement de sortie"
+
+#: widgets/output-location.php:30
+msgid "Displays fields which are selected to display in selected output location from form builder."
+msgstr "Affiche les champs qui ont été sélectionnés pour être affichés dans l’emplacement de sortie sélectionné dans le constructeur de formulaires."
+
+#: widgets/output-location.php:34
+msgid "Location:"
+msgstr "Lieu :"
+
+#: widgets/output-location.php:35
+msgid "The location type to output."
+msgstr "Le type de structure à publier."
+
+#: widgets/profile-actions.php:27
+msgid "UWP > Profile Actions"
+msgstr "UWP > Actions de profil"
+
+#: widgets/profile-actions.php:34 widgets/profile-tabs.php:35
+#: widgets/user-actions.php:36 widgets/user-post-counts.php:34
+#: widgets/users-search.php:35
+msgid "Title"
+msgstr "Titr"
+
+#: widgets/profile-header.php:27
+msgid "UWP > Profile Header"
+msgstr "UWP > En-tête de profil"
+
+#: widgets/profile-header.php:31
+msgid "Displays user profile header."
+msgstr "Affiche l’en-tête du profil utilisateur."
+
+#: widgets/profile-header.php:35
+msgid "Hide cover image:"
+msgstr "Masquer l’image de couverture :"
+
+#: widgets/profile-header.php:36
+msgid "Hide cover image in user profile page."
+msgstr "Masquer l’image de couverture dans la page de profil utilisateur."
+
+#: widgets/profile-header.php:44
+msgid "Hide avatar image:"
+msgstr "Masquer l’image de l’avatar :"
+
+#: widgets/profile-header.php:45
+msgid "Hide avatar image in user profile page."
+msgstr "Masquer l’image de l’avatar dans la page de profil utilisateur."
+
+#: widgets/profile-header.php:62
+msgid "Allow user to change cover and avatar image in profile page."
+msgstr "Permettre à l’utilisateur/utilisatrice de modifier la couverture et l’image de l’avatar dans la page de profil."
+
+#: widgets/profile-section.php:28
+msgid "UWP > Profile Section"
+msgstr "UWP > Section de profil"
+
+#: widgets/profile-section.php:32
+msgid "Display section to contain other elements."
+msgstr "Afficher la section pour contenir d’autres éléments."
+
+#: widgets/profile-section.php:36
+msgid "Type:"
+msgstr "Type :"
+
+#: widgets/profile-section.php:37
+msgid "This is the opening or closing section."
+msgstr "Il s’agit du type de section d’ouverture ou de fermeture."
+
+#: widgets/profile-section.php:40
+msgid "Open"
+msgstr "Ouvrir"
+
+#: widgets/profile-section.php:48
+msgid "Position:"
+msgstr "Position :"
+
+#: widgets/profile-section.php:49
+msgid "This is position of the section."
+msgstr "C’est la position de la section."
+
+#: widgets/profile-section.php:52 widgets/user-badge.php:167
+msgid "Left"
+msgstr "À gauche"
+
+#: widgets/profile-section.php:53 widgets/user-badge.php:169
+msgid "Right"
+msgstr "À droite"
+
+#: widgets/profile-section.php:54
+msgid "Full"
+msgstr "Plein"
+
+#: widgets/profile-social.php:27
+msgid "UWP > Profile Social"
+msgstr "UWP > Profil social"
+
+#: widgets/profile-social.php:30
+msgid "Displays fields which are selected to display in social location from form builder."
+msgstr "Affiche les champs qui sont sélectionnés pour être affichés dans l’emplacement social à partir du constructeur de formulaire."
+
+#: widgets/profile-social.php:35
+msgid "Enter comma separated field keys to exclude from displaying in social location."
+msgstr "Saisir les clés de champ séparées de virgule pour exclure de l’affichage dans l’emplacement social."
+
+#: widgets/profile-tabs.php:27
+msgid "UWP > Profile Tabs"
+msgstr "UWP > Onglets de profil"
+
+#: widgets/user-actions.php:27
+msgid "UWP > User Actions"
+msgstr "UWP > Actions utilisateur/utilisatrice"
+
+#: widgets/user-actions.php:32
+msgid "Display user actions."
+msgstr "Afficher les actions de l’utilisateur/utilisatrice."
+
+#: widgets/user-avatar.php:27
+msgid "UWP > User Avatar"
+msgstr "UWP > Avatar utilisateur/utilisatrice"
+
+#: widgets/user-avatar.php:35
+msgid "Avatar size:"
+msgstr "Taille de l’avatar :"
+
+#: widgets/user-avatar.php:36
+msgid "Avatar image size in px. Default is 50px."
+msgstr "Taille de l’image avatar en px. Par défaut : 50px."
+
+#: widgets/user-avatar.php:44
+msgid "Link avatar image to user's profile page."
+msgstr "Lier l’image de l’avatar à la page de profil de l’utilisateur/utilisatrice."
+
+#: widgets/user-badge.php:52 widgets/user-meta.php:36
+msgid "This is the custom field key."
+msgstr "Il s’agit de la clé de champ personnalisée."
+
+#: widgets/user-meta.php:27
+msgid "UWP > User Meta"
+msgstr "UWP > Métas utilisateur/utilisatrice"
+
+#: widgets/user-meta.php:31
+msgid "Displays user meta."
+msgstr "Affiche les méta utilisateurs."
+
+#: widgets/user-meta.php:52
+msgid "Show:"
+msgstr "Afficher :"
+
+#: widgets/user-meta.php:53
+msgid "What part of the post meta to show."
+msgstr "Quelle partie des métas de la publication à afficher."
+
+#: widgets/user-meta.php:60
+msgid "Value"
+msgstr "Valeurs"
+
+#: widgets/user-meta.php:95
+msgid "Select Key"
+msgstr "Choisir la clé"
+
+#: widgets/user-title.php:27
+msgid "UWP > User Title"
+msgstr "UWP > Titre de l’utilisateur/utilisatrice"
+
+#: widgets/user-title.php:31
+msgid "Displays user name."
+msgstr "Affiche le nom de l’utilisateur/utilisatrice."
+
+#: widgets/user-title.php:35
+msgid "Header Tag:"
+msgstr "Balise d’en-tête :"
+
+#: widgets/user-title.php:36
+msgid "Header tag for the user title."
+msgstr "Balise d’en-tête pour le titre de l’utilisateur/utilisatrice."
+
+#: widgets/users-loop-actions.php:27
+msgid "UWP > User Loop Action"
+msgstr "UWP > Action de boucle d’utilisateur/utilisatrice"
+
+#: widgets/users-loop.php:26
+msgid "UWP > Users Loop"
+msgstr "UWP > Boucle utilisateurs/utilisatrices"
+
+#: widgets/users-search.php:27
+msgid "UWP > Users Search Form"
+msgstr "UWP > Formulaire de recherche des utilisateurs/utilisatrices"
+
+#: includes/class-addons.php:227
+msgid "Activating"
+msgstr "Activation"
+
+#: includes/class-addons.php:228
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: includes/class-addons.php:232
+msgid "Error"
+msgstr "Erreur"
+
+#: admin/class-uwp-admin-menus.php:140
+msgid "Extensions"
+msgstr "Extensions"
+
+#: admin/class-admin-setup-wizard.php:616 includes/class-addons.php:231
+msgid "Installing"
+msgstr "Installation"
+
+#: admin/views/html-admin-page-addons.php:119
+msgid "Licence key"
+msgstr "Clé de licence"
+
+#: admin/class-uwp-admin-menus.php:139
+msgid "UsersWP Extensions"
+msgstr "Extensions UsersWP"
+
+#: admin/class-admin-setup-wizard.php:615 includes/class-addons.php:229
+msgid "Installed"
+msgstr "Installés"
+
+#: admin/class-admin-setup-wizard.php:641
+#: admin/views/html-admin-page-addons.php:72
+#: admin/views/html-admin-page-addons.php:86
+msgid "More info"
+msgstr "Plus d’infos"
+
+#: admin/views/html-admin-page-addons.php:120
+msgid "Enter your licence key"
+msgstr "Saisir votre clé de licence"
+
+#: admin/views/html-admin-page-addons.php:123
+msgid "%sFind your licence key here%s OR %sBuy one here%s"
+msgstr "%sTrouver votre clé de licence ici%s OU %sAcheter un ici%s"
+
+#: includes/class-addons.php:225
+msgid "Something went wrong!"
+msgstr "Un problème est survenu !"
+
+#: includes/class-addons.php:266
+msgid "Turn any WordPress theme into a global business directory portal."
+msgstr "Transformez n’importe quel thème WordPress en un portail mondial d’annuaire d’entreprise."
+
+#: includes/class-addons.php:272
+msgid "Create & Send Invoices, Manage Taxes & VAT. Collect One Time & Recurring Payments."
+msgstr "Créer des factures, gérer les impôts et la TVA. Recueillir une fois et des paiements récurrents."
+
+#: includes/class-addons.php:172
+msgid "Active"
+msgstr "Actif"
+
+#: includes/class-addons.php:102 includes/class-addons.php:103
+msgid "Free"
+msgstr "Gratuit"
+
+#: admin/class-admin-setup-wizard.php:664
+#: admin/views/html-admin-page-addons.php:120 includes/class-addons.php:193
+#: includes/class-addons.php:230
+msgid "Install"
+msgstr "Installer"
+
+#: includes/class-addons.php:27
+msgid "Recommended plugins"
+msgstr "Extensions recommandées"
+
+#: includes/class-addons.php:28
+msgid "Membership"
+msgstr "Abonnement"
+
+#: includes/class-addons.php:175 includes/class-addons.php:226
+msgid "Activate"
+msgstr "Activation"
+
+#: includes/class-addons.php:195
+msgid "Get it"
+msgstr "Obtenir un devis"
+
+#: includes/class-uwp-defaults.php:85
+msgid "[[#site_name#]] Please activate your account"
+msgstr "[[#site_name#]] S’il vous plaît activer votre compte"
+
+#: includes/class-uwp-defaults.php:95
+msgid ""
+"Dear [#user_name#],\n"
+"\n"
+"Thank you for signing up with [#site_name#]\n"
+"\n"
+"[#login_details#]\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Chers [#user_name#],\n"
+"\n"
+"Je vous remercie de vous être inscrit avec le [#site_name#]\n"
+"\n"
+"[#login_details#]\n"
+"\n"
+"Je vous remercie,\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:113
+msgid "[[#site_name#]] Your Log In Details"
+msgstr "[[# site_name #]] Vos détails de connexion"
+
+#: includes/class-uwp-defaults.php:123
+msgid ""
+"Dear [#user_name#],\n"
+"\n"
+"You can log in with the following information:\n"
+"\n"
+"[#login_details#]\n"
+"\n"
+"You can login here: [#login_url#]\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Cher [#user_name#],\n"
+"\n"
+"Vous pouvez vous connecter avec les informations suivantes :\n"
+"\n"
+"[#login_details#]\n"
+"\n"
+"Vous pouvez vous connecter ici : [#login_url#]\n"
+"\n"
+"Merci,\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:153
+msgid ""
+"Dear [#user_name#],\n"
+"\n"
+"[#login_details#]\n"
+"\n"
+"You can login here: [#login_url#]\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Chers [#user_name#],\n"
+"\n"
+"[#login_details#]\n"
+"\n"
+"Vous pouvez vous connecter ici : [#login_url#]\n"
+"\n"
+"Je vous remercie\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:181
+msgid ""
+"Dear [#user_name#],\n"
+"\n"
+"Your password has been changed successfully.\n"
+"\n"
+"You can login here: [#login_url#]\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Chers [#user_name#],\n"
+"\n"
+"Votre mot de passe a été modifié avec succès.\n"
+"\n"
+"Vous pouvez vous connecter ici [#login_url#]\n"
+"\n"
+"Je vous remercie,\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:209
+msgid ""
+"Dear [#user_name#],\n"
+"\n"
+"Your password has been reset.\n"
+"\n"
+"You can login here: [#login_url#]\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Chers [#user_name#],\n"
+"\n"
+"Votre mot de passe a été réinitialisé.\n"
+"\n"
+"Vous pouvez vous connecter ici [#login_url#]\n"
+"\n"
+"Je vous remercie,\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:237
+msgid ""
+"Dear [#user_name#],\n"
+"\n"
+"Your account has been updated successfully.\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Chers [#user_name#],\n"
+"\n"
+"Votre compte a été mis à jour avec succès.\n"
+"\n"
+"Je vous remercie\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:335
+msgid "[[#site_name#]] New account registration"
+msgstr "[[#site_name#]] Enregistrement de nouveaux comptes"
+
+#: includes/class-uwp-defaults.php:345
+msgid ""
+"Dear Admin,\n"
+"\n"
+"A user has been registered recently on your website.\n"
+"\n"
+"[#extras#]"
+msgstr ""
+"Cher administrateur,\n"
+"\n"
+"Un utilisateur/utilisatrice a été enregistré récemment sur votre site.\n"
+"\n"
+"[#extras#]"
+
+#: widgets/authorbox.php:27
+msgid "UWP > Author Box"
+msgstr "UWP > Boîte de l’auteur"
+
+#: widgets/authorbox.php:30
+msgid "Displays author box."
+msgstr "Affiche la boîte auteur."
+
+#: admin/settings/class-uwp-settings-general.php:556
+msgid "Above content"
+msgstr "Au-dessus du contenu"
+
+#: admin/settings/class-settings.php:921
+msgid "Documentation"
+msgstr "Documentation"
+
+#: admin/settings/class-uwp-settings-emails.php:28
+msgid "Emails"
+msgstr "E-mails"
+
+#: admin/class-admin.php:241
+msgid "Field key must not be blank"
+msgstr "La clé de champ ne doit pas être vide"
+
+#: admin/class-admin.php:244
+msgid "Field key should be a unique name."
+msgstr "La clé de champ doit être un nom unique."
+
+#: admin/settings/class-uwp-settings-general.php:69
+msgid "Pages"
+msgstr "Pages"
+
+#: admin/class-uwp-admin-help.php:96 admin/class-uwp-admin-help.php:104
+msgid "System status"
+msgstr "État du système"
+
+#: admin/settings/class-settings.php:84
+msgid "Your settings have been saved."
+msgstr "Vos réglages ont été enregistrés."
+
+#: admin/class-admin-setup-wizard.php:51 admin/settings/class-settings.php:76
+msgid "Action failed. Please refresh the page and retry."
+msgstr "L’action a échouée. Veuillez rafraichir la page et essayer de nouveau."
+
+#: admin/class-admin.php:243
+msgid "Please do not use special character and spaces in field key."
+msgstr "Veuillez ne pas utiliser de caractères spéciaux et d’espaces dans la clé de champ."
+
+#: admin/class-admin.php:248
+msgid "Choose an image"
+msgstr "Choisir une image"
+
+#: admin/class-admin.php:249
+msgid "Use image"
+msgstr "Utiliser l’image"
+
+#: admin/settings/class-formbuilder.php:445
+#: admin/settings/class-formbuilder.php:461
+#: admin/settings/class-settings.php:754
+msgid "Select a page&hellip;"
+msgstr "Choisir une page&hellip;"
+
+#: admin/settings/class-formbuilder.php:1390
+msgid "Field Label:"
+msgstr "Étiquette du champ :"
+
+#: admin/settings/class-formbuilder.php:1473
+msgid "Field Key :"
+msgstr "Clé de champ :"
+
+#: admin/settings/class-formbuilder.php:2096
+msgid "No options available"
+msgstr "Aucune option disponible"
+
+#: admin/settings/class-settings.php:383
+msgid "Upload Image"
+msgstr "Téléverser une image"
+
+#: admin/settings/class-settings.php:757
+msgid "Edit Page"
+msgstr "Modifier la page"
+
+#: admin/settings/class-settings.php:760
+msgid "View Page"
+msgstr "Voir page"
+
+#: admin/settings/class-uwp-settings-addons.php:25
+#: admin/settings/class-uwp-settings-addons.php:65 includes/class-addons.php:26
+#: widgets/login.php:108 widgets/login.php:121
+msgid "Addons"
+msgstr "Modules"
+
+#: admin/settings/class-uwp-settings-addons.php:82
+msgid "UsersWP Addons"
+msgstr "Modules UsersWP"
+
+#: admin/settings/class-uwp-settings-addons.php:84
+msgid "Please select an addon to view its settings. Check our list of addons available for UsersWP %s here %s"
+msgstr "Choisissez un module pour afficher ses réglages. Consultez notre liste de modules disponibles pour UsersWP %sici%s"
+
+#: admin/settings/class-uwp-settings-emails.php:68
+msgid "User Emails"
+msgstr "E-mails de l’utilisateur/utilisatrice"
+
+#: admin/settings/class-uwp-settings-emails.php:69
+msgid "Admin Emails"
+msgstr "Emails de l’administrateur"
+
+#: admin/settings/class-uwp-settings-emails.php:83
+#: admin/settings/class-uwp-settings-emails.php:116
+#: admin/settings/class-uwp-settings-emails.php:149
+#: admin/settings/class-uwp-settings-emails.php:186
+#: admin/settings/class-uwp-settings-emails.php:219
+#: admin/settings/class-uwp-settings-emails.php:252
+#: admin/settings/class-uwp-settings-emails.php:285
+#: admin/settings/class-uwp-settings-emails.php:318
+#: admin/settings/class-uwp-settings-emails.php:351
+#: admin/settings/class-uwp-settings-emails.php:384
+#: admin/settings/class-uwp-settings-emails.php:417
+#: admin/settings/class-uwp-settings-emails.php:450
+msgid "Enable email"
+msgstr "Activer l’e-mail"
+
+#: admin/settings/class-uwp-settings-emails.php:90
+#: admin/settings/class-uwp-settings-emails.php:123
+#: admin/settings/class-uwp-settings-emails.php:156
+#: admin/settings/class-uwp-settings-emails.php:193
+#: admin/settings/class-uwp-settings-emails.php:226
+#: admin/settings/class-uwp-settings-emails.php:259
+#: admin/settings/class-uwp-settings-emails.php:292
+#: admin/settings/class-uwp-settings-emails.php:325
+#: admin/settings/class-uwp-settings-emails.php:358
+#: admin/settings/class-uwp-settings-emails.php:391
+#: admin/settings/class-uwp-settings-emails.php:424
+#: admin/settings/class-uwp-settings-emails.php:457
+msgid "Subject"
+msgstr "Objet"
+
+#: admin/settings/class-uwp-settings-emails.php:91
+#: admin/settings/class-uwp-settings-emails.php:124
+#: admin/settings/class-uwp-settings-emails.php:157
+#: admin/settings/class-uwp-settings-emails.php:194
+#: admin/settings/class-uwp-settings-emails.php:227
+#: admin/settings/class-uwp-settings-emails.php:260
+#: admin/settings/class-uwp-settings-emails.php:293
+#: admin/settings/class-uwp-settings-emails.php:326
+#: admin/settings/class-uwp-settings-emails.php:359
+#: admin/settings/class-uwp-settings-emails.php:392
+#: admin/settings/class-uwp-settings-emails.php:425
+#: admin/settings/class-uwp-settings-emails.php:458
+msgid "The email subject."
+msgstr "Sujet de l’e-mail."
+
+#: admin/settings/class-uwp-settings-emails.php:100
+#: admin/settings/class-uwp-settings-emails.php:133
+#: admin/settings/class-uwp-settings-emails.php:166
+#: admin/settings/class-uwp-settings-emails.php:203
+#: admin/settings/class-uwp-settings-emails.php:236
+#: admin/settings/class-uwp-settings-emails.php:269
+#: admin/settings/class-uwp-settings-emails.php:302
+#: admin/settings/class-uwp-settings-emails.php:335
+#: admin/settings/class-uwp-settings-emails.php:368
+#: admin/settings/class-uwp-settings-emails.php:401
+#: admin/settings/class-uwp-settings-emails.php:434
+#: admin/settings/class-uwp-settings-emails.php:467
+msgid "Body"
+msgstr "Corps de page"
+
+#: admin/settings/class-uwp-settings-emails.php:117
+msgid "Send an email to admin when user has created account on site."
+msgstr "Envoyer un e-mail à l’administrateur lorsque l’utilisateur/utilisatrice a créé un compte sur le site."
+
+#: admin/settings/class-uwp-settings-emails.php:101
+#: admin/settings/class-uwp-settings-emails.php:134
+#: admin/settings/class-uwp-settings-emails.php:167
+#: admin/settings/class-uwp-settings-emails.php:204
+#: admin/settings/class-uwp-settings-emails.php:237
+#: admin/settings/class-uwp-settings-emails.php:270
+#: admin/settings/class-uwp-settings-emails.php:303
+#: admin/settings/class-uwp-settings-emails.php:336
+#: admin/settings/class-uwp-settings-emails.php:369
+#: admin/settings/class-uwp-settings-emails.php:402
+#: admin/settings/class-uwp-settings-emails.php:435
+#: admin/settings/class-uwp-settings-emails.php:468
+msgid "The email body, this can be text or HTML."
+msgstr "Le corps de la zone e-mail, il peut s’agir de texte ou HTML."
+
+#: admin/settings/class-uwp-settings-emails.php:108
+#: admin/settings/class-uwp-settings-emails.php:141
+#: admin/settings/class-uwp-settings-emails.php:174
+#: admin/settings/class-uwp-settings-emails.php:211
+#: admin/settings/class-uwp-settings-emails.php:244
+#: admin/settings/class-uwp-settings-emails.php:277
+#: admin/settings/class-uwp-settings-emails.php:310
+#: admin/settings/class-uwp-settings-emails.php:343
+#: admin/settings/class-uwp-settings-emails.php:376
+#: admin/settings/class-uwp-settings-emails.php:409
+#: admin/settings/class-uwp-settings-emails.php:442
+#: admin/settings/class-uwp-settings-emails.php:475
+#: admin/settings/class-uwp-settings-general.php:589
+#: admin/settings/class-uwp-settings-general.php:600
+msgid "Available template tags:"
+msgstr "Balises de modèle disponibles :"
+
+#: admin/settings/class-uwp-settings-emails.php:220
+msgid "Send an email to user for activation when registered."
+msgstr "Envoyer un e-mail à l’utilisateur/utilisatrice pour l’activation lorsqu’il est enregistré."
+
+#: admin/settings/class-uwp-settings-emails.php:253
+msgid "Send an email to user on successful registration."
+msgstr "Envoyer un e-mail à l’utilisateur/utilisatrice une fois l’inscription réussie."
+
+#: admin/settings/class-uwp-settings-emails.php:319
+msgid "Send an email to user for change password."
+msgstr "Envoyer un e-mail à l’utilisateur/utilisatrice pour changer de mot de passe."
+
+#: admin/settings/class-uwp-settings-emails.php:352
+msgid "Send an email to user for reset password."
+msgstr "Envoyer un e-mail à l’utilisateur/utilisatrice pour réinitialisation mot de passe."
+
+#: admin/settings/class-uwp-settings-emails.php:385
+#: admin/settings/class-uwp-settings-emails.php:418
+msgid "Send an email to user when updating account details."
+msgstr "Envoyer un e-mail à l’utilisateur/utilisatrice lors de la mise à jour des détails du compte."
+
+#: admin/settings/class-uwp-settings-general.php:76
+msgid "Author box"
+msgstr "Boîte de l’auteur"
+
+#: admin/settings/class-uwp-settings-general.php:99
+msgid "Register Settings"
+msgstr "Enregistrer les réglages"
+
+#: admin/settings/class-uwp-settings-general.php:121
+msgid "Redirect Admin Default Register Page"
+msgstr "Rediriger la page du registre par défaut de l’administrateur"
+
+#: admin/settings/class-uwp-settings-general.php:185
+msgid "Login Settings"
+msgstr "Réglages de connexion"
+
+#: admin/settings/class-uwp-settings-general.php:282
+msgid "Change Password Settings"
+msgstr "Modifier les réglages de mot de passe"
+
+#: admin/settings/class-uwp-settings-general.php:326
+msgid "Ask user to enter their old password before changing the password to add an extra layer of security."
+msgstr "Demander à l’utilisateur/utilisatrice de saisir son ancien mot de passe avant de changer le mot de passe pour plus de sécurité."
+
+#: admin/settings/class-uwp-settings-general.php:333
+msgid "This option will disable system generated password notice if user has not changed default password after registration."
+msgstr "Cette option désactivera l’avis de mot de passe généré par le système si l’utilisateur/utilisatrice n’a pas changé de mot de passe par défaut après l’enregistrement."
+
+#: admin/settings/class-uwp-settings-general.php:350
+msgid "Profile Settings"
+msgstr "Réglages du profil"
+
+#: admin/settings/class-uwp-settings-general.php:441
+msgid "Disable author redirect to UsersWP profile page."
+msgstr "Désactiver la redirection de l’auteur vers la page de profil UsersWP."
+
+#: admin/settings/class-uwp-settings-general.php:474
+msgid "Users Settings"
+msgstr "Réglages des utilisateurs/utilisatrices"
+
+#: admin/settings/class-uwp-settings-general.php:539
+msgid "Author Box Settings"
+msgstr "Réglages de la boite auteur"
+
+#: admin/settings/class-uwp-settings-general.php:545
+msgid "Enable Author Box"
+msgstr "Activer les infos sur l’auteur"
+
+#: admin/settings/class-uwp-settings-general.php:546
+msgid "Displays author box based on settings"
+msgstr "Affiche la boîte d’auteur en fonction des réglages"
+
+#: admin/settings/class-uwp-settings-general.php:552
+msgid "Where to display?"
+msgstr "Où l’afficher ?"
+
+#: admin/settings/class-uwp-settings-general.php:553
+msgid "Displays the author box above or below post content."
+msgstr "Affiche la case auteur au-dessus ou en dessous du contenu de la publication."
+
+#: admin/settings/class-uwp-settings-general.php:557
+msgid "Below content"
+msgstr "En-dessous du contenu"
+
+#: admin/settings/class-uwp-settings-general.php:564
+msgid "Post types"
+msgstr "Types de publication"
+
+#: admin/settings/class-uwp-settings-general.php:565
+msgid "Choose post types to display author box"
+msgstr "Choisir les types de publication pour afficher la boîte d’auteur"
+
+#: admin/settings/class-uwp-settings-general.php:582
+msgid "Author box Content"
+msgstr "Contenu de boîte d’auteur"
+
+#: admin/settings/class-uwp-settings-general.php:583
+#: admin/settings/class-uwp-settings-general.php:594
+msgid "The author box body, this can be text or HTML."
+msgstr "Le corps de la zone auteur peut être du texte ou du HTML."
+
+#: admin/settings/class-uwp-settings-general.php:664
+msgid "Page Settings"
+msgstr "Réglages de la page"
+
+#: admin/settings/class-uwp-settings-page.php:139
+msgid "Show Advanced"
+msgstr "Afficher les réglagesavancés"
+
+#: admin/settings/class-uwp-settings-page.php:140
+msgid "Hide Advanced"
+msgstr "Masquer les avancées"
+
+#: admin/settings/class-uwp-settings-uninstall.php:67
+#: admin/settings/class-uwp-settings-uninstall.php:82
+msgid "Uninstall Settings"
+msgstr "Réglages de désinstallation"
+
+#: admin/settings/class-uwp-settings-uninstall.php:84
+msgid "NOTE: Add-ons should be deleted before core to ensure complete uninstall."
+msgstr "REMARQUE : les modules ajoutés doivent être supprimés avant le cœur, afin d’assurer une désinstallation complète."
+
+#: admin/views/html-admin-settings.php:31
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+#: includes/libraries/class-geodirectory-plugin.php:178
+msgid "My Lists"
+msgstr "Mes listes"
+
+#: widgets/account.php:30
+msgid "Displays account form."
+msgstr "Affiche le formulaire de compte."
+
+#: widgets/forgot.php:30
+msgid "Displays forgot password form."
+msgstr "Affiche le formulaire de mot de passe oublié."
+
+#: widgets/reset.php:30
+msgid "Displays reset password form."
+msgstr "Affiche le formulaire de réinitialisation du mot de passe."
+
+#: widgets/users.php:30
+msgid "Displays users list."
+msgstr "Affiche la liste des utilisateurs."
+
+#: templates/bootstrap/dashboard.php:6 templates/dashboard.php:6
+msgid "Hello, %s"
+msgstr "Bonjour, %s"
+
+#: widgets/login.php:60
+msgid "Nothing"
+msgstr "Rien"
+
+#: widgets/account.php:27
+msgid "UWP > Account"
+msgstr "UWP > Compte"
+
+#: widgets/forgot.php:27
+msgid "UWP > Forgot"
+msgstr "UWP > Oublié"
+
+#: widgets/profile.php:27
+msgid "UWP > Profile"
+msgstr "UWP > Profil"
+
+#: includes/libraries/class-geodirectory-plugin.php:121
+msgid "Add Listing"
+msgstr "Ajouter une annonce"
+
+#: includes/libraries/class-geodirectory-plugin.php:140
+msgid "My Favorites"
+msgstr "Mes favoris"
+
+#: includes/libraries/class-geodirectory-plugin.php:159
+msgid "My Listings"
+msgstr "Mes annonces"
+
+#: includes/libraries/class-invoicing-plugin.php:64
+msgid "My Invoices"
+msgstr "Mes factures"
+
+#: includes/libraries/class-invoicing-plugin.php:68
+msgid "View Invoices"
+msgstr "Voir les factures"
+
+#: widgets/account.php:35 widgets/authorbox.php:35 widgets/change.php:35
+#: widgets/forgot.php:35 widgets/profile-actions.php:35
+#: widgets/profile-tabs.php:36 widgets/profile.php:36 widgets/register.php:51
+#: widgets/reset.php:35 widgets/user-actions.php:37
+#: widgets/user-post-counts.php:35 widgets/users-search.php:36
+#: widgets/users.php:35
+msgid "Enter widget title."
+msgstr "Saisir le titre du widget."
+
+#: widgets/change.php:27
+msgid "UWP > Change"
+msgstr "UWP > Changement"
+
+#: widgets/change.php:30
+msgid "Displays change password form."
+msgstr "Page de modification de mot de passe."
+
+#: widgets/login.php:39
+msgid "Enter widget title"
+msgstr "Saisir le titre du widget"
+
+#: widgets/login.php:54
+msgid "Logged in show"
+msgstr "Connecté comme visible"
+
+#: widgets/login.php:55
+msgid "What to show when logged in."
+msgstr "À quoi montrer lors de l’enregistrement."
+
+#: widgets/login.php:58
+msgid "User Dashboard (default)"
+msgstr "Tableau de bord de l’utilisateur/utilisatrice (par défaut)"
+
+#: widgets/login.php:59
+msgid "Simple username and logout link"
+msgstr "Nom d’utilisateur/utilisatrice simple et lien de déconnexion"
+
+#: widgets/login.php:103
+msgid "Disable GeoDirectory links from the user dashboard."
+msgstr "Désactiver les liens GeoDirectory à partir du tableau de bord de l’utilisateur/utilisatrice."
+
+#: widgets/login.php:116
+msgid "Disable WP Invoicing links from the user dashboard."
+msgstr "Désactiver les liens WP Facturation du tableau de bord utilisateur."
+
+#: widgets/login.php:172
+msgid "Select an action"
+msgstr "Choisir une action"
+
+#: widgets/login.php:181
+msgid "My Profile"
+msgstr "Mon profil"
+
+#: widgets/login.php:185
+msgid "View Profile"
+msgstr "Voir le profil"
+
+#: widgets/login.php:192
+msgid "Edit Profile"
+msgstr "Modifier le profil"
+
+#: widgets/profile.php:31
+msgid "Displays user profile."
+msgstr "Affiche le profil de l’utilisateur/utilisatrice."
+
+#: widgets/reset.php:27
+msgid "UWP > Reset"
+msgstr "UWP > Réinitialisation"
+
+#: widgets/users.php:27
+msgid "UWP > Users"
+msgstr "UWP > utilisateurs/utilisatrices"
+
+#: includes/class-forms.php:846
+msgid "Password:"
+msgstr "Mot de passe :"
+
+#: includes/libraries/class-geodirectory-plugin.php:1834
+msgid "Closed"
+msgstr "Fermé"
+
+#: includes/class-tools.php:858
+msgid "Create"
+msgstr "Créer"
+
+#: includes/libraries/wp-background-process.php:423
+msgid "Every %d Minutes"
+msgstr "Toutes les %d minutes"
+
+#: includes/libraries/class-geodirectory-plugin.php:1837
+msgid "Expired"
+msgstr "Expiré"
+
+#: includes/helpers/misc.php:1313
+msgid "less"
+msgstr "moins"
+
+#: includes/helpers/misc.php:1312
+msgid "more"
+msgstr "plus"
+
+#: admin/class-admin-setup-wizard.php:250 includes/class-tools.php:850
+msgid "Dummy Users"
+msgstr "Utilisateurs/utilisatrices factices"
+
+#: admin/views/html-admin-page-status-report.php:142
+msgid "UWP Installation Mode"
+msgstr "Mode d’installation UWP"
+
+#: admin/views/html-admin-page-status-report.php:146
+msgid "UsersWP is Network Activate for All Site"
+msgstr "UsersWP est activé par le réseau pour tous les sites"
+
+#: admin/views/html-admin-page-status-report.php:149
+msgid "UsersWP is Network Activate for Specific Site"
+msgstr "UsersWP est activé par le réseau pour un site spécifique"
+
+#: admin/views/html-admin-page-status-report.php:152
+msgid "UsersWP is Activate for Main Site"
+msgstr "UsersWP est activé pour le site principal"
+
+#: admin/views/html-admin-page-status-report.php:157
+msgid "UsersWP is Activate for Single Site"
+msgstr "UsersWP est activé pour un seul site"
+
+#: admin/views/html-admin-settings-import-export-users.php:126
+msgid "Max entries per csv file:"
+msgstr "Entrées maximum par fichier CSV :"
+
+#: admin/views/html-admin-settings-import-export-users.php:127
+msgid "The maximum number of entries per csv file (default to 5000, you might want to lower this to prevent memory issues.)"
+msgstr "Le nombre maximal d’entrées par fichier CSV (par défaut à 5000, vous souhaiterez peut-être réduire pour éviter les problèmes de mémoire.)"
+
+#: includes/class-account.php:151 includes/class-forms.php:879
+msgid "First Name:"
+msgstr "Prénom :"
+
+#: includes/class-account.php:152 includes/class-forms.php:880
+msgid "Last Name:"
+msgstr "Nom :"
+
+#: includes/class-account.php:153 includes/class-forms.php:845
+#: includes/class-forms.php:881
+msgid "Username:"
+msgstr "Identifiant :"
+
+#: includes/class-account.php:154 includes/class-forms.php:882
+msgid "Email:"
+msgstr "E-mail :"
+
+#: includes/class-files.php:55
+msgid "The uploaded file is too big. Maximum size allowed:"
+msgstr "Le fichier téléchargé est trop grand. Taille maximale autorisée :"
+
+#: includes/class-forms.php:816 includes/helpers/forms.php:274
+msgid "Please activate your account :"
+msgstr "Merci d’activez votre compte :"
+
+#: includes/class-forms.php:878
+msgid "User Information :"
+msgstr "Informations utilisateur/utilisatrice :"
+
+#: includes/class-import-export.php:541
+msgid "Total "
+msgstr "Total "
+
+#: includes/class-notices.php:114
+msgid "UsersWP data sync"
+msgstr "Synchronisation des données UsersWP"
+
+#: includes/class-notices.php:114
+msgid "Users data sync is running in the background."
+msgstr "La synchronisation des données des utilisateurs/utilisatrices s’exécute en arrière-plan."
+
+#: includes/libraries/class-geodirectory-plugin.php:1831
+msgid "Pending"
+msgstr "En attente"
+
+#: templates/bootstrap/search-form.php:37 templates/search-form.php:16
+msgid "Search"
+msgstr "Rechercher"
+
+#: admin/views/html-admin-page-status-report.php:180
+msgid "%1$s - We recommend a minimum PHP version of 5.6."
+msgstr "%1$s - Nous recommandons une version PHP minimale de 5.6."
+
+#. translators: %s: plugin latest version
+#. translators: %s: theme latest version
+#. translators: %s: parant theme latest version
+#: admin/views/html-admin-page-status-report.php:483
+#: admin/views/html-admin-page-status-report.php:569
+#: admin/views/html-admin-page-status-report.php:596
+msgid "%s is available"
+msgstr "%s est disponible"
+
+#: admin/views/html-admin-page-status-report.php:359
+msgid "Browser name"
+msgstr "Nom du navigateur"
+
+#: admin/views/html-admin-page-status-report.php:363
+msgid "Browser version"
+msgstr "Version du navigateur"
+
+#. translators: %s: plugin author
+#: admin/views/html-admin-page-status-report.php:494
+msgid "by %s"
+msgstr "par %s"
+
+#: admin/views/html-admin-page-status-report.php:578
+msgid "Child theme"
+msgstr "Thème enfant"
+
+#: admin/views/html-admin-page-status-report.php:375
+msgid "Database"
+msgstr "Base de données"
+
+#: admin/views/html-admin-page-status-report.php:232
+msgid "Default timezone is UTC"
+msgstr "Le fuseau horaire par défaut est UTC"
+
+#: admin/views/html-admin-page-status-report.php:262
+msgid "DOMDocument"
+msgstr "DOMDocument"
+
+#: admin/views/html-admin-page-status-report.php:73
+msgid "Get system report"
+msgstr "Obtenir le rapport système"
+
+#: admin/views/html-admin-page-status-report.php:272
+msgid "GZip"
+msgstr "GZip"
+
+#: admin/views/html-admin-page-status-report.php:138
+msgid "Language"
+msgstr "Langue"
+
+#: admin/views/html-admin-page-status-report.php:215
+msgid "MySQL version"
+msgstr "Version MySQL"
+
+#: admin/views/html-admin-page-status-report.php:560
+msgid "Name"
+msgstr "Nom"
+
+#: admin/views/html-admin-page-status-report.php:487
+msgid "Network enabled"
+msgstr "Réseau activé"
+
+#: admin/views/html-admin-page-status-report.php:655
+msgid "Outdated templates"
+msgstr "Modèles obsolètes"
+
+#: admin/views/html-admin-page-status-report.php:617
+#: admin/views/html-admin-page-status-report.php:646
+msgid "Overrides"
+msgstr "Remplacements"
+
+#: admin/views/html-admin-page-status-report.php:525
+msgid "Page not set"
+msgstr "Page non définie"
+
+#: admin/views/html-admin-page-status-report.php:587
+msgid "Parent theme name"
+msgstr "Nom du thème parent"
+
+#: admin/views/html-admin-page-status-report.php:591
+msgid "Parent theme version"
+msgstr "Version du thème parent"
+
+#: admin/views/html-admin-page-status-report.php:177
+msgid "PHP version"
+msgstr "Version PHP"
+
+#: admin/views/html-admin-page-status-report.php:440
+msgid "Secure connection (HTTPS)"
+msgstr "Connexion sécurisée (HTTPS)"
+
+#: admin/views/html-admin-page-status-report.php:435
+msgid "Security"
+msgstr "Sécurité"
+
+#: admin/views/html-admin-page-status-report.php:252
+msgid "SoapClient"
+msgstr "SoapClient"
+
+#: admin/views/html-admin-page-status-report.php:204
+msgid "SUHOSIN installed"
+msgstr "SUHOSIN installé"
+
+#: admin/views/html-admin-page-status-report.php:610
+msgid "Templates"
+msgstr "Modèles"
+
+#: admin/views/html-admin-page-status-report.php:555
+msgid "Theme"
+msgstr "Thème"
+
+#: admin/views/html-admin-page-status-report.php:367
+msgid "User agent"
+msgstr "Agent utilisateur"
+
+#: admin/views/html-admin-page-status-report.php:564
+msgid "Version"
+msgstr "Version"
+
+#: admin/views/html-admin-page-status-report.php:83
+msgid "WordPress Environment"
+msgstr "Environnement WordPress"
+
+#: admin/views/html-admin-page-status-report.php:219
+msgid "WordPress requirements"
+msgstr "Exigences de WordPress"
+
+#: admin/views/html-admin-page-status-report.php:128
+msgid "WP cron"
+msgstr "Cron WP"
+
+#: admin/views/html-admin-page-status-report.php:108
+msgid "WP memory limit"
+msgstr "Limite de mémoire WP"
+
+#: admin/views/html-admin-page-status-report.php:104
+msgid "WP multisite"
+msgstr "WP multisite"
+
+#: admin/views/html-admin-page-status-report.php:100
+msgid "WP version"
+msgstr "Version WP"
+
+#: admin/class-uwp-admin-menus.php:121 admin/class-uwp-admin-menus.php:122
+msgid "Status"
+msgstr "État"
+
+#: admin/views/html-admin-page-status-report.php:72
+msgid "Please copy and paste this information in your ticket when contacting support:"
+msgstr "Veuillez copier et coller ces informations dans votre ticket lorsque vous contactez le support :"
+
+#: admin/views/html-admin-page-status-report.php:76
+msgid "Copy for Support"
+msgstr "Copier pour le support"
+
+#: admin/views/html-admin-page-status-report.php:88
+msgid "Home URL"
+msgstr "URL de l’accueil"
+
+#: admin/views/html-admin-page-status-report.php:92
+msgid "Site URL"
+msgstr "URL site"
+
+#: admin/views/html-admin-page-status-report.php:96
+msgid "UWP version"
+msgstr "Version UWP"
+
+#: admin/views/html-admin-page-status-report.php:111
+msgid "Increasing memory allocated to PHP"
+msgstr "Augmenter la mémoire allouée à PHP"
+
+#: admin/views/html-admin-page-status-report.php:118
+msgid "WP debug mode"
+msgstr "Mode débogage WP"
+
+#: admin/views/html-admin-page-status-report.php:168
+msgid "Server Environment"
+msgstr "Environnement serveur"
+
+#: admin/views/html-admin-page-status-report.php:173
+msgid "Server info"
+msgstr "Informations du serveur"
+
+#: admin/views/html-admin-page-status-report.php:188
+msgid "PHP post max size"
+msgstr "Poids Max Post PHP"
+
+#: admin/views/html-admin-page-status-report.php:192
+msgid "PHP time limit"
+msgstr "Limite d’exécution PHP"
+
+#: admin/views/html-admin-page-status-report.php:196
+msgid "PHP max input vars"
+msgstr "PHP Max Input Vars"
+
+#: admin/views/html-admin-page-status-report.php:200
+msgid "cURL version"
+msgstr "Version de cURL"
+
+#: admin/views/html-admin-page-status-report.php:228
+msgid "Max upload size"
+msgstr "Taille maximale des fichiers"
+
+#: admin/views/html-admin-page-status-report.php:235
+msgid "Default timezone is %s - it should be UTC"
+msgstr "La timezone par défaut est %s - doit être UTC"
+
+#: admin/views/html-admin-page-status-report.php:242
+msgid "fsockopen/cURL"
+msgstr "fsockopen/cURL"
+
+#: admin/views/html-admin-page-status-report.php:247
+msgid "Your server does not have fsockopen or cURL enabled - PayPal IPN and other scripts which communicate with other servers will not work. Contact your hosting provider."
+msgstr "Votre serveur n’a pas fsockopen ou cURL actifs - Paypal IPN et les autres scripts qui communiquent avec d’autres serveurs ne fonctionneront pas. Contacter votre hébergeur."
+
+#: admin/views/html-admin-page-status-report.php:257
+msgid "Your server does not have the %s class enabled - some gateway plugins which use SOAP may not work as expected."
+msgstr "Votre serveur n’a pas la classe %s activée - Certaines extensions de passerelle utilisant SOAP peuvent ne pas fonctionner correctement."
+
+#: admin/views/html-admin-page-status-report.php:267
+msgid "Your server does not have the %s class enabled - HTML/Multipart emails, and also some extensions, will not work without DOMDocument."
+msgstr "Votre serveur n’a pas la classe %s activée - Les e-mails HTML/Multipart, et certaines extensions, ne fonctionneront pas sans DOMDocument."
+
+#: admin/views/html-admin-page-status-report.php:277
+msgid "Your server does not support the %s function - this is required to use the GeoIP database from MaxMind."
+msgstr "Votre serveur ne gère pas la fonction %s - C’est nécessaire pour utiliser la base de données GeoIP de MaxMind."
+
+#: admin/views/html-admin-page-status-report.php:282
+msgid "GD Library"
+msgstr "Librairie GD"
+
+#: admin/views/html-admin-page-status-report.php:287
+msgid "Your server does not have enabled %s - this is required for image processing."
+msgstr "Votre serveur n’a pas activé %s - C’est nécessaire pour le traitement d’image."
+
+#: admin/views/html-admin-page-status-report.php:292
+msgid "Multibyte string"
+msgstr "Chaînes multi-octets"
+
+#: admin/views/html-admin-page-status-report.php:297
+msgid "Your server does not support the %s functions - this is required for better character encoding. Some fallbacks will be used instead for it."
+msgstr "Votre serveur ne gère pas la fonction %s - C’est obligatoire pour un meilleur encodage des caractères. Certaines alternatives seront utilisées pour cela."
+
+#: admin/views/html-admin-page-status-report.php:302
+msgid "Remote POST"
+msgstr "POST à distance"
+
+#: admin/views/html-admin-page-status-report.php:307
+#: admin/views/html-admin-page-status-report.php:317
+msgid "%s failed. Contact your hosting provider."
+msgstr "%s a échoué. Contactez votre fournisseur d’hébergement."
+
+#: admin/views/html-admin-page-status-report.php:312
+msgid "Remote GET"
+msgstr "Remote Get"
+
+#: admin/views/html-admin-page-status-report.php:350
+msgid "User Platform"
+msgstr "Plateforme utilisateur/utilisatrice"
+
+#: admin/views/html-admin-page-status-report.php:355
+msgid "Platform"
+msgstr "Plateforme"
+
+#: admin/views/html-admin-page-status-report.php:380
+msgid "UWP database version"
+msgstr "Version de base de données UWP"
+
+#: admin/views/html-admin-page-status-report.php:384
+msgid "Database Prefix"
+msgstr "Préfixe de base de données"
+
+#: admin/views/html-admin-page-status-report.php:387
+msgid "%1$s - We recommend using a prefix with less than 20 characters."
+msgstr "%1$s - Nous vous recommandons d’utiliser un préfixe avec moins de 20 caractères."
+
+#: admin/views/html-admin-page-status-report.php:395
+msgid "Total Database Size"
+msgstr "Total base de données"
+
+#: admin/views/html-admin-page-status-report.php:400
+msgid "Database Data Size"
+msgstr "Taille de la base de données"
+
+#: admin/views/html-admin-page-status-report.php:405
+msgid "Database Index Size"
+msgstr "Taille des index de la base de données"
+
+#: admin/views/html-admin-page-status-report.php:414
+msgid "Table does not exist"
+msgstr "La table n’existe pas"
+
+#: admin/views/html-admin-page-status-report.php:445
+msgid "Your site is not using HTTPS."
+msgstr "Votre site n’utilise pas HTTPS."
+
+#: admin/views/html-admin-page-status-report.php:450
+msgid "Hide errors from visitors"
+msgstr "Cacher les erreurs aux visiteurs"
+
+#: admin/views/html-admin-page-status-report.php:455
+msgid "Error messages should not be shown to visitors."
+msgstr "Les messages d’erreur ne doivent pas s’afficher aux visiteurs."
+
+#: admin/views/html-admin-page-status-report.php:464
+msgid "Active Plugins"
+msgstr "Extensions activées"
+
+#: admin/views/html-admin-page-status-report.php:476
+msgid "Visit plugin homepage"
+msgstr "Visiter la page de l’extension"
+
+#: admin/views/html-admin-page-status-report.php:508
+msgid "UWP Pages"
+msgstr "Pages UWP"
+
+#: admin/views/html-admin-page-status-report.php:517
+msgid "Edit %s page"
+msgstr "Modifier la page %s"
+
+#: admin/views/html-admin-page-status-report.php:528
+msgid "Page ID is set, but the page does not exist"
+msgstr "L’identifiant de page est définie, mais la page n’existe pas"
+
+#: admin/views/html-admin-page-status-report.php:531
+msgid "Page visibility should be <a href=\"%s\" target=\"_blank\">public</a>"
+msgstr "La visibilité de la page devrait être <a href=\"%s\" target=\"_blank\">publique</a>"
+
+#: admin/views/html-admin-page-status-report.php:537
+msgid "Page does not contains the shortcode."
+msgstr "La page ne contient pas le code court."
+
+#: admin/views/html-admin-page-status-report.php:574
+msgid "Author URL"
+msgstr "URL de l’auteur "
+
+#: admin/views/html-admin-page-status-report.php:580
+msgid "If you are modifying userswp on a parent theme that you did not build personally we recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How to create a child theme</a>"
+msgstr "Si vous modifiez userswp sur un thème parent que vous n’avez pas construit personnellement, nous vous recommandons d’utiliser un thème enfant. Voir : <a href=\"%s\" target=\"_blank\">How to create a child theme</a>’"
+
+#: admin/views/html-admin-page-status-report.php:601
+msgid "Parent theme author URL"
+msgstr "URL de l’auteur du thème parent"
+
+#: admin/views/html-admin-page-status-report.php:626
+msgid "%1$s version %2$s is out of date. The core version is %3$s"
+msgstr "%1$s version %2$s est obsolète. La version du noyau est %3$s"
+
+#: includes/class-status.php:342
+msgctxt "Page setting"
+msgid "Profile Page"
+msgstr "Page de profil"
+
+#: includes/class-status.php:346
+msgctxt "Page setting"
+msgid "Register Page"
+msgstr "Page d’Inscription"
+
+#: includes/class-status.php:350
+msgctxt "Page setting"
+msgid "Login Page"
+msgstr "Page de connexion"
+
+#: includes/class-status.php:354
+msgctxt "Page setting"
+msgid "Account Page"
+msgstr "Page du Compte"
+
+#: includes/class-status.php:358
+msgctxt "Page setting"
+msgid "Change Password Page"
+msgstr "Page de modification de mot de passe"
+
+#: includes/class-status.php:362
+msgctxt "Page setting"
+msgid "Forgot Password Page"
+msgstr "Page mot de passe oublié"
+
+#: includes/class-status.php:366
+msgctxt "Page setting"
+msgid "Reset Password Page"
+msgstr "Page de réinitialisation du mot de passe"
+
+#: includes/class-status.php:370
+msgctxt "Page setting"
+msgid "Users List Page"
+msgstr "Page de liste d’utilisateurs"
+
+#: includes/class-user-notifications.php:39
+msgid "Disable account update notification."
+msgstr "Désactiver la notification de mise à jour du compte."
+
+#: includes/class-user-notifications.php:74
+msgid "You will see the options to disable the active notifications for UsersWP and it's add ons."
+msgstr "Vous verrez les options pour désactiver les notifications actives pour UsersWP et ses modules."
+
+#: includes/libraries/class-geodirectory-plugin.php:1180
+#: templates/loop-posts.php:27
+msgid "No %s found."
+msgstr "Aucun %s trouvé."
+
+#: includes/helpers/tabs.php:131
+msgid "Notifications"
+msgstr "Notifications"
+
+#: admin/class-uwp-admin-menus.php:79
+msgid "UsersWP Settings"
+msgstr "Réglages UsersWP"
+
+#: admin/class-admin.php:245
+msgid "Are you sure you wish to delete this field?"
+msgstr "Confirmez-vous la suppression de ce champ ?"
+
+#: admin/settings/class-formbuilder.php:87
+msgid "Click on any box below to add a field of that type on %s form. You must use a fieldset to group your fields."
+msgstr "Cliquez sur n’importe quelle case ci-dessous pour ajouter un champ de ce type sur %s formulaire. Vous devez utiliser un ensemble de champs pour regrouper vos champs."
+
+#: admin/settings/class-formbuilder.php:151
+msgid "Click to expand and view field related settings. You may drag and drop to arrange fields order on %s form too."
+msgstr "Cliquez pour développer et afficher les réglages liés au champ. Vous pouvez aussi glisser-déposer pour organiser l’ordre des champs sur le formulaire %s."
+
+#: admin/settings/class-formbuilder.php:2383
+msgid "Select decimal precision:"
+msgstr "Choisir la précision décimale :"
+
+#: admin/settings/class-uwp-settings-general.php:387
+msgid "Enter Profile Avatar max file size in Kb. e.g. 512 for 512 kb, 1024 for 1 Mb, 2048 for 2 Mb etc. If empty WordPress default (%s) will be used."
+msgstr "Saisir profile Avatar taille de fichier max sans Kb. ex. 512 pour 512 kb, 1024 pour 1 Mo, 2048 pour 2 Mo etc. Si vide, WordPress par défaut (%s) sera utilisé."
+
+#: admin/settings/class-uwp-settings-general.php:396
+msgid "Enter Profile Banner max file size in Kb. e.g. 512 for 512 kb, 1024 for 1 Mb, 2048 for 2 Mb etc. If empty WordPress default (%s) will be used."
+msgstr "Saisir la taille du fichier de bannière de profil sans Kb. ex. 512 pour 512 kb, 1024 pour 1 Mo, 2048 pour 2 Mo etc. Si vide, WordPress par défaut (%s) sera utilisé."
+
+#: includes/class-forms.php:973
+msgid "Account registered successfully. Please login %shere%s"
+msgstr "Compte enregistré avec succès. S’il vous plaît connectez-vous %sici%s"
+
+#: includes/class-profile.php:1509
+msgid "Invalid request!"
+msgstr "Requête non valide !"
+
+#: includes/class-uwp-privacy.php:38
+msgid "Example privacy texts."
+msgstr "Exemples de textes de confidentialité."
+
+#: widgets/login.php:31
+msgid "UWP > Login"
+msgstr "UWP > Connexion"
+
+#: includes/class-uwp-privacy.php:24 includes/class-uwp-privacy.php:27
+msgid "UsersWP User Data"
+msgstr "Données utilisateur/utilisatrice UsersWP"
+
+#: includes/class-uwp-privacy.php:37
+msgid "User data/profile"
+msgstr "Données/profil utilisateur/utilisatrice"
+
+#: includes/class-uwp-privacy.php:39
+msgid "We collect information about you during the registration and edit profile process on our site. This information may include, but is not limited to, your name, email address, phone number, address, IP and any other details that might be requested from you for the purpose of building your public profile."
+msgstr "Nous recueillons des informations vous concernant lors de l’enregistrement et éditons le processus de profil sur notre site. Ces informations peuvent inclure, sans s’y limiter, votre nom, adresse e-mail, numéro de téléphone, adresse, ADRESSE IP et tous les autres détails qui pourraient être demandés auprès de vous dans le but de construire votre profil public."
+
+#: includes/class-uwp-privacy.php:42
+msgid "- Send you important account/order/service information."
+msgstr "- Vous envoyer des informations importantes."
+
+#: includes/class-uwp-privacy.php:43
+msgid "- Display this information in a public facing manner (such as a web page or API request) and allow website users to search and view submitted information."
+msgstr "- Afficher ces informations d’une manière publique (comme une page Web ou une demande d’API) et permettre aux utilisateurs/utilisatrices du site de rechercher et de visualiser les informations soumises."
+
+#: includes/class-uwp-privacy.php:44
+msgid "- Respond to your queries or complaints."
+msgstr "- répondre aux demandes ou réclamations concernant votre annonce."
+
+#: includes/class-uwp-privacy.php:47
+msgid "Any profile information provided to this site may be displayed publicly."
+msgstr "Toute information de profil fournie à ce site peut être affichée publiquement."
+
+#: includes/libraries/class-geodirectory-plugin.php:264
+msgid "Redirect my listing link from GD login box to UsersWP profile"
+msgstr "Rediriger mon lien d’annonce de la boîte de connexion GD au profil UsersWP"
+
+#: includes/libraries/class-geodirectory-plugin.php:271
+msgid "Redirect favorite link from GD login box to UsersWP profile"
+msgstr "Rediriger le lien préféré de la boîte de connexion GD au profil UsersWP"
+
+#: widgets/login.php:34
+msgid "Displays login form or current logged in user."
+msgstr "Affiche le formulaire de connexion ou l’utilisateur/utilisatrice actuellement connecté."
+
+#: widgets/register.php:26
+msgid "UWP > Register"
+msgstr "UWP > Enregistrement"
+
+#: admin/views/html-admin-settings-import-export-users.php:349
+msgid "Allowed Files"
+msgstr "Fichiers autorisés"
+
+#: admin/views/html-admin-settings-import-export-settings.php:3
+msgid "Export Settings"
+msgstr "Exporter les réglages"
+
+#: admin/views/html-admin-settings-import-export-settings.php:27
+#: admin/views/html-admin-settings-import-export-users.php:150
+msgid "Import"
+msgstr "Importer"
+
+#: includes/class-import-export.php:575
+msgid "No csv file found."
+msgstr "Aucun fichier csv trouvé."
+
+#: admin/settings/class-uwp-settings-import-export.php:65
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/settings/class-uwp-settings-import-export.php:25
+msgid "Import/Export"
+msgstr "Importer/Exporter"
+
+#: admin/class-admin.php:300
+msgid "Error while sending activation email. Please try again."
+msgstr "Erreur lors de l’envoi d’e-mails d’activation. S’ll vous plaît, réessayez."
+
+#: admin/class-admin.php:714 admin/class-admin.php:731
+msgid "Resend Activation"
+msgstr "Renvoyer l’Activation"
+
+#: admin/settings/class-uwp-settings-general.php:332
+msgid "Disable system generated password notice."
+msgstr "Désactiver la notification de mot de passe générée par le système."
+
+#: admin/settings/class-uwp-settings-general.php:498
+msgid "Users to exclude"
+msgstr "Utilisateurs/utilisatrices à exclure"
+
+#: admin/views/html-admin-settings-import-export-settings.php:5
+msgid "Export the plugin settings for this site as a .json file. This allows you to easily import the configuration into another site."
+msgstr "Exporter les réglages de l’extension de ce site dans un fichier .json. Ceci vous permet d’importer simplement la configuration sur un autre site."
+
+#: admin/views/html-admin-settings-import-export-settings.php:10
+msgid "Export"
+msgstr "Exporter"
+
+#: admin/views/html-admin-settings-import-export-settings.php:17
+msgid "Import Settings"
+msgstr "Importer les réglages"
+
+#: admin/views/html-admin-settings-import-export-users.php:120
+msgid "Export Users Data"
+msgstr "Exporter les données des utilisateurs"
+
+#: admin/views/html-admin-settings-import-export-users.php:122
+msgid "Download a CSV of all users data for usersWP."
+msgstr "Téléchargez un fichier CSV de toutes les données d’utilisateurs/utilisatrices pour les utilisateurs WP."
+
+#: admin/views/html-admin-settings-import-export-users.php:134
+msgid "Export CSV"
+msgstr "Export CSV"
+
+#: admin/views/html-admin-settings-import-export-users.php:141
+msgid "Import Users"
+msgstr "Importer des utilisateurs"
+
+#: admin/views/html-admin-settings-import-export-users.php:143
+msgid "Import the users data from a .csv file. This file can be obtained by exporting the data on another site using the form above."
+msgstr "Importer les données des utilisateurs/utilisatrices à partir d’un fichier .csv. Ce fichier peut être obtenu en exportant les données sur un autre site en utilisant le formulaire ci-dessus."
+
+#: admin/views/html-admin-settings-import-export-users.php:145
+msgid "Select File"
+msgstr "Choisir fichier"
+
+#: admin/views/html-admin-settings-import-export-users.php:426
+msgid "The file you have uploaded exceeds the file size limit. Please try again."
+msgstr "Le fichier que vous avez téléchargé dépasse la taille maximale autorisée. Veuillez réessayer."
+
+#: admin/views/html-admin-settings-import-export-users.php:430
+msgid "Invalid file uploaded. Please upload .csv file. Please try again."
+msgstr "Fichier non valide téléchargé. Veuillez téléverser fichier .csv. S’ll vous plaît, réessayez."
+
+#: includes/class-import-export.php:74
+msgid "Settings imported successfully!"
+msgstr "Réglages bien importés !"
+
+#: includes/class-import-export.php:113
+msgid "Please upload a valid .json file. %sGo Back%s"
+msgstr "Veuillez téléverser un fichier .json valide. %sRetour%s"
+
+#: includes/class-import-export.php:117
+msgid "Please upload a file to import. %sGo Back%s"
+msgstr "Veuillez téléverser un fichier à importer. %sRetour%s"
+
+#: includes/class-import-export.php:132
+msgid "Invalid export request found."
+msgstr "Requête d’exportation non valide trouvée."
+
+#: includes/class-import-export.php:144 includes/class-import-export.php:504
+msgid "Security check failed."
+msgstr "Échec du test de sécurité."
+
+#: includes/class-import-export.php:181
+msgid "No data found for export."
+msgstr "Aucune donnée trouvée pour l’exportation."
+
+#: includes/class-import-export.php:218
+msgid "Filesystem ERROR: Could not access filesystem."
+msgstr "ERREUR fichier système : Impossible d’accéder au fichier système."
+
+#: includes/class-import-export.php:236
+msgid "Filesystem ERROR: Could not create directory %s. This is usually due to inconsistent file permissions."
+msgstr "ERREUR : N’a pas pu créer le répertoire cache %s. Ceci est généralement dû à des autorisations de fichier incompatibles."
+
+#: includes/class-import-export.php:492
+msgid "Invalid import request found."
+msgstr "Demande d’importation non valide trouvée."
+
+#: includes/class-import-export.php:517
+msgid "Invalid file type, please upload .csv file."
+msgstr "Type de fichier invalide, s’il vous plaît télécharger fichier .csv."
+
+#: includes/class-import-export.php:551
+msgid "Users import completed."
+msgstr "Importation des utilisateurs/utilisatrices terminée."
+
+#: includes/class-import-export.php:558
+msgid "No valid data found for import."
+msgstr "Aucune donnée valide trouvée pour l’importation."
+
+#: includes/libraries/class-geodirectory-plugin.php:1153
+#: includes/libraries/class-geodirectory-plugin.php:1372
+#: includes/libraries/class-geodirectory-plugin.php:1586
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/libraries/class-geodirectory-plugin.php:340 upgrade.php:227
+msgid "Favorites"
+msgstr "Favoris"
+
+#: includes/libraries/class-invoicing-plugin.php:98
+msgid "Invoices"
+msgstr "Factures"
+
+#: includes/libraries/class-geodirectory-plugin.php:320 upgrade.php:211
+msgid "Listings"
+msgstr "Annonces"
+
+#: includes/libraries/class-geodirectory-plugin.php:1840
+msgid "Not published"
+msgstr "Non publié"
+
+#: includes/libraries/class-geodirectory-plugin.php:1828
+msgid "Published"
+msgstr "Publié"
+
+#: admin/settings/class-uwp-settings-general.php:227
+#: templates/bootstrap/forgot.php:77 templates/bootstrap/login.php:82
+#: templates/bootstrap/reset.php:60 templates/forgot.php:17
+#: templates/login.php:22 templates/reset.php:25
+msgid "Create account"
+msgstr "Créer un compte"
+
+#: includes/helpers/tabs.php:87 templates/bootstrap/loop-comments.php:28
+msgid "No %s found"
+msgstr "%s non trouvé"
+
+#: includes/libraries/class-geodirectory-plugin.php:330
+#: includes/libraries/class-geodirectory-plugin.php:1425 upgrade.php:219
+msgid "Reviews"
+msgstr "Avis"
+
+#: includes/libraries/class-geodirectory-plugin.php:1148
+#: includes/libraries/class-geodirectory-plugin.php:1367
+#: includes/libraries/class-geodirectory-plugin.php:1581
+msgid "Edit Listing"
+msgstr "Modifier l’annonce"
+
+#: includes/libraries/class-geodirectory-plugin.php:1157
+#: includes/libraries/class-geodirectory-plugin.php:1376
+#: includes/libraries/class-geodirectory-plugin.php:1590
+msgid "Delete Listing"
+msgstr "Supprimer l’annonce"
+
+#: includes/libraries/class-geodirectory-plugin.php:1845
+msgid "Status: "
+msgstr "Statut : "
+
+#: templates/bootstrap/dashboard-simple.php:6 templates/dashboard-simple.php:6
+msgid "Logged in as "
+msgstr "Connecté en tant que "
+
+#: templates/forgot.php:17 templates/login.php:22 templates/reset.php:25
+msgid "Not a member?"
+msgstr "Pas encore inscrit ?"
+
+#: admin/settings/class-formbuilder.php:409
+#: admin/settings/class-uwp-settings-general.php:173
+#: admin/settings/class-uwp-settings-redirects.php:91
+msgid "Last User Page"
+msgstr "Dernière page utilisateur"
+
+#: includes/class-templates.php:1193
+msgid "Hide profile from the users listing page."
+msgstr "Masquer le profil de la page de liste des utilisateurs."
+
+#: includes/class-templates.php:1209
+msgid "Make the whole profile private"
+msgstr "Rendre l’ensemble du profil privé"
+
+#: includes/helpers/tabs.php:163 templates/bootstrap/dashboard-simple.php:23
+#: templates/bootstrap/dashboard-simple.php:24
+#: templates/bootstrap/dashboard.php:39 templates/dashboard-simple.php:12
+#: templates/dashboard.php:32
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: includes/libraries/class-geodirectory-plugin.php:210
+msgid "GeoDirectory"
+msgstr "GeoDirectory"
+
+#: includes/libraries/class-geodirectory-plugin.php:234
+msgid "GeoDirectory Settings"
+msgstr "Réglages geoDirectory"
+
+#: includes/libraries/class-geodirectory-plugin.php:240
+msgid "CPT listings in profile"
+msgstr "Listes CPT dans le profil"
+
+#: includes/libraries/class-geodirectory-plugin.php:241
+msgid "Choose the post types to show listings tab in UsersWP Profile"
+msgstr "Choisir les types de publication pour afficher l’onglet annonces dans le profil UsersWP"
+
+#: includes/libraries/class-geodirectory-plugin.php:248
+msgid "CPT reviews in profile"
+msgstr "Commentaires du CPT dans le profil"
+
+#: includes/libraries/class-geodirectory-plugin.php:249
+msgid "Choose the post types to show reviews tab in UsersWP Profile"
+msgstr "Choisir les types de publication pour afficher l’onglet avis dans UsersWP Profile"
+
+#: includes/libraries/class-geodirectory-plugin.php:256
+msgid "CPT favorites in profile"
+msgstr "LES favoris du CPT dans le profil"
+
+#: includes/libraries/class-geodirectory-plugin.php:257
+msgid "Choose the post types to show favorites tab in UsersWP Profile"
+msgstr "Choisir les types de publication pour afficher l’onglet favoris dans UsersWP Profile"
+
+#: includes/libraries/class-geodirectory-plugin.php:265
+msgid "If this option is selected, the my listing link from GD loginbox will redirect to listings tab of UsersWP profile."
+msgstr "Si cette option est sélectionnée, le lien Mon annonce de GD loginbox sera redirigé vers l’onglet Annonces du profil UsersWP."
+
+#: includes/libraries/class-geodirectory-plugin.php:272
+msgid "If this option is selected, the favorite link from GD loginbox will redirect to favorites tab of UsersWP profile."
+msgstr "Si cette option est sélectionnée, le lien préféré de GD loginbox sera redirigé vers l’onglet favoris du profil UsersWP."
+
+#: admin/settings/class-uwp-settings-general.php:356
+msgid "Default banner image"
+msgstr "Image de bannière par défaut"
+
+#: admin/settings/class-uwp-settings-general.php:364
+msgid "Default profile image"
+msgstr "Image de profil par défaut"
+
+#: admin/class-admin-setup-wizard.php:474
+#: admin/settings/class-formbuilder.php:1897
+#: admin/settings/class-uwp-settings-profile-tabs.php:814
+#: admin/settings/class-uwp-settings-user-sorting.php:600
+#: includes/class-tools.php:859
+msgid "Remove"
+msgstr "Retirer"
+
+#: admin/settings/class-uwp-settings-emails.php:315
+msgid "Change password email"
+msgstr "E-mail de modification de mot de passe"
+
+#: admin/settings/class-uwp-settings-general.php:357
+msgid "Recommended image size: 1000x300"
+msgstr "Taille d’image recommandée : 1000x300"
+
+#: includes/class-forms.php:1672
+msgid "You have requested to reset your password for the following account:"
+msgstr "Vous avez demandé à réinitialisation de votre mot de passe pour le compte suivant :"
+
+#: includes/class-forms.php:1676
+msgid "To reset your password, click the following link and follow the instructions."
+msgstr "Pour réinitialiser votre mot de passe, cliquez sur le lien suivant et suivez les instructions."
+
+#: admin/settings/class-formbuilder.php:1561
+msgid "If yes is selected then only site admin can see and edit this field."
+msgstr "Si oui est sélectionné, seul l’administrateur du site peut voir et modifier ce champ."
+
+#: includes/class-forms.php:3161
+msgid "Username or Email"
+msgstr "Nom d’utilisateur/utilisatrice ou e-mail"
+
+#: admin/class-admin-setup-wizard.php:379
+msgid "Action"
+msgstr "Action"
+
+#: includes/class-tools.php:211 includes/class-tools.php:305
+#: includes/class-tools.php:583
+msgid "Processed Successfully"
+msgstr "Traité avec succès"
+
+#: admin/settings/class-uwp-settings-general.php:243
+msgid "Redirect wp-login.php?"
+msgstr "Rediriger wp-login.php?"
+
+#: admin/class-uwp-admin-menus.php:108
+msgid "Tools"
+msgstr "Outils"
+
+#: admin/settings/class-formbuilder.php:2451
+msgid "This is mandatory register form field."
+msgstr "C’est un champ de formulaire d’inscription obligatoire."
+
+#: admin/settings/class-formbuilder.php:2475
+msgid "This field is applicable only for register form."
+msgstr "Ce champ ne s’applique qu’aux formulaires d’enregistrement."
+
+#: admin/settings/class-uwp-settings-emails.php:113
+msgid "New account registration"
+msgstr "Création de nouveau compte"
+
+#: includes/class-tools.php:797 includes/class-tools.php:816
+#: includes/class-tools.php:835
+msgid "Run"
+msgstr "Exécuter"
+
+#: includes/class-tools.php:812
+msgid "Fix User Data"
+msgstr "Correction des données utilisateur"
+
+#: includes/class-tools.php:813
+msgid "Fixes User Data if you were using the Beta version."
+msgstr "Corrige les données utilisateur/utilisatrice si vous utilisez la version bêta."
+
+#: includes/helpers/misc.php:1500
+msgid "Fieldset"
+msgstr "Section"
+
+#: widgets/register.php:29
+msgid "Displays register form."
+msgstr "Affiche le formulaire de registre."
+
+#: admin/settings/class-uwp-settings-user-sorting.php:277
+#: includes/class-activator.php:608
+msgid "First Name"
+msgstr "Prénom"
+
+#: includes/class-forms.php:1660
+msgid "Password: %s"
+msgstr "Mot de passe : %s"
+
+#: includes/class-activator.php:435
+msgid "Avatar"
+msgstr "Avatar"
+
+#: includes/class-activator.php:689
+msgid "Bio"
+msgstr "Bio"
+
+#: templates/bootstrap/modal-profile-image-crop.php:31
+#: templates/bootstrap/modal-profile-image.php:74
+#: templates/modal-profile-image-crop.php:47
+#: templates/modal-profile-image.php:50
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/class-templates.php:1103
+msgid "Field"
+msgstr "Champ"
+
+#: admin/settings/class-uwp-settings-general.php:28
+msgid "General"
+msgstr "Général"
+
+#. Author URI of the plugin
+msgid "https://userswp.io"
+msgstr "https://userswp.io"
+
+#. Plugin URI of the plugin
+msgid "https://userswp.io/"
+msgstr "https://userswp.io/"
+
+#: templates/forgot.php:15 templates/register.php:21 templates/reset.php:23
+msgid "Login here"
+msgstr "Connectez-vous ici"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:247 upgrade.php:51
+msgid "Newer"
+msgstr "Plus récent"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:257 upgrade.php:61
+msgid "Older"
+msgstr "Plus ancien"
+
+#: includes/class-profile.php:777
+msgid "Page"
+msgstr "Page"
+
+#: includes/class-pages.php:326
+msgctxt "page_slug"
+msgid "account"
+msgstr "compte"
+
+#: includes/class-pages.php:325
+msgctxt "page_slug"
+msgid "login"
+msgstr "connexion"
+
+#: includes/class-pages.php:330
+msgctxt "page_slug"
+msgid "profile"
+msgstr "profil"
+
+#: admin/settings/class-uwp-settings-general.php:73
+#: admin/settings/class-uwp-settings-general.php:309
+#: includes/class-pages.php:330 templates/bootstrap/change.php:50
+#: templates/change.php:15
+msgid "Profile"
+msgstr "Profil"
+
+#: admin/settings/class-uwp-settings-uninstall.php:28
+msgid "Uninstall"
+msgstr "Désinstaller"
+
+#: templates/modal-profile-image.php:32
+msgid "Upload"
+msgstr "Téléverser"
+
+#. Plugin Name of the plugin
+#: admin/class-admin.php:272 admin/class-uwp-admin-menus.php:80
+#: admin/menus/class-menus.php:291 includes/class-uwp-compatibility.php:67
+#: includes/class-uwp-privacy.php:17
+msgid "UsersWP"
+msgstr "UsersWP"
+
+#: widgets/account.php:34 widgets/authorbox.php:34 widgets/change.php:34
+#: widgets/forgot.php:34 widgets/login.php:38 widgets/profile.php:35
+#: widgets/register.php:50 widgets/reset.php:34 widgets/users.php:34
+msgid "Widget title"
+msgstr "Titre du Widget"
+
+#: admin/class-admin.php:408
+msgid "You can change your profile picture on your <a href=\"%s\">Profile Page</a>."
+msgstr "Vous pouvez modifier votre photo de profil sur votre <a href=\"%s\">page de profil</a>."
+
+#: admin/class-admin.php:645
+msgid "Change Avatar"
+msgstr "Modifier l’avatar"
+
+#: admin/class-admin.php:647 templates/bootstrap/modal-profile-image.php:16
+msgid "Upload Avatar"
+msgstr "Télécharger l’avatar à partir du fichier"
+
+#: admin/class-admin.php:657
+msgid "Change Banner"
+msgstr "Modifier de bannière"
+
+#: admin/class-admin.php:659 templates/bootstrap/modal-profile-image.php:19
+msgid "Upload Banner"
+msgstr "Télécharger une bannière"
+
+#: admin/class-uwp-admin-menus.php:91 admin/class-uwp-admin-menus.php:92
+msgid "Form Builder"
+msgstr "Constructeur de formulaire"
+
+#: admin/settings/class-formbuilder.php:388
+msgid "Select how registration should be handled."
+msgstr "Choisir la façon dont l’inscription doit être traitée."
+
+#: admin/settings/class-formbuilder.php:425
+msgid "Set the page to redirect the user to after signing up. If default redirect has been set then WordPress default will be used."
+msgstr "Définir la page vers la redirection vers l’utilisateur/utilisatrice après l’inscription. Si la redirection par défaut a été définie, la valeur par défaut de WordPress sera utilisée."
+
+#: admin/settings/class-formbuilder.php:470 templates/profile-header.php:77
+#: templates/user-avatar.php:39
+msgid "Update"
+msgstr "Mettre à jour "
+
+#: admin/settings/class-settings.php:384 includes/class-files.php:356
+msgid "Remove Image"
+msgstr "Retirer l’image"
+
+#: admin/settings/class-uwp-settings-general.php:71
+#: admin/settings/class-uwp-settings-general.php:299
+#: includes/class-emails.php:300 includes/class-forms.php:4559
+#: includes/class-pages.php:325 templates/bootstrap/forgot.php:66
+#: templates/bootstrap/login.php:11 templates/bootstrap/login.php:68
+#: templates/bootstrap/register.php:65 templates/bootstrap/reset.php:49
+#: templates/login.php:7 templates/login.php:19 widgets/login.php:50
+#: widgets/login.php:141
+msgid "Login"
+msgstr "Se connecter"
+
+#: admin/settings/class-uwp-settings-general.php:72
+#: includes/class-account.php:42 includes/class-pages.php:329
+#: includes/helpers/misc.php:572 includes/helpers/tabs.php:127
+#: templates/bootstrap/change.php:15 widgets/change.php:47
+#: widgets/change.php:95
+msgid "Change Password"
+msgstr "Modifier le mot de passe"
+
+#: admin/settings/class-uwp-settings-general.php:74
+#: admin/settings/class-uwp-settings-import-export.php:64
+#: includes/class-pages.php:331
+msgid "Users"
+msgstr "Utilisateurs/utilisatrices"
+
+#: admin/settings/class-uwp-settings-general.php:205
+#: admin/settings/class-uwp-settings-redirects.php:126
+msgid "Login Redirect Page"
+msgstr "Page de redirection de connexion"
+
+#: admin/settings/class-uwp-settings-general.php:206
+#: admin/settings/class-uwp-settings-redirects.php:127
+msgid "Set the page to redirect the user to after logging in. If default redirect has been set then WordPress default will be used."
+msgstr "Définissez la page vers la redirection vers l’utilisateur/utilisatrice après s’être connecté. Si la redirection par défaut a été définie, la valeur par défaut de WordPress sera utilisée."
+
+#: admin/settings/class-uwp-settings-general.php:260
+#: admin/settings/class-uwp-settings-redirects.php:146
+msgid "Logout Redirect Page"
+msgstr "Déconnexion de la page de redirection"
+
+#: admin/settings/class-uwp-settings-general.php:261
+#: admin/settings/class-uwp-settings-redirects.php:147
+msgid "Set the page to redirect the user to after logging out. If no page has been set WordPress default will be used."
+msgstr "Définir la page pour rediriger l’utilisateur/utilisatrice après s’être déconnecté. Si aucune page n’a été définie, WordPress par défaut sera utilisé."
+
+#: admin/settings/class-uwp-settings-user-sorting.php:267
+#: includes/class-activator.php:657
+msgid "Display Name"
+msgstr "Nom affiché"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:287
+#: includes/class-activator.php:624
+msgid "Last Name"
+msgstr "Nom"
+
+#: includes/class-account.php:32
+msgid "Update Account"
+msgstr "Mettre à jour le compte"
+
+#: includes/class-activator.php:473
+msgid "Banner"
+msgstr "Appel à l’action"
+
+#: includes/class-activator.php:511
+msgid "Old Password"
+msgstr "Ancien mot de passe"
+
+#: includes/class-activator.php:524
+msgid "New Password"
+msgstr "Nouveau mot de passe"
+
+#: includes/class-activator.php:537 includes/class-activator.php:579
+#: includes/class-forms.php:4294
+msgid "Confirm Password"
+msgstr "Confirmez le mot de passe"
+
+#: includes/class-date.php:150
+msgid "January"
+msgstr "Janvier"
+
+#: includes/class-date.php:151
+msgid "February"
+msgstr "Février"
+
+#: includes/class-date.php:152
+msgid "March"
+msgstr "Mars"
+
+#: includes/class-date.php:153
+msgid "April"
+msgstr "Avril"
+
+#: includes/class-date.php:154
+msgid "May"
+msgstr "Mai"
+
+#: includes/class-date.php:155
+msgid "June"
+msgstr "Juin"
+
+#: includes/class-date.php:156
+msgid "July"
+msgstr "Juillet"
+
+#: includes/class-date.php:157
+msgid "August"
+msgstr "Août"
+
+#: includes/class-date.php:158
+msgid "September"
+msgstr "Septembre"
+
+#: includes/class-date.php:159
+msgid "October"
+msgstr "Octobre"
+
+#: includes/class-date.php:160
+msgid "November"
+msgstr "Novembre"
+
+#: includes/class-date.php:161
+msgid "December"
+msgstr "Décembre"
+
+#: includes/class-date.php:182
+msgctxt "January abbreviation"
+msgid "Jan"
+msgstr "Jan"
+
+#: includes/class-date.php:183
+msgctxt "February abbreviation"
+msgid "Feb"
+msgstr "Fév"
+
+#: includes/class-date.php:184
+msgctxt "March abbreviation"
+msgid "Mar"
+msgstr "Mar"
+
+#: includes/class-date.php:185
+msgctxt "April abbreviation"
+msgid "Apr"
+msgstr "Avr"
+
+#: includes/class-date.php:186
+msgctxt "May abbreviation"
+msgid "May"
+msgstr "Mai"
+
+#: includes/class-date.php:187
+msgctxt "June abbreviation"
+msgid "Jun"
+msgstr "Juin"
+
+#: includes/class-date.php:188
+msgctxt "July abbreviation"
+msgid "Jul"
+msgstr "Juil"
+
+#: includes/class-date.php:189
+msgctxt "August abbreviation"
+msgid "Aug"
+msgstr "Août"
+
+#: includes/class-date.php:190
+msgctxt "September abbreviation"
+msgid "Sep"
+msgstr "Sep"
+
+#: includes/class-date.php:191
+msgctxt "October abbreviation"
+msgid "Oct"
+msgstr "Oct"
+
+#: includes/class-date.php:192
+msgctxt "November abbreviation"
+msgid "Nov"
+msgstr "Nov"
+
+#: includes/class-date.php:193
+msgctxt "December abbreviation"
+msgid "Dec"
+msgstr "Déc"
+
+#: includes/class-files.php:50
+msgid "Allowed files types are: %s"
+msgstr "Autorisées sont des types de fichiers suivants : %s"
+
+#: includes/class-files.php:200
+msgid "\"%s\" (filetype %s) needs to be one of the following file types: %s"
+msgstr "\"%s\" (type de fichier %s) doit être un des types de fichier suivants : %s"
+
+#: includes/class-files.php:202
+msgid "Uploaded files need to be one of the following file types: %s"
+msgstr "Les fichiers téléversés doivent être d’un de ces formats : %s"
+
+#: includes/class-files.php:365
+msgid "Remove File"
+msgstr "Supprimer le fichier"
+
+#: includes/class-forms.php:66 includes/class-forms.php:80
+msgid "Avatar cropped successfully."
+msgstr "Avatar bien recadré."
+
+#: includes/class-forms.php:73 includes/class-forms.php:87
+msgid "Banner cropped successfully."
+msgstr "Bannière recadrée avec succès."
+
+#: includes/class-forms.php:494
+msgid "We have removed the system generated password warning for you. From this point forward you can continue to access our site as usual. To go to home page, <a href=\"%s\">click here</a>."
+msgstr "Nous avons supprimé l’avertissement de mot de passe généré par le système pour vous. Désormais vous pouvez continuer à accéder à notre site comme d’habitude. Pour aller à la page d’accueil, <a href=\"%s\">cliquez ici</a>."
+
+#: includes/class-forms.php:812 includes/helpers/forms.php:270
+msgid "To activate your account, visit the following address:"
+msgstr "Pour activer votre compte, visitez l’adresse suivante :"
+
+#: includes/class-forms.php:844 includes/class-forms.php:1658
+msgid "Your login Information :"
+msgstr "Vos informations de connexion :"
+
+#: includes/class-forms.php:951
+msgid "An email has been sent to your registered email address. Please click the activation link to proceed. %sResend%s."
+msgstr "Un e-mail a été envoyé à l’adresse e-mail enregistrée. Veuillez cliquer sur le lien d’activation pour continuer.  %sResend%s."
+
+#: includes/class-forms.php:963
+msgid "Your account is under moderation. We will email you once its approved."
+msgstr "Votre compte est sous modération. Nous vous enverrons un e-mail une fois approuvé."
+
+#: includes/class-forms.php:1659 includes/class-forms.php:1674
+msgid "Username: %s"
+msgstr "Utilisateur/utilisatrice : %s"
+
+#: includes/class-forms.php:1675
+msgid "If this was by mistake, just ignore this email and nothing will happen."
+msgstr "Si c’était par erreur, il suffit d’ignorer cet e-mail et rien ne se passera."
+
+#: includes/class-forms.php:1705
+msgid "Please check your email."
+msgstr "Veuillez vérifiez votre e-mail."
+
+#: includes/class-forms.php:1787
+msgid "Password changed successfully."
+msgstr "Mot de passe changé avec succès."
+
+#: includes/class-forms.php:1879
+msgid "Password updated successfully. Please <a href=\"%s\">login</a> with your new password."
+msgstr "Mot de passe mis à jour avec succès. Veuillez <a href=\"%s\">vous connecter</a> avec votre nouveau mot de passe."
+
+#: includes/class-forms.php:2079
+msgid "Account updated successfully."
+msgstr "Compte mis à jour avec succès."
+
+#: includes/class-forms.php:3533
+msgid "Please enter a valid URL including http://"
+msgstr "Saisir une URL valide, y compris http: //"
+
+#: includes/class-forms.php:4384
+msgid "Confirm Email"
+msgstr "Confirmez votre e-mail"
+
+#: includes/class-notices.php:48
+msgid "Account activated successfully. Please login to continue."
+msgstr "Compte activé avec succès. S’il vous plaît connectez-vous pour continuer."
+
+#: includes/class-notices.php:72
+msgid "Your account is not activated yet. Please check your email for activation email."
+msgstr "Votre compte n’est pas encore activé. Vérifiez votre boite e-mail pour l’e-mail d’activation."
+
+#: includes/class-notices.php:76 includes/class-notices.php:80
+msgid "Invalid activation key or account."
+msgstr "Clé d’activation ou compte invalide."
+
+#: includes/class-pages.php:195
+msgid "Select a Page"
+msgstr "Choisir une page"
+
+#: includes/class-pages.php:324
+msgctxt "page_slug"
+msgid "register"
+msgstr "s’inscrire"
+
+#: includes/class-pages.php:327
+msgctxt "page_slug"
+msgid "forgot"
+msgstr "oublié"
+
+#: includes/class-pages.php:327 templates/bootstrap/forgot.php:11
+#: templates/forgot.php:7 widgets/forgot.php:47 widgets/forgot.php:95
+msgid "Forgot Password?"
+msgstr "Mot de passe oublié ?"
+
+#: includes/class-pages.php:328
+msgctxt "page_slug"
+msgid "reset"
+msgstr "réinitialiser"
+
+#: includes/class-pages.php:328 templates/bootstrap/reset.php:8
+#: templates/reset.php:3 widgets/reset.php:47 widgets/reset.php:83
+msgid "Reset Password"
+msgstr "Réinitialiser le mot de passe"
+
+#: includes/class-pages.php:329
+msgctxt "page_slug"
+msgid "change"
+msgstr "changer"
+
+#: includes/class-pages.php:331
+msgctxt "page_slug"
+msgid "users"
+msgstr "utilisateurs/utilisatrices"
+
+#: includes/class-profile.php:131 includes/helpers/tabs.php:123
+#: templates/account.php:13 templates/bootstrap/account.php:45
+#: templates/profile-tabs.php:54 widgets/account.php:47
+msgid "Edit Account"
+msgstr "Modifier le compte"
+
+#: includes/class-profile.php:1463
+msgid "The uploaded file is too small. Minimum image width should be %s px"
+msgstr "Le fichier téléchargé est trop petit. La largeur minimale de l’image doit être de %s px"
+
+#: includes/class-profile.php:1466
+msgid "The uploaded file is too small. Minimum image height should be %s px"
+msgstr "Le fichier téléchargé est trop petit. La hauteur minimale de l’image doit être de %s px"
+
+#: includes/class-profile.php:1530
+msgid "No fields available"
+msgstr "Pas de champs disponible"
+
+#: includes/class-profile.php:1694
+msgid "Loading Form ..."
+msgstr "Chargement du formulaire…"
+
+#: includes/class-templates.php:1106
+msgid "Is Public?"
+msgstr "Est public ?"
+
+#: includes/class-templates.php:1142 includes/helpers/misc.php:566
+#: includes/helpers/tabs.php:135
+msgid "Privacy"
+msgstr "Confidentialité"
+
+#: includes/class-templates.php:1217 includes/class-user-notifications.php:69
+#: templates/bootstrap/change.php:29 templates/bootstrap/forgot.php:54
+#: templates/bootstrap/reset.php:33 templates/change.php:13
+#: templates/forgot.php:13 templates/reset.php:17
+msgid "Submit"
+msgstr "Envoyer"
+
+#: includes/class-validation.php:219
+msgid "<strong>Error</strong>: This email doesn't exists."
+msgstr "</strong>Erreur <strong> L’e-mail n’existe pas."
+
+#: includes/class-validation.php:315
+msgid "<strong>Error</strong>: Please fill Confirm Email field"
+msgstr "<strong> Erreur </strong> S’il vous plaît, veuillez remplir le champ de confirmation d’e-mail"
+
+#: includes/class-validation.php:329
+msgid "Please enter a password"
+msgstr "Veuillez saisir un mot de passe"
+
+#: includes/helpers/forms.php:354
+msgid "Require Email Activation"
+msgstr "Nécessite une activation par e-mail"
+
+#: includes/helpers/misc.php:1314
+msgid "Something went wrong."
+msgstr "Quelque chose s’est mal passé."
+
+#: templates/bootstrap/login.php:59 templates/login.php:16
+msgid "Remember Me"
+msgstr "Se souvenir de moi"
+
+#: templates/bootstrap/modal-profile-image-crop.php:16
+#: templates/bootstrap/modal-profile-image.php:15
+#: templates/modal-profile-image-crop.php:19
+#: templates/modal-profile-image.php:19
+msgid "Change your profile photo"
+msgstr "Changez votre photo de profil"
+
+#: templates/bootstrap/modal-profile-image-crop.php:18
+#: templates/bootstrap/modal-profile-image.php:18
+#: templates/modal-profile-image-crop.php:21
+#: templates/modal-profile-image.php:21
+msgid "Change your cover photo"
+msgstr "Changez votre image de couverture"
+
+#: templates/bootstrap/modal-profile-image-crop.php:80
+#: templates/bootstrap/modal-profile-image.php:101
+#: templates/modal-profile-image-crop.php:43
+#: templates/modal-profile-image.php:46
+msgid "Apply"
+msgstr "Aplliquer"
+
+#: templates/bootstrap/register.php:52 templates/register.php:17
+msgid "Create Account"
+msgstr "Créer un compte"
+
+#: templates/bootstrap/reset.php:39 templates/reset.php:20
+msgid "You can not access this page directly. Follow the password reset link you received in your email. To request new password reset link <a href=\"%s\">visit here</a>."
+msgstr "Vous ne pouvez pas accéder directement à cette page. Suivez le lien de réinitialisation de mot de passe que vous avez reçu dans votre e-mail. Pour demander un nouveau lien de réinitialisation de mot de passe <a href=\"%s\">voir ici</a>."
+
+#: templates/loop-comments.php:28
+msgid "No comments found"
+msgstr "Aucun commentaire"
+
+#: templates/modal-profile-image.php:33
+msgid "Note: Max upload image size: "
+msgstr "Remarque : taille maximale d’image importée :"
+
+#: templates/profile-header.php:54 templates/user-cover.php:42
+msgid "Update Cover Photo"
+msgstr "Remplacer l’image de la couverture"
+
+#: templates/users-actions.php:34
+msgid "Sort By:"
+msgstr "Trier par :"
+
+#. Author of the plugin
+msgid "AyeCode Ltd"
+msgstr "AyeCode SA"
+
+#: admin/settings/class-formbuilder.php:41
+#: admin/settings/class-uwp-settings-general.php:75
+#: admin/settings/class-uwp-settings-general.php:319
+#: includes/class-pages.php:326 templates/bootstrap/change.php:39
+#: templates/change.php:15 widgets/account.php:95
+msgid "Account"
+msgstr "Compte"
+
+#: admin/menus/class-menus.php:173 admin/menus/class-menus.php:314
+msgid "Log out"
+msgstr "Se déconnecter"
+
+#: includes/class-uwp-defaults.php:143
+msgid "[#site_name#] - Your new password"
+msgstr "[#site_name#] - Votre nouveau mot de passe"
+
+#: includes/class-uwp-defaults.php:171
+msgid "[#site_name#] - Password has been changed"
+msgstr "[#site_name#] - Le mot de passe a été modifié"
+
+#: includes/class-uwp-defaults.php:199
+msgid "[#site_name#] - Password has been reset"
+msgstr "[#site_name#] - Le mot de passe a été réinitialisé"
+
+#: admin/menus/class-menus.php:106
+msgid "Add to menu"
+msgstr "Ajouter au menu"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:409
+#: includes/class-profile.php:941 templates/bootstrap/loop-comments.php:9
+#: templates/loop-comments.php:9 upgrade.php:203
+msgid "Comments"
+msgstr "Commentaires"
+
+#: admin/menus/class-menus.php:49 admin/menus/class-menus.php:61
+msgid "Common"
+msgstr "Commun"
+
+#: admin/menus/class-menus.php:62
+msgid "Common links are visible to everyone."
+msgstr "Les liens communs sont visibles par tous."
+
+#: admin/settings/class-formbuilder.php:2111
+#: includes/libraries/class-geodirectory-plugin.php:1162
+#: includes/libraries/class-geodirectory-plugin.php:1381
+#: includes/libraries/class-geodirectory-plugin.php:1595
+msgid "Delete"
+msgstr "Supprimer"
+
+#: admin/settings/class-uwp-settings-general.php:379
+msgid "Display body in profile"
+msgstr "Afficher le corps dans le profil"
+
+#: admin/settings/class-formbuilder.php:1056 includes/class-activator.php:406
+#: includes/class-activator.php:673
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/menus/class-menus.php:52 admin/menus/class-menus.php:73
+msgid "Logged-In"
+msgstr "Connecté"
+
+#: admin/menus/class-menus.php:55 admin/menus/class-menus.php:86
+msgid "Logged-Out"
+msgstr "Déconnecté"
+
+#: admin/settings/class-formbuilder.php:1600 includes/class-profile.php:467
+#: includes/class-templates.php:1124
+msgid "No"
+msgstr "Non"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:401
+#: includes/class-profile.php:900 upgrade.php:187
+msgid "Posts"
+msgstr "Publications"
+
+#: widgets/output-location.php:92
+msgid "Profile side"
+msgstr "Côté profil"
+
+#: admin/settings/class-formbuilder.php:1599 includes/class-profile.php:465
+#: includes/class-templates.php:1125
+msgid "Yes"
+msgstr "Oui"
+
+#: admin/settings/class-formbuilder.php:1014
+msgid "Date"
+msgstr "Date"
+
+#: admin/settings/class-formbuilder.php:1007
+msgid "Text"
+msgstr "Texte"
+
+#: admin/settings/class-formbuilder.php:653
+msgid "Country"
+msgstr "Pays"
+
+#: admin/class-admin-setup-wizard.php:239
+#: admin/class-admin-setup-wizard.php:244
+msgid "General Settings"
+msgstr "Mise en page globale"
+
+#: admin/class-admin.php:242
+msgid "Option Values must not be blank"
+msgstr "Les valeurs d’option ne doivent pas être vides"
+
+#: admin/class-admin.php:246
+msgid "This field is required."
+msgstr "Ce champ est nécessaire."
+
+#: admin/menus/class-menus.php:74
+msgid "Logged-In links are not visible to visitors who are not logged in."
+msgstr "Liens connectés ne sont pas visibles pour les visiteurs qui ne sont pas connectés."
+
+#: admin/menus/class-menus.php:87
+msgid "Logged-Out links are not visible to users who are logged in."
+msgstr "Liens rapides enregistrées ne sont pas visibles pour les utilisateurs/utilisatrices qui sont connectés."
+
+#: admin/settings/class-formbuilder.php:42
+#: admin/settings/class-uwp-settings-general.php:70
+#: includes/class-pages.php:324 templates/bootstrap/register.php:11
+#: templates/register.php:3 widgets/register.php:63 widgets/register.php:119
+msgid "Register"
+msgstr "S’inscrire"
+
+#: admin/settings/class-formbuilder.php:82
+msgid "Add new form field"
+msgstr "Ajouter nouveau champ"
+
+#: admin/settings/class-formbuilder.php:112
+msgid "Predefined Fields"
+msgstr "Champs prédéfinis"
+
+#: admin/settings/class-formbuilder.php:515
+msgid "Register Form Shortcode:"
+msgstr "Code court du formulaire d’inscription :"
+
+#: admin/settings/class-formbuilder.php:594
+msgid "Fieldset (section separator)"
+msgstr "Groupe de champs (séparateur de sections)"
+
+#: admin/settings/class-formbuilder.php:595
+msgid "This adds a section separator with a title."
+msgstr "Cela ajoute un séparateur de section avec un titre."
+
+#: admin/settings/class-formbuilder.php:636
+msgid "There are no custom fields here yet."
+msgstr "Il n’y a pas encore de champs personnalisé."
+
+#: admin/settings/class-formbuilder.php:654
+msgid "Adds a input for Country field."
+msgstr "Ajoute une entrée pour le champ Pays."
+
+#: admin/settings/class-formbuilder.php:674
+msgid "Gender"
+msgstr "Sexe"
+
+#: admin/settings/class-formbuilder.php:675
+msgid "Adds a input for Gender field."
+msgstr "Ajoute une entrée pour le champ Genre."
+
+#: admin/settings/class-formbuilder.php:722
+msgid "Mobile"
+msgstr "Mobile"
+
+#: admin/settings/class-formbuilder.php:723
+msgid "Adds a input for Mobile field."
+msgstr "Ajoute une entrée pour le champ mobile."
+
+#: admin/settings/class-formbuilder.php:1008
+msgid "Add any sort of text field, text or numbers"
+msgstr "Ajoute tout type de champ de texte ou de chiffres"
+
+#: admin/settings/class-formbuilder.php:1015
+msgid "Adds a date picker."
+msgstr "Ajoutez une sélecteur de date."
+
+#: admin/settings/class-formbuilder.php:1021
+msgid "Textarea"
+msgstr "Zone de texte"
+
+#: admin/settings/class-formbuilder.php:1022
+msgid "Adds a textarea"
+msgstr "Ajoute une zone de texte"
+
+#: admin/settings/class-formbuilder.php:1028
+msgid "Time"
+msgstr "Horaire"
+
+#: admin/settings/class-formbuilder.php:1029
+msgid "Adds a time picker"
+msgstr "Ajoutez un sélecteur de temps"
+
+#: admin/settings/class-formbuilder.php:1035
+msgid "Checkbox"
+msgstr "Case à cocher"
+
+#: admin/settings/class-formbuilder.php:1036
+msgid "Adds a checkbox"
+msgstr "Ajoutez une case à cocher"
+
+#: admin/settings/class-formbuilder.php:1042
+msgid "Phone"
+msgstr "Téléphone"
+
+#: admin/settings/class-formbuilder.php:1043
+msgid "Adds a phone input"
+msgstr "Ajoutez un champ téléphone"
+
+#: admin/settings/class-formbuilder.php:1049
+msgid "Radio"
+msgstr "Boutons radio"
+
+#: admin/settings/class-formbuilder.php:1050
+msgid "Adds a radio input"
+msgstr "Ajoutez un bouton radio"
+
+#: admin/settings/class-formbuilder.php:1062
+#: admin/settings/class-formbuilder.php:2387
+msgid "Select"
+msgstr "Choisir"
+
+#: admin/settings/class-formbuilder.php:1063
+msgid "Adds a select input"
+msgstr "Ajoutez un choix de sélection"
+
+#: admin/settings/class-formbuilder.php:1069
+msgid "Multi Select"
+msgstr "Sélection multiple"
+
+#: admin/settings/class-formbuilder.php:1070
+msgid "Adds a multiselect input"
+msgstr "Ajoutez une sélection multiple"
+
+#: admin/settings/class-formbuilder.php:1076
+msgid "URL"
+msgstr "URL"
+
+#: admin/settings/class-formbuilder.php:1077
+msgid "Adds a url input"
+msgstr "Ajoute zun champ d’URL"
+
+#: admin/settings/class-formbuilder.php:1090
+msgid "File Upload"
+msgstr "Téléversement de fichier"
+
+#: admin/settings/class-formbuilder.php:1091
+msgid "Adds a file input"
+msgstr "Ajoute une entrée de fichier"
+
+#: admin/settings/class-formbuilder.php:1322
+#: admin/settings/class-formbuilder.php:2026
+msgid "Fieldset:"
+msgstr "Groupe de champs :"
+
+#: admin/settings/class-formbuilder.php:1389
+msgid "This will be the label for the field."
+msgstr "Ce sera l’étiquette pour le champ."
+
+#: admin/settings/class-formbuilder.php:1417
+msgid "Form Label: (Optional)"
+msgstr "Étiquette de formulaire : (facultatif)"
+
+#: admin/settings/class-formbuilder.php:1472
+msgid "This is a unique identifier used in the HTML, it MUST NOT contain spaces or special characters."
+msgstr "C’est un identifiant unique utilisé dans le HTML, il NE DOIT PAS contenir d’espaces ou de caractères spéciaux."
+
+#: admin/settings/class-formbuilder.php:1477
+msgid "Must not contain spaces or special characters"
+msgstr "Ne doit pas contenir d’espace ou de caractère spécial"
+
+#: admin/settings/class-formbuilder.php:1533
+msgid "If no is selected then the field will not be displayed anywhere."
+msgstr "Si \"non\" est sélectionné, le champ ne s’affiche pas n’importe où."
+
+#: admin/settings/class-formbuilder.php:1534
+msgid "Is active :"
+msgstr "Est actif :"
+
+#: admin/settings/class-formbuilder.php:1589
+msgid "If no is selected then the field will not be visible to other users."
+msgstr "Si non est sélectionné, le champ ne sera pas visible par les autres utilisateurs."
+
+#: admin/settings/class-formbuilder.php:1590
+msgid "Is Public :"
+msgstr "Est public :"
+
+#: admin/settings/class-formbuilder.php:1601
+msgid "Let User Decide"
+msgstr "Laissez l’utilisateur/utilisatrice décider"
+
+#: admin/settings/class-formbuilder.php:1626
+msgid "Should the checkbox be checked by default?"
+msgstr "La case doit-elle être cochée par défaut ?"
+
+#: admin/settings/class-formbuilder.php:1630
+msgid "A default value for the field, usually blank. (for links this will be used as the link text)"
+msgstr "Valeur par défaut pour le champ, généralement vide. (pour les liens, cela sera utilisé comme texte de lien)"
+
+#: admin/settings/class-formbuilder.php:1635
+msgid "Default value :"
+msgstr "Valeur par défaut :"
+
+#: admin/settings/class-formbuilder.php:1640
+msgid "Unchecked"
+msgstr "Non vérifié"
+
+#: admin/settings/class-formbuilder.php:1641
+msgid "Checked"
+msgstr "Coché"
+
+#: admin/settings/class-formbuilder.php:1645
+msgid "info@mysite.com"
+msgstr "info@mysite.com"
+
+#: admin/settings/class-formbuilder.php:1685
+msgid "Select yes to set field as required"
+msgstr "Choisir oui pour mettre le champ comme nécessaire"
+
+#: admin/settings/class-formbuilder.php:1686
+msgid "Is required :"
+msgstr "Est nécessaire :"
+
+#: admin/settings/class-formbuilder.php:1718
+msgid "Enter text for the error message if the field is required and has not fulfilled the requirements."
+msgstr "Saisir le texte pour le message d’erreur si le champ est nécessaire et n’a pas rempli les conditions nécessairees."
+
+#: admin/settings/class-formbuilder.php:1719
+msgid "Required message:"
+msgstr "Message nécessaire :"
+
+#: admin/settings/class-formbuilder.php:1788
+msgid "Enter custom css class for field custom style."
+msgstr "Saisir une classe CSS personnalisée pour le style personnalisé de champ."
+
+#: admin/settings/class-formbuilder.php:1790
+msgid "(Enter class `uwp-comma-list` to show list as comma separated)"
+msgstr "(Saisir la classe ’uwp-comma-list’ pour afficher la liste en tant que virgule séparée)"
+
+#: admin/settings/class-formbuilder.php:1797
+msgid "CSS class :"
+msgstr "Classe CSS :"
+
+#: admin/settings/class-formbuilder.php:1824
+msgid "Select in what locations you want to display this field."
+msgstr "Choisir dans quels emplacements vous souhaitez afficher ce champ."
+
+#: admin/settings/class-formbuilder.php:1860
+msgid "Select locations"
+msgstr "Choisir les structures"
+
+#: admin/settings/class-formbuilder.php:1890
+#: admin/settings/class-formbuilder.php:2107
+#: admin/settings/class-uwp-settings-profile-tabs.php:812
+#: admin/settings/class-uwp-settings-user-sorting.php:596
+msgid "Save"
+msgstr "Enregistrer"
+
+#: admin/settings/class-formbuilder.php:2146
+msgid "Option Values should be separated by comma."
+msgstr "Valeurs options doivent être séparées par des virgules."
+
+#: admin/settings/class-formbuilder.php:2160
+msgid "Option Values :"
+msgstr "Valeurs de l’option :"
+
+#: admin/settings/class-formbuilder.php:2167
+msgid "A full country list will be shown"
+msgstr "Une liste complète des pays sera affichée"
+
+#: admin/settings/class-formbuilder.php:2195
+msgid "Select the date format."
+msgstr "Choisir le format de date."
+
+#: admin/settings/class-formbuilder.php:2196
+msgid "Date Format :"
+msgstr "Format de date :"
+
+#: admin/settings/class-formbuilder.php:2247
+msgid "Lets you display confirm password form field."
+msgstr "Vous permet d’afficher le champ de formulaire de mot de passe confirmé."
+
+#: admin/settings/class-formbuilder.php:2278
+msgid "Lets you display confirm email form field."
+msgstr "Vous permet d’afficher le champ du formulaire de confirmation de l’e-mail."
+
+#: admin/settings/class-formbuilder.php:2307
+msgid "Select file types to allowed for file uploading. (Select multiple file types by holding down \"Ctrl\" key.)"
+msgstr "Choisir les types de fichiers autorisés à pour le téléchargement. (Choisir plusieurs types de fichiers en maintenant Ctrl)"
+
+#: admin/settings/class-formbuilder.php:2308
+msgid "Allowed file types :"
+msgstr "Types de fichiers autorisés :"
+
+#: admin/settings/class-formbuilder.php:2313
+msgid "All types"
+msgstr "Tous les types"
+
+#: admin/settings/class-formbuilder.php:2316
+msgid "%s formats"
+msgstr "%s formats"
+
+#: admin/settings/class-formbuilder.php:2345
+msgid "Select Custom Field type"
+msgstr "Choisir un type de champ personnalisé"
+
+#: admin/settings/class-formbuilder.php:2346
+msgid "Field Data Type:"
+msgstr "Type de données de champ :"
+
+#: admin/settings/class-formbuilder.php:2355
+msgid "Text Field"
+msgstr "Champ de texte"
+
+#: admin/settings/class-formbuilder.php:2359
+msgid "Number Field"
+msgstr "Champ numérique"
+
+#: admin/settings/class-formbuilder.php:2363
+msgid "Decimal Field"
+msgstr "Champ décimal"
+
+#: admin/settings/class-formbuilder.php:2382
+msgid "Decimal places to display after point"
+msgstr "Décimales à afficher après le point"
+
+#: admin/settings/class-formbuilder.php:2441
+msgid "Lets you use this field as register form field, set from register tab above."
+msgstr "Vous permet d’utiliser ce champ comme champ de formulaire d’enregistrement, défini dans l’onglet d’enregistrement ci-dessus."
+
+#: admin/settings/class-formbuilder.php:2442
+msgid "Include this field in register form:"
+msgstr "Inclure ce champ sous forme d’enregistrement :"
+
+#: admin/settings/class-formbuilder.php:2466
+msgid "Lets you use this field as register ONLY form field."
+msgstr "Vous permet d’utiliser ce champ en tant que champ de formulaire enregistrement UNIQUEMENT."
+
+#: admin/settings/class-formbuilder.php:2467
+msgid "Include this field ONLY in register form:"
+msgstr "Inclure ce champ SEULEMENT sous forme d’enregistrement :"
+
+#: admin/settings/class-formbuilder.php:2508
+msgid "Available register form fields."
+msgstr "Champs de formulaires d’enregistrement disponibles."
+
+#: admin/settings/class-formbuilder.php:2528
+msgid "List of fields that will appear in the register form."
+msgstr "Liste des champs qui apparaîtront dans le formulaire d’enregistrement."
+
+#: admin/settings/class-formbuilder.php:2539
+msgid "Click to expand and view field related settings. You may drag and drop to arrange fields order in register form."
+msgstr "Cliquez pour développer et afficher les réglagesassociés au champ. Vous pouvez glisser-déposer pour organiser l’ordre des champs dans le formulaire de registre."
+
+#: admin/settings/class-formbuilder.php:2894
+#: admin/settings/class-formbuilder.php:2915
+#: admin/settings/class-formbuilder.php:2947
+msgid "Column change failed, you may have too many columns."
+msgstr "Échec de la modification de colonne, vous pouvez avoir trop de colonnes."
+
+#: admin/settings/class-formbuilder.php:3054
+#: admin/settings/class-formbuilder.php:3096
+#: admin/settings/class-formbuilder.php:3110
+#: admin/settings/class-formbuilder.php:3163 includes/class-tools.php:82
+msgid "Column creation failed, you may have too many columns or the default value does not match with field data type."
+msgstr "La création de colonne a échoué, vous pouvez avoir trop de colonnes ou la valeur par défaut ne correspond pas au type de données de champ."
+
+#: admin/settings/class-formbuilder.php:3123
+msgid "Column creation failed, you may have too many columns or the default value must have in valid date format."
+msgstr "La création de la colonne a échoué, peut-être que vous avez trop de colonnes ou la valeur par défaut doit être un format de date valide."
+
+#: admin/settings/class-formbuilder.php:3136
+msgid "Column creation failed, you may have too many columns or the default value must have in valid time format."
+msgstr "La création de la colonne a échoué, peut-être que vous avez trop de colonnes ou la valeur par défaut doit être un format de date valide."
+
+#: admin/settings/class-uwp-settings-emails.php:216
+msgid "Registration activate email"
+msgstr "Inscription activer e-mail"
+
+#: admin/settings/class-uwp-settings-emails.php:249
+msgid "Registration success email"
+msgstr "Courriel de réussite d’inscription"
+
+#: admin/settings/class-uwp-settings-emails.php:282
+msgid "Forgot password email"
+msgstr "E-mail de mot de passe oublié"
+
+#: admin/settings/class-uwp-settings-emails.php:348
+msgid "Reset password email"
+msgstr "Réinitialisez le mot de passe d’e-mail"
+
+#: admin/settings/class-uwp-settings-emails.php:381
+msgid "Account update email"
+msgstr "E-mail de mise à jour de compte"
+
+#: admin/settings/class-uwp-settings-general.php:325
+msgid "Enabled Old Password?"
+msgstr "Ancien mot de passe activé ?"
+
+#: admin/settings/class-uwp-settings-general.php:372
+msgid "Display header in profile"
+msgstr "Afficher l’en-tête dans le profil"
+
+#: admin/settings/class-uwp-settings-general.php:386
+msgid "Profile avatar max file size"
+msgstr "Taille de fichier max de l’avatar de profil"
+
+#: admin/settings/class-uwp-settings-general.php:395
+msgid "Profile banner max file size"
+msgstr "Taille de fichier max de bannière de profil"
+
+#: admin/settings/class-uwp-settings-general.php:418
+msgid "Profile banner width"
+msgstr "Largeur de bannière de profil"
+
+#: admin/settings/class-uwp-settings-general.php:432
+#: admin/settings/class-uwp-settings-general.php:489
+msgid "Number of items"
+msgstr "Les commentaires sont fermés"
+
+#: admin/settings/class-uwp-settings-general.php:435
+msgid "Enter number of items to display in profile tabs."
+msgstr "Saisir le nombre d’éléments à afficher dans les onglets de profil."
+
+#: admin/settings/class-uwp-settings-general.php:481
+msgid "Users default layout"
+msgstr "Mise en page par défaut des utilisateurs/utilisatrices"
+
+#: admin/settings/class-uwp-settings-general.php:671
+msgid "User Profile Page"
+msgstr "Page du profil utilisateur/utilisatrice"
+
+#: admin/settings/class-uwp-settings-general.php:672
+msgid "This is the front end user's profile page. This page automatically overrides the default WordPress author page."
+msgstr "Il s’agit de la page de profil de l’utilisateur/utilisatrice avant. Cette page remplace automatiquement la page d’auteur WordPress par défaut."
+
+#: admin/settings/class-uwp-settings-general.php:678
+msgid "Register Page"
+msgstr "Page d’Inscription"
+
+#: admin/settings/class-uwp-settings-general.php:679
+msgid "This is the front end register page. This is where users create their account."
+msgstr "Ceci est la page de création de compte. C’est ici que les utilisateurs/utilisatrices créent leur compte."
+
+#: admin/settings/class-uwp-settings-general.php:685
+msgid "Login Page"
+msgstr "Page de connexion"
+
+#: admin/settings/class-uwp-settings-general.php:686
+msgid "This is the front end login page. This is where users will login after creating their account."
+msgstr "Ceci est la page de connexion. C’est à cet endroit que les utilisateurs/utilisatrices se connecteront après avoir créé leur compte."
+
+#: admin/settings/class-uwp-settings-general.php:692
+msgid "Account Page"
+msgstr "Page du Compte"
+
+#: admin/settings/class-uwp-settings-general.php:693
+msgid "This is the front end account page. This is where users can edit their account."
+msgstr "Il s’agit de la page du compte. C’est là que les utilisateurs/utilisatrices peuvent modifier leur compte."
+
+#: admin/settings/class-uwp-settings-general.php:699
+msgid "Change Password Page"
+msgstr "Page de modification de mot de passe"
+
+#: admin/settings/class-uwp-settings-general.php:700
+msgid "This is the front end Change Password page."
+msgstr "Voici la page de modification du mot de passe."
+
+#: admin/settings/class-uwp-settings-general.php:706
+msgid "Forgot Password Page"
+msgstr "Page mot de passe oublié"
+
+#: admin/settings/class-uwp-settings-general.php:707
+msgid "This is the front end Forgot Password page. This is the page where users are sent to reset their password when they lose it."
+msgstr "Il s’agit de la page d’accueil mot de passe oublié. Il s’agit de la page où les utilisateurs/utilisatrices sont envoyés pour réinitialiser leur mot de passe lorsqu’ils le perdent."
+
+#: admin/settings/class-uwp-settings-general.php:713
+msgid "Reset Password Page"
+msgstr "Page de réinitialisation du mot de passe"
+
+#: admin/settings/class-uwp-settings-general.php:714
+msgid "This is the front end Reset Password page. This is the page where users can reset their password when they lose it."
+msgstr "Ceci est la page frontale Reset Password. C’est la page où les utilisateurs/utilisatrices peuvent réinitialiser leur mot de passe lorsqu’ils le perdent."
+
+#: admin/settings/class-uwp-settings-general.php:720
+msgid "Users List Page"
+msgstr "Page de liste d’utilisateurs/utilisatrices"
+
+#: admin/settings/class-uwp-settings-general.php:721
+msgid "This is the front end Users List page. This is the page where all registered users of the websites are listed."
+msgstr "Il s’agit de la page de liste des utilisateurs/utilisatrices frontaux. Il s’agit de la page où tous les utilisateurs/utilisatrices enregistrés des sites Web sont répertoriés."
+
+#: admin/settings/class-uwp-settings-general.php:758
+msgid "Grid View - 2 Column"
+msgstr "Vue de grille - 2 Colonne"
+
+#: admin/settings/class-uwp-settings-general.php:759
+msgid "Grid View - 3 Column"
+msgstr "Vue de grille - 3 Colonne"
+
+#: admin/settings/class-uwp-settings-general.php:760
+msgid "Grid View - 4 Column"
+msgstr "Vue de grille - 4 Colonne"
+
+#: admin/settings/class-uwp-settings-general.php:761
+msgid "Grid View - 5 Column"
+msgstr "Vue de grille - 5 Colonne"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:221
+msgid "Shortcode"
+msgstr "Code court"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:393 upgrade.php:195
+msgid "More Info"
+msgstr "Plus d’infos"
+
+#: admin/settings/class-uwp-settings-uninstall.php:89
+msgid "Remove Data on Uninstall?"
+msgstr "Supprimer les données lors de la désinstallation ?"
+
+#: includes/class-account.php:68 includes/class-account.php:69
+#: includes/class-activator.php:377 includes/class-activator.php:566
+#: includes/class-activator.php:705
+msgid "Password"
+msgstr "Password"
+
+#: includes/class-activator.php:364 includes/class-activator.php:640
+#: includes/libraries/class-geodirectory-plugin.php:1864
+msgid "Username"
+msgstr "Nom d’utilisateur/utilisatrice"
+
+#: includes/class-uwp-defaults.php:227
+msgid "[#site_name#] - Account has been updated"
+msgstr "[#site_name#] - Compte a été mis à jour"
+
+#: includes/helpers/misc.php:568
+msgid "E-Mail Notifications"
+msgstr "E-mails de notification"
+
+#: includes/helpers/misc.php:1497 widgets/output-location.php:90
+msgid "Users Page"
+msgstr "Page des utilisateurs/utilisatrices"
+
+#: includes/helpers/misc.php:1498 widgets/output-location.php:91
+msgid "More info tab"
+msgstr "Onglet plus d’info"
+
+#: includes/helpers/pages.php:549
+msgid "Info"
+msgstr "Information"
+
+#: templates/users-actions.php:22
+msgid "List View"
+msgstr "Vue en liste"
+
+#: widgets/user-meta.php:59
+msgid "Label"
+msgstr "Libellé"

@@ -1,0 +1,63 @@
+#wpum-email-editor-btn {
+	span.dashicons {
+		margin-top: 12px;
+		margin-right: 5px;
+	}
+}
+
+.editor-window {
+	border-top: solid 1px #ddd;
+	position: absolute;
+	height: 275px;
+	right: 0;
+	left: 0;
+	z-index: 20;
+	background: #f1f1f1;
+	display: block;
+	bottom: -301px;
+	transition: all .2s;
+	&.is-active {
+		bottom: 0;
+	}
+}
+
+.slide-leave-active,
+.slide-enter-active {
+	transition: .2s;
+}
+
+.slide-enter {
+	transform: translate3d(0, 100%, 0);
+	visibility: visible;
+}
+
+.slide-leave-to {
+	transform: translate3d(0, 0, 0);
+}
+
+#wpum-display-tags-btn {
+	width: 100%;
+	text-align: center;
+	height: 32px;
+	line-height: 30px;
+
+	span {
+		margin-top: 5px;
+		margin-right: 5px;
+	}
+}
+
+.wpum-email-tags-list {
+	display: none;
+	margin-top: 15px;
+	hr {
+		margin-top: 15px;
+	}
+}
+
+.scroll-frame {
+	iframe {
+		overflow: visible;
+		height: calc( 100% - 275px ) !important;
+	}
+}

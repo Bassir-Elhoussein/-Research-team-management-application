@@ -1,0 +1,124 @@
+#wpum-user-directory {
+	margin-bottom: 1em;
+	max-width: 100%;
+	ul.wpum-user-listings {
+		margin: 0;
+	}
+}
+
+#wpum-directory-top-bar,
+#wpum-directory-search-form {
+	padding: .5em 1em;
+	background: #f9f9f9;
+	border-top: 1px solid #e5e5e5;
+	div p {
+		margin: 0px;
+	}
+}
+
+#wpum-directory-top-bar {
+	.wpum-col-xs {
+		&:last-child {
+			text-align: right;
+		}
+	}
+}
+
+#wpum-directory-search-form {
+	padding: 1em;
+	input {
+		width: 100%;
+		display: block;
+	}
+}
+
+.wpum-directory-pagination {
+	padding: .5em 1em;
+	background: #f9f9f9;
+	border-bottom: 1px solid #e5e5e5;
+	text-align: center;
+	a {
+		&.next {
+			float: right;
+		}
+		&.prev {
+			float: left;
+		}
+	}
+}
+
+#wpum-directory-users-list {
+	padding: 0;
+	margin: 0;
+	border-top: 1px solid #eee;
+	.wpum-directory-single-user {
+		margin: 0;
+		border-bottom: 1px solid #eee;
+		zoom: 1;
+		position: relative;
+		line-height: 1.5em;
+		text-decoration: none;
+		padding: 1em 1em 1em 1em;
+		&:hover,
+		&:focus {
+			background-color: #fcfcfc;
+		}
+	}
+}
+
+#directory-avatar a {
+	width: 68px;
+	height: 68px;
+	display: inline-flex;
+	overflow: hidden;
+	border-radius: 999px;
+	box-shadow: none;
+}
+
+#directory-avatar img {
+	display: block;
+	width: 100%;
+	min-height: 100%;
+	object-fit: cover;
+	object-position: center;
+}
+
+.wpum-directory-single-user {
+	.wpum-description {
+		font-size: 13px;
+		margin: 0;
+	}
+	.wpum-name {
+		margin: 0;
+	}
+	.wpum-meta {
+		text-align: right;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	#directory-avatar a {
+		width: inherit;
+		height: inherit;
+	}
+
+	#directory-avatar img {
+		height: 100%;
+	}
+
+	#wpum-directory-search-form {
+		.wpum-col-xs-10 {
+			margin-bottom: 10px;
+		}
+		.wpum-col-xs-2, .wpum-col-xs-10 {
+			flex-basis: 100%;
+			max-width: 100%;
+		}
+	}
+	.wpum-directory-single-user {
+		.wpum-meta {
+			flex-basis: 100%;
+			max-width: 100%;
+		}
+	}
+}
